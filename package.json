@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "League of Legends EMEA roster rumors RSS feed generator",
   "type": "module",
+  "scripts": {
+    "start": "bun run index.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
