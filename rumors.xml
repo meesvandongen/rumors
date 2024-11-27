@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Nov 2024 21:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 22:15:34 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Nov 2024 21:39:50 GMT</pubDate>
+        <pubDate>Wed, 27 Nov 2024 22:15:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -15,7 +15,6 @@
             <title><![CDATA[[EMEA] rym: Solary Academy → G2 Hel]]></title>
             <description><![CDATA[
         <h3>[EMEA] rym: Solary Academy → G2 Hel</h3>
-        <p><strong>Date:</strong> 2024-11-26</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rym">rym</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-rym-reaches-verbal-agreement-with-g2-hel/en">Armand Luque</a></p>
@@ -39,13 +38,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Six10: GLORE → TeamOrangeGaming]]></title>
             <description><![CDATA[
         <h3>[EMEA] Six10: GLORE → TeamOrangeGaming</h3>
-        <p><strong>Date:</strong> 2024-11-26</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Six10">Six10</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -69,13 +67,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Cboi: FC Schalke 04 Esports → TeamOrangeGaming]]></title>
             <description><![CDATA[
         <h3>[EMEA] Cboi: FC Schalke 04 Esports → TeamOrangeGaming</h3>
-        <p><strong>Date:</strong> 2024-11-26</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Cboi">Cboi</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -99,13 +96,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Castle: Immortals → Disguised]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Castle: Immortals → Disguised</h3>
-        <p><strong>Date:</strong> 2024-11-25</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Castle_(Cho_Hyeon-seong)">Castle</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-castle-set-to-join-disguised-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -129,13 +125,12 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Tomo: 100 Thieves → Dignitas]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Tomo: 100 Thieves → Dignitas</h3>
-        <p><strong>Date:</strong> 2024-11-25</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tomo">Tomo</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tomo-set-to-join-dignitas-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -159,13 +154,12 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] huhi: NRG → Disguised]]></title>
             <description><![CDATA[
         <h3>[NA → AME] huhi: NRG → Disguised</h3>
-        <p><strong>Date:</strong> 2024-11-25</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Huhi">huhi</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-huhi-set-to-join-disguised-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -189,13 +183,12 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → AME] Keine: Movistar R7 → Dignitas]]></title>
             <description><![CDATA[
         <h3>[LAT → AME] Keine: Movistar R7 → Dignitas</h3>
-        <p><strong>Date:</strong> 2024-11-25</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Keine">Keine</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-keine-set-to-join-dignitas-in-the-lta-north/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -219,13 +212,12 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Robo: LOUD → LOUD]]></title>
             <description><![CDATA[
         <h3>[BR → AME] Robo: LOUD → LOUD</h3>
-        <p><strong>Date:</strong> 2024-11-25</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Robo">Robo</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-robo-refuses-vivo-keyd-stars-and-renews-with-loud-for-lta-2025/en">Luis "Showtana" Santana</a></p>
@@ -249,13 +241,12 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → EMEA] Trigger: INFINITY → Geekay Esports]]></title>
             <description><![CDATA[
         <h3>[LAT → EMEA] Trigger: INFINITY → Geekay Esports</h3>
-        <p><strong>Date:</strong> 2024-11-25</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Trigger_(Kim_Eui-joo)">Trigger</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-trigger-set-to-join-geekay-esports-in-the-arabian-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -279,13 +270,12 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Lizia: G2 Hel → SK Gaming Avarosa]]></title>
             <description><![CDATA[
         <h3>[EMEA] Lizia: G2 Hel → SK Gaming Avarosa</h3>
-        <p><strong>Date:</strong> 2024-11-25</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Lizia">Lizia</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-lizia-set-to-join-sk-gaming-avarosa/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -309,13 +299,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Gaax: Fnatic → Fnatic]]></title>
             <description><![CDATA[
         <h3>[EMEA] Gaax: Fnatic → Fnatic</h3>
-        <p><strong>Date:</strong> 2024-11-25</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Gaax">Gaax</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-gaax-re-signs-with-fnatic-as-assistant-coach/en">Marian "Eros" Stoica</a></p>
@@ -339,13 +328,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] bluerzor: Zero Tenacity → Ramboot Club]]></title>
             <description><![CDATA[
         <h3>[EMEA] bluerzor: Zero Tenacity → Ramboot Club</h3>
-        <p><strong>Date:</strong> 2024-11-25</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Bluerzor">bluerzor</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-bluerzor-set-to-join-ramboot-club/en">Alejandro "Anonimotum" Gomis</a></p>
@@ -369,13 +357,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] eXyu: Fear x Starforge → Disguised]]></title>
             <description><![CDATA[
         <h3>[NA → AME] eXyu: Fear x Starforge → Disguised</h3>
-        <p><strong>Date:</strong> 2024-11-24</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/EXyu">eXyu</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-exyu-reaches-verbal-agreement-with-disguised-in-the-lta-north-conference/en">LCS Eevee</a></p>
@@ -399,13 +386,12 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 23 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Rigby: Free Agent → Dignitas]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Rigby: Free Agent → Dignitas</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rigby">Rigby</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-rigby-set-to-join-dignitas-as-head-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -429,13 +415,12 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Nash: Guasones → Ruddy Esports]]></title>
             <description><![CDATA[
         <h3>[EMEA] Nash: Guasones → Ruddy Esports</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Nash_(Alf-Kristian_Sund)">Nash</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -459,13 +444,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Jackspektra: Los Heretics → Ruddy Esports]]></title>
             <description><![CDATA[
         <h3>[EMEA] Jackspektra: Los Heretics → Ruddy Esports</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Jackspektra">Jackspektra</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -489,13 +473,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] LIDER: Free Agent → Ruddy Esports]]></title>
             <description><![CDATA[
         <h3>[EMEA] LIDER: Free Agent → Ruddy Esports</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/LIDER">LIDER</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -519,13 +502,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Jankos: Team Heretics → Ruddy Esports]]></title>
             <description><![CDATA[
         <h3>[EMEA] Jankos: Team Heretics → Ruddy Esports</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Jankos">Jankos</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -549,13 +531,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Perkz: Free Agent → Ruddy Esports]]></title>
             <description><![CDATA[
         <h3>[EMEA] Perkz: Free Agent → Ruddy Esports</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Perkz">Perkz</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -579,13 +560,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Guigo: Vivo Keyd Stars → FURIA]]></title>
             <description><![CDATA[
         <h3>[BR → AME] Guigo: Vivo Keyd Stars → FURIA</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Guigo">Guigo</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-guigo-set-to-join-furia-in-lta-south/en">Luis "Showtana" Santana</a></p>
@@ -609,13 +589,12 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] scary: KaBuM! Academy → Leviatan]]></title>
             <description><![CDATA[
         <h3>[BR → AME] scary: KaBuM! Academy → Leviatan</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Scary_(Artur_Queiroz)">scary</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en">Luis "Showtana" Santana</a></p>
@@ -639,13 +618,12 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] ProDelta: Vivo Keyd Stars → Leviatan]]></title>
             <description><![CDATA[
         <h3>[BR → AME] ProDelta: Vivo Keyd Stars → Leviatan</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ProDelta">ProDelta</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en">Luis "Showtana" Santana</a></p>
@@ -669,13 +647,12 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA → AME] Mireu: Gentle Mates → Isurus Estral]]></title>
             <description><![CDATA[
         <h3>[EMEA → AME] Mireu: Gentle Mates → Isurus Estral</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Mireu">Mireu</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en">Luis "Showtana" Santana</a></p>
@@ -699,13 +676,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → AME] Burdol: LGD Gaming → Isurus Estral]]></title>
             <description><![CDATA[
         <h3>[CN → AME] Burdol: LGD Gaming → Isurus Estral</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Burdol">Burdol</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en">Luis "Showtana" Santana</a></p>
@@ -729,13 +705,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → AME] Ceo: Movistar R7 → Leviatan]]></title>
             <description><![CDATA[
         <h3>[LAT → AME] Ceo: Movistar R7 → Leviatan</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Ceo">Ceo</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-ceo-set-to-join-leviatan/en">Marian "Eros" Stoica</a></p>
@@ -759,13 +734,12 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA → APAC] Luon: SK Gaming → Chiefs Esports Club]]></title>
             <description><![CDATA[
         <h3>[EMEA → APAC] Luon: SK Gaming → Chiefs Esports Club</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Luon">Luon</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -789,13 +763,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → APAC] Mir: Six Karma → Chiefs Esports Club]]></title>
             <description><![CDATA[
         <h3>[LAT → APAC] Mir: Six Karma → Chiefs Esports Club</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Mir_(Park_Mi-reu)">Mir</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -819,13 +792,12 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → APAC] FoFo: Team WE → PSG Talon]]></title>
             <description><![CDATA[
         <h3>[CN → APAC] FoFo: Team WE → PSG Talon</h3>
-        <p><strong>Date:</strong> 2024-11-22</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/FoFo">FoFo</a></p>
         <p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1859936912330641699">VCS English</a></p>
@@ -849,13 +821,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Pyrka: Spinebusters E-Sport → Ramboot Club]]></title>
             <description><![CDATA[
         <h3>[EMEA] Pyrka: Spinebusters E-Sport → Ramboot Club</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Pyrka">Pyrka</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-pyrka-set-to-join-ramboot-club/en">Alejandro "Anonimotum" Gomis</a></p>
@@ -879,13 +850,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Sotze: Berlin International Gaming → Movistar KOI]]></title>
             <description><![CDATA[
         <h3>[EMEA] Sotze: Berlin International Gaming → Movistar KOI</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Sotze">Sotze</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -909,13 +879,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] SLiezzan: Movistar KOI → Lille Esport]]></title>
             <description><![CDATA[
         <h3>[EMEA] SLiezzan: Movistar KOI → Lille Esport</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=SLiezzan&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=">SLiezzan</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -939,13 +908,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Enjawve: Gamespace Mediterranean College Esports → Lille Esport]]></title>
             <description><![CDATA[
         <h3>[EMEA] Enjawve: Gamespace Mediterranean College Esports → Lille Esport</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Enjawve">Enjawve</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -969,13 +937,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] 13: Komaï E-Sport → Lille Esport]]></title>
             <description><![CDATA[
         <h3>[EMEA] 13: Komaï E-Sport → Lille Esport</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/13">13</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -999,13 +966,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Improver: Fox Gaming → Lille Esport]]></title>
             <description><![CDATA[
         <h3>[EMEA] Improver: Fox Gaming → Lille Esport</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Improver">Improver</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -1029,13 +995,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Karim kt: Joblife → Lille Esport]]></title>
             <description><![CDATA[
         <h3>[EMEA] Karim kt: Joblife → Lille Esport</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Karim_kt">Karim kt</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -1059,13 +1024,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Sleyer: Skillcamp → Lille Esport]]></title>
             <description><![CDATA[
         <h3>[EMEA] Sleyer: Skillcamp → Lille Esport</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Sleyer_(Eric_Xie)">Sleyer</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -1089,13 +1053,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Memento: NORD Esports → G2 Esports]]></title>
             <description><![CDATA[
         <h3>[EMEA] Memento: NORD Esports → G2 Esports</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Memento">Memento</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-memento-set-to-join-g2-esports-as-assistant-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -1119,13 +1082,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Gala: LNG Esports → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Gala: LNG Esports → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Gala">Gala</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
@@ -1149,13 +1111,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rookie">Rookie</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
@@ -1179,13 +1140,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] JieJie: EDward Gaming → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] JieJie: EDward Gaming → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/JieJie">JieJie</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
@@ -1209,13 +1169,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR → CN] TheShy: Free Agent → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[KR → CN] TheShy: Free Agent → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/TheShy">TheShy</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
@@ -1239,13 +1198,12 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] ON: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] ON: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ON">ON</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
@@ -1269,13 +1227,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Elk: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Elk: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Elk">Elk</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
@@ -1299,13 +1256,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] knight: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] knight: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Knight_(Zhuo_Ding)">knight</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
@@ -1329,13 +1285,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Wei: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Wei: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Wei_(Yan_Yang-Wei)">Wei</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
@@ -1359,13 +1314,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Bin: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Bin: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Bin_(Chen_Ze-Bin)">Bin</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
@@ -1389,13 +1343,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] XUN: Bilibili Gaming → JD Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] XUN: Bilibili Gaming → JD Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/XUN">XUN</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
@@ -1419,13 +1372,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → KR] VicLa: Rare Atom → FearX]]></title>
             <description><![CDATA[
         <h3>[CN → KR] VicLa: Rare Atom → FearX</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/VicLa">VicLa</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1dGW9LlI">Wang "HanYi" Han-Yu</a></p>
@@ -1449,13 +1401,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[APAC] Rigel: MGN Box Esports → Team Secret (Vietnamese Team)]]></title>
             <description><![CDATA[
         <h3>[APAC] Rigel: MGN Box Esports → Team Secret (Vietnamese Team)</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rigel_(%C4%90%C3%A0o_V%C4%83n_Tu%E1%BA%A5n)">Rigel</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo?fbid=1074578708004024&set=a.514490954012805">VCS English</a></p>
@@ -1479,13 +1430,12 @@
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Daeny: Weibo Gaming → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Daeny: Weibo Gaming → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Daeny">Daeny</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Zhou "Sask" Yi-Xiang</a></p>
@@ -1509,13 +1459,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Wink: EDward Gaming → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Wink: EDward Gaming → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Wink">Wink</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
@@ -1539,13 +1488,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Hang: LNG Esports → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Hang: LNG Esports → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hang">Hang</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
@@ -1569,13 +1517,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Gala: LNG Esports → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Gala: LNG Esports → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Gala">Gala</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
@@ -1599,13 +1546,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] JieJie: EDward Gaming → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] JieJie: EDward Gaming → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/JieJie">JieJie</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
@@ -1629,13 +1575,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rookie">Rookie</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
@@ -1659,13 +1604,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR → CN] TheShy: Free Agent → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[KR → CN] TheShy: Free Agent → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/TheShy">TheShy</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
@@ -1689,13 +1633,12 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[APAC] Karsa: CTBC Flying Oyster → PSG Talon]]></title>
             <description><![CDATA[
         <h3>[APAC] Karsa: CTBC Flying Oyster → PSG Talon</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Karsa">Karsa</a></p>
         <p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1859601774568669209?s=46">VCS English</a></p>
@@ -1719,13 +1662,12 @@
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Robo: LOUD → LOUD]]></title>
             <description><![CDATA[
         <h3>[BR → AME] Robo: LOUD → LOUD</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Robo">Robo</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tinowns-and-robo-are-set-to-re-sign-with-loud-for-lta-south-2025/en">Luis "Showtana" Santana</a></p>
@@ -1749,13 +1691,12 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] tinowns: LOUD → LOUD]]></title>
             <description><![CDATA[
         <h3>[BR → AME] tinowns: LOUD → LOUD</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tinowns">tinowns</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tinowns-and-robo-are-set-to-re-sign-with-loud-for-lta-south-2025/en">Luis "Showtana" Santana</a></p>
@@ -1779,13 +1720,12 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Coldraa: Gamespace Mediterranean College Esports → Ramboot Club]]></title>
             <description><![CDATA[
         <h3>[EMEA] Coldraa: Gamespace Mediterranean College Esports → Ramboot Club</h3>
-        <p><strong>Date:</strong> 2024-11-21</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Coldraa">Coldraa</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-coldraa-set-to-join-ramboot-club-in-the-superliga/en">Alejandro "Anonimotum" Gomis</a></p>
@@ -1809,13 +1749,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] HamBak: KT Rolster Challengers → OKSavingsBank BRION]]></title>
             <description><![CDATA[
         <h3>[KR] HamBak: KT Rolster Challengers → OKSavingsBank BRION</h3>
-        <p><strong>Date:</strong> 2024-11-20</p>
         <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/HamBak">HamBak</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-hambak-is-set-to-join-okbrion-in-the-lck/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -1839,13 +1778,12 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] TolanD: Unicorns of Love Sexy Edition → Beşiktaş Esports]]></title>
             <description><![CDATA[
         <h3>[EMEA] TolanD: Unicorns of Love Sexy Edition → Beşiktaş Esports</h3>
-        <p><strong>Date:</strong> 2024-11-20</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/TolanD">TolanD</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-photon-and-toland-set-to-join-besiktas-esports/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -1869,13 +1807,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Photon: Team Vitality → Beşiktaş Esports]]></title>
             <description><![CDATA[
         <h3>[EMEA] Photon: Team Vitality → Beşiktaş Esports</h3>
-        <p><strong>Date:</strong> 2024-11-20</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Photon">Photon</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-photon-and-toland-set-to-join-besiktas-esports/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -1899,13 +1836,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] ppgod: Oh My God → Free Agent]]></title>
             <description><![CDATA[
         <h3>[CN] ppgod: Oh My God → Free Agent</h3>
-        <p><strong>Date:</strong> 2024-11-19</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Ppgod">ppgod</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
@@ -1929,13 +1865,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Angel: Oh My God → Free Agent]]></title>
             <description><![CDATA[
         <h3>[CN] Angel: Oh My God → Free Agent</h3>
-        <p><strong>Date:</strong> 2024-11-19</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Angel_(Xiang_Tao)">Angel</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
@@ -1959,13 +1894,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] xiaofang: Oh My God → Free Agent]]></title>
             <description><![CDATA[
         <h3>[CN] xiaofang: Oh My God → Free Agent</h3>
-        <p><strong>Date:</strong> 2024-11-19</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Xiaofang">xiaofang</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
@@ -1989,13 +1923,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Tianzhen: Oh My God → Free Agent]]></title>
             <description><![CDATA[
         <h3>[CN] Tianzhen: Oh My God → Free Agent</h3>
-        <p><strong>Date:</strong> 2024-11-19</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tianzhen">Tianzhen</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
@@ -2019,13 +1952,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Hery: Oh My God → Free Agent]]></title>
             <description><![CDATA[
         <h3>[CN] Hery: Oh My God → Free Agent</h3>
-        <p><strong>Date:</strong> 2024-11-19</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hery">Hery</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
@@ -2049,13 +1981,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Cuzz: Kwangdong Freecs → KT Rolster]]></title>
             <description><![CDATA[
         <h3>[KR] Cuzz: Kwangdong Freecs → KT Rolster</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Cuzz">Cuzz</a></p>
         <p><strong>Source:</strong> <a href="https://x.com/LckCharmander/status/1858507074021556321">LCK Charmander</a></p>
@@ -2079,13 +2010,12 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Vampire: Invictus Gaming → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Vampire: Invictus Gaming → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Vampire">Vampire</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P11bTwh1J">Wang "HanYi" Han-Yu</a></p>
@@ -2109,13 +2039,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Scary: KaBuM! Esports → Leviatan]]></title>
             <description><![CDATA[
         <h3>[BR → AME] Scary: KaBuM! Esports → Leviatan</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Scary_(Artur_Queiroz)">Scary</a></p>
         <p><strong>Source:</strong> <a href="https://x.com/LucasBenaim/status/1858656996226200014">Lucas Benaim</a></p>
@@ -2139,13 +2068,12 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Palafox: NRG → Shopify Rebellion]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Palafox: NRG → Shopify Rebellion</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Palafox">Palafox</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-palafox-reaches-verbal-agreement-to-join-shopify-rebellion/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -2169,13 +2097,12 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → AME] Ceo: Movistar R7 → Leviatan]]></title>
             <description><![CDATA[
         <h3>[LAT → AME] Ceo: Movistar R7 → Leviatan</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Ceo">Ceo</a></p>
         <p><strong>Source:</strong> <a href="https://x.com/LucasBenaim/status/1858654216803193110">Lucas Benaim</a></p>
@@ -2199,13 +2126,12 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Mash: Team Liquid Challengers → Disguised]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Mash: Team Liquid Challengers → Disguised</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Mash">Mash</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mash-set-to-join-disguised-as-head-coach-in-the-lta-north-for-the-2025-season/en">LCS Eevee</a></p>
@@ -2229,13 +2155,12 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Tatu: PaiN Gaming Academy → FURIA]]></title>
             <description><![CDATA[
         <h3>[BR → AME] Tatu: PaiN Gaming Academy → FURIA</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tatu_(Pedro_Seixas)">Tatu</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tatu-reaches-verbal-agreement-with-furia-for-lta-south-2025/en">Luis "Showtana" Santana</a></p>
@@ -2259,13 +2184,12 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] iBo: Ramboot Club → Ramboot Club]]></title>
             <description><![CDATA[
         <h3>[EMEA] iBo: Ramboot Club → Ramboot Club</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/IBo">iBo</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-ibo-re-signs-with-ramboot-club/en">Alejandro "Anonimotum" Gomis</a></p>
@@ -2289,13 +2213,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Edward: Geekay Esports → Team BDS Academy]]></title>
             <description><![CDATA[
         <h3>[EMEA] Edward: Geekay Esports → Team BDS Academy</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Edward">Edward</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-edward-set-to-join-bds-academy-as-head-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -2319,13 +2242,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Click: Macko Esports → LUA Gaming]]></title>
             <description><![CDATA[
         <h3>[EMEA] Click: Macko Esports → LUA Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Click_(Vittorio_Massolo)">Click</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-click-set-to-join-lua-gaming/en">Alejandro "Anonimotum" Gomis</a></p>
@@ -2349,13 +2271,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Nalkya: Zero Tenacity → Gentle Mates]]></title>
             <description><![CDATA[
         <h3>[EMEA] Nalkya: Zero Tenacity → Gentle Mates</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Nalkya">Nalkya</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-nalkya-set-to-join-gentle-mates-as-assistant-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -2379,13 +2300,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Viper: Hanwha Life Esports → Hanwha Life Esports]]></title>
             <description><![CDATA[
         <h3>[KR] Viper: Hanwha Life Esports → Hanwha Life Esports</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)">Viper</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2409,13 +2329,12 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Wei: Bilibili Gaming → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Wei: Bilibili Gaming → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Wei_(Yan_Yang-Wei)">Wei</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2439,13 +2358,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Tian: Top Esports → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Tian: Top Esports → Invictus Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tian">Tian</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2469,13 +2387,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] 369: Top Esports → Anyone's Legend]]></title>
             <description><![CDATA[
         <h3>[CN] 369: Top Esports → Anyone's Legend</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/369">369</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2499,13 +2416,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] 369: Top Esports → Weibo Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] 369: Top Esports → Weibo Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/369">369</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2529,13 +2445,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Daeny: Weibo Gaming → Free Agent]]></title>
             <description><![CDATA[
         <h3>[CN] Daeny: Weibo Gaming → Free Agent</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Daeny">Daeny</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2559,13 +2474,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → KR] Kanavi: JD Gaming → LoL Champions Korea]]></title>
             <description><![CDATA[
         <h3>[CN → KR] Kanavi: JD Gaming → LoL Champions Korea</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kanavi">Kanavi</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2589,13 +2503,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → KR] Ruler: JD Gaming → LoL Champions Korea]]></title>
             <description><![CDATA[
         <h3>[CN → KR] Ruler: JD Gaming → LoL Champions Korea</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Ruler">Ruler</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2619,13 +2532,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Meiko: Top Esports → Weibo Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Meiko: Top Esports → Weibo Gaming</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Meiko">Meiko</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2649,13 +2561,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Kael: Anyone's Legend → Anyone's Legend]]></title>
             <description><![CDATA[
         <h3>[CN] Kael: Anyone's Legend → Anyone's Legend</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kael_(Kim_Jin-hong)">Kael</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2679,13 +2590,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Hope: Anyone's Legend → Anyone's Legend]]></title>
             <description><![CDATA[
         <h3>[CN] Hope: Anyone's Legend → Anyone's Legend</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hope_(Wang_Jie)">Hope</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2709,13 +2619,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Tabe: Anyone's Legend → Anyone's Legend]]></title>
             <description><![CDATA[
         <h3>[CN] Tabe: Anyone's Legend → Anyone's Legend</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tabe">Tabe</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2739,13 +2648,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] FoFo: Team WE → Free Agent]]></title>
             <description><![CDATA[
         <h3>[CN] FoFo: Team WE → Free Agent</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/FoFo">FoFo</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2769,13 +2677,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → APAC] FoFo: Team WE → League of Legends Championship Pacific]]></title>
             <description><![CDATA[
         <h3>[CN → APAC] FoFo: Team WE → League of Legends Championship Pacific</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/FoFo">FoFo</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
@@ -2799,13 +2706,12 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[APAC → CN] JunJia: PSG Talon → LoL Pro League]]></title>
             <description><![CDATA[
         <h3>[APAC → CN] JunJia: PSG Talon → LoL Pro League</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/JunJia">JunJia</a></p>
         <p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1731911198.A.CC6.html">Yang "Glen" Po-Jen</a></p>
@@ -2829,13 +2735,12 @@
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Lilipp: Eintracht Spandau → Eintracht Spandau]]></title>
             <description><![CDATA[
         <h3>[EMEA] Lilipp: Eintracht Spandau → Eintracht Spandau</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Lilipp">Lilipp</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-pride-and-lilipp-set-to-play-for-eintracht-spandau-in-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -2859,13 +2764,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Pride: GameWard → Eintracht Spandau]]></title>
             <description><![CDATA[
         <h3>[EMEA] Pride: GameWard → Eintracht Spandau</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Pride_(Mahdi_Nasserzadeh)">Pride</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-pride-and-lilipp-set-to-play-for-eintracht-spandau-in-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -2889,13 +2793,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Fornoreason: MOUZ NXT → Unicorns of Love Sexy Edition]]></title>
             <description><![CDATA[
         <h3>[EMEA] Fornoreason: MOUZ NXT → Unicorns of Love Sexy Edition</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Fornoreason">Fornoreason</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fornoreason-set-to-join-unicorns-of-love-sexy-edition/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -2919,13 +2822,12 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Chovy: Gen.G → Gen.G]]></title>
             <description><![CDATA[
         <h3>[KR] Chovy: Gen.G → Gen.G</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Chovy">Chovy</a></p>
         <p><strong>Source:</strong> <a href="https://www.sportsseoul.com/news/read/1477573?ref=naver">sportsseoul</a></p>
@@ -2949,13 +2851,12 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Canyon: Gen.G → Gen.G]]></title>
             <description><![CDATA[
         <h3>[KR] Canyon: Gen.G → Gen.G</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Canyon">Canyon</a></p>
         <p><strong>Source:</strong> <a href="https://www.sportsseoul.com/news/read/1477573?ref=naver">sportsseoul</a></p>
@@ -2979,13 +2880,12 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Kiin: Gen.G → Gen.G]]></title>
             <description><![CDATA[
         <h3>[KR] Kiin: Gen.G → Gen.G</h3>
-        <p><strong>Date:</strong> 2024-11-18</p>
         <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kiin">Kiin</a></p>
         <p><strong>Source:</strong> <a href="https://www.sportsseoul.com/news/read/1477573?ref=naver">sportsseoul</a></p>
@@ -3009,7 +2909,7 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
