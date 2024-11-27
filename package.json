@@ -1,0 +1,16 @@
+{
+  "name": "rumors",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "html-table-to-json": "^1.0.0",
+    "node-html-parser": "^6.1.13",
+    "rss": "^1.2.2"
+  }
+}
