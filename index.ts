@@ -1,6 +1,6 @@
 import { parse } from 'node-html-parser';
 import RSS from 'rss';
-import { writeFileSync } from 'fs';
+import { writeFileSync } from 'node:fs';
 
 const RUMORS_URL = 'https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bregion%5D=EMEA&RRQ%5Blimit%5D=100&_run=';
 

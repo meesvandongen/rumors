@@ -1,15 +1,41 @@
-# rumors
+# LoL EMEA Roster Rumors Feed
 
-To install dependencies:
+Automatically generates an RSS feed of League of Legends EMEA roster rumors from the [LoL Fandom Wiki](https://lol.fandom.com/).
 
+## Features
+
+- Fetches latest roster rumors from the LoL Fandom Wiki
+- Parses team changes, positions, and sources
+- Generates both JSON and RSS feed outputs
+- Updates daily via GitHub Actions
+
+## Files
+
+- `rumors.json`: Raw JSON data of the latest rumors
+- `rumors.xml`: RSS feed of the rumors
+- `index.ts`: Main script that fetches and generates the feeds
+
+## Development
+
+1. Install dependencies:
 ```bash
 bun install
 ```
 
-To run:
-
+2. Run the script:
 ```bash
-bun run index.ts
+bun run start
 ```
 
-This project was created using `bun init` in bun v1.1.36. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+## GitHub Actions
+
+The repository includes a GitHub Actions workflow that:
+- Runs daily at 00:00 UTC
+- Generates updated feeds
+- Commits and pushes changes if there are updates
+
+You can also manually trigger the workflow using the "Actions" tab in GitHub.
+
+## RSS Feed
+
+Subscribe to `rumors.xml` in your favorite RSS reader to get daily updates about EMEA roster rumors.
