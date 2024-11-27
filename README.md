@@ -7,7 +7,7 @@ Automatically generates an RSS feed of League of Legends EMEA roster rumors from
 - Fetches latest roster rumors from the LoL Fandom Wiki
 - Parses team changes, positions, and sources
 - Generates both JSON and RSS feed outputs
-- Updates daily via GitHub Actions
+- Updates every 4 hours via GitHub Actions
 
 ## Files
 
@@ -30,7 +30,7 @@ bun run start
 ## GitHub Actions
 
 The repository includes a GitHub Actions workflow that:
-- Runs daily at 00:00 UTC
+- Runs every 4 hours
 - Generates updated feeds
 - Commits and pushes changes if there are updates
 
@@ -38,4 +38,4 @@ You can also manually trigger the workflow using the "Actions" tab in GitHub.
 
 ## RSS Feed
 
-Subscribe to `rumors.xml` in your favorite RSS reader to get daily updates about EMEA roster rumors.
+Subscribe to `rumors.xml` in your favorite RSS reader to get frequent updates about EMEA roster rumors.

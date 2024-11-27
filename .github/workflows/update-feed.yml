@@ -2,7 +2,7 @@ name: Update Rumors Feed
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run at 00:00 UTC every day
+    - cron: '0 */4 * * *'  # Run every 4 hours
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
