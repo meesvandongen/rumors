@@ -2,19 +2,35 @@ import { parse } from 'node-html-parser';
 import RSS from 'rss';
 import { writeFileSync } from 'node:fs';
 
-const RUMORS_URL = 'https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bregion%5D=EMEA&RRQ%5Blimit%5D=100&_run=';
+const RUMORS_URL = 'https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=';
 
 interface Rumor {
   date: string;
   status: string;
-  source: string;
-  player: string;
-  fromRegion: string;
-  fromTeam: string;
-  fromPos: string;
-  toRegion: string;
-  toTeam: string;
-  toPos: string;
+  source: {
+    name: string;
+    url: string;
+  };
+  player: {
+    name: string;
+    url: string;
+  };
+  from: {
+    region: string;
+    team: {
+      name: string;
+      image: string;
+    };
+    position: string;
+  };
+  to: {
+    region: string;
+    team: {
+      name: string;
+      image: string;
+    };
+    position: string;
+  };
 }
 
 function getPosition(cell: any): string {
@@ -24,6 +40,30 @@ function getPosition(cell: any): string {
     return title || 'Unknown Position';
   }
   return 'Unknown Position';
+}
+
+function extractTeamInfo(cell: any) {
+  const img = cell.querySelector('img');
+  return {
+    name: img?.getAttribute('alt')?.replace('logo std', '').trim() || 'Unknown Team',
+    image: img?.getAttribute('data-src') || img?.getAttribute('src') || ''
+  };
+}
+
+function extractSourceInfo(cell: any) {
+  const link = cell.querySelector('a');
+  return {
+    name: link?.text.trim() || cell.text.trim(),
+    url: link?.getAttribute('href') || ''
+  };
+}
+
+function extractPlayerInfo(cell: any) {
+  const link = cell.querySelector('a');
+  return {
+    name: link?.text.trim() || cell.text.trim(),
+    url: link?.getAttribute('href') ? `https://lol.fandom.com${link.getAttribute('href')}` : ''
+  };
 }
 
 async function fetchRumors() {
@@ -52,14 +92,18 @@ async function fetchRumors() {
         const rumor: Rumor = {
           date: cells[0].text.trim(),
           status: cells[1].text.trim(),
-          source: cells[2].text.trim(),
-          player: cells[3].text.trim(),
-          fromRegion: cells[4].text.trim(),
-          fromTeam: cells[5].querySelector('img')?.getAttribute('alt')?.replace('logo std', '').trim() || 'Unknown Team',
-          fromPos: getPosition(cells[6]),
-          toRegion: cells[7].text.trim(),
-          toTeam: cells[8].querySelector('img')?.getAttribute('alt')?.replace('logo std', '').trim() || 'Unknown Team',
-          toPos: getPosition(cells[9])
+          source: extractSourceInfo(cells[2]),
+          player: extractPlayerInfo(cells[3]),
+          from: {
+            region: cells[4].text.trim(),
+            team: extractTeamInfo(cells[5]),
+            position: getPosition(cells[6])
+          },
+          to: {
+            region: cells[7].text.trim(),
+            team: extractTeamInfo(cells[8]),
+            position: getPosition(cells[9])
+          }
         };
         rumors.push(rumor);
       }
@@ -69,37 +113,54 @@ async function fetchRumors() {
     writeFileSync('rumors.json', JSON.stringify(rumors, null, 2));
     console.log('Raw JSON data written to rumors.json');
 
-    // Log first rumor for inspection
-    console.log('First rumor object:', rumors[0]);
-
     // Create RSS feed
     const feed = new RSS({
-      title: 'LoL EMEA Roster Rumors',
-      description: 'Latest League of Legends roster rumors for the EMEA region',
+      title: 'LoL Global Roster Rumors',
+      description: 'Latest League of Legends roster rumors from all regions',
       feed_url: RUMORS_URL,
       site_url: 'https://lol.fandom.com',
       language: 'en',
-      pubDate: new Date()
+      pubDate: new Date(),
+      categories: ['League of Legends', 'Esports', 'Roster Changes']
     });
 
     // Add each rumor as an RSS item
     for (const rumor of rumors) {
-      const title = `${rumor.player}: ${rumor.fromTeam} → ${rumor.toTeam}`;
+      const regionChange = rumor.from.region === rumor.to.region 
+        ? rumor.from.region 
+        : `${rumor.from.region} → ${rumor.to.region}`;
+
+      const title = `[${regionChange}] ${rumor.player.name}: ${rumor.from.team.name} → ${rumor.to.team.name}`;
+      
       const description = `
-        Date: ${rumor.date}
-        Status: ${rumor.status}
-        Source: ${rumor.source}
-        Player: ${rumor.player}
-        From: ${rumor.fromTeam} (${rumor.fromPos})
-        To: ${rumor.toTeam} (${rumor.toPos})
+        <h3>${title}</h3>
+        <p><strong>Date:</strong> ${rumor.date}</p>
+        <p><strong>Status:</strong> ${rumor.status}</p>
+        <p><strong>Player:</strong> <a href="${rumor.player.url}">${rumor.player.name}</a></p>
+        <p><strong>Source:</strong> <a href="${rumor.source.url}">${rumor.source.name}</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: ${rumor.from.region}</li>
+          <li>Team: ${rumor.from.team.name}</li>
+          <li>Position: ${rumor.from.position}</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: ${rumor.to.region}</li>
+          <li>Team: ${rumor.to.team.name}</li>
+          <li>Position: ${rumor.to.position}</li>
+        </ul>
       `;
 
       feed.item({
         title,
         description,
         url: RUMORS_URL,
-        guid: `${rumor.date}-${rumor.player}`,
-        date: new Date(rumor.date)
+        guid: `${rumor.date}-${rumor.player.name}-${rumor.from.team.name}-${rumor.to.team.name}`,
+        date: new Date(rumor.date),
+        categories: [rumor.from.region, rumor.to.region, 'Roster Changes']
       });
     }
 
