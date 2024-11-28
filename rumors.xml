@@ -4,13 +4,71 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Nov 2024 16:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 20:03:16 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Nov 2024 16:03:20 GMT</pubDate>
+        <pubDate>Thu, 28 Nov 2024 20:03:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[NA → AME] Zeyzal: Shopify Rebellion → Luminosity Gaming]]></title>
+            <description><![CDATA[
+        <h3>[NA → AME] Zeyzal: Shopify Rebellion → Luminosity Gaming</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Zeyzal">Zeyzal</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: NA</li>
+          <li>Team: Shopify Rebellion</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Luminosity Gaming</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
+            <guid isPermaLink="false">2024-11-28-Zeyzal-Shopify Rebellion-Luminosity Gaming</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[NA → AME] Insanity: Shopify Rebellion → Luminosity Gaming]]></title>
+            <description><![CDATA[
+        <h3>[NA → AME] Insanity: Shopify Rebellion → Luminosity Gaming</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Insanity">Insanity</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: NA</li>
+          <li>Team: Shopify Rebellion</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Luminosity Gaming</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
+            <guid isPermaLink="false">2024-11-28-Insanity-Shopify Rebellion-Luminosity Gaming</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] rym: Solary Academy → G2 Hel]]></title>
             <description><![CDATA[
@@ -2848,64 +2906,6 @@
       ]]></description>
             <link>https://www.sportsseoul.com/news/read/1477573?ref=naver</link>
             <guid isPermaLink="false">2024-11-18-Chovy-Gen.G-Gen.G</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR] Canyon: Gen.G → Gen.G]]></title>
-            <description><![CDATA[
-        <h3>[KR] Canyon: Gen.G → Gen.G</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Canyon">Canyon</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sportsseoul.com/news/read/1477573?ref=naver">sportsseoul</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Gen.G</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Gen.G</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sportsseoul.com/news/read/1477573?ref=naver</link>
-            <guid isPermaLink="false">2024-11-18-Canyon-Gen.G-Gen.G</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR] Kiin: Gen.G → Gen.G]]></title>
-            <description><![CDATA[
-        <h3>[KR] Kiin: Gen.G → Gen.G</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kiin">Kiin</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sportsseoul.com/news/read/1477573?ref=naver">sportsseoul</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Gen.G</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Gen.G</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sportsseoul.com/news/read/1477573?ref=naver</link>
-            <guid isPermaLink="false">2024-11-18-Kiin-Gen.G-Gen.G</guid>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>

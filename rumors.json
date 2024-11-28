@@ -1,5 +1,61 @@
 [
   {
+    "date": "2024-11-28",
+    "status": "Rumor",
+    "source": {
+      "name": "LCS Eevee",
+      "url": "https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en"
+    },
+    "player": {
+      "name": "Zeyzal",
+      "url": "https://lol.fandom.com/wiki/Zeyzal"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Shopify Rebellion",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Shopify_Rebellionlogo_std.png/revision/latest?cb=20231121110541"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Luminosity Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-11-28",
+    "status": "Rumor",
+    "source": {
+      "name": "LCS Eevee",
+      "url": "https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en"
+    },
+    "player": {
+      "name": "Insanity",
+      "url": "https://lol.fandom.com/wiki/Insanity"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Shopify Rebellion",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Shopify_Rebellionlogo_std.png/revision/latest?cb=20231121110541"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Luminosity Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2024-11-26",
     "status": "Rumor",
     "source": {
@@ -2741,62 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest?cb=20210806133431"
       },
       "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Confirmed!",
-    "source": {
-      "name": "sportsseoul",
-      "url": "https://www.sportsseoul.com/news/read/1477573?ref=naver"
-    },
-    "player": {
-      "name": "Canyon",
-      "url": "https://lol.fandom.com/wiki/Canyon"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Gen.G",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest?cb=20210806133431"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "KR",
-      "team": {
-        "name": "Gen.G",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest?cb=20210806133431"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Confirmed!",
-    "source": {
-      "name": "sportsseoul",
-      "url": "https://www.sportsseoul.com/news/read/1477573?ref=naver"
-    },
-    "player": {
-      "name": "Kiin",
-      "url": "https://lol.fandom.com/wiki/Kiin"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Gen.G",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest?cb=20210806133431"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "KR",
-      "team": {
-        "name": "Gen.G",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest?cb=20210806133431"
-      },
-      "position": "Top Laner"
     }
   }
 ]
