@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Nov 2024 22:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 00:12:04 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Nov 2024 22:50:04 GMT</pubDate>
+        <pubDate>Thu, 28 Nov 2024 00:12:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -38,7 +38,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Six10: GLORE → TeamOrangeGaming]]></title>
@@ -67,7 +67,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Cboi: FC Schalke 04 Esports → TeamOrangeGaming]]></title>
@@ -96,7 +96,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 25 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Castle: Immortals → Disguised]]></title>
@@ -125,7 +125,7 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Tomo: 100 Thieves → Dignitas]]></title>
@@ -154,7 +154,7 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] huhi: NRG → Disguised]]></title>
@@ -183,7 +183,7 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → AME] Keine: Movistar R7 → Dignitas]]></title>
@@ -212,7 +212,7 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Robo: LOUD → LOUD]]></title>
@@ -241,7 +241,7 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → EMEA] Trigger: INFINITY → Geekay Esports]]></title>
@@ -270,7 +270,7 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Lizia: G2 Hel → SK Gaming Avarosa]]></title>
@@ -299,7 +299,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Gaax: Fnatic → Fnatic]]></title>
@@ -328,7 +328,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] bluerzor: Zero Tenacity → Ramboot Club]]></title>
@@ -357,7 +357,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 24 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] eXyu: Fear x Starforge → Disguised]]></title>
@@ -386,7 +386,7 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 23 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Rigby: Free Agent → Dignitas]]></title>
@@ -415,7 +415,7 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Nash: Guasones → Ruddy Esports]]></title>
@@ -444,7 +444,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Jackspektra: Los Heretics → Ruddy Esports]]></title>
@@ -473,7 +473,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] LIDER: Free Agent → Ruddy Esports]]></title>
@@ -502,7 +502,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Jankos: Team Heretics → Ruddy Esports]]></title>
@@ -531,7 +531,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Perkz: Free Agent → Ruddy Esports]]></title>
@@ -560,7 +560,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Guigo: Vivo Keyd Stars → FURIA]]></title>
@@ -589,7 +589,7 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] scary: KaBuM! Academy → Leviatan]]></title>
@@ -618,7 +618,7 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] ProDelta: Vivo Keyd Stars → Leviatan]]></title>
@@ -647,7 +647,7 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA → AME] Mireu: Gentle Mates → Isurus Estral]]></title>
@@ -676,7 +676,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → AME] Burdol: LGD Gaming → Isurus Estral]]></title>
@@ -705,7 +705,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → AME] Ceo: Movistar R7 → Leviatan]]></title>
@@ -734,7 +734,7 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA → APAC] Luon: SK Gaming → Chiefs Esports Club]]></title>
@@ -763,7 +763,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → APAC] Mir: Six Karma → Chiefs Esports Club]]></title>
@@ -792,7 +792,7 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → APAC] FoFo: Team WE → PSG Talon]]></title>
@@ -821,7 +821,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Pyrka: Spinebusters E-Sport → Ramboot Club]]></title>
@@ -850,7 +850,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Sotze: Berlin International Gaming → Movistar KOI]]></title>
@@ -879,7 +879,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] SLiezzan: Movistar KOI → Lille Esport]]></title>
@@ -908,7 +908,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Enjawve: Gamespace Mediterranean College Esports → Lille Esport]]></title>
@@ -937,7 +937,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] 13: Komaï E-Sport → Lille Esport]]></title>
@@ -966,7 +966,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Improver: Fox Gaming → Lille Esport]]></title>
@@ -995,7 +995,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Karim kt: Joblife → Lille Esport]]></title>
@@ -1024,7 +1024,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Sleyer: Skillcamp → Lille Esport]]></title>
@@ -1053,7 +1053,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Memento: NORD Esports → G2 Esports]]></title>
@@ -1082,7 +1082,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Gala: LNG Esports → Invictus Gaming]]></title>
@@ -1111,7 +1111,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming]]></title>
@@ -1140,7 +1140,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] JieJie: EDward Gaming → Invictus Gaming]]></title>
@@ -1169,7 +1169,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR → CN] TheShy: Free Agent → Invictus Gaming]]></title>
@@ -1198,7 +1198,7 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] ON: Bilibili Gaming → Bilibili Gaming]]></title>
@@ -1227,7 +1227,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Elk: Bilibili Gaming → Bilibili Gaming]]></title>
@@ -1256,7 +1256,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] knight: Bilibili Gaming → Bilibili Gaming]]></title>
@@ -1285,7 +1285,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Wei: Bilibili Gaming → Bilibili Gaming]]></title>
@@ -1314,7 +1314,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Bin: Bilibili Gaming → Bilibili Gaming]]></title>
@@ -1343,7 +1343,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] XUN: Bilibili Gaming → JD Gaming]]></title>
@@ -1372,7 +1372,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → KR] VicLa: Rare Atom → FearX]]></title>
@@ -1401,7 +1401,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[APAC] Rigel: MGN Box Esports → Team Secret (Vietnamese Team)]]></title>
@@ -1430,7 +1430,7 @@
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Daeny: Weibo Gaming → Invictus Gaming]]></title>
@@ -1459,7 +1459,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Wink: EDward Gaming → Invictus Gaming]]></title>
@@ -1488,7 +1488,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Hang: LNG Esports → Invictus Gaming]]></title>
@@ -1517,7 +1517,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Gala: LNG Esports → Invictus Gaming]]></title>
@@ -1546,7 +1546,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] JieJie: EDward Gaming → Invictus Gaming]]></title>
@@ -1575,7 +1575,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming]]></title>
@@ -1604,7 +1604,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR → CN] TheShy: Free Agent → Invictus Gaming]]></title>
@@ -1633,7 +1633,7 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[APAC] Karsa: CTBC Flying Oyster → PSG Talon]]></title>
@@ -1662,7 +1662,7 @@
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Robo: LOUD → LOUD]]></title>
@@ -1691,7 +1691,7 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] tinowns: LOUD → LOUD]]></title>
@@ -1720,7 +1720,7 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Coldraa: Gamespace Mediterranean College Esports → Ramboot Club]]></title>
@@ -1749,7 +1749,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] HamBak: KT Rolster Challengers → OKSavingsBank BRION]]></title>
@@ -1778,7 +1778,7 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] TolanD: Unicorns of Love Sexy Edition → Beşiktaş Esports]]></title>
@@ -1807,7 +1807,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Photon: Team Vitality → Beşiktaş Esports]]></title>
@@ -1836,7 +1836,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] ppgod: Oh My God → Free Agent]]></title>
@@ -1865,7 +1865,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Angel: Oh My God → Free Agent]]></title>
@@ -1894,7 +1894,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] xiaofang: Oh My God → Free Agent]]></title>
@@ -1923,7 +1923,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Tianzhen: Oh My God → Free Agent]]></title>
@@ -1952,7 +1952,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Hery: Oh My God → Free Agent]]></title>
@@ -1981,7 +1981,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Cuzz: Kwangdong Freecs → KT Rolster]]></title>
@@ -2010,7 +2010,7 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Vampire: Invictus Gaming → Invictus Gaming]]></title>
@@ -2039,7 +2039,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Scary: KaBuM! Esports → Leviatan]]></title>
@@ -2068,7 +2068,7 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Palafox: NRG → Shopify Rebellion]]></title>
@@ -2097,7 +2097,7 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → AME] Ceo: Movistar R7 → Leviatan]]></title>
@@ -2126,7 +2126,7 @@
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[NA → AME] Mash: Team Liquid Challengers → Disguised]]></title>
@@ -2155,7 +2155,7 @@
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] Tatu: PaiN Gaming Academy → FURIA]]></title>
@@ -2184,7 +2184,7 @@
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] iBo: Ramboot Club → Ramboot Club]]></title>
@@ -2213,7 +2213,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Edward: Geekay Esports → Team BDS Academy]]></title>
@@ -2242,7 +2242,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Click: Macko Esports → LUA Gaming]]></title>
@@ -2271,7 +2271,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Nalkya: Zero Tenacity → Gentle Mates]]></title>
@@ -2300,7 +2300,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Viper: Hanwha Life Esports → Hanwha Life Esports]]></title>
@@ -2329,7 +2329,7 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Wei: Bilibili Gaming → Invictus Gaming]]></title>
@@ -2358,7 +2358,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Tian: Top Esports → Invictus Gaming]]></title>
@@ -2387,7 +2387,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] 369: Top Esports → Anyone's Legend]]></title>
@@ -2416,7 +2416,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] 369: Top Esports → Weibo Gaming]]></title>
@@ -2445,7 +2445,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Daeny: Weibo Gaming → Free Agent]]></title>
@@ -2474,7 +2474,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → KR] Kanavi: JD Gaming → LoL Champions Korea]]></title>
@@ -2503,7 +2503,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → KR] Ruler: JD Gaming → LoL Champions Korea]]></title>
@@ -2532,7 +2532,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Meiko: Top Esports → Weibo Gaming]]></title>
@@ -2561,7 +2561,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Kael: Anyone's Legend → Anyone's Legend]]></title>
@@ -2590,7 +2590,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Hope: Anyone's Legend → Anyone's Legend]]></title>
@@ -2619,7 +2619,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] Tabe: Anyone's Legend → Anyone's Legend]]></title>
@@ -2648,7 +2648,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] FoFo: Team WE → Free Agent]]></title>
@@ -2677,7 +2677,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN → APAC] FoFo: Team WE → League of Legends Championship Pacific]]></title>
@@ -2706,7 +2706,7 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[APAC → CN] JunJia: PSG Talon → LoL Pro League]]></title>
@@ -2735,7 +2735,7 @@
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Lilipp: Eintracht Spandau → Eintracht Spandau]]></title>
@@ -2764,7 +2764,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Pride: GameWard → Eintracht Spandau]]></title>
@@ -2793,7 +2793,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Fornoreason: MOUZ NXT → Unicorns of Love Sexy Edition]]></title>
@@ -2822,7 +2822,7 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Chovy: Gen.G → Gen.G]]></title>
@@ -2851,7 +2851,7 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Canyon: Gen.G → Gen.G]]></title>
@@ -2880,7 +2880,7 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[KR] Kiin: Gen.G → Gen.G]]></title>
@@ -2909,7 +2909,7 @@
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
