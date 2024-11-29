@@ -3,6 +3,62 @@
     "date": "2024-11-28",
     "status": "Rumor",
     "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-adam-set-to-join-rogue-or-the-replacement-team-in-the-lec/en"
+    },
+    "player": {
+      "name": "Adam",
+      "url": "https://lol.fandom.com/wiki/Adam_(Adam_Maanane)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team BDS",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Rogue (European Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Rogue_%28European_Team%29logo_std.png/revision/latest?cb=20231125191900"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-11-28",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://www.sheepesports.com/articles/sources-vivo-keyd-stars-have-advanced-negotiations-for-toplaner-boal/en"
+    },
+    "player": {
+      "name": "Boal",
+      "url": "https://lol.fandom.com/wiki/Boal"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Vivo Keyd Stars",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-11-28",
+    "status": "Rumor",
+    "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en"
     },
@@ -2741,62 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Eintracht_Spandaulogo_std.png/revision/latest?cb=20211114183216"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-fornoreason-set-to-join-unicorns-of-love-sexy-edition/en"
-    },
-    "player": {
-      "name": "Fornoreason",
-      "url": "https://lol.fandom.com/wiki/Fornoreason"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "MOUZ NXT",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6e/MOUZlogo_std.png/revision/latest?cb=20230607013317"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unicorns of Love Sexy Edition",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/Unicorns_of_Love_Sexy_Editionlogo_std.png/revision/latest?cb=20220202103424"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Confirmed!",
-    "source": {
-      "name": "sportsseoul",
-      "url": "https://www.sportsseoul.com/news/read/1477573?ref=naver"
-    },
-    "player": {
-      "name": "Chovy",
-      "url": "https://lol.fandom.com/wiki/Chovy"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Gen.G",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest?cb=20210806133431"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "KR",
-      "team": {
-        "name": "Gen.G",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest?cb=20210806133431"
-      },
-      "position": "Mid Laner"
     }
   }
 ]

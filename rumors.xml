@@ -4,13 +4,71 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Nov 2024 20:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 00:11:51 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Nov 2024 20:03:16 GMT</pubDate>
+        <pubDate>Fri, 29 Nov 2024 00:11:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Adam: Team BDS → Rogue (European Team)]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Adam: Team BDS → Rogue (European Team)</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Adam_(Adam_Maanane)">Adam</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-adam-set-to-join-rogue-or-the-replacement-team-in-the-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Team BDS</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Rogue (European Team)</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-adam-set-to-join-rogue-or-the-replacement-team-in-the-lec/en</link>
+            <guid isPermaLink="false">2024-11-28-Adam-Team BDS-Rogue (European Team)</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Boal: Free Agent → Vivo Keyd Stars]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] Boal: Free Agent → Vivo Keyd Stars</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Boal">Boal</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-vivo-keyd-stars-have-advanced-negotiations-for-toplaner-boal/en">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: Free Agent</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Vivo Keyd Stars</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-vivo-keyd-stars-have-advanced-negotiations-for-toplaner-boal/en</link>
+            <guid isPermaLink="false">2024-11-28-Boal-Free Agent-Vivo Keyd Stars</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[NA → AME] Zeyzal: Shopify Rebellion → Luminosity Gaming]]></title>
             <description><![CDATA[
@@ -2850,64 +2908,6 @@
             <guid isPermaLink="false">2024-11-18-Pride-GameWard-Eintracht Spandau</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Fornoreason: MOUZ NXT → Unicorns of Love Sexy Edition]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Fornoreason: MOUZ NXT → Unicorns of Love Sexy Edition</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Fornoreason">Fornoreason</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fornoreason-set-to-join-unicorns-of-love-sexy-edition/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: MOUZ NXT</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Unicorns of Love Sexy Edition</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-fornoreason-set-to-join-unicorns-of-love-sexy-edition/en</link>
-            <guid isPermaLink="false">2024-11-18-Fornoreason-MOUZ NXT-Unicorns of Love Sexy Edition</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR] Chovy: Gen.G → Gen.G]]></title>
-            <description><![CDATA[
-        <h3>[KR] Chovy: Gen.G → Gen.G</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Chovy">Chovy</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sportsseoul.com/news/read/1477573?ref=naver">sportsseoul</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Gen.G</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Gen.G</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sportsseoul.com/news/read/1477573?ref=naver</link>
-            <guid isPermaLink="false">2024-11-18-Chovy-Gen.G-Gen.G</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
