@@ -3,6 +3,90 @@
     "date": "2024-11-29",
     "status": "Rumor",
     "source": {
+      "name": "VCS English",
+      "url": "https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805"
+    },
+    "player": {
+      "name": "Tire",
+      "url": "https://lol.fandom.com/wiki/Tire"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Baby Whales",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Baby_Whaleslogo_std.png/revision/latest?cb=20240830001919"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Whales",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Whaleslogo_std.png/revision/latest?cb=20221216170503"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "status": "Rumor",
+    "source": {
+      "name": "VCS English",
+      "url": "https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805"
+    },
+    "player": {
+      "name": "Hizto",
+      "url": "https://lol.fandom.com/wiki/Hizto"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Baby Whales",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Baby_Whaleslogo_std.png/revision/latest?cb=20240830001919"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Whales",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Whaleslogo_std.png/revision/latest?cb=20221216170503"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "status": "Rumor",
+    "source": {
+      "name": "Alejandro \"Anonimotum\" Gomis",
+      "url": "https://www.sheepesports.com/articles/sources-kaiser-set-to-join-los-heretics/en"
+    },
+    "player": {
+      "name": "Kaiser",
+      "url": "https://lol.fandom.com/wiki/Kaiser"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Heretics",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Los Heretics",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "status": "Rumor",
+    "source": {
       "name": "Alejandro \"Anonimotum\" Gomis",
       "url": "https://www.sheepesports.com/articles/sources-patrik-set-to-join-rogue-or-their-buyer-in-the-lec/en"
     },
@@ -785,7 +869,7 @@
   },
   {
     "date": "2024-11-22",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Luis \"Showtana\" Santana",
       "url": "https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en"
@@ -1533,8 +1617,8 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Team Secret (Vietnamese Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+        "name": "Team Whales",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Whaleslogo_std.png/revision/latest?cb=20221216170503"
       },
       "position": "Top Laner"
     }
@@ -2713,90 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "FoFo",
-      "url": "https://lol.fandom.com/wiki/FoFo"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Team WE",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "FoFo",
-      "url": "https://lol.fandom.com/wiki/FoFo"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Team WE",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "League of Legends Championship Pacific",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/League_of_Legends_Championship_Pacificlogo_std.png/revision/latest?cb=20241118191013"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Yang \"Glen\" Po-Jen",
-      "url": "https://www.ptt.cc/bbs/LoL/M.1731911198.A.CC6.html"
-    },
-    "player": {
-      "name": "JunJia",
-      "url": "https://lol.fandom.com/wiki/JunJia"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "PSG Talon",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/PSG_Talonlogo_std.png/revision/latest?cb=20240929142312"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "LoL Pro League",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png/revision/latest?cb=20201217170147"
-      },
-      "position": "Jungler"
     }
   }
 ]

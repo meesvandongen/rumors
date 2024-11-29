@@ -4,13 +4,100 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Nov 2024 16:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 20:03:26 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Nov 2024 16:03:24 GMT</pubDate>
+        <pubDate>Fri, 29 Nov 2024 20:03:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[APAC] Tire: Baby Whales → Team Whales]]></title>
+            <description><![CDATA[
+        <h3>[APAC] Tire: Baby Whales → Team Whales</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tire">Tire</a></p>
+        <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: Baby Whales</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: Team Whales</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.facebook.com/photo/?fbid=1080376890757539&amp;set=a.514490954012805</link>
+            <guid isPermaLink="false">2024-11-29-Tire-Baby Whales-Team Whales</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] Hizto: Baby Whales → Team Whales]]></title>
+            <description><![CDATA[
+        <h3>[APAC] Hizto: Baby Whales → Team Whales</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hizto">Hizto</a></p>
+        <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: Baby Whales</li>
+          <li>Position: Jungler</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: Team Whales</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://www.facebook.com/photo/?fbid=1080376890757539&amp;set=a.514490954012805</link>
+            <guid isPermaLink="false">2024-11-29-Hizto-Baby Whales-Team Whales</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Kaiser: Team Heretics → Los Heretics]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Kaiser: Team Heretics → Los Heretics</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kaiser">Kaiser</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-kaiser-set-to-join-los-heretics/en">Alejandro "Anonimotum" Gomis</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Team Heretics</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Los Heretics</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-kaiser-set-to-join-los-heretics/en</link>
+            <guid isPermaLink="false">2024-11-29-Kaiser-Team Heretics-Los Heretics</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Patrik: GIANTX → Rogue (European Team)]]></title>
             <description><![CDATA[
@@ -827,7 +914,7 @@
             <title><![CDATA[[EMEA → AME] Mireu: Gentle Mates → Isurus Estral]]></title>
             <description><![CDATA[
         <h3>[EMEA → AME] Mireu: Gentle Mates → Isurus Estral</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Mireu">Mireu</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en">Luis "Showtana" Santana</a></p>
         
@@ -1578,9 +1665,9 @@
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Rigel: MGN Box Esports → Team Secret (Vietnamese Team)]]></title>
+            <title><![CDATA[[APAC] Rigel: MGN Box Esports → Team Whales]]></title>
             <description><![CDATA[
-        <h3>[APAC] Rigel: MGN Box Esports → Team Secret (Vietnamese Team)</h3>
+        <h3>[APAC] Rigel: MGN Box Esports → Team Whales</h3>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rigel_(%C4%90%C3%A0o_V%C4%83n_Tu%E1%BA%A5n)">Rigel</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo?fbid=1074578708004024&set=a.514490954012805">VCS English</a></p>
@@ -1595,12 +1682,12 @@
         <h4>To:</h4>
         <ul>
           <li>Region: APAC</li>
-          <li>Team: Team Secret (Vietnamese Team)</li>
+          <li>Team: Team Whales</li>
           <li>Position: Top Laner</li>
         </ul>
       ]]></description>
             <link>https://www.facebook.com/photo?fbid=1074578708004024&amp;set=a.514490954012805</link>
-            <guid isPermaLink="false">2024-11-21-Rigel-MGN Box Esports-Team Secret (Vietnamese Team)</guid>
+            <guid isPermaLink="false">2024-11-21-Rigel-MGN Box Esports-Team Whales</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -2820,93 +2907,6 @@
             <link>https://bbs.hupu.com/628984356.html</link>
             <guid isPermaLink="false">2024-11-18-Tabe-Anyone&apos;s Legend-Anyone&apos;s Legend</guid>
             <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] FoFo: Team WE → Free Agent]]></title>
-            <description><![CDATA[
-        <h3>[CN] FoFo: Team WE → Free Agent</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/FoFo">FoFo</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Team WE</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-FoFo-Team WE-Free Agent</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN → APAC] FoFo: Team WE → League of Legends Championship Pacific]]></title>
-            <description><![CDATA[
-        <h3>[CN → APAC] FoFo: Team WE → League of Legends Championship Pacific</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/FoFo">FoFo</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Team WE</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: League of Legends Championship Pacific</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-FoFo-Team WE-League of Legends Championship Pacific</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC → CN] JunJia: PSG Talon → LoL Pro League]]></title>
-            <description><![CDATA[
-        <h3>[APAC → CN] JunJia: PSG Talon → LoL Pro League</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/JunJia">JunJia</a></p>
-        <p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1731911198.A.CC6.html">Yang "Glen" Po-Jen</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: PSG Talon</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: LoL Pro League</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://www.ptt.cc/bbs/LoL/M.1731911198.A.CC6.html</link>
-            <guid isPermaLink="false">2024-11-18-JunJia-PSG Talon-LoL Pro League</guid>
-            <category><![CDATA[APAC]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
