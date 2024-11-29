@@ -4,13 +4,42 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Nov 2024 12:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 16:03:24 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Nov 2024 12:04:30 GMT</pubDate>
+        <pubDate>Fri, 29 Nov 2024 16:03:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Patrik: GIANTX → Rogue (European Team)]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Patrik: GIANTX → Rogue (European Team)</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Patrik">Patrik</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-patrik-set-to-join-rogue-or-their-buyer-in-the-lec/en">Alejandro "Anonimotum" Gomis</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: GIANTX</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Rogue (European Team)</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-patrik-set-to-join-rogue-or-their-buyer-in-the-lec/en</link>
+            <guid isPermaLink="false">2024-11-29-Patrik-GIANTX-Rogue (European Team)</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[APAC] SiuLoong: Baby Whales → Vikings Esports (2023 Vietnamese Team)]]></title>
             <description><![CDATA[
@@ -2879,35 +2908,6 @@
             <guid isPermaLink="false">2024-11-18-JunJia-PSG Talon-LoL Pro League</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Lilipp: Eintracht Spandau → Eintracht Spandau]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Lilipp: Eintracht Spandau → Eintracht Spandau</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Lilipp">Lilipp</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-pride-and-lilipp-set-to-play-for-eintracht-spandau-in-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Eintracht Spandau</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Eintracht Spandau</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-pride-and-lilipp-set-to-play-for-eintracht-spandau-in-2025/en</link>
-            <guid isPermaLink="false">2024-11-18-Lilipp-Eintracht Spandau-Eintracht Spandau</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
