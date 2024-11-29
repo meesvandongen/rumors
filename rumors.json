@@ -3,6 +3,34 @@
     "date": "2024-11-28",
     "status": "Rumor",
     "source": {
+      "name": "VCS English",
+      "url": "https://www.facebook.com/photo/?fbid=1080172837444611&set=a.514490940679473"
+    },
+    "player": {
+      "name": "SiuLoong",
+      "url": "https://lol.fandom.com/wiki/SiuLoong"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Baby Whales",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Baby_Whaleslogo_std.png/revision/latest?cb=20240830001919"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Vikings Esports (2023 Vietnamese Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-11-28",
+    "status": "Rumor",
+    "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-adam-set-to-join-rogue-or-the-replacement-team-in-the-lec/en"
     },
@@ -2769,34 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Eintracht_Spandaulogo_std.png/revision/latest?cb=20211114183216"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-pride-and-lilipp-set-to-play-for-eintracht-spandau-in-2025/en"
-    },
-    "player": {
-      "name": "Pride",
-      "url": "https://lol.fandom.com/wiki/Pride_(Mahdi_Nasserzadeh)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "GameWard",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/08/GameWardlogo_std.png/revision/latest?cb=20181103215830"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Eintracht Spandau",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Eintracht_Spandaulogo_std.png/revision/latest?cb=20211114183216"
-      },
-      "position": "Top Laner"
     }
   }
 ]

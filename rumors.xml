@@ -4,13 +4,42 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Nov 2024 04:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 08:03:55 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Nov 2024 04:03:26 GMT</pubDate>
+        <pubDate>Fri, 29 Nov 2024 08:03:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[APAC] SiuLoong: Baby Whales → Vikings Esports (2023 Vietnamese Team)]]></title>
+            <description><![CDATA[
+        <h3>[APAC] SiuLoong: Baby Whales → Vikings Esports (2023 Vietnamese Team)</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/SiuLoong">SiuLoong</a></p>
+        <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080172837444611&set=a.514490940679473">VCS English</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: Baby Whales</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: Vikings Esports (2023 Vietnamese Team)</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://www.facebook.com/photo/?fbid=1080172837444611&amp;set=a.514490940679473</link>
+            <guid isPermaLink="false">2024-11-28-SiuLoong-Baby Whales-Vikings Esports (2023 Vietnamese Team)</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Adam: Team BDS → Rogue (European Team)]]></title>
             <description><![CDATA[
@@ -2877,35 +2906,6 @@
       ]]></description>
             <link>https://www.sheepesports.com/articles/sources-pride-and-lilipp-set-to-play-for-eintracht-spandau-in-2025/en</link>
             <guid isPermaLink="false">2024-11-18-Lilipp-Eintracht Spandau-Eintracht Spandau</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Pride: GameWard → Eintracht Spandau]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Pride: GameWard → Eintracht Spandau</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Pride_(Mahdi_Nasserzadeh)">Pride</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-pride-and-lilipp-set-to-play-for-eintracht-spandau-in-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: GameWard</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Eintracht Spandau</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-pride-and-lilipp-set-to-play-for-eintracht-spandau-in-2025/en</link>
-            <guid isPermaLink="false">2024-11-18-Pride-GameWard-Eintracht Spandau</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
