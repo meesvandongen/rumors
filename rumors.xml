@@ -4,13 +4,42 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 Nov 2024 12:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 16:03:06 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 Nov 2024 12:04:15 GMT</pubDate>
+        <pubDate>Sat, 30 Nov 2024 16:03:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[CN → APAC] Doggo: Ultra Prime → CTBC Flying Oyster]]></title>
+            <description><![CDATA[
+        <h3>[CN → APAC] Doggo: Ultra Prime → CTBC Flying Oyster</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Doggo">Doggo</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1862783911710883955">VCS Englsih</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: CN</li>
+          <li>Team: Ultra Prime</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: CTBC Flying Oyster</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/vcs_english/status/1862783911710883955</link>
+            <guid isPermaLink="false">2024-11-30-Doggo-Ultra Prime-CTBC Flying Oyster</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR → AME] Seize: Los Grandes → KaBuM! Esports]]></title>
             <description><![CDATA[
@@ -2879,35 +2908,6 @@
             <guid isPermaLink="false">2024-11-18-Ruler-JD Gaming-LoL Champions Korea</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[KR]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Meiko: Top Esports → Weibo Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Meiko: Top Esports → Weibo Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Meiko">Meiko</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Top Esports</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Weibo Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-Meiko-Top Esports-Weibo Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>

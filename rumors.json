@@ -1,5 +1,33 @@
 [
   {
+    "date": "2024-11-30",
+    "status": "Rumor",
+    "source": {
+      "name": "VCS Englsih",
+      "url": "https://x.com/vcs_english/status/1862783911710883955"
+    },
+    "player": {
+      "name": "Doggo",
+      "url": "https://lol.fandom.com/wiki/Doggo"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Ultra Prime",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/Ultra_Primelogo_std.png/revision/latest?cb=20210401173825"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "CTBC Flying Oyster",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/CTBC_Flying_Oysterlogo_std.png/revision/latest?cb=20221014190546"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
     "date": "2024-11-29",
     "status": "Rumor",
     "source": {
@@ -2769,34 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/LCK_Allstarslogo_std.png/revision/latest?cb=20210330145240"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "Meiko",
-      "url": "https://lol.fandom.com/wiki/Meiko"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Top Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Weibo Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
-      },
-      "position": "Support"
     }
   }
 ]
