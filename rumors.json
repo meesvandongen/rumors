@@ -3,6 +3,90 @@
     "date": "2024-11-29",
     "status": "Rumor",
     "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1862593044672877007"
+    },
+    "player": {
+      "name": "Seize",
+      "url": "https://lol.fandom.com/wiki/Seize"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Los Grandes",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/Los_Grandeslogo_std.png/revision/latest?cb=20230608222225"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "KaBuM! Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1862591561583702214"
+    },
+    "player": {
+      "name": "HiRit",
+      "url": "https://lol.fandom.com/wiki/HiRit"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "FUT Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/FUT_Esportslogo_std.png/revision/latest?cb=20240107144615"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "KaBuM! Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1862588351611543995"
+    },
+    "player": {
+      "name": "MG",
+      "url": "https://lol.fandom.com/wiki/MG_(Lee_Ji-hoon)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Twisted Minds",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/Twisted_Mindslogo_std.png/revision/latest?cb=20230205105556"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Los Grandes",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/Los_Grandeslogo_std.png/revision/latest?cb=20230608222225"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "status": "Rumor",
+    "source": {
       "name": "VCS English",
       "url": "https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805"
     },
@@ -897,7 +981,7 @@
   },
   {
     "date": "2024-11-22",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Luis \"Showtana\" Santana",
       "url": "https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en"
@@ -2713,90 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "Kael",
-      "url": "https://lol.fandom.com/wiki/Kael_(Kim_Jin-hong)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Anyone's Legend",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Anyone's Legend",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "Hope",
-      "url": "https://lol.fandom.com/wiki/Hope_(Wang_Jie)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Anyone's Legend",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Anyone's Legend",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "Tabe",
-      "url": "https://lol.fandom.com/wiki/Tabe"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Anyone's Legend",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Anyone's Legend",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Head Coach"
     }
   }
 ]
