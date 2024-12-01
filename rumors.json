@@ -3,7 +3,35 @@
     "date": "2024-11-30",
     "status": "Rumor",
     "source": {
-      "name": "VCS Englsih",
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-scaryjerry-set-to-join-disguised-in-the-lta-north-conference/en"
+    },
+    "player": {
+      "name": "ScaryJerry",
+      "url": "https://lol.fandom.com/wiki/ScaryJerry"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Dragonsteel",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Dragonsteellogo_std.png/revision/latest?cb=20240916211621"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Disguised",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-11-30",
+    "status": "Rumor",
+    "source": {
+      "name": "VCS English",
       "url": "https://x.com/vcs_english/status/1862783911710883955"
     },
     "player": {
@@ -2769,34 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/LCK_Allstarslogo_std.png/revision/latest?cb=20210330145240"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "Ruler",
-      "url": "https://lol.fandom.com/wiki/Ruler"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "JD Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "KR",
-      "team": {
-        "name": "LoL Champions Korea",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/LCK_Allstarslogo_std.png/revision/latest?cb=20210330145240"
-      },
-      "position": "Bot Laner"
     }
   }
 ]
