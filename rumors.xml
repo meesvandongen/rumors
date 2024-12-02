@@ -4,13 +4,100 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Dec 2024 20:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 00:12:34 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Dec 2024 20:03:11 GMT</pubDate>
+        <pubDate>Mon, 02 Dec 2024 00:12:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Hazel: LUA Gaming → Karmine Corp Blue Stars]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Hazel: LUA Gaming → Karmine Corp Blue Stars</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hazel_(Costin_Pestri%C8%9Bu)">Hazel</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-hazel-set-to-join-kc-blue-stars/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: LUA Gaming</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Karmine Corp Blue Stars</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-hazel-set-to-join-kc-blue-stars/en</link>
+            <guid isPermaLink="false">2024-12-01-Hazel-LUA Gaming-Karmine Corp Blue Stars</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → EMEA] Malrang: KaBuM! Esports → Rogue (European Team)]]></title>
+            <description><![CDATA[
+        <h3>[BR → EMEA] Malrang: KaBuM! Esports → Rogue (European Team)</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Malrang">Malrang</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/rogue-malrang-returns-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: KaBuM! Esports</li>
+          <li>Position: Jungler</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Rogue (European Team)</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/rogue-malrang-returns-lec/en</link>
+            <guid isPermaLink="false">2024-12-01-Malrang-KaBuM! Esports-Rogue (European Team)</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → EMEA] Execute: BNK FearX → Rogue (European Team)]]></title>
+            <description><![CDATA[
+        <h3>[KR → EMEA] Execute: BNK FearX → Rogue (European Team)</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Execute">Execute</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-execute-set-to-join-rogue-or-the-replacement-team-in-the-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: KR</li>
+          <li>Team: BNK FearX</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Rogue (European Team)</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-execute-set-to-join-rogue-or-the-replacement-team-in-the-lec/en</link>
+            <guid isPermaLink="false">2024-12-01-Execute-BNK FearX-Rogue (European Team)</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[NA → AME] ScaryJerry: Dragonsteel → Disguised]]></title>
             <description><![CDATA[
@@ -2821,93 +2908,6 @@
             <guid isPermaLink="false">2024-11-18-369-Top Esports-Anyone&apos;s Legend</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] 369: Top Esports → Weibo Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] 369: Top Esports → Weibo Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/369">369</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Top Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Weibo Gaming</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-369-Top Esports-Weibo Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Daeny: Weibo Gaming → Free Agent]]></title>
-            <description><![CDATA[
-        <h3>[CN] Daeny: Weibo Gaming → Free Agent</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Daeny">Daeny</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Weibo Gaming</li>
-          <li>Position: Head Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Head Coach</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-Daeny-Weibo Gaming-Free Agent</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN → KR] Kanavi: JD Gaming → LoL Champions Korea]]></title>
-            <description><![CDATA[
-        <h3>[CN → KR] Kanavi: JD Gaming → LoL Champions Korea</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kanavi">Kanavi</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: JD Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: LoL Champions Korea</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-Kanavi-JD Gaming-LoL Champions Korea</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
