@@ -1,5 +1,117 @@
 [
   {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "LCS Eevee",
+      "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
+    },
+    "player": {
+      "name": "Dayos",
+      "url": "https://lol.fandom.com/wiki/Dayos"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Winthrop University",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b6/Winthrop_Universitylogo_std.png/revision/latest?cb=20200930002136"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Luminosity Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "LCS Eevee",
+      "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
+    },
+    "player": {
+      "name": "Tactical",
+      "url": "https://lol.fandom.com/wiki/Tactical"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Immortals",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/Immortalslogo_std.png/revision/latest?cb=20230323063431"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Luminosity Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "LCS Eevee",
+      "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
+    },
+    "player": {
+      "name": "Tomio",
+      "url": "https://lol.fandom.com/wiki/Tomio"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Shopify Rebellion",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Shopify_Rebellionlogo_std.png/revision/latest?cb=20231121110541"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Luminosity Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "LCS Eevee",
+      "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
+    },
+    "player": {
+      "name": "FakeGod",
+      "url": "https://lol.fandom.com/wiki/FakeGod"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Shopify Rebellion",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Shopify_Rebellionlogo_std.png/revision/latest?cb=20231121110541"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Luminosity Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2024-12-01",
     "status": "Rumor",
     "source": {
@@ -2685,118 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gentle_Mateslogo_std.png/revision/latest?cb=20241007071343"
       },
       "position": "Assistant Coach"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "Viper",
-      "url": "https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Hanwha Life Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "KR",
-      "team": {
-        "name": "Hanwha Life Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "Wei",
-      "url": "https://lol.fandom.com/wiki/Wei_(Yan_Yang-Wei)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "Tian",
-      "url": "https://lol.fandom.com/wiki/Tian"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Top Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Zhu \"KenZhu\" Kai",
-      "url": "https://bbs.hupu.com/628984356.html"
-    },
-    "player": {
-      "name": "369",
-      "url": "https://lol.fandom.com/wiki/369"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Top Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Anyone's Legend",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Top Laner"
     }
   }
 ]

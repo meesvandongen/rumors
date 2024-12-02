@@ -4,13 +4,129 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Dec 2024 16:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 20:02:47 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Dec 2024 16:03:32 GMT</pubDate>
+        <pubDate>Mon, 02 Dec 2024 20:02:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[NA → AME] Dayos: Winthrop University → Luminosity Gaming]]></title>
+            <description><![CDATA[
+        <h3>[NA → AME] Dayos: Winthrop University → Luminosity Gaming</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Dayos">Dayos</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: NA</li>
+          <li>Team: Winthrop University</li>
+          <li>Position: Coach</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Luminosity Gaming</li>
+          <li>Position: Head Coach</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
+            <guid isPermaLink="false">2024-12-02-Dayos-Winthrop University-Luminosity Gaming</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[NA → AME] Tactical: Immortals → Luminosity Gaming]]></title>
+            <description><![CDATA[
+        <h3>[NA → AME] Tactical: Immortals → Luminosity Gaming</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tactical">Tactical</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: NA</li>
+          <li>Team: Immortals</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Luminosity Gaming</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
+            <guid isPermaLink="false">2024-12-02-Tactical-Immortals-Luminosity Gaming</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[NA → AME] Tomio: Shopify Rebellion → Luminosity Gaming]]></title>
+            <description><![CDATA[
+        <h3>[NA → AME] Tomio: Shopify Rebellion → Luminosity Gaming</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tomio">Tomio</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: NA</li>
+          <li>Team: Shopify Rebellion</li>
+          <li>Position: Jungler</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Luminosity Gaming</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
+            <guid isPermaLink="false">2024-12-02-Tomio-Shopify Rebellion-Luminosity Gaming</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[NA → AME] FakeGod: Shopify Rebellion → Luminosity Gaming]]></title>
+            <description><![CDATA[
+        <h3>[NA → AME] FakeGod: Shopify Rebellion → Luminosity Gaming</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/FakeGod">FakeGod</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: NA</li>
+          <li>Team: Shopify Rebellion</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Luminosity Gaming</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
+            <guid isPermaLink="false">2024-12-02-FakeGod-Shopify Rebellion-Luminosity Gaming</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Hazel: LUA Gaming → Karmine Corp Blue Stars]]></title>
             <description><![CDATA[
@@ -2792,122 +2908,6 @@
             <guid isPermaLink="false">2024-11-18-Nalkya-Zero Tenacity-Gentle Mates</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR] Viper: Hanwha Life Esports → Hanwha Life Esports]]></title>
-            <description><![CDATA[
-        <h3>[KR] Viper: Hanwha Life Esports → Hanwha Life Esports</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)">Viper</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Hanwha Life Esports</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Hanwha Life Esports</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-Viper-Hanwha Life Esports-Hanwha Life Esports</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Wei: Bilibili Gaming → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Wei: Bilibili Gaming → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Wei_(Yan_Yang-Wei)">Wei</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-Wei-Bilibili Gaming-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Tian: Top Esports → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Tian: Top Esports → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tian">Tian</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Top Esports</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-Tian-Top Esports-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] 369: Top Esports → Anyone's Legend]]></title>
-            <description><![CDATA[
-        <h3>[CN] 369: Top Esports → Anyone's Legend</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/369">369</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/628984356.html">Zhu "KenZhu" Kai</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Top Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Anyone's Legend</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/628984356.html</link>
-            <guid isPermaLink="false">2024-11-18-369-Top Esports-Anyone&apos;s Legend</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
