@@ -3,6 +3,34 @@
     "date": "2024-12-02",
     "status": "Rumor",
     "source": {
+      "name": "VCS English",
+      "url": "https://www.facebook.com/photo/?fbid=1082739220521306&set=a.514490940679473"
+    },
+    "player": {
+      "name": "Kati",
+      "url": "https://lol.fandom.com/wiki/Kati"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Vikings Esports (2023 Vietnamese Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
       "name": "Luis \"Showtana\" Santana",
       "url": "https://x.com/luisshowtana/status/1863674265658417645"
     },
@@ -2741,34 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Confirmed!",
-    "source": {
-      "name": "LCK Charmander",
-      "url": "https://x.com/LckCharmander/status/1858507074021556321"
-    },
-    "player": {
-      "name": "Cuzz",
-      "url": "https://lol.fandom.com/wiki/Cuzz"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Kwangdong Freecs",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest?cb=20220111183252"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "KR",
-      "team": {
-        "name": "KT Rolster",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest?cb=20210605165510"
-      },
-      "position": "Jungler"
     }
   }
 ]
