@@ -3,6 +3,62 @@
     "date": "2024-12-03",
     "status": "Rumor",
     "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863988101741183468"
+    },
+    "player": {
+      "name": "Marvin",
+      "url": "https://lol.fandom.com/wiki/Marvin"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "PaiN Gaming Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-03",
+    "status": "Rumor",
+    "source": {
+      "name": "VCS English",
+      "url": "https://x.com/vcs_english/status/1863962285552873542"
+    },
+    "player": {
+      "name": "Chika",
+      "url": "https://lol.fandom.com/wiki/Chika"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "DRX Shinhan Bank",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest?cb=20230504052509"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Vikings Esports (2023 Vietnamese Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-03",
+    "status": "Rumor",
+    "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en"
     },
@@ -2713,62 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-19",
-    "status": "Rumor",
-    "source": {
-      "name": "恋恋红茶",
-      "url": "https://weibo.com/2266865584/P11MPbQ5v"
-    },
-    "player": {
-      "name": "Angel",
-      "url": "https://lol.fandom.com/wiki/Angel_(Xiang_Tao)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Oh My God",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Oh_My_Godlogo_std.png/revision/latest?cb=20221226220406"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-19",
-    "status": "Rumor",
-    "source": {
-      "name": "恋恋红茶",
-      "url": "https://weibo.com/2266865584/P11MPbQ5v"
-    },
-    "player": {
-      "name": "xiaofang",
-      "url": "https://lol.fandom.com/wiki/Xiaofang"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Oh My God",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Oh_My_Godlogo_std.png/revision/latest?cb=20221226220406"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Jungler"
     }
   }
 ]

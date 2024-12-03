@@ -4,13 +4,71 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Dec 2024 16:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 20:03:38 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Dec 2024 16:03:31 GMT</pubDate>
+        <pubDate>Tue, 03 Dec 2024 20:03:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[BR → AME] Marvin: PaiN Gaming Academy → Vivo Keyd Stars Academy]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] Marvin: PaiN Gaming Academy → Vivo Keyd Stars Academy</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Marvin">Marvin</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863988101741183468">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: PaiN Gaming Academy</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Vivo Keyd Stars Academy</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863988101741183468</link>
+            <guid isPermaLink="false">2024-12-03-Marvin-PaiN Gaming Academy-Vivo Keyd Stars Academy</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → APAC] Chika: DRX Shinhan Bank → Vikings Esports (2023 Vietnamese Team)]]></title>
+            <description><![CDATA[
+        <h3>[KR → APAC] Chika: DRX Shinhan Bank → Vikings Esports (2023 Vietnamese Team)</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Chika">Chika</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1863962285552873542">VCS English</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: KR</li>
+          <li>Team: DRX Shinhan Bank</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: Vikings Esports (2023 Vietnamese Team)</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/vcs_english/status/1863962285552873542</link>
+            <guid isPermaLink="false">2024-12-03-Chika-DRX Shinhan Bank-Vikings Esports (2023 Vietnamese Team)</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] MathisV: Free Agent → Karmine Corp Blue Stars]]></title>
             <description><![CDATA[
@@ -2819,64 +2877,6 @@
       ]]></description>
             <link>https://weibo.com/2266865584/P11MPbQ5v</link>
             <guid isPermaLink="false">2024-11-19-ppgod-Oh My God-Free Agent</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Angel: Oh My God → Free Agent]]></title>
-            <description><![CDATA[
-        <h3>[CN] Angel: Oh My God → Free Agent</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Angel_(Xiang_Tao)">Angel</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Oh My God</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/2266865584/P11MPbQ5v</link>
-            <guid isPermaLink="false">2024-11-19-Angel-Oh My God-Free Agent</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] xiaofang: Oh My God → Free Agent]]></title>
-            <description><![CDATA[
-        <h3>[CN] xiaofang: Oh My God → Free Agent</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Xiaofang">xiaofang</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Oh My God</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/2266865584/P11MPbQ5v</link>
-            <guid isPermaLink="false">2024-11-19-xiaofang-Oh My God-Free Agent</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
