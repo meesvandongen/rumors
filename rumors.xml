@@ -4,13 +4,71 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Dec 2024 12:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 16:03:31 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Dec 2024 12:04:44 GMT</pubDate>
+        <pubDate>Tue, 03 Dec 2024 16:03:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] MathisV: Free Agent → Karmine Corp Blue Stars]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] MathisV: Free Agent → Karmine Corp Blue Stars</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/MathisV">MathisV</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Free Agent</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Karmine Corp Blue Stars</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en</link>
+            <guid isPermaLink="false">2024-12-03-MathisV-Free Agent-Karmine Corp Blue Stars</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Shlatan: NNO Prime → Team BDS Academy]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Shlatan: NNO Prime → Team BDS Academy</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Shlatan">Shlatan</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-shlatan-set-to-join-team-bds-academy-in-the-lfl/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: NNO Prime</li>
+          <li>Position: Jungler</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Team BDS Academy</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-shlatan-set-to-join-team-bds-academy-in-the-lfl/en</link>
+            <guid isPermaLink="false">2024-12-03-Shlatan-NNO Prime-Team BDS Academy</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[APAC] Kati: Vikings Esports (2023 Vietnamese Team) → Free Agent]]></title>
             <description><![CDATA[
@@ -2819,64 +2877,6 @@
       ]]></description>
             <link>https://weibo.com/2266865584/P11MPbQ5v</link>
             <guid isPermaLink="false">2024-11-19-xiaofang-Oh My God-Free Agent</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Tianzhen: Oh My God → Free Agent]]></title>
-            <description><![CDATA[
-        <h3>[CN] Tianzhen: Oh My God → Free Agent</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tianzhen">Tianzhen</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Oh My God</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/2266865584/P11MPbQ5v</link>
-            <guid isPermaLink="false">2024-11-19-Tianzhen-Oh My God-Free Agent</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Hery: Oh My God → Free Agent]]></title>
-            <description><![CDATA[
-        <h3>[CN] Hery: Oh My God → Free Agent</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hery">Hery</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Oh My God</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/2266865584/P11MPbQ5v</link>
-            <guid isPermaLink="false">2024-11-19-Hery-Oh My God-Free Agent</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>

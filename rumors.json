@@ -1,5 +1,61 @@
 [
   {
+    "date": "2024-12-03",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en"
+    },
+    "player": {
+      "name": "MathisV",
+      "url": "https://lol.fandom.com/wiki/MathisV"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Karmine Corp Blue Stars",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-03",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-shlatan-set-to-join-team-bds-academy-in-the-lfl/en"
+    },
+    "player": {
+      "name": "Shlatan",
+      "url": "https://lol.fandom.com/wiki/Shlatan"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "NNO Prime",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/No_Need_Orgalogo_std.png/revision/latest?cb=20211006205501"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team BDS Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
     "date": "2024-12-02",
     "status": "Rumor",
     "source": {
@@ -2713,62 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-19",
-    "status": "Rumor",
-    "source": {
-      "name": "恋恋红茶",
-      "url": "https://weibo.com/2266865584/P11MPbQ5v"
-    },
-    "player": {
-      "name": "Tianzhen",
-      "url": "https://lol.fandom.com/wiki/Tianzhen"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Oh My God",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Oh_My_Godlogo_std.png/revision/latest?cb=20221226220406"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-19",
-    "status": "Rumor",
-    "source": {
-      "name": "恋恋红茶",
-      "url": "https://weibo.com/2266865584/P11MPbQ5v"
-    },
-    "player": {
-      "name": "Hery",
-      "url": "https://lol.fandom.com/wiki/Hery"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Oh My God",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Oh_My_Godlogo_std.png/revision/latest?cb=20221226220406"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
     }
   }
 ]
