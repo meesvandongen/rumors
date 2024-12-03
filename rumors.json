@@ -3,6 +3,258 @@
     "date": "2024-12-02",
     "status": "Rumor",
     "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863674265658417645"
+    },
+    "player": {
+      "name": "Guigs",
+      "url": "https://lol.fandom.com/wiki/Guigs"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "PaiN Gaming Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "W7m esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863674265658417645"
+    },
+    "player": {
+      "name": "Marvin",
+      "url": "https://lol.fandom.com/wiki/Marvin"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "PaiN Gaming Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "W7m esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863674265658417645"
+    },
+    "player": {
+      "name": "Fuuu",
+      "url": "https://lol.fandom.com/wiki/Fuuu"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "W7m esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863674265658417645"
+    },
+    "player": {
+      "name": "Shini",
+      "url": "https://lol.fandom.com/wiki/Shini"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "W7m esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863674265658417645"
+    },
+    "player": {
+      "name": "Hidan",
+      "url": "https://lol.fandom.com/wiki/Hidan"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "PaiN Gaming Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "W7m esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863674265658417645"
+    },
+    "player": {
+      "name": "Bong",
+      "url": "https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Geekay Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Geekay_Esportslogo_std.png/revision/latest?cb=20231116150007"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863674265658417645"
+    },
+    "player": {
+      "name": "HiRit",
+      "url": "https://lol.fandom.com/wiki/HiRit"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "FUT Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/FUT_Esportslogo_std.png/revision/latest?cb=20240107144615"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863602018507509832"
+    },
+    "player": {
+      "name": "Olleh",
+      "url": "https://lol.fandom.com/wiki/Olleh"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Immortals",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/Immortalslogo_std.png/revision/latest?cb=20230323063431"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1863602018507509832"
+    },
+    "player": {
+      "name": "Smiley",
+      "url": "https://lol.fandom.com/wiki/Smiley_(Ludvig_Granquist)"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Vivo Keyd Stars",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "status": "Rumor",
+    "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
     },
@@ -2517,286 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest?cb=20210605165510"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P11bTwh1J"
-    },
-    "player": {
-      "name": "Vampire",
-      "url": "https://lol.fandom.com/wiki/Vampire"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Lucas Benaim",
-      "url": "https://x.com/LucasBenaim/status/1858656996226200014"
-    },
-    "player": {
-      "name": "Scary",
-      "url": "https://lol.fandom.com/wiki/Scary_(Artur_Queiroz)"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "KaBuM! Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Leviatan",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-palafox-reaches-verbal-agreement-to-join-shopify-rebellion/en"
-    },
-    "player": {
-      "name": "Palafox",
-      "url": "https://lol.fandom.com/wiki/Palafox"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "NRG",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/NRGlogo_std.png/revision/latest?cb=20240415210531"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Shopify Rebellion",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Shopify_Rebellionlogo_std.png/revision/latest?cb=20231121110541"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Lucas Benaim",
-      "url": "https://x.com/LucasBenaim/status/1858654216803193110"
-    },
-    "player": {
-      "name": "Ceo",
-      "url": "https://lol.fandom.com/wiki/Ceo"
-    },
-    "from": {
-      "region": "LAT",
-      "team": {
-        "name": "Movistar R7",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Movistar_R7logo_std.png/revision/latest?cb=20221005192843"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Leviatan",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/articles/sources-mash-set-to-join-disguised-as-head-coach-in-the-lta-north-for-the-2025-season/en"
-    },
-    "player": {
-      "name": "Mash",
-      "url": "https://lol.fandom.com/wiki/Mash"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "Team Liquid Challengers",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Disguised",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://www.sheepesports.com/articles/sources-tatu-reaches-verbal-agreement-with-furia-for-lta-south-2025/en"
-    },
-    "player": {
-      "name": "Tatu",
-      "url": "https://lol.fandom.com/wiki/Tatu_(Pedro_Seixas)"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "PaiN Gaming Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "FURIA",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/FURIAlogo_std.png/revision/latest?cb=20200121190808"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Alejandro \"Anonimotum\" Gomis",
-      "url": "https://www.sheepesports.com/articles/sources-ibo-re-signs-with-ramboot-club/en"
-    },
-    "player": {
-      "name": "iBo",
-      "url": "https://lol.fandom.com/wiki/IBo"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ramboot Club",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Ramboot_Clublogo_std.png/revision/latest?cb=20230522193430"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ramboot Club",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Ramboot_Clublogo_std.png/revision/latest?cb=20230522193430"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-edward-set-to-join-bds-academy-as-head-coach/en"
-    },
-    "player": {
-      "name": "Edward",
-      "url": "https://lol.fandom.com/wiki/Edward"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Geekay Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Geekay_Esportslogo_std.png/revision/latest?cb=20231116150007"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team BDS Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Alejandro \"Anonimotum\" Gomis",
-      "url": "https://www.sheepesports.com/articles/sources-click-set-to-join-lua-gaming/en"
-    },
-    "player": {
-      "name": "Click",
-      "url": "https://lol.fandom.com/wiki/Click_(Vittorio_Massolo)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Macko Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/76/Macko_Esportslogo_std.png/revision/latest?cb=20221024204139"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "LUA Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/LUA_Gaminglogo_std.png/revision/latest?cb=20231214150504"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-nalkya-set-to-join-gentle-mates-as-assistant-coach/en"
-    },
-    "player": {
-      "name": "Nalkya",
-      "url": "https://lol.fandom.com/wiki/Nalkya"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Zero Tenacity",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Zero_Tenacitylogo_std.png/revision/latest?cb=20240803231422"
-      },
-      "position": "Assistant Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Gentle Mates",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gentle_Mateslogo_std.png/revision/latest?cb=20241007071343"
-      },
-      "position": "Assistant Coach"
     }
   }
 ]

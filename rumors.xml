@@ -4,13 +4,274 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Dec 2024 20:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 00:13:05 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Dec 2024 20:02:47 GMT</pubDate>
+        <pubDate>Tue, 03 Dec 2024 00:13:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[BR → AME] Guigs: PaiN Gaming Academy → W7m esports]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] Guigs: PaiN Gaming Academy → W7m esports</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Guigs">Guigs</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: PaiN Gaming Academy</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: W7m esports</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
+            <guid isPermaLink="false">2024-12-02-Guigs-PaiN Gaming Academy-W7m esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Marvin: PaiN Gaming Academy → W7m esports]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] Marvin: PaiN Gaming Academy → W7m esports</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Marvin">Marvin</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: PaiN Gaming Academy</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: W7m esports</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
+            <guid isPermaLink="false">2024-12-02-Marvin-PaiN Gaming Academy-W7m esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Fuuu: Fluxo → W7m esports]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] Fuuu: Fluxo → W7m esports</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Fuuu">Fuuu</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: Fluxo</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: W7m esports</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
+            <guid isPermaLink="false">2024-12-02-Fuuu-Fluxo-W7m esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Shini: Fluxo → W7m esports]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] Shini: Fluxo → W7m esports</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Shini">Shini</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: Fluxo</li>
+          <li>Position: Jungler</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: W7m esports</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
+            <guid isPermaLink="false">2024-12-02-Shini-Fluxo-W7m esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Hidan: PaiN Gaming Academy → W7m esports]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] Hidan: PaiN Gaming Academy → W7m esports</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hidan">Hidan</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: PaiN Gaming Academy</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: W7m esports</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
+            <guid isPermaLink="false">2024-12-02-Hidan-PaiN Gaming Academy-W7m esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA → AME] Bong: Geekay Esports → Fluxo]]></title>
+            <description><![CDATA[
+        <h3>[EMEA → AME] Bong: Geekay Esports → Fluxo</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)">Bong</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Geekay Esports</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Fluxo</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
+            <guid isPermaLink="false">2024-12-02-Bong-Geekay Esports-Fluxo</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA → AME] HiRit: FUT Esports → Fluxo]]></title>
+            <description><![CDATA[
+        <h3>[EMEA → AME] HiRit: FUT Esports → Fluxo</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/HiRit">HiRit</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: FUT Esports</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Fluxo</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
+            <guid isPermaLink="false">2024-12-02-HiRit-FUT Esports-Fluxo</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[NA → AME] Olleh: Immortals → Fluxo]]></title>
+            <description><![CDATA[
+        <h3>[NA → AME] Olleh: Immortals → Fluxo</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Olleh">Olleh</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863602018507509832">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: NA</li>
+          <li>Team: Immortals</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Fluxo</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863602018507509832</link>
+            <guid isPermaLink="false">2024-12-02-Olleh-Immortals-Fluxo</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Smiley: Vivo Keyd Stars → Fluxo]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] Smiley: Vivo Keyd Stars → Fluxo</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Smiley_(Ludvig_Granquist)">Smiley</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863602018507509832">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: Vivo Keyd Stars</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Fluxo</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1863602018507509832</link>
+            <guid isPermaLink="false">2024-12-02-Smiley-Vivo Keyd Stars-Fluxo</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[NA → AME] Dayos: Winthrop University → Luminosity Gaming]]></title>
             <description><![CDATA[
@@ -2618,296 +2879,6 @@
             <guid isPermaLink="false">2024-11-18-Cuzz-Kwangdong Freecs-KT Rolster</guid>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Vampire: Invictus Gaming → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Vampire: Invictus Gaming → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Vampire">Vampire</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P11bTwh1J">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P11bTwh1J</link>
-            <guid isPermaLink="false">2024-11-18-Vampire-Invictus Gaming-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Scary: KaBuM! Esports → Leviatan]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Scary: KaBuM! Esports → Leviatan</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Scary_(Artur_Queiroz)">Scary</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/LucasBenaim/status/1858656996226200014">Lucas Benaim</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: KaBuM! Esports</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Leviatan</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://x.com/LucasBenaim/status/1858656996226200014</link>
-            <guid isPermaLink="false">2024-11-18-Scary-KaBuM! Esports-Leviatan</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[NA → AME] Palafox: NRG → Shopify Rebellion]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Palafox: NRG → Shopify Rebellion</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Palafox">Palafox</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-palafox-reaches-verbal-agreement-to-join-shopify-rebellion/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: NRG</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Shopify Rebellion</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-palafox-reaches-verbal-agreement-to-join-shopify-rebellion/en</link>
-            <guid isPermaLink="false">2024-11-18-Palafox-NRG-Shopify Rebellion</guid>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[LAT → AME] Ceo: Movistar R7 → Leviatan]]></title>
-            <description><![CDATA[
-        <h3>[LAT → AME] Ceo: Movistar R7 → Leviatan</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Ceo">Ceo</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/LucasBenaim/status/1858654216803193110">Lucas Benaim</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: LAT</li>
-          <li>Team: Movistar R7</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Leviatan</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://x.com/LucasBenaim/status/1858654216803193110</link>
-            <guid isPermaLink="false">2024-11-18-Ceo-Movistar R7-Leviatan</guid>
-            <category><![CDATA[LAT]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[NA → AME] Mash: Team Liquid Challengers → Disguised]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Mash: Team Liquid Challengers → Disguised</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Mash">Mash</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mash-set-to-join-disguised-as-head-coach-in-the-lta-north-for-the-2025-season/en">LCS Eevee</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Team Liquid Challengers</li>
-          <li>Position: Head Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Disguised</li>
-          <li>Position: Head Coach</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-mash-set-to-join-disguised-as-head-coach-in-the-lta-north-for-the-2025-season/en</link>
-            <guid isPermaLink="false">2024-11-18-Mash-Team Liquid Challengers-Disguised</guid>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Tatu: PaiN Gaming Academy → FURIA]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Tatu: PaiN Gaming Academy → FURIA</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tatu_(Pedro_Seixas)">Tatu</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tatu-reaches-verbal-agreement-with-furia-for-lta-south-2025/en">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: PaiN Gaming Academy</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: FURIA</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-tatu-reaches-verbal-agreement-with-furia-for-lta-south-2025/en</link>
-            <guid isPermaLink="false">2024-11-18-Tatu-PaiN Gaming Academy-FURIA</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] iBo: Ramboot Club → Ramboot Club]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] iBo: Ramboot Club → Ramboot Club</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/IBo">iBo</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-ibo-re-signs-with-ramboot-club/en">Alejandro "Anonimotum" Gomis</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ramboot Club</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ramboot Club</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-ibo-re-signs-with-ramboot-club/en</link>
-            <guid isPermaLink="false">2024-11-18-iBo-Ramboot Club-Ramboot Club</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Edward: Geekay Esports → Team BDS Academy]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Edward: Geekay Esports → Team BDS Academy</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Edward">Edward</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-edward-set-to-join-bds-academy-as-head-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Geekay Esports</li>
-          <li>Position: Head Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Team BDS Academy</li>
-          <li>Position: Head Coach</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-edward-set-to-join-bds-academy-as-head-coach/en</link>
-            <guid isPermaLink="false">2024-11-18-Edward-Geekay Esports-Team BDS Academy</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Click: Macko Esports → LUA Gaming]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Click: Macko Esports → LUA Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Click_(Vittorio_Massolo)">Click</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-click-set-to-join-lua-gaming/en">Alejandro "Anonimotum" Gomis</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Macko Esports</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: LUA Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-click-set-to-join-lua-gaming/en</link>
-            <guid isPermaLink="false">2024-11-18-Click-Macko Esports-LUA Gaming</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Nalkya: Zero Tenacity → Gentle Mates]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Nalkya: Zero Tenacity → Gentle Mates</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Nalkya">Nalkya</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-nalkya-set-to-join-gentle-mates-as-assistant-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Zero Tenacity</li>
-          <li>Position: Assistant Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Gentle Mates</li>
-          <li>Position: Assistant Coach</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-nalkya-set-to-join-gentle-mates-as-assistant-coach/en</link>
-            <guid isPermaLink="false">2024-11-18-Nalkya-Zero Tenacity-Gentle Mates</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
         </item>
