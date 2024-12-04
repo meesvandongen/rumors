@@ -3,6 +3,34 @@
     "date": "2024-12-03",
     "status": "Rumor",
     "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-simpli-set-to-complete-unicorns-of-lover-sexy-edition-s-roster/en"
+    },
+    "player": {
+      "name": "Simpli",
+      "url": "https://lol.fandom.com/wiki/Simpli"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "FC Schalke 04 Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/FC_Schalke_04_Esportslogo_std.png/revision/latest?cb=20201021165433"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unicorns of Love Sexy Edition",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/Unicorns_of_Love_Sexy_Editionlogo_std.png/revision/latest?cb=20220202103424"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-03",
+    "status": "Rumor",
+    "source": {
       "name": "Luis \"Showtana\" Santana",
       "url": "https://x.com/luisshowtana/status/1863988101741183468"
     },
@@ -2741,34 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-19",
-    "status": "Rumor",
-    "source": {
-      "name": "恋恋红茶",
-      "url": "https://weibo.com/2266865584/P11MPbQ5v"
-    },
-    "player": {
-      "name": "ppgod",
-      "url": "https://lol.fandom.com/wiki/Ppgod"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Oh My God",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Oh_My_Godlogo_std.png/revision/latest?cb=20221226220406"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Support"
     }
   }
 ]

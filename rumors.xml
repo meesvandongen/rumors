@@ -4,13 +4,42 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Dec 2024 20:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 00:12:15 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Dec 2024 20:03:38 GMT</pubDate>
+        <pubDate>Wed, 04 Dec 2024 00:12:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Simpli: FC Schalke 04 Esports → Unicorns of Love Sexy Edition]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Simpli: FC Schalke 04 Esports → Unicorns of Love Sexy Edition</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Simpli">Simpli</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-simpli-set-to-complete-unicorns-of-lover-sexy-edition-s-roster/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: FC Schalke 04 Esports</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Unicorns of Love Sexy Edition</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-simpli-set-to-complete-unicorns-of-lover-sexy-edition-s-roster/en</link>
+            <guid isPermaLink="false">2024-12-03-Simpli-FC Schalke 04 Esports-Unicorns of Love Sexy Edition</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR → AME] Marvin: PaiN Gaming Academy → Vivo Keyd Stars Academy]]></title>
             <description><![CDATA[
@@ -2852,35 +2881,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] ppgod: Oh My God → Free Agent]]></title>
-            <description><![CDATA[
-        <h3>[CN] ppgod: Oh My God → Free Agent</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Ppgod">ppgod</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/2266865584/P11MPbQ5v">恋恋红茶</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Oh My God</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/2266865584/P11MPbQ5v</link>
-            <guid isPermaLink="false">2024-11-19-ppgod-Oh My God-Free Agent</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
