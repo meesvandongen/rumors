@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Dec 2024 16:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 20:03:30 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Dec 2024 16:03:38 GMT</pubDate>
+        <pubDate>Thu, 05 Dec 2024 20:03:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -2364,7 +2364,7 @@
             <title><![CDATA[[CN] ON: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] ON: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ON">ON</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
         
@@ -2393,7 +2393,7 @@
             <title><![CDATA[[CN] Elk: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Elk: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Elk">Elk</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
         
@@ -2422,7 +2422,7 @@
             <title><![CDATA[[CN] knight: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] knight: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Knight_(Zhuo_Ding)">knight</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
         
@@ -2451,7 +2451,7 @@
             <title><![CDATA[[CN] Wei: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Wei: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Wei_(Yan_Yang-Wei)">Wei</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
         
@@ -2480,7 +2480,7 @@
             <title><![CDATA[[CN] Bin: Bilibili Gaming → Bilibili Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Bin: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Bin_(Chen_Ze-Bin)">Bin</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
         
@@ -2654,7 +2654,7 @@
             <title><![CDATA[[CN] Hang: LNG Esports → Invictus Gaming]]></title>
             <description><![CDATA[
         <h3>[CN] Hang: LNG Esports → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Disproven</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hang">Hang</a></p>
         <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
         
