@@ -4,13 +4,129 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Dec 2024 00:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 04:03:38 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Dec 2024 00:12:10 GMT</pubDate>
+        <pubDate>Thu, 05 Dec 2024 04:03:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] F1RE: Rebels Gaming → ZETA]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] F1RE: Rebels Gaming → ZETA</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/F1RE">F1RE</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en">Marian "Eros" Stoica</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Rebels Gaming</li>
+          <li>Position: Head Coach</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: ZETA</li>
+          <li>Position: Head Coach</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en</link>
+            <guid isPermaLink="false">2024-12-04-F1RE-Rebels Gaming-ZETA</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] ElOjoNinja: ZETA → ZETA]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] ElOjoNinja: ZETA → ZETA</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ElOjoNinja">ElOjoNinja</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en">Marian "Eros" Stoica</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: ZETA</li>
+          <li>Position: Content Creator</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: ZETA</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en</link>
+            <guid isPermaLink="false">2024-12-04-ElOjoNinja-ZETA-ZETA</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Pepiinero: Free Agent → ZETA]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Pepiinero: Free Agent → ZETA</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Pepiinero">Pepiinero</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en">Marian "Eros" Stoica</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Free Agent</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: ZETA</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en</link>
+            <guid isPermaLink="false">2024-12-04-Pepiinero-Free Agent-ZETA</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[NA → AME] Isles: Dignitas → Dignitas]]></title>
+            <description><![CDATA[
+        <h3>[NA → AME] Isles: Dignitas → Dignitas</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Isles">Isles</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-isles-set-to-remain-with-dignitas-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: NA</li>
+          <li>Team: Dignitas</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Dignitas</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-isles-set-to-remain-with-dignitas-in-the-lta-north-conference/en</link>
+            <guid isPermaLink="false">2024-12-04-Isles-Dignitas-Dignitas</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Simpli: FC Schalke 04 Esports → Unicorns of Love Sexy Edition]]></title>
             <description><![CDATA[
@@ -2765,122 +2881,6 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Coldraa: Gamespace Mediterranean College Esports → Ramboot Club]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Coldraa: Gamespace Mediterranean College Esports → Ramboot Club</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Coldraa">Coldraa</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-coldraa-set-to-join-ramboot-club-in-the-superliga/en">Alejandro "Anonimotum" Gomis</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Gamespace Mediterranean College Esports</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ramboot Club</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-coldraa-set-to-join-ramboot-club-in-the-superliga/en</link>
-            <guid isPermaLink="false">2024-11-21-Coldraa-Gamespace Mediterranean College Esports-Ramboot Club</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR] HamBak: KT Rolster Challengers → OKSavingsBank BRION]]></title>
-            <description><![CDATA[
-        <h3>[KR] HamBak: KT Rolster Challengers → OKSavingsBank BRION</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/HamBak">HamBak</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-hambak-is-set-to-join-okbrion-in-the-lck/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: KT Rolster Challengers</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: OKSavingsBank BRION</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-hambak-is-set-to-join-okbrion-in-the-lck/en</link>
-            <guid isPermaLink="false">2024-11-20-HamBak-KT Rolster Challengers-OKSavingsBank BRION</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] TolanD: Unicorns of Love Sexy Edition → Beşiktaş Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] TolanD: Unicorns of Love Sexy Edition → Beşiktaş Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/TolanD">TolanD</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-photon-and-toland-set-to-join-besiktas-esports/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Unicorns of Love Sexy Edition</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Beşiktaş Esports</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-photon-and-toland-set-to-join-besiktas-esports/en</link>
-            <guid isPermaLink="false">2024-11-20-TolanD-Unicorns of Love Sexy Edition-Beşiktaş Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Photon: Team Vitality → Beşiktaş Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Photon: Team Vitality → Beşiktaş Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Photon">Photon</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-photon-and-toland-set-to-join-besiktas-esports/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Team Vitality</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Beşiktaş Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-photon-and-toland-set-to-join-besiktas-esports/en</link>
-            <guid isPermaLink="false">2024-11-20-Photon-Team Vitality-Beşiktaş Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

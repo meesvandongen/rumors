@@ -1,5 +1,117 @@
 [
   {
+    "date": "2024-12-04",
+    "status": "Rumor",
+    "source": {
+      "name": "Marian \"Eros\" Stoica",
+      "url": "https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en"
+    },
+    "player": {
+      "name": "F1RE",
+      "url": "https://lol.fandom.com/wiki/F1RE"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Rebels Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b1/Rebels_Gaminglogo_std.png/revision/latest?cb=20211130213240"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ZETA",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/ZETAlogo_std.png/revision/latest?cb=20221030222929"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2024-12-04",
+    "status": "Rumor",
+    "source": {
+      "name": "Marian \"Eros\" Stoica",
+      "url": "https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en"
+    },
+    "player": {
+      "name": "ElOjoNinja",
+      "url": "https://lol.fandom.com/wiki/ElOjoNinja"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "ZETA",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/ZETAlogo_std.png/revision/latest?cb=20221030222929"
+      },
+      "position": "Content Creator"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ZETA",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/ZETAlogo_std.png/revision/latest?cb=20221030222929"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-04",
+    "status": "Rumor",
+    "source": {
+      "name": "Marian \"Eros\" Stoica",
+      "url": "https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en"
+    },
+    "player": {
+      "name": "Pepiinero",
+      "url": "https://lol.fandom.com/wiki/Pepiinero"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ZETA",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/ZETAlogo_std.png/revision/latest?cb=20221030222929"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-04",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-isles-set-to-remain-with-dignitas-in-the-lta-north-conference/en"
+    },
+    "player": {
+      "name": "Isles",
+      "url": "https://lol.fandom.com/wiki/Isles"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Dignitas",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Dignitas",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
+      },
+      "position": "Support"
+    }
+  },
+  {
     "date": "2024-12-03",
     "status": "Rumor",
     "source": {
@@ -2657,118 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
       },
       "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Alejandro \"Anonimotum\" Gomis",
-      "url": "https://www.sheepesports.com/articles/sources-coldraa-set-to-join-ramboot-club-in-the-superliga/en"
-    },
-    "player": {
-      "name": "Coldraa",
-      "url": "https://lol.fandom.com/wiki/Coldraa"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Gamespace Mediterranean College Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Gamespace_Mediterranean_College_Esportslogo_std.png/revision/latest?cb=20200110004010"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ramboot Club",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Ramboot_Clublogo_std.png/revision/latest?cb=20230522193430"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-20",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-hambak-is-set-to-join-okbrion-in-the-lck/en"
-    },
-    "player": {
-      "name": "HamBak",
-      "url": "https://lol.fandom.com/wiki/HamBak"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "KT Rolster Challengers",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest?cb=20210605165510"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "KR",
-      "team": {
-        "name": "OKSavingsBank BRION",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/BRIONlogo_std.png/revision/latest?cb=20230518062824"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-20",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-photon-and-toland-set-to-join-besiktas-esports/en"
-    },
-    "player": {
-      "name": "TolanD",
-      "url": "https://lol.fandom.com/wiki/TolanD"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unicorns of Love Sexy Edition",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/Unicorns_of_Love_Sexy_Editionlogo_std.png/revision/latest?cb=20220202103424"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Beşiktaş Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-20",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-photon-and-toland-set-to-join-besiktas-esports/en"
-    },
-    "player": {
-      "name": "Photon",
-      "url": "https://lol.fandom.com/wiki/Photon"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Vitality",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Beşiktaş Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Top Laner"
     }
   }
 ]
