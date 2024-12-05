@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Dec 2024 08:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 12:05:05 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Dec 2024 08:04:05 GMT</pubDate>
+        <pubDate>Thu, 05 Dec 2024 12:05:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -2848,35 +2848,6 @@
       ]]></description>
             <link>https://www.sheepesports.com/articles/sources-tinowns-and-robo-are-set-to-re-sign-with-loud-for-lta-south-2025/en</link>
             <guid isPermaLink="false">2024-11-21-Robo-LOUD-LOUD</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] tinowns: LOUD → LOUD]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] tinowns: LOUD → LOUD</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tinowns">tinowns</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tinowns-and-robo-are-set-to-re-sign-with-loud-for-lta-south-2025/en">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: LOUD</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: LOUD</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://www.sheepesports.com/articles/sources-tinowns-and-robo-are-set-to-re-sign-with-loud-for-lta-south-2025/en</link>
-            <guid isPermaLink="false">2024-11-21-tinowns-LOUD-LOUD</guid>
             <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>

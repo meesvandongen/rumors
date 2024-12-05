@@ -2742,33 +2742,5 @@
       },
       "position": "Top Laner"
     }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://www.sheepesports.com/articles/sources-tinowns-and-robo-are-set-to-re-sign-with-loud-for-lta-south-2025/en"
-    },
-    "player": {
-      "name": "tinowns",
-      "url": "https://lol.fandom.com/wiki/Tinowns"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "LOUD",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "LOUD",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Mid Laner"
-    }
   }
 ]
