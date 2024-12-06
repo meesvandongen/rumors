@@ -1,5 +1,201 @@
 [
   {
+    "date": "2024-12-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-tao-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en"
+    },
+    "player": {
+      "name": "Tao",
+      "url": "https://lol.fandom.com/wiki/Tao_(Xu_Hongtao_Alessandro)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "The Gulls Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/14/The_Gulls_Esportslogo_std.png/revision/latest?cb=20240129170913"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Karmine Corp Blue Stars",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en"
+    },
+    "player": {
+      "name": "ZaZee",
+      "url": "https://lol.fandom.com/wiki/ZaZee"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Eintracht Frankfurt",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/Eintracht_Frankfurtlogo_std.png/revision/latest?cb=20191229123611"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Eintracht Frankfurt",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/Eintracht_Frankfurtlogo_std.png/revision/latest?cb=20191229123611"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en"
+    },
+    "player": {
+      "name": "Sacre",
+      "url": "https://lol.fandom.com/wiki/Sacre"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "FC Schalke 04 Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/FC_Schalke_04_Esportslogo_std.png/revision/latest?cb=20201021165433"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Eintracht Frankfurt",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/Eintracht_Frankfurtlogo_std.png/revision/latest?cb=20191229123611"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en"
+    },
+    "player": {
+      "name": "Reptile",
+      "url": "https://lol.fandom.com/wiki/Reptile"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Logo std",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en"
+    },
+    "player": {
+      "name": "Agurin",
+      "url": "https://lol.fandom.com/wiki/Agurin"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "No Need Orga",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/No_Need_Orgalogo_std.png/revision/latest?cb=20211006205501"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Logo std",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Armand Luque",
+      "url": "https://www.sheepesports.com/articles/sources-zeniv-set-to-join-g2-hel-in-2025/en"
+    },
+    "player": {
+      "name": "Zeniv",
+      "url": "https://lol.fandom.com/wiki/Zeniv"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "NNOwO",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/No_Need_Orgalogo_std.png/revision/latest?cb=20211006205501"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "G2 Hel",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/50/G2_Esportslogo_std.png/revision/latest?cb=20230426141941"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-06",
+    "status": "Rumor",
+    "source": {
+      "name": "VCS English",
+      "url": "https://www.facebook.com/vcsenglish/posts/1085692596892635"
+    },
+    "player": {
+      "name": "Guwon",
+      "url": "https://lol.fandom.com/wiki/Guwon"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "T1 Esports Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest?cb=20230512040324"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "DetonatioN FocusMe",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/DetonatioN_FocusMelogo_std.png/revision/latest?cb=20230505045554"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
     "date": "2024-12-05",
     "status": "Rumor",
     "source": {
@@ -897,7 +1093,7 @@
   },
   {
     "date": "2024-11-29",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "VCS English",
       "url": "https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805"
@@ -925,7 +1121,7 @@
   },
   {
     "date": "2024-11-29",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "VCS English",
       "url": "https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805"
@@ -2545,202 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Yan \"Letme\" Jun-Ze",
-      "url": "https://bbs.hupu.com/629048390.html"
-    },
-    "player": {
-      "name": "Wink",
-      "url": "https://lol.fandom.com/wiki/Wink"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Disproven",
-    "source": {
-      "name": "Yan \"Letme\" Jun-Ze",
-      "url": "https://bbs.hupu.com/629048390.html"
-    },
-    "player": {
-      "name": "Hang",
-      "url": "https://lol.fandom.com/wiki/Hang"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "LNG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Yan \"Letme\" Jun-Ze",
-      "url": "https://bbs.hupu.com/629048390.html"
-    },
-    "player": {
-      "name": "Gala",
-      "url": "https://lol.fandom.com/wiki/Gala"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "LNG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Yan \"Letme\" Jun-Ze",
-      "url": "https://bbs.hupu.com/629048390.html"
-    },
-    "player": {
-      "name": "JieJie",
-      "url": "https://lol.fandom.com/wiki/JieJie"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Yan \"Letme\" Jun-Ze",
-      "url": "https://bbs.hupu.com/629048390.html"
-    },
-    "player": {
-      "name": "Rookie",
-      "url": "https://lol.fandom.com/wiki/Rookie"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Ninjas in Pyjamas.CN",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Yan \"Letme\" Jun-Ze",
-      "url": "https://bbs.hupu.com/629048390.html"
-    },
-    "player": {
-      "name": "TheShy",
-      "url": "https://lol.fandom.com/wiki/TheShy"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Rumor",
-    "source": {
-      "name": "VCS English",
-      "url": "https://x.com/vcs_english/status/1859601774568669209?s=46"
-    },
-    "player": {
-      "name": "Karsa",
-      "url": "https://lol.fandom.com/wiki/Karsa"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "CTBC Flying Oyster",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/CTBC_Flying_Oysterlogo_std.png/revision/latest?cb=20221014190546"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "PSG Talon",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/PSG_Talonlogo_std.png/revision/latest?cb=20240929142312"
-      },
-      "position": "Jungler"
     }
   }
 ]

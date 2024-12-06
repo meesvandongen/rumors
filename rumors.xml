@@ -4,13 +4,216 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Dec 2024 12:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 16:03:22 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Dec 2024 12:04:49 GMT</pubDate>
+        <pubDate>Fri, 06 Dec 2024 16:03:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Tao: The Gulls Esports → Karmine Corp Blue Stars]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Tao: The Gulls Esports → Karmine Corp Blue Stars</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tao_(Xu_Hongtao_Alessandro)">Tao</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tao-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: The Gulls Esports</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Karmine Corp Blue Stars</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-tao-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en</link>
+            <guid isPermaLink="false">2024-12-06-Tao-The Gulls Esports-Karmine Corp Blue Stars</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] ZaZee: Eintracht Frankfurt → Eintracht Frankfurt]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] ZaZee: Eintracht Frankfurt → Eintracht Frankfurt</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ZaZee">ZaZee</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Eintracht Frankfurt</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Eintracht Frankfurt</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en</link>
+            <guid isPermaLink="false">2024-12-06-ZaZee-Eintracht Frankfurt-Eintracht Frankfurt</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Sacre: FC Schalke 04 Esports → Eintracht Frankfurt]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Sacre: FC Schalke 04 Esports → Eintracht Frankfurt</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Sacre">Sacre</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: FC Schalke 04 Esports</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Eintracht Frankfurt</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en</link>
+            <guid isPermaLink="false">2024-12-06-Sacre-FC Schalke 04 Esports-Eintracht Frankfurt</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Reptile: Free Agent → Logo std]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Reptile: Free Agent → Logo std</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Reptile">Reptile</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Free Agent</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Logo std</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en</link>
+            <guid isPermaLink="false">2024-12-06-Reptile-Free Agent-Logo std</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Agurin: No Need Orga → Logo std]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Agurin: No Need Orga → Logo std</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Agurin">Agurin</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: No Need Orga</li>
+          <li>Position: Jungler</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Logo std</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en</link>
+            <guid isPermaLink="false">2024-12-06-Agurin-No Need Orga-Logo std</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Zeniv: NNOwO → G2 Hel]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Zeniv: NNOwO → G2 Hel</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Zeniv">Zeniv</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeniv-set-to-join-g2-hel-in-2025/en">Armand Luque</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: NNOwO</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: G2 Hel</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-zeniv-set-to-join-g2-hel-in-2025/en</link>
+            <guid isPermaLink="false">2024-12-06-Zeniv-NNOwO-G2 Hel</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → APAC] Guwon: T1 Esports Academy → DetonatioN FocusMe]]></title>
+            <description><![CDATA[
+        <h3>[KR → APAC] Guwon: T1 Esports Academy → DetonatioN FocusMe</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Guwon">Guwon</a></p>
+        <p><strong>Source:</strong> <a href="https://www.facebook.com/vcsenglish/posts/1085692596892635">VCS English</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: KR</li>
+          <li>Team: T1 Esports Academy</li>
+          <li>Position: Jungler</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: DetonatioN FocusMe</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://www.facebook.com/vcsenglish/posts/1085692596892635</link>
+            <guid isPermaLink="false">2024-12-06-Guwon-T1 Esports Academy-DetonatioN FocusMe</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR → AME] StineR: FURIA Academy → Los Grandes]]></title>
             <description><![CDATA[
@@ -943,7 +1146,7 @@
             <title><![CDATA[[APAC] Tire: Baby Whales → Secret Whales]]></title>
             <description><![CDATA[
         <h3>[APAC] Tire: Baby Whales → Secret Whales</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tire">Tire</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
         
@@ -972,7 +1175,7 @@
             <title><![CDATA[[APAC] Hizto: Baby Whales → Secret Whales]]></title>
             <description><![CDATA[
         <h3>[APAC] Hizto: Baby Whales → Secret Whales</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hizto">Hizto</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
         
@@ -2647,209 +2850,6 @@
             <guid isPermaLink="false">2024-11-21-Daeny-Weibo Gaming-Invictus Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Wink: EDward Gaming → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Wink: EDward Gaming → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Wink">Wink</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: EDward Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/629048390.html</link>
-            <guid isPermaLink="false">2024-11-21-Wink-EDward Gaming-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Hang: LNG Esports → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Hang: LNG Esports → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Disproven</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hang">Hang</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: LNG Esports</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/629048390.html</link>
-            <guid isPermaLink="false">2024-11-21-Hang-LNG Esports-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Gala: LNG Esports → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Gala: LNG Esports → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Gala">Gala</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: LNG Esports</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/629048390.html</link>
-            <guid isPermaLink="false">2024-11-21-Gala-LNG Esports-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] JieJie: EDward Gaming → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] JieJie: EDward Gaming → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/JieJie">JieJie</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: EDward Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/629048390.html</link>
-            <guid isPermaLink="false">2024-11-21-JieJie-EDward Gaming-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rookie">Rookie</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Ninjas in Pyjamas.CN</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/629048390.html</link>
-            <guid isPermaLink="false">2024-11-21-Rookie-Ninjas in Pyjamas.CN-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → CN] TheShy: Free Agent → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[KR → CN] TheShy: Free Agent → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/TheShy">TheShy</a></p>
-        <p><strong>Source:</strong> <a href="https://bbs.hupu.com/629048390.html">Yan "Letme" Jun-Ze</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://bbs.hupu.com/629048390.html</link>
-            <guid isPermaLink="false">2024-11-21-TheShy-Free Agent-Invictus Gaming</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] Karsa: CTBC Flying Oyster → PSG Talon]]></title>
-            <description><![CDATA[
-        <h3>[APAC] Karsa: CTBC Flying Oyster → PSG Talon</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Karsa">Karsa</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1859601774568669209?s=46">VCS English</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: CTBC Flying Oyster</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: PSG Talon</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://x.com/vcs_english/status/1859601774568669209?s=46</link>
-            <guid isPermaLink="false">2024-11-21-Karsa-CTBC Flying Oyster-PSG Talon</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
