@@ -917,8 +917,8 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Team Whales",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Whaleslogo_std.png/revision/latest?cb=20221216170503"
+        "name": "Secret Whales",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Mid Laner"
     }
@@ -945,8 +945,8 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Team Whales",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Whaleslogo_std.png/revision/latest?cb=20221216170503"
+        "name": "Secret Whales",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Jungler"
     }
@@ -1029,7 +1029,7 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Vikings Esports (2023 Vietnamese Team)",
+        "name": "MGN Vikings Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
       },
       "position": "Support"
@@ -2505,16 +2505,16 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "MGN Box Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9b/MGN_Box_Esportslogo_std.png/revision/latest?cb=20230224080404"
+        "name": "MGN Blue Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/MGN_Blue_Esportslogo_std.png/revision/latest?cb=20240108192112"
       },
       "position": "Top Laner"
     },
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Team Whales",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Whaleslogo_std.png/revision/latest?cb=20221216170503"
+        "name": "Secret Whales",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Top Laner"
     }

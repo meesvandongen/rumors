@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Dec 2024 04:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 08:03:55 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Dec 2024 04:03:30 GMT</pubDate>
+        <pubDate>Fri, 06 Dec 2024 08:03:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -940,9 +940,9 @@
             <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Tire: Baby Whales → Team Whales]]></title>
+            <title><![CDATA[[APAC] Tire: Baby Whales → Secret Whales]]></title>
             <description><![CDATA[
-        <h3>[APAC] Tire: Baby Whales → Team Whales</h3>
+        <h3>[APAC] Tire: Baby Whales → Secret Whales</h3>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tire">Tire</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
@@ -957,21 +957,21 @@
         <h4>To:</h4>
         <ul>
           <li>Region: APAC</li>
-          <li>Team: Team Whales</li>
+          <li>Team: Secret Whales</li>
           <li>Position: Mid Laner</li>
         </ul>
       ]]></description>
             <link>https://www.facebook.com/photo/?fbid=1080376890757539&amp;set=a.514490954012805</link>
-            <guid isPermaLink="false">2024-11-29-Tire-Baby Whales-Team Whales</guid>
+            <guid isPermaLink="false">2024-11-29-Tire-Baby Whales-Secret Whales</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Hizto: Baby Whales → Team Whales]]></title>
+            <title><![CDATA[[APAC] Hizto: Baby Whales → Secret Whales]]></title>
             <description><![CDATA[
-        <h3>[APAC] Hizto: Baby Whales → Team Whales</h3>
+        <h3>[APAC] Hizto: Baby Whales → Secret Whales</h3>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hizto">Hizto</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
@@ -986,12 +986,12 @@
         <h4>To:</h4>
         <ul>
           <li>Region: APAC</li>
-          <li>Team: Team Whales</li>
+          <li>Team: Secret Whales</li>
           <li>Position: Jungler</li>
         </ul>
       ]]></description>
             <link>https://www.facebook.com/photo/?fbid=1080376890757539&amp;set=a.514490954012805</link>
-            <guid isPermaLink="false">2024-11-29-Hizto-Baby Whales-Team Whales</guid>
+            <guid isPermaLink="false">2024-11-29-Hizto-Baby Whales-Secret Whales</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -1056,9 +1056,9 @@
             <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] SiuLoong: Baby Whales → Vikings Esports (2023 Vietnamese Team)]]></title>
+            <title><![CDATA[[APAC] SiuLoong: Baby Whales → MGN Vikings Esports]]></title>
             <description><![CDATA[
-        <h3>[APAC] SiuLoong: Baby Whales → Vikings Esports (2023 Vietnamese Team)</h3>
+        <h3>[APAC] SiuLoong: Baby Whales → MGN Vikings Esports</h3>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/SiuLoong">SiuLoong</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080172837444611&set=a.514490940679473">VCS English</a></p>
@@ -1073,12 +1073,12 @@
         <h4>To:</h4>
         <ul>
           <li>Region: APAC</li>
-          <li>Team: Vikings Esports (2023 Vietnamese Team)</li>
+          <li>Team: MGN Vikings Esports</li>
           <li>Position: Support</li>
         </ul>
       ]]></description>
             <link>https://www.facebook.com/photo/?fbid=1080172837444611&amp;set=a.514490940679473</link>
-            <guid isPermaLink="false">2024-11-28-SiuLoong-Baby Whales-Vikings Esports (2023 Vietnamese Team)</guid>
+            <guid isPermaLink="false">2024-11-28-SiuLoong-Baby Whales-MGN Vikings Esports</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -2593,9 +2593,9 @@
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Rigel: MGN Box Esports → Team Whales]]></title>
+            <title><![CDATA[[APAC] Rigel: MGN Blue Esports → Secret Whales]]></title>
             <description><![CDATA[
-        <h3>[APAC] Rigel: MGN Box Esports → Team Whales</h3>
+        <h3>[APAC] Rigel: MGN Blue Esports → Secret Whales</h3>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rigel_(%C4%90%C3%A0o_V%C4%83n_Tu%E1%BA%A5n)">Rigel</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo?fbid=1074578708004024&set=a.514490954012805">VCS English</a></p>
@@ -2603,19 +2603,19 @@
         <h4>From:</h4>
         <ul>
           <li>Region: APAC</li>
-          <li>Team: MGN Box Esports</li>
+          <li>Team: MGN Blue Esports</li>
           <li>Position: Top Laner</li>
         </ul>
         
         <h4>To:</h4>
         <ul>
           <li>Region: APAC</li>
-          <li>Team: Team Whales</li>
+          <li>Team: Secret Whales</li>
           <li>Position: Top Laner</li>
         </ul>
       ]]></description>
             <link>https://www.facebook.com/photo?fbid=1074578708004024&amp;set=a.514490954012805</link>
-            <guid isPermaLink="false">2024-11-21-Rigel-MGN Box Esports-Team Whales</guid>
+            <guid isPermaLink="false">2024-11-21-Rigel-MGN Blue Esports-Secret Whales</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
