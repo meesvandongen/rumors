@@ -4,13 +4,42 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Dec 2024 20:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 00:11:55 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Dec 2024 20:03:18 GMT</pubDate>
+        <pubDate>Sat, 07 Dec 2024 00:11:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Slayer: GIANTX Academy → Austrian Force willhaben]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Slayer: GIANTX Academy → Austrian Force willhaben</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Slayer_(Ivan_Bilous)">Slayer</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-slayer-set-to-join-austrian-force-willhaben-in-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: GIANTX Academy</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Austrian Force willhaben</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-slayer-set-to-join-austrian-force-willhaben-in-prime-league/en</link>
+            <guid isPermaLink="false">2024-12-06-Slayer-GIANTX Academy-Austrian Force willhaben</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[NA → AME] Dhokla: NRG → NTMR]]></title>
             <description><![CDATA[
@@ -2821,35 +2850,6 @@
             <guid isPermaLink="false">2024-11-21-XUN-Bilibili Gaming-JD Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN → KR] VicLa: Rare Atom → FearX]]></title>
-            <description><![CDATA[
-        <h3>[CN → KR] VicLa: Rare Atom → FearX</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/VicLa">VicLa</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1dGW9LlI">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Rare Atom</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: FearX</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P1dGW9LlI</link>
-            <guid isPermaLink="false">2024-11-21-VicLa-Rare Atom-FearX</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>

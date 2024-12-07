@@ -3,6 +3,34 @@
     "date": "2024-12-06",
     "status": "Rumor",
     "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-slayer-set-to-join-austrian-force-willhaben-in-prime-league/en"
+    },
+    "player": {
+      "name": "Slayer",
+      "url": "https://lol.fandom.com/wiki/Slayer_(Ivan_Bilous)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "GIANTX Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Austrian Force willhaben",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Austrian_Force_willhabenlogo_std.png/revision/latest?cb=20240707080358"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-06",
+    "status": "Rumor",
+    "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/articles/sources-ntmr-to-enter-league-of-legends-dhokla-set-to-join-for-2025/en"
     },
@@ -2713,34 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1dGW9LlI"
-    },
-    "player": {
-      "name": "VicLa",
-      "url": "https://lol.fandom.com/wiki/VicLa"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Rare Atom",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e1/Rare_Atomlogo_std.png/revision/latest?cb=20210103155450"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "KR",
-      "team": {
-        "name": "FearX",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/FearXlogo_std.png/revision/latest?cb=20231216061333"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
