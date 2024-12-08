@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Dec 2024 08:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 12:04:19 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Dec 2024 08:03:28 GMT</pubDate>
+        <pubDate>Sun, 08 Dec 2024 12:04:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -505,10 +505,10 @@
             <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[KR → APAC] Chika: DRX Shinhan Bank → Vikings Esports (2023 Vietnamese Team)]]></title>
+            <title><![CDATA[[KR → APAC] Chika: DRX Shinhan Bank → MGN Vikings Esports]]></title>
             <description><![CDATA[
-        <h3>[KR → APAC] Chika: DRX Shinhan Bank → Vikings Esports (2023 Vietnamese Team)</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <h3>[KR → APAC] Chika: DRX Shinhan Bank → MGN Vikings Esports</h3>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Chika">Chika</a></p>
         <p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1863962285552873542">VCS English</a></p>
         
@@ -522,12 +522,12 @@
         <h4>To:</h4>
         <ul>
           <li>Region: APAC</li>
-          <li>Team: Vikings Esports (2023 Vietnamese Team)</li>
+          <li>Team: MGN Vikings Esports</li>
           <li>Position: Mid Laner</li>
         </ul>
       ]]></description>
             <link>https://x.com/vcs_english/status/1863962285552873542</link>
-            <guid isPermaLink="false">2024-12-03-Chika-DRX Shinhan Bank-Vikings Esports (2023 Vietnamese Team)</guid>
+            <guid isPermaLink="false">2024-12-03-Chika-DRX Shinhan Bank-MGN Vikings Esports</guid>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -592,9 +592,9 @@
             <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Kati: Vikings Esports (2023 Vietnamese Team) → Free Agent]]></title>
+            <title><![CDATA[[APAC] Kati: MGN Vikings Esports → Free Agent]]></title>
             <description><![CDATA[
-        <h3>[APAC] Kati: Vikings Esports (2023 Vietnamese Team) → Free Agent</h3>
+        <h3>[APAC] Kati: MGN Vikings Esports → Free Agent</h3>
         <p><strong>Status:</strong> Rumor</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kati">Kati</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1082739220521306&set=a.514490940679473">VCS English</a></p>
@@ -602,7 +602,7 @@
         <h4>From:</h4>
         <ul>
           <li>Region: APAC</li>
-          <li>Team: Vikings Esports (2023 Vietnamese Team)</li>
+          <li>Team: MGN Vikings Esports</li>
           <li>Position: Mid Laner</li>
         </ul>
         
@@ -614,7 +614,7 @@
         </ul>
       ]]></description>
             <link>https://www.facebook.com/photo/?fbid=1082739220521306&amp;set=a.514490940679473</link>
-            <guid isPermaLink="false">2024-12-02-Kati-Vikings Esports (2023 Vietnamese Team)-Free Agent</guid>
+            <guid isPermaLink="false">2024-12-02-Kati-MGN Vikings Esports-Free Agent</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -1349,7 +1349,7 @@
             <title><![CDATA[[APAC] SiuLoong: Baby Whales → MGN Vikings Esports]]></title>
             <description><![CDATA[
         <h3>[APAC] SiuLoong: Baby Whales → MGN Vikings Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/SiuLoong">SiuLoong</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080172837444611&set=a.514490940679473">VCS English</a></p>
         

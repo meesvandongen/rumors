@@ -477,7 +477,7 @@
   },
   {
     "date": "2024-12-03",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "VCS English",
       "url": "https://x.com/vcs_english/status/1863962285552873542"
@@ -497,7 +497,7 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Vikings Esports (2023 Vietnamese Team)",
+        "name": "MGN Vikings Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
       },
       "position": "Mid Laner"
@@ -573,7 +573,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Vikings Esports (2023 Vietnamese Team)",
+        "name": "MGN Vikings Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
       },
       "position": "Mid Laner"
@@ -1289,7 +1289,7 @@
   },
   {
     "date": "2024-11-28",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "VCS English",
       "url": "https://www.facebook.com/photo/?fbid=1080172837444611&set=a.514490940679473"
