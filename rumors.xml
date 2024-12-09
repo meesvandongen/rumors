@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Dec 2024 12:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 16:03:34 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Dec 2024 12:05:02 GMT</pubDate>
+        <pubDate>Mon, 09 Dec 2024 16:03:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -595,7 +595,7 @@
             <title><![CDATA[[APAC] Kati: MGN Vikings Esports → Free Agent]]></title>
             <description><![CDATA[
         <h3>[APAC] Kati: MGN Vikings Esports → Free Agent</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Disproven</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kati">Kati</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1082739220521306&set=a.514490940679473">VCS English</a></p>
         
