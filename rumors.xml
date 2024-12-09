@@ -4,13 +4,100 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Dec 2024 16:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 20:03:31 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Dec 2024 16:03:34 GMT</pubDate>
+        <pubDate>Mon, 09 Dec 2024 20:03:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[BR → AME] StineR: FURIA Academy → W7m esports]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] StineR: FURIA Academy → W7m esports</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/StineR">StineR</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866148543154823354">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: FURIA Academy</li>
+          <li>Position: Jungler</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: W7m esports</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1866148543154823354</link>
+            <guid isPermaLink="false">2024-12-09-StineR-FURIA Academy-W7m esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Shini: Fluxo → Free Agent]]></title>
+            <description><![CDATA[
+        <h3>[BR → AME] Shini: Fluxo → Free Agent</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Shini">Shini</a></p>
+        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866148543154823354">Luis "Showtana" Santana</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: BR</li>
+          <li>Team: Fluxo</li>
+          <li>Position: Jungler</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: AME</li>
+          <li>Team: Free Agent</li>
+          <li>Position: Jungler</li>
+        </ul>
+      ]]></description>
+            <link>https://x.com/luisshowtana/status/1866148543154823354</link>
+            <guid isPermaLink="false">2024-12-09-Shini-Fluxo-Free Agent</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] SwordArt: TBD → MGN Vikings Esports]]></title>
+            <description><![CDATA[
+        <h3>[APAC] SwordArt: TBD → MGN Vikings Esports</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/SwordArt">SwordArt</a></p>
+        <p><strong>Source:</strong> <a href="https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523">MGN VKE</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: TBD</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: MGN Vikings Esports</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523</link>
+            <guid isPermaLink="false">2024-12-09-SwordArt-TBD-MGN Vikings Esports</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Slayer: GIANTX Academy → Austrian Force willhaben]]></title>
             <description><![CDATA[
@@ -2761,93 +2848,6 @@
       ]]></description>
             <link>https://weibo.com/1992350413/P1jqgAmxY</link>
             <guid isPermaLink="false">2024-11-21-knight-Bilibili Gaming-Bilibili Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Wei: Bilibili Gaming → Bilibili Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Wei: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Wei_(Yan_Yang-Wei)">Wei</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P1jqgAmxY</link>
-            <guid isPermaLink="false">2024-11-21-Wei-Bilibili Gaming-Bilibili Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Bin: Bilibili Gaming → Bilibili Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Bin: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Bin_(Chen_Ze-Bin)">Bin</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P1jqgAmxY</link>
-            <guid isPermaLink="false">2024-11-21-Bin-Bilibili Gaming-Bilibili Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Xun: Bilibili Gaming → JD Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Xun: Bilibili Gaming → JD Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Xun">Xun</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: JD Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P1jqgAmxY</link>
-            <guid isPermaLink="false">2024-11-21-Xun-Bilibili Gaming-JD Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>

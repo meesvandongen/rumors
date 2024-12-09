@@ -1,5 +1,89 @@
 [
   {
+    "date": "2024-12-09",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1866148543154823354"
+    },
+    "player": {
+      "name": "StineR",
+      "url": "https://lol.fandom.com/wiki/StineR"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "FURIA Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/FURIAlogo_std.png/revision/latest?cb=20200121190808"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "W7m esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-09",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1866148543154823354"
+    },
+    "player": {
+      "name": "Shini",
+      "url": "https://lol.fandom.com/wiki/Shini"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-09",
+    "status": "Rumor",
+    "source": {
+      "name": "MGN VKE",
+      "url": "https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523"
+    },
+    "player": {
+      "name": "SwordArt",
+      "url": "https://lol.fandom.com/wiki/SwordArt"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "TBD",
+        "image": "https://static.wikia.nocookie.net/ucp-internal-test-commons-esports/images/9/9d/TBDlogo_std.png/revision/latest?cb=20200819101512"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "MGN Vikings Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
+      },
+      "position": "Support"
+    }
+  },
+  {
     "date": "2024-12-06",
     "status": "Rumor",
     "source": {
@@ -2657,90 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
       },
       "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jqgAmxY"
-    },
-    "player": {
-      "name": "Wei",
-      "url": "https://lol.fandom.com/wiki/Wei_(Yan_Yang-Wei)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jqgAmxY"
-    },
-    "player": {
-      "name": "Bin",
-      "url": "https://lol.fandom.com/wiki/Bin_(Chen_Ze-Bin)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jqgAmxY"
-    },
-    "player": {
-      "name": "Xun",
-      "url": "https://lol.fandom.com/wiki/Xun"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "JD Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
-      },
-      "position": "Jungler"
     }
   }
 ]
