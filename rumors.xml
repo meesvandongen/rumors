@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Dec 2024 04:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 08:04:17 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Dec 2024 04:03:55 GMT</pubDate>
+        <pubDate>Mon, 09 Dec 2024 08:04:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -2825,11 +2825,11 @@
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[CN] XUN: Bilibili Gaming → JD Gaming]]></title>
+            <title><![CDATA[[CN] Xun: Bilibili Gaming → JD Gaming]]></title>
             <description><![CDATA[
-        <h3>[CN] XUN: Bilibili Gaming → JD Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/XUN">XUN</a></p>
+        <h3>[CN] Xun: Bilibili Gaming → JD Gaming</h3>
+        <p><strong>Status:</strong> Confirmed!</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Xun">Xun</a></p>
         <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
         
         <h4>From:</h4>
@@ -2847,7 +2847,7 @@
         </ul>
       ]]></description>
             <link>https://weibo.com/1992350413/P1jqgAmxY</link>
-            <guid isPermaLink="false">2024-11-21-XUN-Bilibili Gaming-JD Gaming</guid>
+            <guid isPermaLink="false">2024-11-21-Xun-Bilibili Gaming-JD Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
