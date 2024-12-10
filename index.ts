@@ -142,28 +142,24 @@ async function fetchRumors() {
 					? rumor.from.region
 					: `${rumor.from.region} → ${rumor.to.region}`;
 
-			const title = `[${regionChange}] ${rumor.player.name}: ${rumor.from.team.name} → ${rumor.to.team.name}`;
+			const positionChange =
+				rumor.from.position === rumor.to.position
+					? rumor.from.position
+					: `${rumor.from.position} → ${rumor.to.position}`;
 
-			const description = `
-        <h3>${title}</h3>
-        <p><strong>Status:</strong> ${rumor.status}</p>
-        <p><strong>Player:</strong> <a href="${rumor.player.url}">${rumor.player.name}</a></p>
-        <p><strong>Source:</strong> <a href="${rumor.source.url}">${rumor.source.name}</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: ${rumor.from.region}</li>
-          <li>Team: ${rumor.from.team.name}</li>
-          <li>Position: ${rumor.from.position}</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: ${rumor.to.region}</li>
-          <li>Team: ${rumor.to.team.name}</li>
-          <li>Position: ${rumor.to.position}</li>
-        </ul>
-      `;
+			const teamChange =
+				rumor.from.team.name === rumor.to.team.name
+					? rumor.from.team.name
+					: `${rumor.from.team.name} → ${rumor.to.team.name}`;
+
+			const title = `[${regionChange}] ${rumor.player.name}: ${teamChange}`;
+
+			const description = `<p>${rumor.status}</p>
+<p><a href="${rumor.player.url}">${rumor.player.name}</a> (${positionChange})</p>
+<p>${teamChange}</p>
+<p>${regionChange}</p>
+<p><strong>Source:</strong> <a href="${rumor.source.url}">${rumor.source.name}</a></p>
+`;
 
 			feed.item({
 				title,

@@ -4,35 +4,21 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Dec 2024 20:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 20:13:31 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Dec 2024 20:03:24 GMT</pubDate>
+        <pubDate>Tue, 10 Dec 2024 20:13:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
         <item>
             <title><![CDATA[[EMEA] HungryPanda: Team Phantasma → Austrian Force willhaben]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] HungryPanda: Team Phantasma → Austrian Force willhaben</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/HungryPanda">HungryPanda</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-hungrypanda-set-to-join-austrian-force-willhaben-in-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Team Phantasma</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Austrian Force willhaben</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/HungryPanda">HungryPanda</a> (Support)</p>
+<p>Team Phantasma → Austrian Force willhaben</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-hungrypanda-set-to-join-austrian-force-willhaben-in-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-hungrypanda-set-to-join-austrian-force-willhaben-in-prime-league/en</link>
             <guid isPermaLink="false">2024-12-10-HungryPanda-Team Phantasma-Austrian Force willhaben</guid>
             <category><![CDATA[EMEA]]></category>
@@ -42,26 +28,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Jactroll: Free Agent → Zero Tenacity]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Jactroll: Free Agent → Zero Tenacity</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Jactroll">Jactroll</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Zero Tenacity</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Jactroll">Jactroll</a> (Support)</p>
+<p>Free Agent → Zero Tenacity</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en</link>
             <guid isPermaLink="false">2024-12-10-Jactroll-Free Agent-Zero Tenacity</guid>
             <category><![CDATA[EMEA]]></category>
@@ -71,26 +43,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Woolite: Austrian Force willhaben → Zero Tenacity]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Woolite: Austrian Force willhaben → Zero Tenacity</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Woolite">Woolite</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Austrian Force willhaben</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Zero Tenacity</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Woolite">Woolite</a> (Bot Laner)</p>
+<p>Austrian Force willhaben → Zero Tenacity</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en</link>
             <guid isPermaLink="false">2024-12-10-Woolite-Austrian Force willhaben-Zero Tenacity</guid>
             <category><![CDATA[EMEA]]></category>
@@ -100,26 +58,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] TIFA: Vitality Rising Bees → Galions Pearl]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] TIFA: Vitality Rising Bees → Galions Pearl</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/TIFA">TIFA</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tifa-reaches-verbal-agreement-with-galions-pearl/en">Armand Luque</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Vitality Rising Bees</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Galions Pearl</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/TIFA">TIFA</a> (Mid Laner)</p>
+<p>Vitality Rising Bees → Galions Pearl</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tifa-reaches-verbal-agreement-with-galions-pearl/en">Armand Luque</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-tifa-reaches-verbal-agreement-with-galions-pearl/en</link>
             <guid isPermaLink="false">2024-12-10-TIFA-Vitality Rising Bees-Galions Pearl</guid>
             <category><![CDATA[EMEA]]></category>
@@ -129,26 +73,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] StineR: FURIA Academy → W7m esports]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] StineR: FURIA Academy → W7m esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/StineR">StineR</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866148543154823354">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: FURIA Academy</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: W7m esports</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/StineR">StineR</a> (Jungler)</p>
+<p>FURIA Academy → W7m esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866148543154823354">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1866148543154823354</link>
             <guid isPermaLink="false">2024-12-09-StineR-FURIA Academy-W7m esports</guid>
             <category><![CDATA[BR]]></category>
@@ -158,26 +88,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Shini: Fluxo → Free Agent]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Shini: Fluxo → Free Agent</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Shini">Shini</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866148543154823354">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: Fluxo</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Shini">Shini</a> (Jungler)</p>
+<p>Fluxo → Free Agent</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866148543154823354">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1866148543154823354</link>
             <guid isPermaLink="false">2024-12-09-Shini-Fluxo-Free Agent</guid>
             <category><![CDATA[BR]]></category>
@@ -187,26 +103,12 @@
         </item>
         <item>
             <title><![CDATA[[APAC] SwordArt: CTBC Flying Oyster → MGN Vikings Esports]]></title>
-            <description><![CDATA[
-        <h3>[APAC] SwordArt: CTBC Flying Oyster → MGN Vikings Esports</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/SwordArt">SwordArt</a></p>
-        <p><strong>Source:</strong> <a href="https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523">MGN VKE</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: CTBC Flying Oyster</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: MGN Vikings Esports</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/SwordArt">SwordArt</a> (Support)</p>
+<p>CTBC Flying Oyster → MGN Vikings Esports</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523">MGN VKE</a></p>
+]]></description>
             <link>https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523</link>
             <guid isPermaLink="false">2024-12-09-SwordArt-CTBC Flying Oyster-MGN Vikings Esports</guid>
             <category><![CDATA[APAC]]></category>
@@ -216,26 +118,12 @@
         </item>
         <item>
             <title><![CDATA[[APAC → CN] 1Jiang: Frank Esports → LoL Pro League]]></title>
-            <description><![CDATA[
-        <h3>[APAC → CN] 1Jiang: Frank Esports → LoL Pro League</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/1Jiang">1Jiang</a></p>
-        <p><strong>Source:</strong> <a href="https://youtu.be/0_1GyQM23cM?si=NohMw9dYPwAp6mYf&t=445">Hsu "Yuwan" Chi-Chun</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: Frank Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: LoL Pro League</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/1Jiang">1Jiang</a> (Top Laner)</p>
+<p>Frank Esports → LoL Pro League</p>
+<p>APAC → CN</p>
+<p><strong>Source:</strong> <a href="https://youtu.be/0_1GyQM23cM?si=NohMw9dYPwAp6mYf&t=445">Hsu "Yuwan" Chi-Chun</a></p>
+]]></description>
             <link>https://youtu.be/0_1GyQM23cM?si=NohMw9dYPwAp6mYf&amp;t=445</link>
             <guid isPermaLink="false">2024-12-08-1Jiang-Frank Esports-LoL Pro League</guid>
             <category><![CDATA[APAC]]></category>
@@ -245,26 +133,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Slayer: GIANTX Academy → Austrian Force willhaben]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Slayer: GIANTX Academy → Austrian Force willhaben</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Slayer_(Ivan_Bilous)">Slayer</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-slayer-set-to-join-austrian-force-willhaben-in-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: GIANTX Academy</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Austrian Force willhaben</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Slayer_(Ivan_Bilous)">Slayer</a> (Top Laner)</p>
+<p>GIANTX Academy → Austrian Force willhaben</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-slayer-set-to-join-austrian-force-willhaben-in-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-slayer-set-to-join-austrian-force-willhaben-in-prime-league/en</link>
             <guid isPermaLink="false">2024-12-06-Slayer-GIANTX Academy-Austrian Force willhaben</guid>
             <category><![CDATA[EMEA]]></category>
@@ -274,26 +148,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Dhokla: NRG → NTMR]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Dhokla: NRG → NTMR</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Dhokla">Dhokla</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-ntmr-to-enter-league-of-legends-dhokla-set-to-join-for-2025/en">LCS Eevee</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: NRG</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: NTMR</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Dhokla">Dhokla</a> (Top Laner)</p>
+<p>NRG → NTMR</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-ntmr-to-enter-league-of-legends-dhokla-set-to-join-for-2025/en">LCS Eevee</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-ntmr-to-enter-league-of-legends-dhokla-set-to-join-for-2025/en</link>
             <guid isPermaLink="false">2024-12-06-Dhokla-NRG-NTMR</guid>
             <category><![CDATA[NA]]></category>
@@ -303,26 +163,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Neon: SK Gaming Prime → Beşiktaş Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Neon: SK Gaming Prime → Beşiktaş Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Neon_(Mat%C3%BA%C5%A1_Jakub%C4%8D%C3%ADk)">Neon</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-neon-set-to-join-besiktas-esports-in-the-tcl/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: SK Gaming Prime</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Beşiktaş Esports</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Neon_(Mat%C3%BA%C5%A1_Jakub%C4%8D%C3%ADk)">Neon</a> (Bot Laner)</p>
+<p>SK Gaming Prime → Beşiktaş Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-neon-set-to-join-besiktas-esports-in-the-tcl/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-neon-set-to-join-besiktas-esports-in-the-tcl/en</link>
             <guid isPermaLink="false">2024-12-06-Neon-SK Gaming Prime-Beşiktaş Esports</guid>
             <category><![CDATA[EMEA]]></category>
@@ -332,26 +178,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Tao: The Gulls Esports → Karmine Corp Blue Stars]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Tao: The Gulls Esports → Karmine Corp Blue Stars</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tao_(Xu_Hongtao_Alessandro)">Tao</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tao-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: The Gulls Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Karmine Corp Blue Stars</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Tao_(Xu_Hongtao_Alessandro)">Tao</a> (Top Laner)</p>
+<p>The Gulls Esports → Karmine Corp Blue Stars</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tao-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-tao-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en</link>
             <guid isPermaLink="false">2024-12-06-Tao-The Gulls Esports-Karmine Corp Blue Stars</guid>
             <category><![CDATA[EMEA]]></category>
@@ -360,27 +192,13 @@
             <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA] ZaZee: Eintracht Frankfurt → Eintracht Frankfurt]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] ZaZee: Eintracht Frankfurt → Eintracht Frankfurt</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ZaZee">ZaZee</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Eintracht Frankfurt</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Eintracht Frankfurt</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <title><![CDATA[[EMEA] ZaZee: Eintracht Frankfurt]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/ZaZee">ZaZee</a> (Mid Laner)</p>
+<p>Eintracht Frankfurt</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en</link>
             <guid isPermaLink="false">2024-12-06-ZaZee-Eintracht Frankfurt-Eintracht Frankfurt</guid>
             <category><![CDATA[EMEA]]></category>
@@ -390,26 +208,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Sacre: FC Schalke 04 Esports → Eintracht Frankfurt]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Sacre: FC Schalke 04 Esports → Eintracht Frankfurt</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Sacre">Sacre</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: FC Schalke 04 Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Eintracht Frankfurt</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Sacre">Sacre</a> (Top Laner)</p>
+<p>FC Schalke 04 Esports → Eintracht Frankfurt</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en</link>
             <guid isPermaLink="false">2024-12-06-Sacre-FC Schalke 04 Esports-Eintracht Frankfurt</guid>
             <category><![CDATA[EMEA]]></category>
@@ -419,26 +223,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Reptile: Free Agent → Logo std]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Reptile: Free Agent → Logo std</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Reptile">Reptile</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Logo std</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Reptile">Reptile</a> (Bot Laner)</p>
+<p>Free Agent → Logo std</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en</link>
             <guid isPermaLink="false">2024-12-06-Reptile-Free Agent-Logo std</guid>
             <category><![CDATA[EMEA]]></category>
@@ -448,26 +238,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Agurin: No Need Orga → Logo std]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Agurin: No Need Orga → Logo std</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Agurin">Agurin</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: No Need Orga</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Logo std</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Agurin">Agurin</a> (Jungler)</p>
+<p>No Need Orga → Logo std</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en</link>
             <guid isPermaLink="false">2024-12-06-Agurin-No Need Orga-Logo std</guid>
             <category><![CDATA[EMEA]]></category>
@@ -477,26 +253,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Zeniv: NNOwO → G2 Hel]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Zeniv: NNOwO → G2 Hel</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Zeniv">Zeniv</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeniv-set-to-join-g2-hel-in-2025/en">Armand Luque</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: NNOwO</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: G2 Hel</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Zeniv">Zeniv</a> (Top Laner)</p>
+<p>NNOwO → G2 Hel</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeniv-set-to-join-g2-hel-in-2025/en">Armand Luque</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-zeniv-set-to-join-g2-hel-in-2025/en</link>
             <guid isPermaLink="false">2024-12-06-Zeniv-NNOwO-G2 Hel</guid>
             <category><![CDATA[EMEA]]></category>
@@ -506,26 +268,12 @@
         </item>
         <item>
             <title><![CDATA[[KR → APAC] Guwon: T1 Esports Academy → DetonatioN FocusMe]]></title>
-            <description><![CDATA[
-        <h3>[KR → APAC] Guwon: T1 Esports Academy → DetonatioN FocusMe</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Guwon">Guwon</a></p>
-        <p><strong>Source:</strong> <a href="https://www.facebook.com/vcsenglish/posts/1085692596892635">VCS English</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: T1 Esports Academy</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: DetonatioN FocusMe</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Guwon">Guwon</a> (Jungler)</p>
+<p>T1 Esports Academy → DetonatioN FocusMe</p>
+<p>KR → APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/vcsenglish/posts/1085692596892635">VCS English</a></p>
+]]></description>
             <link>https://www.facebook.com/vcsenglish/posts/1085692596892635</link>
             <guid isPermaLink="false">2024-12-06-Guwon-T1 Esports Academy-DetonatioN FocusMe</guid>
             <category><![CDATA[KR]]></category>
@@ -535,26 +283,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] StineR: FURIA Academy → Los Grandes]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] StineR: FURIA Academy → Los Grandes</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/StineR">StineR</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/portaldalosgg/status/1864785018595209621">Portal LOS</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: FURIA Academy</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Los Grandes</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/StineR">StineR</a> (Jungler)</p>
+<p>FURIA Academy → Los Grandes</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/portaldalosgg/status/1864785018595209621">Portal LOS</a></p>
+]]></description>
             <link>https://x.com/portaldalosgg/status/1864785018595209621</link>
             <guid isPermaLink="false">2024-12-05-StineR-FURIA Academy-Los Grandes</guid>
             <category><![CDATA[BR]]></category>
@@ -564,26 +298,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] F1RE: Rebels Gaming → ZETA]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] F1RE: Rebels Gaming → ZETA</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/F1RE">F1RE</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en">Marian "Eros" Stoica</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Rebels Gaming</li>
-          <li>Position: Head Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: ZETA</li>
-          <li>Position: Head Coach</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/F1RE">F1RE</a> (Head Coach)</p>
+<p>Rebels Gaming → ZETA</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en">Marian "Eros" Stoica</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en</link>
             <guid isPermaLink="false">2024-12-04-F1RE-Rebels Gaming-ZETA</guid>
             <category><![CDATA[EMEA]]></category>
@@ -592,27 +312,13 @@
             <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA] ElOjoNinja: ZETA → ZETA]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] ElOjoNinja: ZETA → ZETA</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ElOjoNinja">ElOjoNinja</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en">Marian "Eros" Stoica</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: ZETA</li>
-          <li>Position: Content Creator</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: ZETA</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <title><![CDATA[[EMEA] ElOjoNinja: ZETA]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/ElOjoNinja">ElOjoNinja</a> (Content Creator → Jungler)</p>
+<p>ZETA</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en">Marian "Eros" Stoica</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en</link>
             <guid isPermaLink="false">2024-12-04-ElOjoNinja-ZETA-ZETA</guid>
             <category><![CDATA[EMEA]]></category>
@@ -622,26 +328,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Pepiinero: Free Agent → ZETA]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Pepiinero: Free Agent → ZETA</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Pepiinero">Pepiinero</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en">Marian "Eros" Stoica</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: ZETA</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Pepiinero">Pepiinero</a> (Bot Laner → Mid Laner)</p>
+<p>Free Agent → ZETA</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en">Marian "Eros" Stoica</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en</link>
             <guid isPermaLink="false">2024-12-04-Pepiinero-Free Agent-ZETA</guid>
             <category><![CDATA[EMEA]]></category>
@@ -650,27 +342,13 @@
             <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[NA → AME] Isles: Dignitas → Dignitas]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Isles: Dignitas → Dignitas</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Isles">Isles</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-isles-set-to-remain-with-dignitas-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Dignitas</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Dignitas</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <title><![CDATA[[NA → AME] Isles: Dignitas]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Isles">Isles</a> (Support)</p>
+<p>Dignitas</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-isles-set-to-remain-with-dignitas-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-isles-set-to-remain-with-dignitas-in-the-lta-north-conference/en</link>
             <guid isPermaLink="false">2024-12-04-Isles-Dignitas-Dignitas</guid>
             <category><![CDATA[NA]]></category>
@@ -680,26 +358,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Simpli: FC Schalke 04 Esports → Unicorns of Love Sexy Edition]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Simpli: FC Schalke 04 Esports → Unicorns of Love Sexy Edition</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Simpli">Simpli</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-simpli-set-to-complete-unicorns-of-lover-sexy-edition-s-roster/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: FC Schalke 04 Esports</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Unicorns of Love Sexy Edition</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Simpli">Simpli</a> (Mid Laner)</p>
+<p>FC Schalke 04 Esports → Unicorns of Love Sexy Edition</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-simpli-set-to-complete-unicorns-of-lover-sexy-edition-s-roster/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-simpli-set-to-complete-unicorns-of-lover-sexy-edition-s-roster/en</link>
             <guid isPermaLink="false">2024-12-03-Simpli-FC Schalke 04 Esports-Unicorns of Love Sexy Edition</guid>
             <category><![CDATA[EMEA]]></category>
@@ -709,26 +373,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Marvin: PaiN Gaming Academy → Vivo Keyd Stars Academy]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Marvin: PaiN Gaming Academy → Vivo Keyd Stars Academy</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Marvin">Marvin</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863988101741183468">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: PaiN Gaming Academy</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Vivo Keyd Stars Academy</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Marvin">Marvin</a> (Bot Laner)</p>
+<p>PaiN Gaming Academy → Vivo Keyd Stars Academy</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863988101741183468">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863988101741183468</link>
             <guid isPermaLink="false">2024-12-03-Marvin-PaiN Gaming Academy-Vivo Keyd Stars Academy</guid>
             <category><![CDATA[BR]]></category>
@@ -738,26 +388,12 @@
         </item>
         <item>
             <title><![CDATA[[KR → APAC] Chika: DRX Shinhan Bank → MGN Vikings Esports]]></title>
-            <description><![CDATA[
-        <h3>[KR → APAC] Chika: DRX Shinhan Bank → MGN Vikings Esports</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Chika">Chika</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1863962285552873542">VCS English</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: DRX Shinhan Bank</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: MGN Vikings Esports</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Chika">Chika</a> (Mid Laner)</p>
+<p>DRX Shinhan Bank → MGN Vikings Esports</p>
+<p>KR → APAC</p>
+<p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1863962285552873542">VCS English</a></p>
+]]></description>
             <link>https://x.com/vcs_english/status/1863962285552873542</link>
             <guid isPermaLink="false">2024-12-03-Chika-DRX Shinhan Bank-MGN Vikings Esports</guid>
             <category><![CDATA[KR]]></category>
@@ -767,26 +403,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] MathisV: Free Agent → Karmine Corp Blue Stars]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] MathisV: Free Agent → Karmine Corp Blue Stars</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/MathisV">MathisV</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Karmine Corp Blue Stars</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/MathisV">MathisV</a> (Mid Laner)</p>
+<p>Free Agent → Karmine Corp Blue Stars</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en</link>
             <guid isPermaLink="false">2024-12-03-MathisV-Free Agent-Karmine Corp Blue Stars</guid>
             <category><![CDATA[EMEA]]></category>
@@ -796,26 +418,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Shlatan: NNO Prime → Team BDS Academy]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Shlatan: NNO Prime → Team BDS Academy</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Shlatan">Shlatan</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-shlatan-set-to-join-team-bds-academy-in-the-lfl/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: NNO Prime</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Team BDS Academy</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Shlatan">Shlatan</a> (Jungler)</p>
+<p>NNO Prime → Team BDS Academy</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-shlatan-set-to-join-team-bds-academy-in-the-lfl/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-shlatan-set-to-join-team-bds-academy-in-the-lfl/en</link>
             <guid isPermaLink="false">2024-12-03-Shlatan-NNO Prime-Team BDS Academy</guid>
             <category><![CDATA[EMEA]]></category>
@@ -825,26 +433,12 @@
         </item>
         <item>
             <title><![CDATA[[APAC] Kati: MGN Vikings Esports → Free Agent]]></title>
-            <description><![CDATA[
-        <h3>[APAC] Kati: MGN Vikings Esports → Free Agent</h3>
-        <p><strong>Status:</strong> Disproven</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kati">Kati</a></p>
-        <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1082739220521306&set=a.514490940679473">VCS English</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: MGN Vikings Esports</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Disproven</p>
+<p><a href="https://lol.fandom.com/wiki/Kati">Kati</a> (Mid Laner)</p>
+<p>MGN Vikings Esports → Free Agent</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1082739220521306&set=a.514490940679473">VCS English</a></p>
+]]></description>
             <link>https://www.facebook.com/photo/?fbid=1082739220521306&amp;set=a.514490940679473</link>
             <guid isPermaLink="false">2024-12-02-Kati-MGN Vikings Esports-Free Agent</guid>
             <category><![CDATA[APAC]]></category>
@@ -854,26 +448,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Guigs: PaiN Gaming Academy → W7m esports]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Guigs: PaiN Gaming Academy → W7m esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Guigs">Guigs</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: PaiN Gaming Academy</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: W7m esports</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Guigs">Guigs</a> (Support)</p>
+<p>PaiN Gaming Academy → W7m esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863674265658417645</link>
             <guid isPermaLink="false">2024-12-02-Guigs-PaiN Gaming Academy-W7m esports</guid>
             <category><![CDATA[BR]]></category>
@@ -883,26 +463,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Marvin: PaiN Gaming Academy → W7m esports]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Marvin: PaiN Gaming Academy → W7m esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Marvin">Marvin</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: PaiN Gaming Academy</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: W7m esports</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Marvin">Marvin</a> (Bot Laner)</p>
+<p>PaiN Gaming Academy → W7m esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863674265658417645</link>
             <guid isPermaLink="false">2024-12-02-Marvin-PaiN Gaming Academy-W7m esports</guid>
             <category><![CDATA[BR]]></category>
@@ -912,26 +478,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Fuuu: Fluxo → W7m esports]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Fuuu: Fluxo → W7m esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Fuuu">Fuuu</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: Fluxo</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: W7m esports</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Fuuu">Fuuu</a> (Mid Laner)</p>
+<p>Fluxo → W7m esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863674265658417645</link>
             <guid isPermaLink="false">2024-12-02-Fuuu-Fluxo-W7m esports</guid>
             <category><![CDATA[BR]]></category>
@@ -941,26 +493,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Shini: Fluxo → W7m esports]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Shini: Fluxo → W7m esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Shini">Shini</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: Fluxo</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: W7m esports</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Shini">Shini</a> (Jungler)</p>
+<p>Fluxo → W7m esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863674265658417645</link>
             <guid isPermaLink="false">2024-12-02-Shini-Fluxo-W7m esports</guid>
             <category><![CDATA[BR]]></category>
@@ -970,26 +508,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Hidan: PaiN Gaming Academy → W7m esports]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Hidan: PaiN Gaming Academy → W7m esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hidan">Hidan</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: PaiN Gaming Academy</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: W7m esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Hidan">Hidan</a> (Top Laner)</p>
+<p>PaiN Gaming Academy → W7m esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863674265658417645</link>
             <guid isPermaLink="false">2024-12-02-Hidan-PaiN Gaming Academy-W7m esports</guid>
             <category><![CDATA[BR]]></category>
@@ -999,26 +523,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA → AME] Bong: Geekay Esports → Fluxo]]></title>
-            <description><![CDATA[
-        <h3>[EMEA → AME] Bong: Geekay Esports → Fluxo</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)">Bong</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Geekay Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Fluxo</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)">Bong</a> (Top Laner)</p>
+<p>Geekay Esports → Fluxo</p>
+<p>EMEA → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863674265658417645</link>
             <guid isPermaLink="false">2024-12-02-Bong-Geekay Esports-Fluxo</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1028,26 +538,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA → AME] HiRit: FUT Esports → Fluxo]]></title>
-            <description><![CDATA[
-        <h3>[EMEA → AME] HiRit: FUT Esports → Fluxo</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/HiRit">HiRit</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: FUT Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Fluxo</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/HiRit">HiRit</a> (Top Laner)</p>
+<p>FUT Esports → Fluxo</p>
+<p>EMEA → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863674265658417645</link>
             <guid isPermaLink="false">2024-12-02-HiRit-FUT Esports-Fluxo</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1057,26 +553,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Olleh: Immortals → Fluxo]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Olleh: Immortals → Fluxo</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Olleh">Olleh</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863602018507509832">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Immortals</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Fluxo</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Olleh">Olleh</a> (Support)</p>
+<p>Immortals → Fluxo</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863602018507509832">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863602018507509832</link>
             <guid isPermaLink="false">2024-12-02-Olleh-Immortals-Fluxo</guid>
             <category><![CDATA[NA]]></category>
@@ -1086,26 +568,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Smiley: Vivo Keyd Stars → Fluxo]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Smiley: Vivo Keyd Stars → Fluxo</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Smiley_(Ludvig_Granquist)">Smiley</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863602018507509832">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: Vivo Keyd Stars</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Fluxo</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Smiley_(Ludvig_Granquist)">Smiley</a> (Bot Laner)</p>
+<p>Vivo Keyd Stars → Fluxo</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863602018507509832">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1863602018507509832</link>
             <guid isPermaLink="false">2024-12-02-Smiley-Vivo Keyd Stars-Fluxo</guid>
             <category><![CDATA[BR]]></category>
@@ -1115,26 +583,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Dayos: Winthrop University → Luminosity Gaming]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Dayos: Winthrop University → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Dayos">Dayos</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Winthrop University</li>
-          <li>Position: Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Luminosity Gaming</li>
-          <li>Position: Head Coach</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Dayos">Dayos</a> (Coach → Head Coach)</p>
+<p>Winthrop University → Luminosity Gaming</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
             <guid isPermaLink="false">2024-12-02-Dayos-Winthrop University-Luminosity Gaming</guid>
             <category><![CDATA[NA]]></category>
@@ -1144,26 +598,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Tactical: Immortals → Luminosity Gaming]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Tactical: Immortals → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tactical">Tactical</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Immortals</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Luminosity Gaming</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Tactical">Tactical</a> (Bot Laner)</p>
+<p>Immortals → Luminosity Gaming</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
             <guid isPermaLink="false">2024-12-02-Tactical-Immortals-Luminosity Gaming</guid>
             <category><![CDATA[NA]]></category>
@@ -1173,26 +613,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Tomio: Shopify Rebellion → Luminosity Gaming]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Tomio: Shopify Rebellion → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tomio">Tomio</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Shopify Rebellion</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Luminosity Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Tomio">Tomio</a> (Jungler)</p>
+<p>Shopify Rebellion → Luminosity Gaming</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
             <guid isPermaLink="false">2024-12-02-Tomio-Shopify Rebellion-Luminosity Gaming</guid>
             <category><![CDATA[NA]]></category>
@@ -1202,26 +628,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] FakeGod: Shopify Rebellion → Luminosity Gaming]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] FakeGod: Shopify Rebellion → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/FakeGod">FakeGod</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Shopify Rebellion</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Luminosity Gaming</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/FakeGod">FakeGod</a> (Top Laner)</p>
+<p>Shopify Rebellion → Luminosity Gaming</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
             <guid isPermaLink="false">2024-12-02-FakeGod-Shopify Rebellion-Luminosity Gaming</guid>
             <category><![CDATA[NA]]></category>
@@ -1231,26 +643,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Hazel: LUA Gaming → Karmine Corp Blue Stars]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Hazel: LUA Gaming → Karmine Corp Blue Stars</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hazel_(Costin_Pestri%C8%9Bu)">Hazel</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-hazel-set-to-join-kc-blue-stars/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: LUA Gaming</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Karmine Corp Blue Stars</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Hazel_(Costin_Pestri%C8%9Bu)">Hazel</a> (Bot Laner)</p>
+<p>LUA Gaming → Karmine Corp Blue Stars</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-hazel-set-to-join-kc-blue-stars/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-hazel-set-to-join-kc-blue-stars/en</link>
             <guid isPermaLink="false">2024-12-01-Hazel-LUA Gaming-Karmine Corp Blue Stars</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1260,26 +658,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → EMEA] Malrang: KaBuM! Esports → Rogue (European Team)]]></title>
-            <description><![CDATA[
-        <h3>[BR → EMEA] Malrang: KaBuM! Esports → Rogue (European Team)</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Malrang">Malrang</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/rogue-malrang-returns-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: KaBuM! Esports</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Rogue (European Team)</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Malrang">Malrang</a> (Jungler)</p>
+<p>KaBuM! Esports → Rogue (European Team)</p>
+<p>BR → EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/rogue-malrang-returns-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/rogue-malrang-returns-lec/en</link>
             <guid isPermaLink="false">2024-12-01-Malrang-KaBuM! Esports-Rogue (European Team)</guid>
             <category><![CDATA[BR]]></category>
@@ -1289,26 +673,12 @@
         </item>
         <item>
             <title><![CDATA[[KR → EMEA] Execute: BNK FearX → Rogue (European Team)]]></title>
-            <description><![CDATA[
-        <h3>[KR → EMEA] Execute: BNK FearX → Rogue (European Team)</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Execute">Execute</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-execute-set-to-join-rogue-or-the-replacement-team-in-the-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: BNK FearX</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Rogue (European Team)</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Execute">Execute</a> (Support)</p>
+<p>BNK FearX → Rogue (European Team)</p>
+<p>KR → EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-execute-set-to-join-rogue-or-the-replacement-team-in-the-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-execute-set-to-join-rogue-or-the-replacement-team-in-the-lec/en</link>
             <guid isPermaLink="false">2024-12-01-Execute-BNK FearX-Rogue (European Team)</guid>
             <category><![CDATA[KR]]></category>
@@ -1318,26 +688,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] ScaryJerry: Dragonsteel → Disguised]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] ScaryJerry: Dragonsteel → Disguised</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ScaryJerry">ScaryJerry</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-scaryjerry-set-to-join-disguised-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Dragonsteel</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Disguised</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/ScaryJerry">ScaryJerry</a> (Bot Laner)</p>
+<p>Dragonsteel → Disguised</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-scaryjerry-set-to-join-disguised-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-scaryjerry-set-to-join-disguised-in-the-lta-north-conference/en</link>
             <guid isPermaLink="false">2024-11-30-ScaryJerry-Dragonsteel-Disguised</guid>
             <category><![CDATA[NA]]></category>
@@ -1347,26 +703,12 @@
         </item>
         <item>
             <title><![CDATA[[CN → APAC] Doggo: Ultra Prime → CTBC Flying Oyster]]></title>
-            <description><![CDATA[
-        <h3>[CN → APAC] Doggo: Ultra Prime → CTBC Flying Oyster</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Doggo">Doggo</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1862783911710883955">VCS English</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Ultra Prime</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: CTBC Flying Oyster</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Doggo">Doggo</a> (Bot Laner)</p>
+<p>Ultra Prime → CTBC Flying Oyster</p>
+<p>CN → APAC</p>
+<p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1862783911710883955">VCS English</a></p>
+]]></description>
             <link>https://x.com/vcs_english/status/1862783911710883955</link>
             <guid isPermaLink="false">2024-11-30-Doggo-Ultra Prime-CTBC Flying Oyster</guid>
             <category><![CDATA[CN]]></category>
@@ -1376,26 +718,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Seize: Los Grandes → KaBuM! Esports]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Seize: Los Grandes → KaBuM! Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Seize">Seize</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1862593044672877007">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: Los Grandes</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: KaBuM! Esports</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Seize">Seize</a> (Jungler)</p>
+<p>Los Grandes → KaBuM! Esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1862593044672877007">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1862593044672877007</link>
             <guid isPermaLink="false">2024-11-29-Seize-Los Grandes-KaBuM! Esports</guid>
             <category><![CDATA[BR]]></category>
@@ -1405,26 +733,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA → AME] HiRit: FUT Esports → KaBuM! Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA → AME] HiRit: FUT Esports → KaBuM! Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/HiRit">HiRit</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1862591561583702214">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: FUT Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: KaBuM! Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/HiRit">HiRit</a> (Top Laner)</p>
+<p>FUT Esports → KaBuM! Esports</p>
+<p>EMEA → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1862591561583702214">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1862591561583702214</link>
             <guid isPermaLink="false">2024-11-29-HiRit-FUT Esports-KaBuM! Esports</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1434,26 +748,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA → AME] MG: Twisted Minds → Los Grandes]]></title>
-            <description><![CDATA[
-        <h3>[EMEA → AME] MG: Twisted Minds → Los Grandes</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/MG_(Lee_Ji-hoon)">MG</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1862588351611543995">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Twisted Minds</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Los Grandes</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/MG_(Lee_Ji-hoon)">MG</a> (Mid Laner)</p>
+<p>Twisted Minds → Los Grandes</p>
+<p>EMEA → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1862588351611543995">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://x.com/luisshowtana/status/1862588351611543995</link>
             <guid isPermaLink="false">2024-11-29-MG-Twisted Minds-Los Grandes</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1463,26 +763,12 @@
         </item>
         <item>
             <title><![CDATA[[APAC] Tire: Baby Whales → Secret Whales]]></title>
-            <description><![CDATA[
-        <h3>[APAC] Tire: Baby Whales → Secret Whales</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tire">Tire</a></p>
-        <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: Baby Whales</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: Secret Whales</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Tire">Tire</a> (Mid Laner)</p>
+<p>Baby Whales → Secret Whales</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
+]]></description>
             <link>https://www.facebook.com/photo/?fbid=1080376890757539&amp;set=a.514490954012805</link>
             <guid isPermaLink="false">2024-11-29-Tire-Baby Whales-Secret Whales</guid>
             <category><![CDATA[APAC]]></category>
@@ -1492,26 +778,12 @@
         </item>
         <item>
             <title><![CDATA[[APAC] Hizto: Baby Whales → Secret Whales]]></title>
-            <description><![CDATA[
-        <h3>[APAC] Hizto: Baby Whales → Secret Whales</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Hizto">Hizto</a></p>
-        <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: Baby Whales</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: Secret Whales</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Hizto">Hizto</a> (Jungler)</p>
+<p>Baby Whales → Secret Whales</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
+]]></description>
             <link>https://www.facebook.com/photo/?fbid=1080376890757539&amp;set=a.514490954012805</link>
             <guid isPermaLink="false">2024-11-29-Hizto-Baby Whales-Secret Whales</guid>
             <category><![CDATA[APAC]]></category>
@@ -1521,26 +793,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Kaiser: Team Heretics → Los Heretics]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Kaiser: Team Heretics → Los Heretics</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Kaiser">Kaiser</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-kaiser-set-to-join-los-heretics/en">Alejandro "Anonimotum" Gomis</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Team Heretics</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Los Heretics</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Kaiser">Kaiser</a> (Support)</p>
+<p>Team Heretics → Los Heretics</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-kaiser-set-to-join-los-heretics/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-kaiser-set-to-join-los-heretics/en</link>
             <guid isPermaLink="false">2024-11-29-Kaiser-Team Heretics-Los Heretics</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1550,26 +808,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Patrik: GIANTX → Rogue (European Team)]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Patrik: GIANTX → Rogue (European Team)</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Patrik">Patrik</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-patrik-set-to-join-rogue-or-their-buyer-in-the-lec/en">Alejandro "Anonimotum" Gomis</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: GIANTX</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Rogue (European Team)</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Patrik">Patrik</a> (Bot Laner)</p>
+<p>GIANTX → Rogue (European Team)</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-patrik-set-to-join-rogue-or-their-buyer-in-the-lec/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-patrik-set-to-join-rogue-or-their-buyer-in-the-lec/en</link>
             <guid isPermaLink="false">2024-11-29-Patrik-GIANTX-Rogue (European Team)</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1579,26 +823,12 @@
         </item>
         <item>
             <title><![CDATA[[APAC] SiuLoong: Baby Whales → MGN Vikings Esports]]></title>
-            <description><![CDATA[
-        <h3>[APAC] SiuLoong: Baby Whales → MGN Vikings Esports</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/SiuLoong">SiuLoong</a></p>
-        <p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080172837444611&set=a.514490940679473">VCS English</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: Baby Whales</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: MGN Vikings Esports</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/SiuLoong">SiuLoong</a> (Support)</p>
+<p>Baby Whales → MGN Vikings Esports</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080172837444611&set=a.514490940679473">VCS English</a></p>
+]]></description>
             <link>https://www.facebook.com/photo/?fbid=1080172837444611&amp;set=a.514490940679473</link>
             <guid isPermaLink="false">2024-11-28-SiuLoong-Baby Whales-MGN Vikings Esports</guid>
             <category><![CDATA[APAC]]></category>
@@ -1608,26 +838,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Adam: Team BDS → Rogue (European Team)]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Adam: Team BDS → Rogue (European Team)</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Adam_(Adam_Maanane)">Adam</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-adam-set-to-join-rogue-or-the-replacement-team-in-the-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Team BDS</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Rogue (European Team)</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Adam_(Adam_Maanane)">Adam</a> (Top Laner)</p>
+<p>Team BDS → Rogue (European Team)</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-adam-set-to-join-rogue-or-the-replacement-team-in-the-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-adam-set-to-join-rogue-or-the-replacement-team-in-the-lec/en</link>
             <guid isPermaLink="false">2024-11-28-Adam-Team BDS-Rogue (European Team)</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1637,26 +853,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Boal: Free Agent → Vivo Keyd Stars]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Boal: Free Agent → Vivo Keyd Stars</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Boal">Boal</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-vivo-keyd-stars-have-advanced-negotiations-for-toplaner-boal/en">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Vivo Keyd Stars</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Boal">Boal</a> (Top Laner)</p>
+<p>Free Agent → Vivo Keyd Stars</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-vivo-keyd-stars-have-advanced-negotiations-for-toplaner-boal/en">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-vivo-keyd-stars-have-advanced-negotiations-for-toplaner-boal/en</link>
             <guid isPermaLink="false">2024-11-28-Boal-Free Agent-Vivo Keyd Stars</guid>
             <category><![CDATA[BR]]></category>
@@ -1666,26 +868,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Zeyzal: Shopify Rebellion → Luminosity Gaming]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Zeyzal: Shopify Rebellion → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Zeyzal">Zeyzal</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Shopify Rebellion</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Luminosity Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Zeyzal">Zeyzal</a> (Support)</p>
+<p>Shopify Rebellion → Luminosity Gaming</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
             <guid isPermaLink="false">2024-11-28-Zeyzal-Shopify Rebellion-Luminosity Gaming</guid>
             <category><![CDATA[NA]]></category>
@@ -1695,26 +883,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Insanity: Shopify Rebellion → Luminosity Gaming]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Insanity: Shopify Rebellion → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Insanity">Insanity</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Shopify Rebellion</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Luminosity Gaming</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Insanity">Insanity</a> (Mid Laner)</p>
+<p>Shopify Rebellion → Luminosity Gaming</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
             <guid isPermaLink="false">2024-11-28-Insanity-Shopify Rebellion-Luminosity Gaming</guid>
             <category><![CDATA[NA]]></category>
@@ -1724,26 +898,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] rym: Solary Academy → G2 Hel]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] rym: Solary Academy → G2 Hel</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rym">rym</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-rym-reaches-verbal-agreement-with-g2-hel/en">Armand Luque</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Solary Academy</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: G2 Hel</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Rym">rym</a> (Mid Laner)</p>
+<p>Solary Academy → G2 Hel</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-rym-reaches-verbal-agreement-with-g2-hel/en">Armand Luque</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-rym-reaches-verbal-agreement-with-g2-hel/en</link>
             <guid isPermaLink="false">2024-11-26-rym-Solary Academy-G2 Hel</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1753,26 +913,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Six10: GLORE → TeamOrangeGaming]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Six10: GLORE → TeamOrangeGaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Six10">Six10</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: GLORE</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: TeamOrangeGaming</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Six10">Six10</a> (Mid Laner)</p>
+<p>GLORE → TeamOrangeGaming</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en</link>
             <guid isPermaLink="false">2024-11-26-Six10-GLORE-TeamOrangeGaming</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1782,26 +928,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Cboi: FC Schalke 04 Esports → TeamOrangeGaming]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Cboi: FC Schalke 04 Esports → TeamOrangeGaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Cboi">Cboi</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: FC Schalke 04 Esports</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: TeamOrangeGaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Cboi">Cboi</a> (Jungler)</p>
+<p>FC Schalke 04 Esports → TeamOrangeGaming</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en</link>
             <guid isPermaLink="false">2024-11-26-Cboi-FC Schalke 04 Esports-TeamOrangeGaming</guid>
             <category><![CDATA[EMEA]]></category>
@@ -1811,26 +943,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Castle: Immortals → Disguised]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Castle: Immortals → Disguised</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Castle_(Cho_Hyeon-seong)">Castle</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-castle-set-to-join-disguised-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Immortals</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Disguised</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Castle_(Cho_Hyeon-seong)">Castle</a> (Top Laner)</p>
+<p>Immortals → Disguised</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-castle-set-to-join-disguised-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-castle-set-to-join-disguised-in-the-lta-north-conference/en</link>
             <guid isPermaLink="false">2024-11-25-Castle-Immortals-Disguised</guid>
             <category><![CDATA[NA]]></category>
@@ -1840,26 +958,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Tomo: 100 Thieves → Dignitas]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Tomo: 100 Thieves → Dignitas</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tomo">Tomo</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tomo-set-to-join-dignitas-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: 100 Thieves</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Dignitas</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Tomo">Tomo</a> (Bot Laner)</p>
+<p>100 Thieves → Dignitas</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tomo-set-to-join-dignitas-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-tomo-set-to-join-dignitas-in-the-lta-north-conference/en</link>
             <guid isPermaLink="false">2024-11-25-Tomo-100 Thieves-Dignitas</guid>
             <category><![CDATA[NA]]></category>
@@ -1869,26 +973,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] huhi: NRG → Disguised]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] huhi: NRG → Disguised</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Huhi">huhi</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-huhi-set-to-join-disguised-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: NRG</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Disguised</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Huhi">huhi</a> (Support)</p>
+<p>NRG → Disguised</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-huhi-set-to-join-disguised-in-the-lta-north-conference/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-huhi-set-to-join-disguised-in-the-lta-north-conference/en</link>
             <guid isPermaLink="false">2024-11-25-huhi-NRG-Disguised</guid>
             <category><![CDATA[NA]]></category>
@@ -1898,26 +988,12 @@
         </item>
         <item>
             <title><![CDATA[[LAT → AME] Keine: Movistar R7 → Dignitas]]></title>
-            <description><![CDATA[
-        <h3>[LAT → AME] Keine: Movistar R7 → Dignitas</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Keine">Keine</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-keine-set-to-join-dignitas-in-the-lta-north/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: LAT</li>
-          <li>Team: Movistar R7</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Dignitas</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Keine">Keine</a> (Mid Laner)</p>
+<p>Movistar R7 → Dignitas</p>
+<p>LAT → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-keine-set-to-join-dignitas-in-the-lta-north/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-keine-set-to-join-dignitas-in-the-lta-north/en</link>
             <guid isPermaLink="false">2024-11-25-Keine-Movistar R7-Dignitas</guid>
             <category><![CDATA[LAT]]></category>
@@ -1926,27 +1002,13 @@
             <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[BR → AME] Robo: LOUD → LOUD]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Robo: LOUD → LOUD</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Robo">Robo</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-robo-refuses-vivo-keyd-stars-and-renews-with-loud-for-lta-2025/en">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: LOUD</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: LOUD</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <title><![CDATA[[BR → AME] Robo: LOUD]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Robo">Robo</a> (Top Laner)</p>
+<p>LOUD</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-robo-refuses-vivo-keyd-stars-and-renews-with-loud-for-lta-2025/en">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-robo-refuses-vivo-keyd-stars-and-renews-with-loud-for-lta-2025/en</link>
             <guid isPermaLink="false">2024-11-25-Robo-LOUD-LOUD</guid>
             <category><![CDATA[BR]]></category>
@@ -1956,26 +1018,12 @@
         </item>
         <item>
             <title><![CDATA[[LAT → EMEA] Trigger: INFINITY → Geekay Esports]]></title>
-            <description><![CDATA[
-        <h3>[LAT → EMEA] Trigger: INFINITY → Geekay Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Trigger_(Kim_Eui-joo)">Trigger</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-trigger-set-to-join-geekay-esports-in-the-arabian-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: LAT</li>
-          <li>Team: INFINITY</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Geekay Esports</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Trigger_(Kim_Eui-joo)">Trigger</a> (Bot Laner)</p>
+<p>INFINITY → Geekay Esports</p>
+<p>LAT → EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-trigger-set-to-join-geekay-esports-in-the-arabian-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-trigger-set-to-join-geekay-esports-in-the-arabian-league/en</link>
             <guid isPermaLink="false">2024-11-25-Trigger-INFINITY-Geekay Esports</guid>
             <category><![CDATA[LAT]]></category>
@@ -1985,26 +1033,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Lizia: G2 Hel → SK Gaming Avarosa]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Lizia: G2 Hel → SK Gaming Avarosa</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Lizia">Lizia</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-lizia-set-to-join-sk-gaming-avarosa/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: G2 Hel</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: SK Gaming Avarosa</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Lizia">Lizia</a> (Top Laner)</p>
+<p>G2 Hel → SK Gaming Avarosa</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-lizia-set-to-join-sk-gaming-avarosa/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-lizia-set-to-join-sk-gaming-avarosa/en</link>
             <guid isPermaLink="false">2024-11-25-Lizia-G2 Hel-SK Gaming Avarosa</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2013,27 +1047,13 @@
             <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA] Gaax: Fnatic → Fnatic]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Gaax: Fnatic → Fnatic</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Gaax">Gaax</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-gaax-re-signs-with-fnatic-as-assistant-coach/en">Marian "Eros" Stoica</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Fnatic</li>
-          <li>Position: Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Fnatic</li>
-          <li>Position: Assistant Coach</li>
-        </ul>
-      ]]></description>
+            <title><![CDATA[[EMEA] Gaax: Fnatic]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Gaax">Gaax</a> (Coach → Assistant Coach)</p>
+<p>Fnatic</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-gaax-re-signs-with-fnatic-as-assistant-coach/en">Marian "Eros" Stoica</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-gaax-re-signs-with-fnatic-as-assistant-coach/en</link>
             <guid isPermaLink="false">2024-11-25-Gaax-Fnatic-Fnatic</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2043,26 +1063,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] bluerzor: Zero Tenacity → Ramboot Club]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] bluerzor: Zero Tenacity → Ramboot Club</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Bluerzor">bluerzor</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-bluerzor-set-to-join-ramboot-club/en">Alejandro "Anonimotum" Gomis</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Zero Tenacity</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ramboot Club</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Bluerzor">bluerzor</a> (Jungler)</p>
+<p>Zero Tenacity → Ramboot Club</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-bluerzor-set-to-join-ramboot-club/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-bluerzor-set-to-join-ramboot-club/en</link>
             <guid isPermaLink="false">2024-11-25-bluerzor-Zero Tenacity-Ramboot Club</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2072,26 +1078,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] eXyu: Fear x Starforge → Disguised]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] eXyu: Fear x Starforge → Disguised</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/EXyu">eXyu</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-exyu-reaches-verbal-agreement-with-disguised-in-the-lta-north-conference/en">LCS Eevee</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Fear x Starforge</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Disguised</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/EXyu">eXyu</a> (Jungler)</p>
+<p>Fear x Starforge → Disguised</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-exyu-reaches-verbal-agreement-with-disguised-in-the-lta-north-conference/en">LCS Eevee</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-exyu-reaches-verbal-agreement-with-disguised-in-the-lta-north-conference/en</link>
             <guid isPermaLink="false">2024-11-24-eXyu-Fear x Starforge-Disguised</guid>
             <category><![CDATA[NA]]></category>
@@ -2101,26 +1093,12 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Rigby: Free Agent → Dignitas]]></title>
-            <description><![CDATA[
-        <h3>[NA → AME] Rigby: Free Agent → Dignitas</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rigby">Rigby</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-rigby-set-to-join-dignitas-as-head-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: NA</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Head Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Dignitas</li>
-          <li>Position: Head Coach</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Rigby">Rigby</a> (Head Coach)</p>
+<p>Free Agent → Dignitas</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-rigby-set-to-join-dignitas-as-head-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-rigby-set-to-join-dignitas-as-head-coach/en</link>
             <guid isPermaLink="false">2024-11-22-Rigby-Free Agent-Dignitas</guid>
             <category><![CDATA[NA]]></category>
@@ -2130,26 +1108,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Nash: Guasones → Ruddy Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Nash: Guasones → Ruddy Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Nash_(Alf-Kristian_Sund)">Nash</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Guasones</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ruddy Esports</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Nash_(Alf-Kristian_Sund)">Nash</a> (Support)</p>
+<p>Guasones → Ruddy Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en</link>
             <guid isPermaLink="false">2024-11-22-Nash-Guasones-Ruddy Esports</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2159,26 +1123,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Jackspektra: Los Heretics → Ruddy Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Jackspektra: Los Heretics → Ruddy Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Jackspektra">Jackspektra</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Los Heretics</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ruddy Esports</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Jackspektra">Jackspektra</a> (Bot Laner)</p>
+<p>Los Heretics → Ruddy Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en</link>
             <guid isPermaLink="false">2024-11-22-Jackspektra-Los Heretics-Ruddy Esports</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2188,26 +1138,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] LIDER: Free Agent → Ruddy Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] LIDER: Free Agent → Ruddy Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/LIDER">LIDER</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ruddy Esports</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/LIDER">LIDER</a> (Mid Laner)</p>
+<p>Free Agent → Ruddy Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en</link>
             <guid isPermaLink="false">2024-11-22-LIDER-Free Agent-Ruddy Esports</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2217,26 +1153,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Jankos: Team Heretics → Ruddy Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Jankos: Team Heretics → Ruddy Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Jankos">Jankos</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Team Heretics</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ruddy Esports</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Jankos">Jankos</a> (Jungler)</p>
+<p>Team Heretics → Ruddy Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en</link>
             <guid isPermaLink="false">2024-11-22-Jankos-Team Heretics-Ruddy Esports</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2246,26 +1168,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Perkz: Free Agent → Ruddy Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Perkz: Free Agent → Ruddy Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Perkz">Perkz</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ruddy Esports</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Perkz">Perkz</a> (Mid Laner → Top Laner)</p>
+<p>Free Agent → Ruddy Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en</link>
             <guid isPermaLink="false">2024-11-22-Perkz-Free Agent-Ruddy Esports</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2275,26 +1183,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Guigo: Vivo Keyd Stars → FURIA]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] Guigo: Vivo Keyd Stars → FURIA</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Guigo">Guigo</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-guigo-set-to-join-furia-in-lta-south/en">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: Vivo Keyd Stars</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: FURIA</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Guigo">Guigo</a> (Top Laner)</p>
+<p>Vivo Keyd Stars → FURIA</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-guigo-set-to-join-furia-in-lta-south/en">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-guigo-set-to-join-furia-in-lta-south/en</link>
             <guid isPermaLink="false">2024-11-22-Guigo-Vivo Keyd Stars-FURIA</guid>
             <category><![CDATA[BR]]></category>
@@ -2304,26 +1198,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] scary: KaBuM! Academy → Leviatan]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] scary: KaBuM! Academy → Leviatan</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Scary_(Artur_Queiroz)">scary</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: KaBuM! Academy</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Leviatan</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Scary_(Artur_Queiroz)">scary</a> (Jungler)</p>
+<p>KaBuM! Academy → Leviatan</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en</link>
             <guid isPermaLink="false">2024-11-22-scary-KaBuM! Academy-Leviatan</guid>
             <category><![CDATA[BR]]></category>
@@ -2333,26 +1213,12 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] ProDelta: Vivo Keyd Stars → Leviatan]]></title>
-            <description><![CDATA[
-        <h3>[BR → AME] ProDelta: Vivo Keyd Stars → Leviatan</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ProDelta">ProDelta</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: BR</li>
-          <li>Team: Vivo Keyd Stars</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Leviatan</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/ProDelta">ProDelta</a> (Support)</p>
+<p>Vivo Keyd Stars → Leviatan</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en</link>
             <guid isPermaLink="false">2024-11-22-ProDelta-Vivo Keyd Stars-Leviatan</guid>
             <category><![CDATA[BR]]></category>
@@ -2362,26 +1228,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA → AME] Mireu: Gentle Mates → Isurus Estral]]></title>
-            <description><![CDATA[
-        <h3>[EMEA → AME] Mireu: Gentle Mates → Isurus Estral</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Mireu">Mireu</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Gentle Mates</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Isurus Estral</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Mireu">Mireu</a> (Mid Laner)</p>
+<p>Gentle Mates → Isurus Estral</p>
+<p>EMEA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en</link>
             <guid isPermaLink="false">2024-11-22-Mireu-Gentle Mates-Isurus Estral</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2391,26 +1243,12 @@
         </item>
         <item>
             <title><![CDATA[[CN → AME] Burdol: LGD Gaming → Isurus Estral]]></title>
-            <description><![CDATA[
-        <h3>[CN → AME] Burdol: LGD Gaming → Isurus Estral</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Burdol">Burdol</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en">Luis "Showtana" Santana</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: LGD Gaming</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Isurus Estral</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Burdol">Burdol</a> (Top Laner)</p>
+<p>LGD Gaming → Isurus Estral</p>
+<p>CN → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en">Luis "Showtana" Santana</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en</link>
             <guid isPermaLink="false">2024-11-22-Burdol-LGD Gaming-Isurus Estral</guid>
             <category><![CDATA[CN]]></category>
@@ -2420,26 +1258,12 @@
         </item>
         <item>
             <title><![CDATA[[LAT → AME] Ceo: Movistar R7 → Leviatan]]></title>
-            <description><![CDATA[
-        <h3>[LAT → AME] Ceo: Movistar R7 → Leviatan</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Ceo">Ceo</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-ceo-set-to-join-leviatan/en">Marian "Eros" Stoica</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: LAT</li>
-          <li>Team: Movistar R7</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: AME</li>
-          <li>Team: Leviatan</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ceo">Ceo</a> (Bot Laner)</p>
+<p>Movistar R7 → Leviatan</p>
+<p>LAT → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-ceo-set-to-join-leviatan/en">Marian "Eros" Stoica</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-ceo-set-to-join-leviatan/en</link>
             <guid isPermaLink="false">2024-11-22-Ceo-Movistar R7-Leviatan</guid>
             <category><![CDATA[LAT]]></category>
@@ -2449,26 +1273,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA → APAC] Luon: SK Gaming → Chiefs Esports Club]]></title>
-            <description><![CDATA[
-        <h3>[EMEA → APAC] Luon: SK Gaming → Chiefs Esports Club</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Luon">Luon</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: SK Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: Chiefs Esports Club</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Luon">Luon</a> (Support)</p>
+<p>SK Gaming → Chiefs Esports Club</p>
+<p>EMEA → APAC</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en</link>
             <guid isPermaLink="false">2024-11-22-Luon-SK Gaming-Chiefs Esports Club</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2478,26 +1288,12 @@
         </item>
         <item>
             <title><![CDATA[[LAT → APAC] Mir: Six Karma → Chiefs Esports Club]]></title>
-            <description><![CDATA[
-        <h3>[LAT → APAC] Mir: Six Karma → Chiefs Esports Club</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Mir_(Park_Mi-reu)">Mir</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: LAT</li>
-          <li>Team: Six Karma</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: Chiefs Esports Club</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Mir_(Park_Mi-reu)">Mir</a> (Jungler)</p>
+<p>Six Karma → Chiefs Esports Club</p>
+<p>LAT → APAC</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en</link>
             <guid isPermaLink="false">2024-11-22-Mir-Six Karma-Chiefs Esports Club</guid>
             <category><![CDATA[LAT]]></category>
@@ -2507,26 +1303,12 @@
         </item>
         <item>
             <title><![CDATA[[CN → APAC] FoFo: Team WE → PSG Talon]]></title>
-            <description><![CDATA[
-        <h3>[CN → APAC] FoFo: Team WE → PSG Talon</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/FoFo">FoFo</a></p>
-        <p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1859936912330641699">VCS English</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Team WE</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: APAC</li>
-          <li>Team: PSG Talon</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/FoFo">FoFo</a> (Mid Laner)</p>
+<p>Team WE → PSG Talon</p>
+<p>CN → APAC</p>
+<p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1859936912330641699">VCS English</a></p>
+]]></description>
             <link>https://x.com/vcs_english/status/1859936912330641699</link>
             <guid isPermaLink="false">2024-11-22-FoFo-Team WE-PSG Talon</guid>
             <category><![CDATA[CN]]></category>
@@ -2536,26 +1318,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Pyrka: Spinebusters E-Sport → Ramboot Club]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Pyrka: Spinebusters E-Sport → Ramboot Club</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Pyrka">Pyrka</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-pyrka-set-to-join-ramboot-club/en">Alejandro "Anonimotum" Gomis</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Spinebusters E-Sport</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Ramboot Club</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Pyrka">Pyrka</a> (Support)</p>
+<p>Spinebusters E-Sport → Ramboot Club</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-pyrka-set-to-join-ramboot-club/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-pyrka-set-to-join-ramboot-club/en</link>
             <guid isPermaLink="false">2024-11-21-Pyrka-Spinebusters E-Sport-Ramboot Club</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2565,26 +1333,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Sotze: Berlin International Gaming → Movistar KOI Academy]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Sotze: Berlin International Gaming → Movistar KOI Academy</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Sotze">Sotze</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Berlin International Gaming</li>
-          <li>Position: Assistant Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Movistar KOI Academy</li>
-          <li>Position: Assistant Coach</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Sotze">Sotze</a> (Assistant Coach)</p>
+<p>Berlin International Gaming → Movistar KOI Academy</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en</link>
             <guid isPermaLink="false">2024-11-21-Sotze-Berlin International Gaming-Movistar KOI Academy</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2594,26 +1348,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] SLiezzan: Movistar KOI → Lille Esport]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] SLiezzan: Movistar KOI → Lille Esport</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/SLiezzan">SLiezzan</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Movistar KOI</li>
-          <li>Position: Assistant Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Lille Esport</li>
-          <li>Position: Head Coach</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/SLiezzan">SLiezzan</a> (Assistant Coach → Head Coach)</p>
+<p>Movistar KOI → Lille Esport</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en</link>
             <guid isPermaLink="false">2024-11-21-SLiezzan-Movistar KOI-Lille Esport</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2623,26 +1363,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Enjawve: Gamespace Mediterranean College Esports → Lille Esport]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Enjawve: Gamespace Mediterranean College Esports → Lille Esport</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Enjawve">Enjawve</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Gamespace Mediterranean College Esports</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Lille Esport</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Enjawve">Enjawve</a> (Support)</p>
+<p>Gamespace Mediterranean College Esports → Lille Esport</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en</link>
             <guid isPermaLink="false">2024-11-21-Enjawve-Gamespace Mediterranean College Esports-Lille Esport</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2652,26 +1378,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] 13: Komaï E-Sport → Lille Esport]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] 13: Komaï E-Sport → Lille Esport</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/13">13</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Komaï E-Sport</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Lille Esport</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/13">13</a> (Bot Laner)</p>
+<p>Komaï E-Sport → Lille Esport</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en</link>
             <guid isPermaLink="false">2024-11-21-13-Komaï E-Sport-Lille Esport</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2681,26 +1393,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Improver: Fox Gaming → Lille Esport]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Improver: Fox Gaming → Lille Esport</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Improver">Improver</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Fox Gaming</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Lille Esport</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Improver">Improver</a> (Mid Laner)</p>
+<p>Fox Gaming → Lille Esport</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en</link>
             <guid isPermaLink="false">2024-11-21-Improver-Fox Gaming-Lille Esport</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2710,26 +1408,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Karim kt: Joblife → Lille Esport]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Karim kt: Joblife → Lille Esport</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Karim_kt">Karim kt</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Joblife</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Lille Esport</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Karim_kt">Karim kt</a> (Jungler)</p>
+<p>Joblife → Lille Esport</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en</link>
             <guid isPermaLink="false">2024-11-21-Karim kt-Joblife-Lille Esport</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2739,26 +1423,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Sleyer: Skillcamp → Lille Esport]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Sleyer: Skillcamp → Lille Esport</h3>
-        <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Sleyer_(Eric_Xie)">Sleyer</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Skillcamp</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: Lille Esport</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Sleyer_(Eric_Xie)">Sleyer</a> (Top Laner)</p>
+<p>Skillcamp → Lille Esport</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en</link>
             <guid isPermaLink="false">2024-11-21-Sleyer-Skillcamp-Lille Esport</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2768,26 +1438,12 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Memento: NORD Esports → G2 Esports]]></title>
-            <description><![CDATA[
-        <h3>[EMEA] Memento: NORD Esports → G2 Esports</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Memento">Memento</a></p>
-        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-memento-set-to-join-g2-esports-as-assistant-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: NORD Esports</li>
-          <li>Position: Assistant Coach</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: EMEA</li>
-          <li>Team: G2 Esports</li>
-          <li>Position: Assistant Coach</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Memento">Memento</a> (Assistant Coach)</p>
+<p>NORD Esports → G2 Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-memento-set-to-join-g2-esports-as-assistant-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
             <link>https://www.sheepesports.com/articles/sources-memento-set-to-join-g2-esports-as-assistant-coach/en</link>
             <guid isPermaLink="false">2024-11-21-Memento-NORD Esports-G2 Esports</guid>
             <category><![CDATA[EMEA]]></category>
@@ -2797,26 +1453,12 @@
         </item>
         <item>
             <title><![CDATA[[CN] Gala: LNG Esports → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Gala: LNG Esports → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Gala">Gala</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: LNG Esports</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Gala">Gala</a> (Bot Laner)</p>
+<p>LNG Esports → Invictus Gaming</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
+]]></description>
             <link>https://weibo.com/1992350413/P1jLN38pg</link>
             <guid isPermaLink="false">2024-11-21-Gala-LNG Esports-Invictus Gaming</guid>
             <category><![CDATA[CN]]></category>
@@ -2826,26 +1468,12 @@
         </item>
         <item>
             <title><![CDATA[[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Rookie: Ninjas in Pyjamas.CN → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Rookie">Rookie</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Ninjas in Pyjamas.CN</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Rookie">Rookie</a> (Mid Laner)</p>
+<p>Ninjas in Pyjamas.CN → Invictus Gaming</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
+]]></description>
             <link>https://weibo.com/1992350413/P1jLN38pg</link>
             <guid isPermaLink="false">2024-11-21-Rookie-Ninjas in Pyjamas.CN-Invictus Gaming</guid>
             <category><![CDATA[CN]]></category>
