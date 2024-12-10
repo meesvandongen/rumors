@@ -3,6 +3,90 @@
     "date": "2024-12-10",
     "status": "Rumor",
     "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-hungrypanda-set-to-join-austrian-force-willhaben-in-prime-league/en"
+    },
+    "player": {
+      "name": "HungryPanda",
+      "url": "https://lol.fandom.com/wiki/HungryPanda"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Phantasma",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Team_Phantasmalogo_std.png/revision/latest?cb=20210324220922"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Austrian Force willhaben",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Austrian_Force_willhabenlogo_std.png/revision/latest?cb=20240707080358"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-10",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en"
+    },
+    "player": {
+      "name": "Jactroll",
+      "url": "https://lol.fandom.com/wiki/Jactroll"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Zero Tenacity",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Zero_Tenacitylogo_std.png/revision/latest?cb=20240803231422"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-10",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en"
+    },
+    "player": {
+      "name": "Woolite",
+      "url": "https://lol.fandom.com/wiki/Woolite"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Austrian Force willhaben",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Austrian_Force_willhabenlogo_std.png/revision/latest?cb=20240707080358"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Zero Tenacity",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Zero_Tenacitylogo_std.png/revision/latest?cb=20240803231422"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-10",
+    "status": "Rumor",
+    "source": {
       "name": "Armand Luque",
       "url": "https://www.sheepesports.com/articles/sources-tifa-reaches-verbal-agreement-with-galions-pearl/en"
     },
@@ -2416,7 +2500,7 @@
     },
     "player": {
       "name": "SLiezzan",
-      "url": "https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=SLiezzan&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run="
+      "url": "https://lol.fandom.com/wiki/SLiezzan"
     },
     "from": {
       "region": "EMEA",
@@ -2657,90 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jLN38pg"
-    },
-    "player": {
-      "name": "JieJie",
-      "url": "https://lol.fandom.com/wiki/JieJie"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jLN38pg"
-    },
-    "player": {
-      "name": "TheShy",
-      "url": "https://lol.fandom.com/wiki/TheShy"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jqgAmxY"
-    },
-    "player": {
-      "name": "ON",
-      "url": "https://lol.fandom.com/wiki/ON"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Support"
     }
   }
 ]

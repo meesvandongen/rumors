@@ -4,13 +4,100 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Dec 2024 16:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 20:03:24 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Dec 2024 16:03:31 GMT</pubDate>
+        <pubDate>Tue, 10 Dec 2024 20:03:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] HungryPanda: Team Phantasma → Austrian Force willhaben]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] HungryPanda: Team Phantasma → Austrian Force willhaben</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/HungryPanda">HungryPanda</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-hungrypanda-set-to-join-austrian-force-willhaben-in-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Team Phantasma</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Austrian Force willhaben</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-hungrypanda-set-to-join-austrian-force-willhaben-in-prime-league/en</link>
+            <guid isPermaLink="false">2024-12-10-HungryPanda-Team Phantasma-Austrian Force willhaben</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Jactroll: Free Agent → Zero Tenacity]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Jactroll: Free Agent → Zero Tenacity</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Jactroll">Jactroll</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Free Agent</li>
+          <li>Position: Support</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Zero Tenacity</li>
+          <li>Position: Support</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en</link>
+            <guid isPermaLink="false">2024-12-10-Jactroll-Free Agent-Zero Tenacity</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Woolite: Austrian Force willhaben → Zero Tenacity]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] Woolite: Austrian Force willhaben → Zero Tenacity</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Woolite">Woolite</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en">Brieuc "LEC Wooloo" Seeger</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Austrian Force willhaben</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Zero Tenacity</li>
+          <li>Position: Bot Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en</link>
+            <guid isPermaLink="false">2024-12-10-Woolite-Austrian Force willhaben-Zero Tenacity</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] TIFA: Vitality Rising Bees → Galions Pearl]]></title>
             <description><![CDATA[
@@ -2510,7 +2597,7 @@
             <description><![CDATA[
         <h3>[EMEA] SLiezzan: Movistar KOI → Lille Esport</h3>
         <p><strong>Status:</strong> Rumor</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=SLiezzan&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=">SLiezzan</a></p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/SLiezzan">SLiezzan</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
         
         <h4>From:</h4>
@@ -2761,93 +2848,6 @@
       ]]></description>
             <link>https://weibo.com/1992350413/P1jLN38pg</link>
             <guid isPermaLink="false">2024-11-21-Rookie-Ninjas in Pyjamas.CN-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] JieJie: EDward Gaming → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] JieJie: EDward Gaming → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/JieJie">JieJie</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: EDward Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Jungler</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P1jLN38pg</link>
-            <guid isPermaLink="false">2024-11-21-JieJie-EDward Gaming-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → CN] TheShy: Free Agent → Invictus Gaming]]></title>
-            <description><![CDATA[
-        <h3>[KR → CN] TheShy: Free Agent → Invictus Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/TheShy">TheShy</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jLN38pg">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: KR</li>
-          <li>Team: Free Agent</li>
-          <li>Position: Top Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Invictus Gaming</li>
-          <li>Position: Top Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P1jLN38pg</link>
-            <guid isPermaLink="false">2024-11-21-TheShy-Free Agent-Invictus Gaming</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] ON: Bilibili Gaming → Bilibili Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] ON: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/ON">ON</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Support</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P1jqgAmxY</link>
-            <guid isPermaLink="false">2024-11-21-ON-Bilibili Gaming-Bilibili Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
