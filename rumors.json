@@ -1,5 +1,33 @@
 [
   {
+    "date": "2024-12-10",
+    "status": "Rumor",
+    "source": {
+      "name": "Armand Luque",
+      "url": "https://www.sheepesports.com/articles/sources-tifa-reaches-verbal-agreement-with-galions-pearl/en"
+    },
+    "player": {
+      "name": "TIFA",
+      "url": "https://lol.fandom.com/wiki/TIFA"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Vitality Rising Bees",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Vitality_Rising_Beeslogo_std.png/revision/latest?cb=20240104185426"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Galions Pearl",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Galionslogo_std.png/revision/latest?cb=20241209190722"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2024-12-09",
     "status": "Rumor",
     "source": {
@@ -81,6 +109,34 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
       },
       "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-08",
+    "status": "Rumor",
+    "source": {
+      "name": "Hsu \"Yuwan\" Chi-Chun",
+      "url": "https://youtu.be/0_1GyQM23cM?si=NohMw9dYPwAp6mYf&t=445"
+    },
+    "player": {
+      "name": "1Jiang",
+      "url": "https://lol.fandom.com/wiki/1Jiang"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Frank Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Frank_Esportslogo_std.png/revision/latest?cb=20230606185727"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "LoL Pro League",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png/revision/latest?cb=20201217170147"
+      },
+      "position": "Top Laner"
     }
   },
   {
@@ -925,7 +981,7 @@
   },
   {
     "date": "2024-12-02",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
@@ -953,7 +1009,7 @@
   },
   {
     "date": "2024-12-02",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
@@ -981,7 +1037,7 @@
   },
   {
     "date": "2024-12-02",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
@@ -1009,7 +1065,7 @@
   },
   {
     "date": "2024-12-02",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
@@ -1457,7 +1513,7 @@
   },
   {
     "date": "2024-11-28",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en"
@@ -1485,7 +1541,7 @@
   },
   {
     "date": "2024-11-28",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en"
@@ -1793,7 +1849,7 @@
   },
   {
     "date": "2024-11-25",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Marian \"Eros\" Stoica",
       "url": "https://www.sheepesports.com/articles/sources-gaax-re-signs-with-fnatic-as-assistant-coach/en"
@@ -2325,7 +2381,7 @@
   },
   {
     "date": "2024-11-21",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en"
@@ -2345,7 +2401,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Movistar KOI",
+        "name": "Movistar KOI Academy",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
       },
       "position": "Assistant Coach"
@@ -2521,7 +2577,7 @@
   },
   {
     "date": "2024-11-21",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-memento-set-to-join-g2-esports-as-assistant-coach/en"
@@ -2685,62 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jqgAmxY"
-    },
-    "player": {
-      "name": "Elk",
-      "url": "https://lol.fandom.com/wiki/Elk"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jqgAmxY"
-    },
-    "player": {
-      "name": "knight",
-      "url": "https://lol.fandom.com/wiki/Knight_(Zhuo_Ding)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Mid Laner"
     }
   }
 ]

@@ -4,13 +4,42 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Dec 2024 12:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 16:03:31 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Dec 2024 12:04:47 GMT</pubDate>
+        <pubDate>Tue, 10 Dec 2024 16:03:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] TIFA: Vitality Rising Bees → Galions Pearl]]></title>
+            <description><![CDATA[
+        <h3>[EMEA] TIFA: Vitality Rising Bees → Galions Pearl</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/TIFA">TIFA</a></p>
+        <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-tifa-reaches-verbal-agreement-with-galions-pearl/en">Armand Luque</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Vitality Rising Bees</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: EMEA</li>
+          <li>Team: Galions Pearl</li>
+          <li>Position: Mid Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://www.sheepesports.com/articles/sources-tifa-reaches-verbal-agreement-with-galions-pearl/en</link>
+            <guid isPermaLink="false">2024-12-10-TIFA-Vitality Rising Bees-Galions Pearl</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR → AME] StineR: FURIA Academy → W7m esports]]></title>
             <description><![CDATA[
@@ -97,6 +126,35 @@
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC → CN] 1Jiang: Frank Esports → LoL Pro League]]></title>
+            <description><![CDATA[
+        <h3>[APAC → CN] 1Jiang: Frank Esports → LoL Pro League</h3>
+        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/1Jiang">1Jiang</a></p>
+        <p><strong>Source:</strong> <a href="https://youtu.be/0_1GyQM23cM?si=NohMw9dYPwAp6mYf&t=445">Hsu "Yuwan" Chi-Chun</a></p>
+        
+        <h4>From:</h4>
+        <ul>
+          <li>Region: APAC</li>
+          <li>Team: Frank Esports</li>
+          <li>Position: Top Laner</li>
+        </ul>
+        
+        <h4>To:</h4>
+        <ul>
+          <li>Region: CN</li>
+          <li>Team: LoL Pro League</li>
+          <li>Position: Top Laner</li>
+        </ul>
+      ]]></description>
+            <link>https://youtu.be/0_1GyQM23cM?si=NohMw9dYPwAp6mYf&amp;t=445</link>
+            <guid isPermaLink="false">2024-12-08-1Jiang-Frank Esports-LoL Pro League</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Slayer: GIANTX Academy → Austrian Force willhaben]]></title>
@@ -972,7 +1030,7 @@
             <title><![CDATA[[NA → AME] Dayos: Winthrop University → Luminosity Gaming]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Dayos: Winthrop University → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Dayos">Dayos</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
         
@@ -1001,7 +1059,7 @@
             <title><![CDATA[[NA → AME] Tactical: Immortals → Luminosity Gaming]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Tactical: Immortals → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tactical">Tactical</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
         
@@ -1030,7 +1088,7 @@
             <title><![CDATA[[NA → AME] Tomio: Shopify Rebellion → Luminosity Gaming]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Tomio: Shopify Rebellion → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Tomio">Tomio</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
         
@@ -1059,7 +1117,7 @@
             <title><![CDATA[[NA → AME] FakeGod: Shopify Rebellion → Luminosity Gaming]]></title>
             <description><![CDATA[
         <h3>[NA → AME] FakeGod: Shopify Rebellion → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/FakeGod">FakeGod</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
         
@@ -1523,7 +1581,7 @@
             <title><![CDATA[[NA → AME] Zeyzal: Shopify Rebellion → Luminosity Gaming]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Zeyzal: Shopify Rebellion → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Zeyzal">Zeyzal</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
         
@@ -1552,7 +1610,7 @@
             <title><![CDATA[[NA → AME] Insanity: Shopify Rebellion → Luminosity Gaming]]></title>
             <description><![CDATA[
         <h3>[NA → AME] Insanity: Shopify Rebellion → Luminosity Gaming</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Insanity">Insanity</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
         
@@ -1871,7 +1929,7 @@
             <title><![CDATA[[EMEA] Gaax: Fnatic → Fnatic]]></title>
             <description><![CDATA[
         <h3>[EMEA] Gaax: Fnatic → Fnatic</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Gaax">Gaax</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-gaax-re-signs-with-fnatic-as-assistant-coach/en">Marian "Eros" Stoica</a></p>
         
@@ -2419,10 +2477,10 @@
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA] Sotze: Berlin International Gaming → Movistar KOI]]></title>
+            <title><![CDATA[[EMEA] Sotze: Berlin International Gaming → Movistar KOI Academy]]></title>
             <description><![CDATA[
-        <h3>[EMEA] Sotze: Berlin International Gaming → Movistar KOI</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <h3>[EMEA] Sotze: Berlin International Gaming → Movistar KOI Academy</h3>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Sotze">Sotze</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en">Brieuc "LEC Wooloo" Seeger</a></p>
         
@@ -2436,12 +2494,12 @@
         <h4>To:</h4>
         <ul>
           <li>Region: EMEA</li>
-          <li>Team: Movistar KOI</li>
+          <li>Team: Movistar KOI Academy</li>
           <li>Position: Assistant Coach</li>
         </ul>
       ]]></description>
             <link>https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en</link>
-            <guid isPermaLink="false">2024-11-21-Sotze-Berlin International Gaming-Movistar KOI</guid>
+            <guid isPermaLink="false">2024-11-21-Sotze-Berlin International Gaming-Movistar KOI Academy</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -2625,7 +2683,7 @@
             <title><![CDATA[[EMEA] Memento: NORD Esports → G2 Esports]]></title>
             <description><![CDATA[
         <h3>[EMEA] Memento: NORD Esports → G2 Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Memento">Memento</a></p>
         <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-memento-set-to-join-g2-esports-as-assistant-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
         
@@ -2790,64 +2848,6 @@
       ]]></description>
             <link>https://weibo.com/1992350413/P1jqgAmxY</link>
             <guid isPermaLink="false">2024-11-21-ON-Bilibili Gaming-Bilibili Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Elk: Bilibili Gaming → Bilibili Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] Elk: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Elk">Elk</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Bot Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P1jqgAmxY</link>
-            <guid isPermaLink="false">2024-11-21-Elk-Bilibili Gaming-Bilibili Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] knight: Bilibili Gaming → Bilibili Gaming]]></title>
-            <description><![CDATA[
-        <h3>[CN] knight: Bilibili Gaming → Bilibili Gaming</h3>
-        <p><strong>Status:</strong> Confirmed!</p>
-        <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/Knight_(Zhuo_Ding)">knight</a></p>
-        <p><strong>Source:</strong> <a href="https://weibo.com/1992350413/P1jqgAmxY">Wang "HanYi" Han-Yu</a></p>
-        
-        <h4>From:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-        
-        <h4>To:</h4>
-        <ul>
-          <li>Region: CN</li>
-          <li>Team: Bilibili Gaming</li>
-          <li>Position: Mid Laner</li>
-        </ul>
-      ]]></description>
-            <link>https://weibo.com/1992350413/P1jqgAmxY</link>
-            <guid isPermaLink="false">2024-11-21-knight-Bilibili Gaming-Bilibili Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
