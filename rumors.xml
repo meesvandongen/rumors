@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Dec 2024 08:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 12:04:47 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Dec 2024 08:04:11 GMT</pubDate>
+        <pubDate>Tue, 10 Dec 2024 12:04:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -70,17 +70,17 @@
             <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] SwordArt: TBD → MGN Vikings Esports]]></title>
+            <title><![CDATA[[APAC] SwordArt: CTBC Flying Oyster → MGN Vikings Esports]]></title>
             <description><![CDATA[
-        <h3>[APAC] SwordArt: TBD → MGN Vikings Esports</h3>
-        <p><strong>Status:</strong> Rumor</p>
+        <h3>[APAC] SwordArt: CTBC Flying Oyster → MGN Vikings Esports</h3>
+        <p><strong>Status:</strong> Confirmed!</p>
         <p><strong>Player:</strong> <a href="https://lol.fandom.com/wiki/SwordArt">SwordArt</a></p>
         <p><strong>Source:</strong> <a href="https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523">MGN VKE</a></p>
         
         <h4>From:</h4>
         <ul>
           <li>Region: APAC</li>
-          <li>Team: TBD</li>
+          <li>Team: CTBC Flying Oyster</li>
           <li>Position: Support</li>
         </ul>
         
@@ -92,7 +92,7 @@
         </ul>
       ]]></description>
             <link>https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523</link>
-            <guid isPermaLink="false">2024-12-09-SwordArt-TBD-MGN Vikings Esports</guid>
+            <guid isPermaLink="false">2024-12-09-SwordArt-CTBC Flying Oyster-MGN Vikings Esports</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>

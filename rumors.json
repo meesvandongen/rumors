@@ -57,7 +57,7 @@
   },
   {
     "date": "2024-12-09",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "MGN VKE",
       "url": "https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523"
@@ -69,8 +69,8 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "TBD",
-        "image": "https://static.wikia.nocookie.net/ucp-internal-test-commons-esports/images/9/9d/TBDlogo_std.png/revision/latest?cb=20200819101512"
+        "name": "CTBC Flying Oyster",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/CTBC_Flying_Oysterlogo_std.png/revision/latest?cb=20221014190546"
       },
       "position": "Support"
     },
