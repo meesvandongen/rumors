@@ -4,6 +4,34 @@
     "status": "Rumor",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-mew-is-set-to-join-giantx-as-performance-coach/en"
+    },
+    "player": {
+      "name": "Mew",
+      "url": "https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=Mew%20(Théo%20Ponzoni)&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run="
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Performance Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "GIANTX",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
+      },
+      "position": "Performance Coach"
+    }
+  },
+  {
+    "date": "2024-12-10",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-hungrypanda-set-to-join-austrian-force-willhaben-in-prime-league/en"
     },
     "player": {
@@ -2713,34 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jLN38pg"
-    },
-    "player": {
-      "name": "Rookie",
-      "url": "https://lol.fandom.com/wiki/Rookie"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Ninjas in Pyjamas.CN",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
