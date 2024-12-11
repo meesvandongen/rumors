@@ -2714,33 +2714,5 @@
       },
       "position": "Assistant Coach"
     }
-  },
-  {
-    "date": "2024-11-21",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Wang \"HanYi\" Han-Yu",
-      "url": "https://weibo.com/1992350413/P1jLN38pg"
-    },
-    "player": {
-      "name": "Gala",
-      "url": "https://lol.fandom.com/wiki/Gala"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "LNG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Bot Laner"
-    }
   }
 ]
