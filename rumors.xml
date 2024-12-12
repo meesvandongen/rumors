@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Dec 2024 20:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 00:12:23 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Dec 2024 20:03:35 GMT</pubDate>
+        <pubDate>Thu, 12 Dec 2024 00:12:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[BR → AME] CarioK: PaiN Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/CarioK">CarioK</a> (Jungler)</p>
+<p>PaiN Gaming</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866984011588878588">Luis "Showtana" Santana</a></p>
+]]></description>
+            <link>https://x.com/luisshowtana/status/1866984011588878588</link>
+            <guid isPermaLink="false">2024-12-11-CarioK-PaiN Gaming-PaiN Gaming</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR → AME] Sting: Rise Gaming → W7m esports]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1461,21 +1476,6 @@
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en</link>
             <guid isPermaLink="false">2024-11-21-Sotze-Berlin International Gaming-Movistar KOI Academy</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] SLiezzan: Movistar KOI → Lille Esport]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/SLiezzan">SLiezzan</a> (Assistant Coach → Head Coach)</p>
-<p>Movistar KOI → Lille Esport</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-sleyer-karim-kt-improver-13-and-enjawve-set-to-join-lille-esport-in-lfl-division-2/en</link>
-            <guid isPermaLink="false">2024-11-21-SLiezzan-Movistar KOI-Lille Esport</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
