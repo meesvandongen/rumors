@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Dec 2024 12:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 16:03:37 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Dec 2024 12:04:42 GMT</pubDate>
+        <pubDate>Thu, 12 Dec 2024 16:03:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -283,7 +283,7 @@
         </item>
         <item>
             <title><![CDATA[[NA → AME] Dhokla: NRG → NTMR]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Dhokla">Dhokla</a> (Top Laner)</p>
 <p>NRG → NTMR</p>
 <p>NA → AME</p>
@@ -838,7 +838,7 @@
         </item>
         <item>
             <title><![CDATA[[CN → APAC] Doggo: Ultra Prime → CTBC Flying Oyster]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Doggo">Doggo</a> (Bot Laner)</p>
 <p>Ultra Prime → CTBC Flying Oyster</p>
 <p>CN → APAC</p>
@@ -1438,7 +1438,7 @@
         </item>
         <item>
             <title><![CDATA[[CN → APAC] FoFo: Team WE → PSG Talon]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/FoFo">FoFo</a> (Mid Laner)</p>
 <p>Team WE → PSG Talon</p>
 <p>CN → APAC</p>
