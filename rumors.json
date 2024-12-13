@@ -1,5 +1,201 @@
 [
   {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867599907944903058"
+    },
+    "player": {
+      "name": "Arkhe",
+      "url": "https://lol.fandom.com/wiki/Arkhe"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Galakticos",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7a/Galakticoslogo_std.png/revision/latest?cb=20230109204109"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867599907944903058"
+    },
+    "player": {
+      "name": "Telas",
+      "url": "https://lol.fandom.com/wiki/Telas"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867599907944903058"
+    },
+    "player": {
+      "name": "Trigo",
+      "url": "https://lol.fandom.com/wiki/Trigo_(Matheus_Trigo)"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867599907944903058"
+    },
+    "player": {
+      "name": "Kaze",
+      "url": "https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)"
+    },
+    "from": {
+      "region": "LAT",
+      "team": {
+        "name": "Abstract Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/Abstract_Gaminglogo_std.png/revision/latest?cb=20230824203826"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867599907944903058"
+    },
+    "player": {
+      "name": "Piloto",
+      "url": "https://lol.fandom.com/wiki/Piloto"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Liberty",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Libertylogo_std.png/revision/latest?cb=20211216004143"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867599907944903058"
+    },
+    "player": {
+      "name": "Sting",
+      "url": "https://lol.fandom.com/wiki/Sting"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Rise Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867599907944903058"
+    },
+    "player": {
+      "name": "Tyrin",
+      "url": "https://lol.fandom.com/wiki/Tyrin_(William_Portugal)"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2024-12-12",
     "status": "Confirmed!",
     "source": {
@@ -2545,202 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en"
-    },
-    "player": {
-      "name": "ProDelta",
-      "url": "https://lol.fandom.com/wiki/ProDelta"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Vivo Keyd Stars",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Leviatan",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en"
-    },
-    "player": {
-      "name": "Mireu",
-      "url": "https://lol.fandom.com/wiki/Mireu"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Gentle Mates",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gentle_Mateslogo_std.png/revision/latest?cb=20241007071343"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Isurus Estral",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Isurus_Estrallogo_std.png/revision/latest?cb=20241109014334"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://www.sheepesports.com/articles/sources-burdol-and-mireu-are-set-to-join-isurus-estral-in-lta-south/en"
-    },
-    "player": {
-      "name": "Burdol",
-      "url": "https://lol.fandom.com/wiki/Burdol"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "LGD Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/Lgdlogo_std.png/revision/latest?cb=20220129015141"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Isurus Estral",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Isurus_Estrallogo_std.png/revision/latest?cb=20241109014334"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://www.sheepesports.com/articles/sources-ceo-set-to-join-leviatan/en"
-    },
-    "player": {
-      "name": "Ceo",
-      "url": "https://lol.fandom.com/wiki/Ceo"
-    },
-    "from": {
-      "region": "LAT",
-      "team": {
-        "name": "Movistar R7",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Movistar_R7logo_std.png/revision/latest?cb=20221005192843"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Leviatan",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en"
-    },
-    "player": {
-      "name": "Luon",
-      "url": "https://lol.fandom.com/wiki/Luon"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "SK Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Chiefs Esports Club",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/Chiefs_Esports_Clublogo_std.png/revision/latest?cb=20241103143142"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-mir-and-luon-set-to-join-chiefs-in-lcp/en"
-    },
-    "player": {
-      "name": "Mir",
-      "url": "https://lol.fandom.com/wiki/Mir_(Park_Mi-reu)"
-    },
-    "from": {
-      "region": "LAT",
-      "team": {
-        "name": "Six Karma",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/Six_Karmalogo_std.png/revision/latest?cb=20240928122551"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Chiefs Esports Club",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/Chiefs_Esports_Clublogo_std.png/revision/latest?cb=20241103143142"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Confirmed!",
-    "source": {
-      "name": "VCS English",
-      "url": "https://x.com/vcs_english/status/1859936912330641699"
-    },
-    "player": {
-      "name": "FoFo",
-      "url": "https://lol.fandom.com/wiki/FoFo"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Team WE",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "PSG Talon",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/PSG_Talonlogo_std.png/revision/latest?cb=20240929142312"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
