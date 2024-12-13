@@ -4,13 +4,43 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Dec 2024 08:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 12:04:52 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Dec 2024 08:03:59 GMT</pubDate>
+        <pubDate>Fri, 13 Dec 2024 12:04:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[APAC → CN] Wako: Frank Esports → Ultra Prime]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Wako">Wako</a> (Bot Laner)</p>
+<p>Frank Esports → Ultra Prime</p>
+<p>APAC → CN</p>
+<p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html">a10304025</a></p>
+]]></description>
+            <link>https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html</link>
+            <guid isPermaLink="false">2024-12-12-Wako-Frank Esports-Ultra Prime</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC → CN] 1Jiang: Frank Esports → Ultra Prime]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/1Jiang">1Jiang</a> (Top Laner)</p>
+<p>Frank Esports → Ultra Prime</p>
+<p>APAC → CN</p>
+<p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html">a10304025</a></p>
+]]></description>
+            <link>https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html</link>
+            <guid isPermaLink="false">2024-12-12-1Jiang-Frank Esports-Ultra Prime</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR → AME] CarioK: PaiN Gaming]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -253,7 +283,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC → CN] 1Jiang: Frank Esports → LoL Pro League]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/1Jiang">1Jiang</a> (Top Laner)</p>
 <p>Frank Esports → LoL Pro League</p>
 <p>APAC → CN</p>
@@ -1450,36 +1480,6 @@
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Pyrka: Spinebusters E-Sport → Ramboot Club]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Pyrka">Pyrka</a> (Support)</p>
-<p>Spinebusters E-Sport → Ramboot Club</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-pyrka-set-to-join-ramboot-club/en">Alejandro "Anonimotum" Gomis</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-pyrka-set-to-join-ramboot-club/en</link>
-            <guid isPermaLink="false">2024-11-21-Pyrka-Spinebusters E-Sport-Ramboot Club</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Sotze: Berlin International Gaming → Movistar KOI Academy]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Sotze">Sotze</a> (Assistant Coach)</p>
-<p>Berlin International Gaming → Movistar KOI Academy</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-sotze-set-to-join-movistar-koi-as-assistant-coach-in-the-lvp/en</link>
-            <guid isPermaLink="false">2024-11-21-Sotze-Berlin International Gaming-Movistar KOI Academy</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
