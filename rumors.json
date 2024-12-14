@@ -1,5 +1,229 @@
 [
   {
+    "date": "2024-12-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Sheep Esports FR",
+      "url": "https://x.com/SheepEsports_FR/status/1867978232945135957"
+    },
+    "player": {
+      "name": "Seryy",
+      "url": "https://lol.fandom.com/wiki/Seryy"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Refuse",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Team_Refuselogo_std.png/revision/latest?cb=20240131165330"
+      },
+      "position": "Assistant Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Project Conquerors",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2024-12-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1867973646872093120"
+    },
+    "player": {
+      "name": "Ranger",
+      "url": "https://lol.fandom.com/wiki/Ranger"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Ilha das Lendas",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/Ilha_das_Lendaslogo_std.png/revision/latest?cb=20240112223454"
+      },
+      "position": "Streamer"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "KaBuM! Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867638117001285812"
+    },
+    "player": {
+      "name": "Viser1on",
+      "url": "https://lol.fandom.com/wiki/Viser1on"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BBL Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867638117001285812"
+    },
+    "player": {
+      "name": "Mxe",
+      "url": "https://lol.fandom.com/wiki/Mxe"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Ramboot Club",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Ramboot_Clublogo_std.png/revision/latest?cb=20230522193430"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BBL Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867638117001285812"
+    },
+    "player": {
+      "name": "Slayder",
+      "url": "https://lol.fandom.com/wiki/Slayder"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Nigma Galaxy Male",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/Nigma_Galaxy_Malelogo_std.png/revision/latest?cb=20220328050041"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BBL Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867638117001285812"
+    },
+    "player": {
+      "name": "Kofte",
+      "url": "https://lol.fandom.com/wiki/Kofte"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Zero Tenacity",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Zero_Tenacitylogo_std.png/revision/latest?cb=20240803231422"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BBL Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867638117001285812"
+    },
+    "player": {
+      "name": "XnS",
+      "url": "https://lol.fandom.com/wiki/XnS"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BBL Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867638117001285812"
+    },
+    "player": {
+      "name": "Bong",
+      "url": "https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Geekay Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Geekay_Esportslogo_std.png/revision/latest?cb=20231116150007"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BBL Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2024-12-13",
     "status": "Rumor",
     "source": {
@@ -611,6 +835,146 @@
       "team": {
         "name": "Ultra Prime",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/Ultra_Primelogo_std.png/revision/latest?cb=20210401173825"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-11",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1866868041268551922"
+    },
+    "player": {
+      "name": "Patch",
+      "url": "https://lol.fandom.com/wiki/Patch_(Han_Seung-min)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Dark_Passagelogo_std.png/revision/latest?cb=20230116141224"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-11",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1866868041268551922"
+    },
+    "player": {
+      "name": "ToongE",
+      "url": "https://lol.fandom.com/wiki/ToongE"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Forsaken (Polish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/Forsaken_%28Polish_Team%29logo_std.png/revision/latest?cb=20211220161314"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-11",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1866868041268551922"
+    },
+    "player": {
+      "name": "Jool",
+      "url": "https://lol.fandom.com/wiki/Jool"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Burning Core Toyama",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/70/Burning_Core_Toyamalogo_std.png/revision/latest?cb=20240114101731"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-11",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1866868041268551922"
+    },
+    "player": {
+      "name": "Typhoon",
+      "url": "https://lol.fandom.com/wiki/Typhoon_(Tayfun_G%C3%BCm%C3%BC%C5%9F)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-11",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1866868041268551922"
+    },
+    "player": {
+      "name": "NuQ",
+      "url": "https://lol.fandom.com/wiki/NuQ"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Phantasma",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Team_Phantasmalogo_std.png/revision/latest?cb=20210324220922"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
       },
       "position": "Top Laner"
     }
@@ -2377,370 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Rogue_%28European_Team%29logo_std.png/revision/latest?cb=20231125191900"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-28",
-    "status": "Confirmed!",
-    "source": {
-      "name": "VCS English",
-      "url": "https://www.facebook.com/photo/?fbid=1080172837444611&set=a.514490940679473"
-    },
-    "player": {
-      "name": "SiuLoong",
-      "url": "https://lol.fandom.com/wiki/SiuLoong"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Baby Whales",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Baby_Whaleslogo_std.png/revision/latest?cb=20240830001919"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "MGN Vikings Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-28",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-adam-set-to-join-rogue-or-the-replacement-team-in-the-lec/en"
-    },
-    "player": {
-      "name": "Adam",
-      "url": "https://lol.fandom.com/wiki/Adam_(Adam_Maanane)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team BDS",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Rogue (European Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Rogue_%28European_Team%29logo_std.png/revision/latest?cb=20231125191900"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-28",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://www.sheepesports.com/articles/sources-vivo-keyd-stars-have-advanced-negotiations-for-toplaner-boal/en"
-    },
-    "player": {
-      "name": "Boal",
-      "url": "https://lol.fandom.com/wiki/Boal"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Vivo Keyd Stars",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-28",
-    "status": "Confirmed!",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en"
-    },
-    "player": {
-      "name": "Zeyzal",
-      "url": "https://lol.fandom.com/wiki/Zeyzal"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "Shopify Rebellion",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Shopify_Rebellionlogo_std.png/revision/latest?cb=20231121110541"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Luminosity Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-28",
-    "status": "Confirmed!",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/articles/sources-zeyzal-and-insanity-set-to-join-luminosity-gaming-in-nacl-2025/en"
-    },
-    "player": {
-      "name": "Insanity",
-      "url": "https://lol.fandom.com/wiki/Insanity"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "Shopify Rebellion",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Shopify_Rebellionlogo_std.png/revision/latest?cb=20231121110541"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Luminosity Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-26",
-    "status": "Rumor",
-    "source": {
-      "name": "Armand Luque",
-      "url": "https://www.sheepesports.com/articles/sources-rym-reaches-verbal-agreement-with-g2-hel/en"
-    },
-    "player": {
-      "name": "rym",
-      "url": "https://lol.fandom.com/wiki/Rym"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Solary Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/Solarylogo_std.png/revision/latest?cb=20181130231516"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "G2 Hel",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/50/G2_Esportslogo_std.png/revision/latest?cb=20230426141941"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-26",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en"
-    },
-    "player": {
-      "name": "Six10",
-      "url": "https://lol.fandom.com/wiki/Six10"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "GLORE",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1c/GLORElogo_std.png/revision/latest?cb=20240415214239"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "TeamOrangeGaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/TeamOrangeGaminglogo_std.png/revision/latest?cb=20200622105944"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-26",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-cboi-and-six10-set-to-join-teamorangegaming-in-the-prime-league/en"
-    },
-    "player": {
-      "name": "Cboi",
-      "url": "https://lol.fandom.com/wiki/Cboi"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "FC Schalke 04 Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/FC_Schalke_04_Esportslogo_std.png/revision/latest?cb=20201021165433"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "TeamOrangeGaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/TeamOrangeGaminglogo_std.png/revision/latest?cb=20200622105944"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-castle-set-to-join-disguised-in-the-lta-north-conference/en"
-    },
-    "player": {
-      "name": "Castle",
-      "url": "https://lol.fandom.com/wiki/Castle_(Cho_Hyeon-seong)"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "Immortals",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/Immortalslogo_std.png/revision/latest?cb=20230323063431"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Disguised",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-tomo-set-to-join-dignitas-in-the-lta-north-conference/en"
-    },
-    "player": {
-      "name": "Tomo",
-      "url": "https://lol.fandom.com/wiki/Tomo"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "100 Thieves",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Dignitas",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-huhi-set-to-join-disguised-in-the-lta-north-conference/en"
-    },
-    "player": {
-      "name": "huhi",
-      "url": "https://lol.fandom.com/wiki/Huhi"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "NRG",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/NRGlogo_std.png/revision/latest?cb=20240415210531"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Disguised",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-keine-set-to-join-dignitas-in-the-lta-north/en"
-    },
-    "player": {
-      "name": "Keine",
-      "url": "https://lol.fandom.com/wiki/Keine"
-    },
-    "from": {
-      "region": "LAT",
-      "team": {
-        "name": "Movistar R7",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Movistar_R7logo_std.png/revision/latest?cb=20221005192843"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Dignitas",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://www.sheepesports.com/articles/sources-robo-refuses-vivo-keyd-stars-and-renews-with-loud-for-lta-2025/en"
-    },
-    "player": {
-      "name": "Robo",
-      "url": "https://lol.fandom.com/wiki/Robo"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "LOUD",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "LOUD",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Top Laner"
     }
   }
 ]
