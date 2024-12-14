@@ -4,6 +4,370 @@
     "status": "Rumor",
     "source": {
       "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867692797085598014"
+    },
+    "player": {
+      "name": "Luuukz",
+      "url": "https://lol.fandom.com/wiki/Luuukz"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Assistant Coach"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Assistant Coach"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867692797085598014"
+    },
+    "player": {
+      "name": "Mitohara",
+      "url": "https://lol.fandom.com/wiki/Mitohara"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867692797085598014"
+    },
+    "player": {
+      "name": "scamber",
+      "url": "https://lol.fandom.com/wiki/Scamber"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Rise Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Confirmed!",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867692797085598014"
+    },
+    "player": {
+      "name": "Smiley",
+      "url": "https://lol.fandom.com/wiki/Smiley_(Ludvig_Granquist)"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Vivo Keyd Stars",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867692797085598014"
+    },
+    "player": {
+      "name": "Qats",
+      "url": "https://lol.fandom.com/wiki/Qats"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "PaiN Gaming Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867692797085598014"
+    },
+    "player": {
+      "name": "sarolu",
+      "url": "https://lol.fandom.com/wiki/Sarolu"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1867692797085598014"
+    },
+    "player": {
+      "name": "xyno",
+      "url": "https://lol.fandom.com/wiki/Xyno"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "FURIA Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/FURIAlogo_std.png/revision/latest?cb=20200121190808"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Vivo Keyd Stars Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867660767975117099"
+    },
+    "player": {
+      "name": "Irean",
+      "url": "https://lol.fandom.com/wiki/Irean"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Nongshim RedForce",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest?cb=20210605230106"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867666552461328484"
+    },
+    "player": {
+      "name": "Paixdia",
+      "url": "https://lol.fandom.com/wiki/Paixdia"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867666552461328484"
+    },
+    "player": {
+      "name": "Neon",
+      "url": "https://lol.fandom.com/wiki/Neon_(Mat%C3%BA%C5%A1_Jakub%C4%8D%C3%ADk)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "SK Gaming Prime",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/SK_Gaming_Primelogo_std.png/revision/latest?cb=20200124141230"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867666552461328484"
+    },
+    "player": {
+      "name": "TolanD",
+      "url": "https://lol.fandom.com/wiki/TolanD"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unicorns of Love Sexy Edition",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/Unicorns_of_Love_Sexy_Editionlogo_std.png/revision/latest?cb=20220202103424"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867666552461328484"
+    },
+    "player": {
+      "name": "CHEF",
+      "url": "https://lol.fandom.com/wiki/CHEF"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Dark_Passagelogo_std.png/revision/latest?cb=20230116141224"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1867666552461328484"
+    },
+    "player": {
+      "name": "Photon",
+      "url": "https://lol.fandom.com/wiki/Photon"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Vitality",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
       "url": "https://x.com/rakan_news/status/1867599907944903058"
     },
     "player": {
@@ -1541,7 +1905,7 @@
   },
   {
     "date": "2024-12-02",
-    "status": "Rumor",
+    "status": "Disproven",
     "source": {
       "name": "Luis \"Showtana\" Santana",
       "url": "https://x.com/luisshowtana/status/1863602018507509832"
@@ -2377,370 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-trigger-set-to-join-geekay-esports-in-the-arabian-league/en"
-    },
-    "player": {
-      "name": "Trigger",
-      "url": "https://lol.fandom.com/wiki/Trigger_(Kim_Eui-joo)"
-    },
-    "from": {
-      "region": "LAT",
-      "team": {
-        "name": "INFINITY",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2a/INFINITYlogo_std.png/revision/latest?cb=20210922165254"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Geekay Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Geekay_Esportslogo_std.png/revision/latest?cb=20231116150007"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-lizia-set-to-join-sk-gaming-avarosa/en"
-    },
-    "player": {
-      "name": "Lizia",
-      "url": "https://lol.fandom.com/wiki/Lizia"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "G2 Hel",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/50/G2_Esportslogo_std.png/revision/latest?cb=20230426141941"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "SK Gaming Avarosa",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://www.sheepesports.com/articles/sources-gaax-re-signs-with-fnatic-as-assistant-coach/en"
-    },
-    "player": {
-      "name": "Gaax",
-      "url": "https://lol.fandom.com/wiki/Gaax"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Fnatic",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Fnatic",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
-      },
-      "position": "Assistant Coach"
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Alejandro \"Anonimotum\" Gomis",
-      "url": "https://www.sheepesports.com/articles/sources-bluerzor-set-to-join-ramboot-club/en"
-    },
-    "player": {
-      "name": "bluerzor",
-      "url": "https://lol.fandom.com/wiki/Bluerzor"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Zero Tenacity",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Zero_Tenacitylogo_std.png/revision/latest?cb=20240803231422"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ramboot Club",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Ramboot_Clublogo_std.png/revision/latest?cb=20230522193430"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-24",
-    "status": "Rumor",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/articles/sources-exyu-reaches-verbal-agreement-with-disguised-in-the-lta-north-conference/en"
-    },
-    "player": {
-      "name": "eXyu",
-      "url": "https://lol.fandom.com/wiki/EXyu"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "Fear x Starforge",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/Fear_x_Starforgelogo_std.png/revision/latest?cb=20240604010416"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Disguised",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-rigby-set-to-join-dignitas-as-head-coach/en"
-    },
-    "player": {
-      "name": "Rigby",
-      "url": "https://lol.fandom.com/wiki/Rigby"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Dignitas",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en"
-    },
-    "player": {
-      "name": "Nash",
-      "url": "https://lol.fandom.com/wiki/Nash_(Alf-Kristian_Sund)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Guasones",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ruddy Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Ruddy_Esportslogo_std.png/revision/latest?cb=20221217213611"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en"
-    },
-    "player": {
-      "name": "Jackspektra",
-      "url": "https://lol.fandom.com/wiki/Jackspektra"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Los Heretics",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ruddy Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Ruddy_Esportslogo_std.png/revision/latest?cb=20221217213611"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en"
-    },
-    "player": {
-      "name": "LIDER",
-      "url": "https://lol.fandom.com/wiki/LIDER"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ruddy Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Ruddy_Esportslogo_std.png/revision/latest?cb=20221217213611"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en"
-    },
-    "player": {
-      "name": "Jankos",
-      "url": "https://lol.fandom.com/wiki/Jankos"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Heretics",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ruddy Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Ruddy_Esportslogo_std.png/revision/latest?cb=20221217213611"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-perkz-jankos-lider-jackspektra-nash-to-partner-with-ruddy-esports-in/en"
-    },
-    "player": {
-      "name": "Perkz",
-      "url": "https://lol.fandom.com/wiki/Perkz"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ruddy Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Ruddy_Esportslogo_std.png/revision/latest?cb=20221217213611"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://www.sheepesports.com/articles/sources-guigo-set-to-join-furia-in-lta-south/en"
-    },
-    "player": {
-      "name": "Guigo",
-      "url": "https://lol.fandom.com/wiki/Guigo"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Vivo Keyd Stars",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "FURIA",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/FURIAlogo_std.png/revision/latest?cb=20200121190808"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://www.sheepesports.com/articles/sources-prodelta-and-scary-are-set-to-join-leviatan/en"
-    },
-    "player": {
-      "name": "scary",
-      "url": "https://lol.fandom.com/wiki/Scary_(Artur_Queiroz)"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "KaBuM! Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Leviatan",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
-      },
-      "position": "Jungler"
     }
   }
 ]
