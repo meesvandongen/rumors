@@ -4,23 +4,53 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Dec 2024 20:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2024 00:13:31 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Dec 2024 20:03:04 GMT</pubDate>
+        <pubDate>Sun, 15 Dec 2024 00:13:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Leon: GLORE → Esprit Shōnen]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Leon_(Leon_Anton)">Leon</a> (Support)</p>
+<p>GLORE → Esprit Shōnen</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1867982619377561736">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1867982619377561736</link>
+            <guid isPermaLink="false">2024-12-14-Leon-GLORE-Esprit Shōnen</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Seryy: Team Refuse → Project Conquerors]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Seryy">Seryy</a> (Assistant Coach → Head Coach)</p>
 <p>Team Refuse → Project Conquerors</p>
 <p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1867978232945135957">Sheep Esports FR</a></p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1867978232945135957">Brieuc "LEC Wooloo" Seeger</a></p>
 ]]></description>
             <link>https://x.com/SheepEsports_FR/status/1867978232945135957</link>
             <guid isPermaLink="false">2024-12-14-Seryy-Team Refuse-Project Conquerors</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Nille: WLGaming Esports → Team Valiant]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Nille">Nille</a> (Top Laner)</p>
+<p>WLGaming Esports → Team Valiant</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1867975204313366802">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1867975204313366802</link>
+            <guid isPermaLink="false">2024-12-14-Nille-WLGaming Esports-Team Valiant</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -62,70 +92,10 @@
 <p><a href="https://lol.fandom.com/wiki/Mxe">Mxe</a> (Support)</p>
 <p>Ramboot Club → BBL Dark Passage</p>
 <p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867638117001285812">DuyumTCL</a></p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867630568315531660">DuyumTCL</a></p>
 ]]></description>
-            <link>https://x.com/DuyumTCL/status/1867638117001285812</link>
+            <link>https://x.com/DuyumTCL/status/1867630568315531660</link>
             <guid isPermaLink="false">2024-12-13-Mxe-Ramboot Club-BBL Dark Passage</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Slayder: Nigma Galaxy Male → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Slayder">Slayder</a> (Bot Laner)</p>
-<p>Nigma Galaxy Male → BBL Dark Passage</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867638117001285812">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867638117001285812</link>
-            <guid isPermaLink="false">2024-12-13-Slayder-Nigma Galaxy Male-BBL Dark Passage</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Kofte: Zero Tenacity → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Kofte">Kofte</a> (Mid Laner)</p>
-<p>Zero Tenacity → BBL Dark Passage</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867638117001285812">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867638117001285812</link>
-            <guid isPermaLink="false">2024-12-13-Kofte-Zero Tenacity-BBL Dark Passage</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] XnS: BoostGate Esports → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/XnS">XnS</a> (Jungler)</p>
-<p>BoostGate Esports → BBL Dark Passage</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867638117001285812">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867638117001285812</link>
-            <guid isPermaLink="false">2024-12-13-XnS-BoostGate Esports-BBL Dark Passage</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Bong: Geekay Esports → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)">Bong</a> (Top Laner)</p>
-<p>Geekay Esports → BBL Dark Passage</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867638117001285812">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867638117001285812</link>
-            <guid isPermaLink="false">2024-12-13-Bong-Geekay Esports-BBL Dark Passage</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -252,36 +222,6 @@
             <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA] Paixdia: Beşiktaş Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Paixdia">Paixdia</a> (Support)</p>
-<p>Beşiktaş Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867666552461328484">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867666552461328484</link>
-            <guid isPermaLink="false">2024-12-13-Paixdia-Beşiktaş Esports-Beşiktaş Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Neon: SK Gaming Prime → Beşiktaş Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Neon_(Mat%C3%BA%C5%A1_Jakub%C4%8D%C3%ADk)">Neon</a> (Bot Laner)</p>
-<p>SK Gaming Prime → Beşiktaş Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867666552461328484">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867666552461328484</link>
-            <guid isPermaLink="false">2024-12-13-Neon-SK Gaming Prime-Beşiktaş Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[EMEA] TolanD: Unicorns of Love Sexy Edition → Beşiktaş Esports]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/TolanD">TolanD</a> (Mid Laner)</p>
@@ -291,36 +231,6 @@
 ]]></description>
             <link>https://x.com/DuyumTCL/status/1867666552461328484</link>
             <guid isPermaLink="false">2024-12-13-TolanD-Unicorns of Love Sexy Edition-Beşiktaş Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] CHEF: Dark Passage → Beşiktaş Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/CHEF">CHEF</a> (Jungler)</p>
-<p>Dark Passage → Beşiktaş Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867666552461328484">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867666552461328484</link>
-            <guid isPermaLink="false">2024-12-13-CHEF-Dark Passage-Beşiktaş Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Photon: Team Vitality → Beşiktaş Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Photon">Photon</a> (Top Laner)</p>
-<p>Team Vitality → Beşiktaş Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867666552461328484">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867666552461328484</link>
-            <guid isPermaLink="false">2024-12-13-Photon-Team Vitality-Beşiktaş Esports</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -432,6 +342,36 @@
             <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[EMEA] Kofte: Zero Tenacity → BBL Dark Passage]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Kofte">Kofte</a> (Mid Laner)</p>
+<p>Zero Tenacity → BBL Dark Passage</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867244568158327233">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1867244568158327233</link>
+            <guid isPermaLink="false">2024-12-12-Kofte-Zero Tenacity-BBL Dark Passage</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Bong: Geekay Esports → BBL Dark Passage]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)">Bong</a> (Top Laner)</p>
+<p>Geekay Esports → BBL Dark Passage</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867233959018635702">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1867233959018635702</link>
+            <guid isPermaLink="false">2024-12-12-Bong-Geekay Esports-BBL Dark Passage</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[APAC → CN] Wako: Frank Esports → Ultra Prime]]></title>
             <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Wako">Wako</a> (Bot Laner)</p>
@@ -462,46 +402,31 @@
             <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA] Patch: Dark Passage → BoostGate Esports]]></title>
+            <title><![CDATA[[EMEA] Sn1lle: LUA Gaming]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Patch_(Han_Seung-min)">Patch</a> (Support)</p>
-<p>Dark Passage → BoostGate Esports</p>
+<p><a href="https://lol.fandom.com/wiki/Sn1lle">Sn1lle</a> (Jungler)</p>
+<p>LUA Gaming</p>
 <p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866868041268551922">DuyumTCL</a></p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1866907383810654431">Brieuc "LEC Wooloo" Seeger</a></p>
 ]]></description>
-            <link>https://x.com/DuyumTCL/status/1866868041268551922</link>
-            <guid isPermaLink="false">2024-12-11-Patch-Dark Passage-BoostGate Esports</guid>
+            <link>https://x.com/SheepEsports_ES/status/1866907383810654431</link>
+            <guid isPermaLink="false">2024-12-11-Sn1lle-LUA Gaming-LUA Gaming</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA] ToongE: Forsaken (Polish Team) → BoostGate Esports]]></title>
+            <title><![CDATA[[EMEA] Slayder: Nigma Galaxy → BBL Dark Passage]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/ToongE">ToongE</a> (Bot Laner)</p>
-<p>Forsaken (Polish Team) → BoostGate Esports</p>
+<p><a href="https://lol.fandom.com/wiki/Slayder">Slayder</a> (Bot Laner)</p>
+<p>Nigma Galaxy → BBL Dark Passage</p>
 <p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866868041268551922">DuyumTCL</a></p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866920890736558100">DuyumTCL</a></p>
 ]]></description>
-            <link>https://x.com/DuyumTCL/status/1866868041268551922</link>
-            <guid isPermaLink="false">2024-12-11-ToongE-Forsaken (Polish Team)-BoostGate Esports</guid>
+            <link>https://x.com/DuyumTCL/status/1866920890736558100</link>
+            <guid isPermaLink="false">2024-12-11-Slayder-Nigma Galaxy-BBL Dark Passage</guid>
             <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC → EMEA] Jool: Burning Core Toyama → BoostGate Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Jool">Jool</a> (Mid Laner)</p>
-<p>Burning Core Toyama → BoostGate Esports</p>
-<p>APAC → EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866868041268551922">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1866868041268551922</link>
-            <guid isPermaLink="false">2024-12-11-Jool-Burning Core Toyama-BoostGate Esports</guid>
-            <category><![CDATA[APAC]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
@@ -512,25 +437,10 @@
 <p><a href="https://lol.fandom.com/wiki/Typhoon_(Tayfun_G%C3%BCm%C3%BC%C5%9F)">Typhoon</a> (Jungler)</p>
 <p>Beşiktaş Esports → BoostGate Esports</p>
 <p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866868041268551922">DuyumTCL</a></p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866860496219242569">DuyumTCL</a></p>
 ]]></description>
-            <link>https://x.com/DuyumTCL/status/1866868041268551922</link>
+            <link>https://x.com/DuyumTCL/status/1866860496219242569</link>
             <guid isPermaLink="false">2024-12-11-Typhoon-Beşiktaş Esports-BoostGate Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] NuQ: Team Phantasma → BoostGate Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/NuQ">NuQ</a> (Top Laner)</p>
-<p>Team Phantasma → BoostGate Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866868041268551922">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1866868041268551922</link>
-            <guid isPermaLink="false">2024-12-11-NuQ-Team Phantasma-BoostGate Esports</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -595,6 +505,21 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Smarty: Dynamo Eclot → Guasones]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Smarty">Smarty</a> (Support)</p>
+<p>Dynamo Eclot → Guasones</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1866574428890419656">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_ES/status/1866574428890419656</link>
+            <guid isPermaLink="false">2024-12-10-Smarty-Dynamo Eclot-Guasones</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[LAT → AME] Samyy: Leviatan → W7m esports]]></title>
@@ -957,6 +882,96 @@
             <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[EMEA] Yocks: Kawaii Kiwis → Guasones]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Yocks">Yocks</a> (Head Coach)</p>
+<p>Kawaii Kiwis → Guasones</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1864423346311430521">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
+            <guid isPermaLink="false">2024-12-04-Yocks-Kawaii Kiwis-Guasones</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Ecstassy: WLGaming Esports → Guasones]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ecstassy">Ecstassy</a> (Bot Laner)</p>
+<p>WLGaming Esports → Guasones</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1864423346311430521">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
+            <guid isPermaLink="false">2024-12-04-Ecstassy-WLGaming Esports-Guasones</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Macaquiño: TeamOrangeGaming → Guasones]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Macaqui%C3%B1o">Macaquiño</a> (Mid Laner)</p>
+<p>TeamOrangeGaming → Guasones</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1864423346311430521">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
+            <guid isPermaLink="false">2024-12-04-Macaquiño-TeamOrangeGaming-Guasones</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Infinity: Falke Esports → Guasones]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Infinity_(Christian_Hernando)">Infinity</a> (Jungler)</p>
+<p>Falke Esports → Guasones</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1864423346311430521">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
+            <guid isPermaLink="false">2024-12-04-Infinity-Falke Esports-Guasones</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] selenex: Stormbringers → Guasones]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Selenex">selenex</a> (Top Laner)</p>
+<p>Stormbringers → Guasones</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1864423346311430521">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
+            <guid isPermaLink="false">2024-12-04-selenex-Stormbringers-Guasones</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Shiganari: NNO Prime → Izi Dream]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Shiganari">Shiganari</a> (Bot Laner)</p>
+<p>NNO Prime → Izi Dream</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1864334412751458412">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1864334412751458412</link>
+            <guid isPermaLink="false">2024-12-04-Shiganari-NNO Prime-Izi Dream</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[EMEA] F1RE: Rebels Gaming → ZETA]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/F1RE">F1RE</a> (Head Coach)</p>
@@ -1090,6 +1105,21 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Lekcyc: Berlin International Gaming → Izi Dream]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Lekcyc">Lekcyc</a> (Support)</p>
+<p>Berlin International Gaming → Izi Dream</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1863641648464331259">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1863641648464331259</link>
+            <guid isPermaLink="false">2024-12-02-Lekcyc-Berlin International Gaming-Izi Dream</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[APAC] Kati: MGN Vikings Esports → Free Agent]]></title>
@@ -1347,6 +1377,36 @@
             <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[EMEA] Paixdia: Beşiktaş Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Paixdia">Paixdia</a> (Support)</p>
+<p>Beşiktaş Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1862844031388295350">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1862844031388295350</link>
+            <guid isPermaLink="false">2024-11-30-Paixdia-Beşiktaş Esports-Beşiktaş Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Chef: Dark Passage → Beşiktaş Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Chef">Chef</a> (Jungler)</p>
+<p>Dark Passage → Beşiktaş Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1862837299727204639">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1862837299727204639</link>
+            <guid isPermaLink="false">2024-11-30-Chef-Dark Passage-Beşiktaş Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[NA → AME] ScaryJerry: Dragonsteel → Disguised]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/ScaryJerry">ScaryJerry</a> (Bot Laner)</p>
@@ -1418,66 +1478,6 @@
             <guid isPermaLink="false">2024-11-29-MG-Twisted Minds-Los Grandes</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] Tire: Baby Whales → Secret Whales]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Tire">Tire</a> (Mid Laner)</p>
-<p>Baby Whales → Secret Whales</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
-]]></description>
-            <link>https://www.facebook.com/photo/?fbid=1080376890757539&amp;set=a.514490954012805</link>
-            <guid isPermaLink="false">2024-11-29-Tire-Baby Whales-Secret Whales</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] Hizto: Baby Whales → Secret Whales]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Hizto">Hizto</a> (Jungler)</p>
-<p>Baby Whales → Secret Whales</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1080376890757539&set=a.514490954012805">VCS English</a></p>
-]]></description>
-            <link>https://www.facebook.com/photo/?fbid=1080376890757539&amp;set=a.514490954012805</link>
-            <guid isPermaLink="false">2024-11-29-Hizto-Baby Whales-Secret Whales</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Kaiser: Team Heretics → Los Heretics]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Kaiser">Kaiser</a> (Support)</p>
-<p>Team Heretics → Los Heretics</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-kaiser-set-to-join-los-heretics/en">Alejandro "Anonimotum" Gomis</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-kaiser-set-to-join-los-heretics/en</link>
-            <guid isPermaLink="false">2024-11-29-Kaiser-Team Heretics-Los Heretics</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Patrik: GIANTX → Rogue (European Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Patrik">Patrik</a> (Bot Laner)</p>
-<p>GIANTX → Rogue (European Team)</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-patrik-set-to-join-rogue-or-their-buyer-in-the-lec/en">Alejandro "Anonimotum" Gomis</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-patrik-set-to-join-rogue-or-their-buyer-in-the-lec/en</link>
-            <guid isPermaLink="false">2024-11-29-Patrik-GIANTX-Rogue (European Team)</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
         </item>
