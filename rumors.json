@@ -1,5 +1,33 @@
 [
   {
+    "date": "2024-12-16",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/SheepEsports_FR/status/1868728623605465589"
+    },
+    "player": {
+      "name": "Avarice",
+      "url": "https://lol.fandom.com/wiki/Avarice"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Crvena zvezda Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Project Conquerors",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
     "date": "2024-12-14",
     "status": "Rumor",
     "source": {
@@ -2713,34 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-11-29",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1862588351611543995"
-    },
-    "player": {
-      "name": "MG",
-      "url": "https://lol.fandom.com/wiki/MG_(Lee_Ji-hoon)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Twisted Minds",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/Twisted_Mindslogo_std.png/revision/latest?cb=20230205105556"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Los Grandes",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/Los_Grandeslogo_std.png/revision/latest?cb=20230608222225"
-      },
-      "position": "Mid Laner"
     }
   }
 ]

@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Dec 2024 20:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 00:12:11 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Dec 2024 20:03:27 GMT</pubDate>
+        <pubDate>Tue, 17 Dec 2024 00:12:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Avarice: Crvena zvezda Esports → Project Conquerors]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Avarice">Avarice</a> (Bot Laner)</p>
+<p>Crvena zvezda Esports → Project Conquerors</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1868728623605465589">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1868728623605465589</link>
+            <guid isPermaLink="false">2024-12-16-Avarice-Crvena zvezda Esports-Project Conquerors</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Leon: GLORE → Esprit Shōnen]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1461,21 +1476,6 @@
 ]]></description>
             <link>https://x.com/luisshowtana/status/1862591561583702214</link>
             <guid isPermaLink="false">2024-11-29-HiRit-FUT Esports-KaBuM! Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA → AME] MG: Twisted Minds → Los Grandes]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/MG_(Lee_Ji-hoon)">MG</a> (Mid Laner)</p>
-<p>Twisted Minds → Los Grandes</p>
-<p>EMEA → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1862588351611543995">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1862588351611543995</link>
-            <guid isPermaLink="false">2024-11-29-MG-Twisted Minds-Los Grandes</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
