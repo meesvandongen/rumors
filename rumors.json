@@ -1,5 +1,33 @@
 [
   {
+    "date": "2024-12-18",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1866920890736558100"
+    },
+    "player": {
+      "name": "Slayer",
+      "url": "https://lol.fandom.com/wiki/Slayer"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Nigma Galaxy Male",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/Nigma_Galaxy_Malelogo_std.png/revision/latest?cb=20220328050041"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BBL Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
     "date": "2024-12-17",
     "status": "Rumor",
     "source": {
@@ -2713,34 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-12-02",
-    "status": "Confirmed!",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en"
-    },
-    "player": {
-      "name": "Tactical",
-      "url": "https://lol.fandom.com/wiki/Tactical"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "Immortals",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/Immortalslogo_std.png/revision/latest?cb=20230323063431"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Luminosity Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/Luminosity_Gaminglogo_std.png/revision/latest?cb=20211118131941"
-      },
-      "position": "Bot Laner"
     }
   }
 ]

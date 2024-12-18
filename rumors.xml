@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Dec 2024 04:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 08:03:46 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Dec 2024 04:03:26 GMT</pubDate>
+        <pubDate>Wed, 18 Dec 2024 08:03:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Slayer: Nigma Galaxy Male → BBL Dark Passage]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Slayer">Slayer</a> (Bot Laner)</p>
+<p>Nigma Galaxy Male → BBL Dark Passage</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866920890736558100">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1866920890736558100</link>
+            <guid isPermaLink="false">2024-12-18-Slayer-Nigma Galaxy Male-BBL Dark Passage</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR → AME] zay: Flamengo MDL → Rise Gaming]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1461,21 +1476,6 @@
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
             <guid isPermaLink="false">2024-12-02-Dayos-Winthrop University-Luminosity Gaming</guid>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[NA → AME] Tactical: Immortals → Luminosity Gaming]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Tactical">Tactical</a> (Bot Laner)</p>
-<p>Immortals → Luminosity Gaming</p>
-<p>NA → AME</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
-            <guid isPermaLink="false">2024-12-02-Tactical-Immortals-Luminosity Gaming</guid>
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
