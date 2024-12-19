@@ -4,13 +4,103 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Dec 2024 16:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 20:03:23 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Dec 2024 16:03:24 GMT</pubDate>
+        <pubDate>Thu, 19 Dec 2024 20:03:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Seal: Myth Esports → Zerance]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Seal_(Fabian_de_Lint)">Seal</a> (Support)</p>
+<p>Myth Esports → Zerance</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869758590640443488">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1869758590640443488</link>
+            <guid isPermaLink="false">2024-12-19-Seal-Myth Esports-Zerance</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Highway: Gamespace Mediterranean College Esports → Skillcamp]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Highway">Highway</a> (Support)</p>
+<p>Gamespace Mediterranean College Esports → Skillcamp</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869741626626875896">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1869741626626875896</link>
+            <guid isPermaLink="false">2024-12-19-Highway-Gamespace Mediterranean College Esports-Skillcamp</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] MAT: Skillcamp]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/MAT_(Mat%C3%A9o_Ponton)">MAT</a> (Top Laner)</p>
+<p>Skillcamp</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869731144025157658">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1869731144025157658</link>
+            <guid isPermaLink="false">2024-12-19-MAT-Skillcamp-Skillcamp</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Abagnale: Akroma → Project Conquerors]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Abagnale">Abagnale</a> (Support)</p>
+<p>Akroma → Project Conquerors</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869447705543778586">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1869447705543778586</link>
+            <guid isPermaLink="false">2024-12-18-Abagnale-Akroma-Project Conquerors</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] alix: NASR eSports Turkey → Zerance]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Alix">alix</a> (Mid Laner)</p>
+<p>NASR eSports Turkey → Zerance</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869426226265460872">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1869426226265460872</link>
+            <guid isPermaLink="false">2024-12-18-alix-NASR eSports Turkey-Zerance</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] CptMario: Free Agent → Karmine Corp Blue Stars]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=CptMario&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=">CptMario</a> (Coach → Head Coach)</p>
+<p>Free Agent → Karmine Corp Blue Stars</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-cptmario-set-to-join-karmine-corp-blue-stars-as-head-coach-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/articles/sources-cptmario-set-to-join-karmine-corp-blue-stars-as-head-coach-in-the-lfl-division-2/en</link>
+            <guid isPermaLink="false">2024-12-18-CptMario-Free Agent-Karmine Corp Blue Stars</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Slayder: Nigma Galaxy Male → BBL Dark Passage]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -25,6 +115,36 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] Koala: Free Agent → Ground Zero Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Koala_(Lin_Chih-Chiang)">Koala</a> (Coach → Support)</p>
+<p>Free Agent → Ground Zero Gaming</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1734443750.A.5FA.html">nelson9461</a></p>
+]]></description>
+            <link>https://www.ptt.cc/bbs/LoL/M.1734443750.A.5FA.html</link>
+            <guid isPermaLink="false">2024-12-17-Koala-Free Agent-Ground Zero Gaming</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] Lilv: West Point Esports Philippines → Ground Zero Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Lilv">Lilv</a> (Bot Laner)</p>
+<p>West Point Esports Philippines → Ground Zero Gaming</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1734443750.A.5FA.html">nelson9461</a></p>
+]]></description>
+            <link>https://www.ptt.cc/bbs/LoL/M.1734443750.A.5FA.html</link>
+            <guid isPermaLink="false">2024-12-17-Lilv-West Point Esports Philippines-Ground Zero Gaming</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[BR → AME] zay: Flamengo MDL → Rise Gaming]]></title>
@@ -1328,156 +1448,6 @@
             <guid isPermaLink="false">2024-12-02-Kati-MGN Vikings Esports-Free Agent</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Guigs: PaiN Gaming Academy → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Guigs">Guigs</a> (Support)</p>
-<p>PaiN Gaming Academy → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
-            <guid isPermaLink="false">2024-12-02-Guigs-PaiN Gaming Academy-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Marvin: PaiN Gaming Academy → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Marvin">Marvin</a> (Bot Laner)</p>
-<p>PaiN Gaming Academy → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
-            <guid isPermaLink="false">2024-12-02-Marvin-PaiN Gaming Academy-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Fuuu: Fluxo → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Fuuu">Fuuu</a> (Mid Laner)</p>
-<p>Fluxo → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
-            <guid isPermaLink="false">2024-12-02-Fuuu-Fluxo-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Shini: Fluxo → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Shini">Shini</a> (Jungler)</p>
-<p>Fluxo → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
-            <guid isPermaLink="false">2024-12-02-Shini-Fluxo-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Hidan: PaiN Gaming Academy → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Hidan">Hidan</a> (Top Laner)</p>
-<p>PaiN Gaming Academy → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
-            <guid isPermaLink="false">2024-12-02-Hidan-PaiN Gaming Academy-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA → AME] Bong: Geekay Esports → Fluxo]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)">Bong</a> (Top Laner)</p>
-<p>Geekay Esports → Fluxo</p>
-<p>EMEA → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
-            <guid isPermaLink="false">2024-12-02-Bong-Geekay Esports-Fluxo</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA → AME] HiRit: FUT Esports → Fluxo]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/HiRit">HiRit</a> (Top Laner)</p>
-<p>FUT Esports → Fluxo</p>
-<p>EMEA → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863674265658417645">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863674265658417645</link>
-            <guid isPermaLink="false">2024-12-02-HiRit-FUT Esports-Fluxo</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[NA → AME] Olleh: Immortals → Fluxo]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Olleh">Olleh</a> (Support)</p>
-<p>Immortals → Fluxo</p>
-<p>NA → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863602018507509832">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863602018507509832</link>
-            <guid isPermaLink="false">2024-12-02-Olleh-Immortals-Fluxo</guid>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Smiley: Vivo Keyd Stars → Fluxo]]></title>
-            <description><![CDATA[<p>Disproven</p>
-<p><a href="https://lol.fandom.com/wiki/Smiley_(Ludvig_Granquist)">Smiley</a> (Bot Laner)</p>
-<p>Vivo Keyd Stars → Fluxo</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863602018507509832">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863602018507509832</link>
-            <guid isPermaLink="false">2024-12-02-Smiley-Vivo Keyd Stars-Fluxo</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[NA → AME] Dayos: Winthrop University → Luminosity Gaming]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Dayos">Dayos</a> (Coach → Head Coach)</p>
-<p>Winthrop University → Luminosity Gaming</p>
-<p>NA → AME</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en">LCS Eevee</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-fakegod-tomio-and-tactical-set-to-join-luminosity-gaming-in-nacl-2025/en</link>
-            <guid isPermaLink="false">2024-12-02-Dayos-Winthrop University-Luminosity Gaming</guid>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
         </item>
