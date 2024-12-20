@@ -4,13 +4,43 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Dec 2024 00:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 04:03:22 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Dec 2024 00:11:29 GMT</pubDate>
+        <pubDate>Fri, 20 Dec 2024 04:03:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Kuroneel: Zerance → Project Conquerors]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Kuroneel">Kuroneel</a> (Mid Laner)</p>
+<p>Zerance → Project Conquerors</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869833075385086267">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1869833075385086267</link>
+            <guid isPermaLink="false">2024-12-19-Kuroneel-Zerance-Project Conquerors</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Frost: Project Conquerors]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Frost_(M%C3%A1ty%C3%A1s_M%C3%A1tyus)">Frost</a> (Jungler)</p>
+<p>Project Conquerors</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869821404784537972">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/SheepEsports_FR/status/1869821404784537972</link>
+            <guid isPermaLink="false">2024-12-19-Frost-Project Conquerors-Project Conquerors</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Seal: Myth Esports → Zerance]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1420,36 +1450,6 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Simpli: FC Schalke 04 Esports → Unicorns of Love Sexy Edition]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Simpli">Simpli</a> (Mid Laner)</p>
-<p>FC Schalke 04 Esports → Unicorns of Love Sexy Edition</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-simpli-set-to-complete-unicorns-of-lover-sexy-edition-s-roster/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-simpli-set-to-complete-unicorns-of-lover-sexy-edition-s-roster/en</link>
-            <guid isPermaLink="false">2024-12-03-Simpli-FC Schalke 04 Esports-Unicorns of Love Sexy Edition</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Marvin: PaiN Gaming Academy → Vivo Keyd Stars Academy]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Marvin">Marvin</a> (Bot Laner)</p>
-<p>PaiN Gaming Academy → Vivo Keyd Stars Academy</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1863988101741183468">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1863988101741183468</link>
-            <guid isPermaLink="false">2024-12-03-Marvin-PaiN Gaming Academy-Vivo Keyd Stars Academy</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,6 +4,62 @@
     "status": "Rumor",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/SheepEsports_FR/status/1869833075385086267"
+    },
+    "player": {
+      "name": "Kuroneel",
+      "url": "https://lol.fandom.com/wiki/Kuroneel"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Zerance",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/81/Zerancelogo_std.png/revision/latest?cb=20240807171800"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Project Conquerors",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-19",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/SheepEsports_FR/status/1869821404784537972"
+    },
+    "player": {
+      "name": "Frost",
+      "url": "https://lol.fandom.com/wiki/Frost_(M%C3%A1ty%C3%A1s_M%C3%A1tyus)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Project Conquerors",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Project Conquerors",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-19",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/SheepEsports_FR/status/1869758590640443488"
     },
     "player": {
@@ -2629,62 +2685,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-03",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-simpli-set-to-complete-unicorns-of-lover-sexy-edition-s-roster/en"
-    },
-    "player": {
-      "name": "Simpli",
-      "url": "https://lol.fandom.com/wiki/Simpli"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "FC Schalke 04 Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/FC_Schalke_04_Esportslogo_std.png/revision/latest?cb=20201021165433"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unicorns of Love Sexy Edition",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/Unicorns_of_Love_Sexy_Editionlogo_std.png/revision/latest?cb=20220202103424"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-03",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1863988101741183468"
-    },
-    "player": {
-      "name": "Marvin",
-      "url": "https://lol.fandom.com/wiki/Marvin"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "PaiN Gaming Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Bot Laner"
     }
   }
 ]
