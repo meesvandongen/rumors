@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Dec 2024 20:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 00:11:29 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Dec 2024 20:03:23 GMT</pubDate>
+        <pubDate>Fri, 20 Dec 2024 00:11:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -143,6 +143,81 @@
             <guid isPermaLink="false">2024-12-17-Lilv-West Point Esports Philippines-Ground Zero Gaming</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Elkinho: Free Agent → Logo std]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=Elkinho&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=">Elkinho</a> (Support)</p>
+<p>Free Agent → Logo std</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/rakan_news/status/1869140312461070697</link>
+            <guid isPermaLink="false">2024-12-17-Elkinho-Free Agent-Logo std</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Buero: Free Agent → Logo std]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Buero">Buero</a> (Bot Laner)</p>
+<p>Free Agent → Logo std</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/rakan_news/status/1869140312461070697</link>
+            <guid isPermaLink="false">2024-12-17-Buero-Free Agent-Logo std</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Dioge: INTZ → Logo std]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Dioge_(Diogenes_Barbosa)">Dioge</a> (Mid Laner)</p>
+<p>INTZ → Logo std</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/rakan_news/status/1869140312461070697</link>
+            <guid isPermaLink="false">2024-12-17-Dioge-INTZ-Logo std</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Drakehero: Liberty → Logo std]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Drakehero">Drakehero</a> (Jungler)</p>
+<p>Liberty → Logo std</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/rakan_news/status/1869140312461070697</link>
+            <guid isPermaLink="false">2024-12-17-Drakehero-Liberty-Logo std</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] KiaRi: Fluxo → Logo std]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/KiaRi">KiaRi</a> (Top Laner)</p>
+<p>Fluxo → Logo std</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/rakan_news/status/1869140312461070697</link>
+            <guid isPermaLink="false">2024-12-17-KiaRi-Fluxo-Logo std</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
         </item>
@@ -1375,81 +1450,6 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → APAC] Chika: DRX Shinhan Bank → MGN Vikings Esports]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Chika">Chika</a> (Mid Laner)</p>
-<p>DRX Shinhan Bank → MGN Vikings Esports</p>
-<p>KR → APAC</p>
-<p><strong>Source:</strong> <a href="https://x.com/vcs_english/status/1863962285552873542">VCS English</a></p>
-]]></description>
-            <link>https://x.com/vcs_english/status/1863962285552873542</link>
-            <guid isPermaLink="false">2024-12-03-Chika-DRX Shinhan Bank-MGN Vikings Esports</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] MathisV: Free Agent → Karmine Corp Blue Stars]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/MathisV">MathisV</a> (Mid Laner)</p>
-<p>Free Agent → Karmine Corp Blue Stars</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en</link>
-            <guid isPermaLink="false">2024-12-03-MathisV-Free Agent-Karmine Corp Blue Stars</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Shlatan: NNO Prime → Team BDS Academy]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Shlatan">Shlatan</a> (Jungler)</p>
-<p>NNO Prime → Team BDS Academy</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-shlatan-set-to-join-team-bds-academy-in-the-lfl/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-shlatan-set-to-join-team-bds-academy-in-the-lfl/en</link>
-            <guid isPermaLink="false">2024-12-03-Shlatan-NNO Prime-Team BDS Academy</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Lekcyc: Berlin International Gaming → Izi Dream]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Lekcyc">Lekcyc</a> (Support)</p>
-<p>Berlin International Gaming → Izi Dream</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1863641648464331259">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_FR/status/1863641648464331259</link>
-            <guid isPermaLink="false">2024-12-02-Lekcyc-Berlin International Gaming-Izi Dream</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] Kati: MGN Vikings Esports → Free Agent]]></title>
-            <description><![CDATA[<p>Disproven</p>
-<p><a href="https://lol.fandom.com/wiki/Kati">Kati</a> (Mid Laner)</p>
-<p>MGN Vikings Esports → Free Agent</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://www.facebook.com/photo/?fbid=1082739220521306&set=a.514490940679473">VCS English</a></p>
-]]></description>
-            <link>https://www.facebook.com/photo/?fbid=1082739220521306&amp;set=a.514490940679473</link>
-            <guid isPermaLink="false">2024-12-02-Kati-MGN Vikings Esports-Free Agent</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

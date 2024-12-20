@@ -256,6 +256,146 @@
     "status": "Rumor",
     "source": {
       "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1869140312461070697"
+    },
+    "player": {
+      "name": "Elkinho",
+      "url": "https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=Elkinho&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run="
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Logo std",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-17",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1869140312461070697"
+    },
+    "player": {
+      "name": "Buero",
+      "url": "https://lol.fandom.com/wiki/Buero"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Logo std",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-17",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1869140312461070697"
+    },
+    "player": {
+      "name": "Dioge",
+      "url": "https://lol.fandom.com/wiki/Dioge_(Diogenes_Barbosa)"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "INTZ",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/INTZlogo_std.png/revision/latest?cb=20200210222831"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Logo std",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-17",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1869140312461070697"
+    },
+    "player": {
+      "name": "Drakehero",
+      "url": "https://lol.fandom.com/wiki/Drakehero"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Liberty",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Libertylogo_std.png/revision/latest?cb=20211216004143"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Logo std",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-17",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1869140312461070697"
+    },
+    "player": {
+      "name": "KiaRi",
+      "url": "https://lol.fandom.com/wiki/KiaRi"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Logo std",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-17",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
       "url": "https://x.com/rakan_news/status/1869073046306464172"
     },
     "player": {
@@ -2545,146 +2685,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-03",
-    "status": "Confirmed!",
-    "source": {
-      "name": "VCS English",
-      "url": "https://x.com/vcs_english/status/1863962285552873542"
-    },
-    "player": {
-      "name": "Chika",
-      "url": "https://lol.fandom.com/wiki/Chika"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "DRX Shinhan Bank",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest?cb=20230504052509"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "MGN Vikings Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-03",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-mathisv-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en"
-    },
-    "player": {
-      "name": "MathisV",
-      "url": "https://lol.fandom.com/wiki/MathisV"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Karmine Corp Blue Stars",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-03",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-shlatan-set-to-join-team-bds-academy-in-the-lfl/en"
-    },
-    "player": {
-      "name": "Shlatan",
-      "url": "https://lol.fandom.com/wiki/Shlatan"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "NNO Prime",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/No_Need_Orgalogo_std.png/revision/latest?cb=20211006205501"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team BDS Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-02",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1863641648464331259"
-    },
-    "player": {
-      "name": "Lekcyc",
-      "url": "https://lol.fandom.com/wiki/Lekcyc"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Berlin International Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Berlin_International_Gaminglogo_std.png/revision/latest?cb=20200312222659"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Izi Dream",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Izi_Dreamlogo_std.png/revision/latest?cb=20230421122352"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-02",
-    "status": "Disproven",
-    "source": {
-      "name": "VCS English",
-      "url": "https://www.facebook.com/photo/?fbid=1082739220521306&set=a.514490940679473"
-    },
-    "player": {
-      "name": "Kati",
-      "url": "https://lol.fandom.com/wiki/Kati"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "MGN Vikings Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
