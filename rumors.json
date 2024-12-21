@@ -1,5 +1,33 @@
 [
   {
+    "date": "2024-12-21",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1870497726737371260"
+    },
+    "player": {
+      "name": "Shini",
+      "url": "https://lol.fandom.com/wiki/Shini"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "W7m esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
     "date": "2024-12-20",
     "status": "Rumor",
     "source": {
@@ -2629,34 +2657,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Izi_Dreamlogo_std.png/revision/latest?cb=20230421122352"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en"
-    },
-    "player": {
-      "name": "F1RE",
-      "url": "https://lol.fandom.com/wiki/F1RE"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Rebels Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b1/Rebels_Gaminglogo_std.png/revision/latest?cb=20211130213240"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "ZETA",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/ZETAlogo_std.png/revision/latest?cb=20221030222929"
-      },
-      "position": "Head Coach"
     }
   }
 ]
