@@ -2658,33 +2658,5 @@
       },
       "position": "Head Coach"
     }
-  },
-  {
-    "date": "2024-12-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://www.sheepesports.com/articles/sources-elojoninja-and-pepiinero-set-to-join-zeta-in-a-content-creator-team-with-f1re-as-head/en"
-    },
-    "player": {
-      "name": "ElOjoNinja",
-      "url": "https://lol.fandom.com/wiki/ElOjoNinja"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "ZETA",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/ZETAlogo_std.png/revision/latest?cb=20221030222929"
-      },
-      "position": "Content Creator"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "ZETA",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/ZETAlogo_std.png/revision/latest?cb=20221030222929"
-      },
-      "position": "Jungler"
-    }
   }
 ]
