@@ -4,13 +4,88 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Dec 2024 16:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 20:03:12 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Dec 2024 16:03:06 GMT</pubDate>
+        <pubDate>Tue, 24 Dec 2024 20:03:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[APAC → EMEA] Hoon: DetonatioN FocusMe → BoostGate Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Hoon_(Kwon_Noh-hoon)">Hoon</a> (Head Coach)</p>
+<p>DetonatioN FocusMe → BoostGate Esports</p>
+<p>APAC → EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1871579756803793230">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1871579756803793230</link>
+            <guid isPermaLink="false">2024-12-24-Hoon-DetonatioN FocusMe-BoostGate Esports</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Damage: INTZ → KaBuM! Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Damage">Damage</a> (Support)</p>
+<p>INTZ → KaBuM! Esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1871589261889413124">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/rakan_news/status/1871589261889413124</link>
+            <guid isPermaLink="false">2024-12-24-Damage-INTZ-KaBuM! Esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] scuro: KaBuM! Academy → KaBuM! Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Scuro">scuro</a> (Bot Laner)</p>
+<p>KaBuM! Academy → KaBuM! Esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1871589261889413124">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/rakan_news/status/1871589261889413124</link>
+            <guid isPermaLink="false">2024-12-24-scuro-KaBuM! Academy-KaBuM! Esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Hauz: KaBuM! Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Hauz">Hauz</a> (Mid Laner)</p>
+<p>KaBuM! Esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1871589261889413124">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/rakan_news/status/1871589261889413124</link>
+            <guid isPermaLink="false">2024-12-24-Hauz-KaBuM! Esports-KaBuM! Esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Shini: Fluxo → W7m esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Shini">Shini</a> (Jungler)</p>
+<p>Fluxo → W7m esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1871282808846430503">Luis "Showtana" Santana</a></p>
+]]></description>
+            <link>https://x.com/luisshowtana/status/1871282808846430503</link>
+            <guid isPermaLink="false">2024-12-23-Shini-Fluxo-W7m esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR → AME] Shini: Fluxo → W7m esports]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1356,81 +1431,6 @@
 ]]></description>
             <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
             <guid isPermaLink="false">2024-12-04-Yocks-Kawaii Kiwis-Guasones</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Ecstassy: WLGaming Esports → Guasones]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Ecstassy">Ecstassy</a> (Bot Laner)</p>
-<p>WLGaming Esports → Guasones</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1864423346311430521">Marian "Eros" Stoica</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
-            <guid isPermaLink="false">2024-12-04-Ecstassy-WLGaming Esports-Guasones</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Macaquiño: TeamOrangeGaming → Guasones]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Macaqui%C3%B1o">Macaquiño</a> (Mid Laner)</p>
-<p>TeamOrangeGaming → Guasones</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1864423346311430521">Marian "Eros" Stoica</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
-            <guid isPermaLink="false">2024-12-04-Macaquiño-TeamOrangeGaming-Guasones</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Infinity: Falke Esports → Guasones]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Infinity_(Christian_Hernando)">Infinity</a> (Jungler)</p>
-<p>Falke Esports → Guasones</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1864423346311430521">Marian "Eros" Stoica</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
-            <guid isPermaLink="false">2024-12-04-Infinity-Falke Esports-Guasones</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] selenex: Stormbringers → Guasones]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Selenex">selenex</a> (Top Laner)</p>
-<p>Stormbringers → Guasones</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1864423346311430521">Marian "Eros" Stoica</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_ES/status/1864423346311430521</link>
-            <guid isPermaLink="false">2024-12-04-selenex-Stormbringers-Guasones</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Shiganari: NNO Prime → Izi Dream]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Shiganari">Shiganari</a> (Bot Laner)</p>
-<p>NNO Prime → Izi Dream</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1864334412751458412">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_FR/status/1864334412751458412</link>
-            <guid isPermaLink="false">2024-12-04-Shiganari-NNO Prime-Izi Dream</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>

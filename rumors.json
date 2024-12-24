@@ -1,5 +1,145 @@
 [
   {
+    "date": "2024-12-24",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1871579756803793230"
+    },
+    "player": {
+      "name": "Hoon",
+      "url": "https://lol.fandom.com/wiki/Hoon_(Kwon_Noh-hoon)"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "DetonatioN FocusMe",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/DetonatioN_FocusMelogo_std.png/revision/latest?cb=20230505045554"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2024-12-24",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1871589261889413124"
+    },
+    "player": {
+      "name": "Damage",
+      "url": "https://lol.fandom.com/wiki/Damage"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "INTZ",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/INTZlogo_std.png/revision/latest?cb=20200210222831"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "KaBuM! Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-24",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1871589261889413124"
+    },
+    "player": {
+      "name": "scuro",
+      "url": "https://lol.fandom.com/wiki/Scuro"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "KaBuM! Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "KaBuM! Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-24",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/rakan_news/status/1871589261889413124"
+    },
+    "player": {
+      "name": "Hauz",
+      "url": "https://lol.fandom.com/wiki/Hauz"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "KaBuM! Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "KaBuM! Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-23",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"Showtana\" Santana",
+      "url": "https://x.com/luisshowtana/status/1871282808846430503"
+    },
+    "player": {
+      "name": "Shini",
+      "url": "https://lol.fandom.com/wiki/Shini"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Fluxo",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "W7m esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
     "date": "2024-12-21",
     "status": "Rumor",
     "source": {
@@ -2517,146 +2657,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-12-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://x.com/SheepEsports_ES/status/1864423346311430521"
-    },
-    "player": {
-      "name": "Ecstassy",
-      "url": "https://lol.fandom.com/wiki/Ecstassy"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "WLGaming Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Guasones",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://x.com/SheepEsports_ES/status/1864423346311430521"
-    },
-    "player": {
-      "name": "Macaquiño",
-      "url": "https://lol.fandom.com/wiki/Macaqui%C3%B1o"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "TeamOrangeGaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/TeamOrangeGaminglogo_std.png/revision/latest?cb=20200622105944"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Guasones",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://x.com/SheepEsports_ES/status/1864423346311430521"
-    },
-    "player": {
-      "name": "Infinity",
-      "url": "https://lol.fandom.com/wiki/Infinity_(Christian_Hernando)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Falke Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/Falke_Esportslogo_std.png/revision/latest?cb=20241022064220"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Guasones",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://x.com/SheepEsports_ES/status/1864423346311430521"
-    },
-    "player": {
-      "name": "selenex",
-      "url": "https://lol.fandom.com/wiki/Selenex"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Stormbringers",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Stormbringerslogo_std.png/revision/latest?cb=20240527133206"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Guasones",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1864334412751458412"
-    },
-    "player": {
-      "name": "Shiganari",
-      "url": "https://lol.fandom.com/wiki/Shiganari"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "NNO Prime",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/No_Need_Orgalogo_std.png/revision/latest?cb=20211006205501"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Izi Dream",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Izi_Dreamlogo_std.png/revision/latest?cb=20230421122352"
-      },
-      "position": "Bot Laner"
     }
   }
 ]
