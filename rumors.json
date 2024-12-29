@@ -1,5 +1,33 @@
 [
   {
+    "date": "2024-12-28",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-vizicsacsi-set-to-join-nord-esports-in-the-nlc/en"
+    },
+    "player": {
+      "name": "Vizicsacsi",
+      "url": "https://lol.fandom.com/wiki/Vizicsacsi"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Berlin International Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Berlin_International_Gaminglogo_std.png/revision/latest?cb=20200312222659"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "NORD Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fd/NORD_Esportslogo_std.png/revision/latest?cb=20240527150657"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2024-12-27",
     "status": "Rumor",
     "source": {
@@ -2601,34 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-06",
-    "status": "Rumor",
-    "source": {
-      "name": "Armand Luque",
-      "url": "https://www.sheepesports.com/articles/sources-zeniv-set-to-join-g2-hel-in-2025/en"
-    },
-    "player": {
-      "name": "Zeniv",
-      "url": "https://lol.fandom.com/wiki/Zeniv"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "NNOwO",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/No_Need_Orgalogo_std.png/revision/latest?cb=20211006205501"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "G2 Hel",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/50/G2_Esportslogo_std.png/revision/latest?cb=20230426141941"
-      },
-      "position": "Top Laner"
     }
   }
 ]
