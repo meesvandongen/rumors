@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Dec 2024 16:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Dec 2024 20:03:03 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Dec 2024 16:03:05 GMT</pubDate>
+        <pubDate>Sun, 29 Dec 2024 20:03:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Fade: BoostGate Esports → ESuba]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Fade_(Fatih_Kur%C5%9Fun)">Fade</a> (Mid Laner)</p>
+<p>BoostGate Esports → ESuba</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1873436595379990568">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1873436595379990568</link>
+            <guid isPermaLink="false">2024-12-29-Fade-BoostGate Esports-ESuba</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Vizicsacsi: Berlin International Gaming → NORD Esports]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -42,15 +57,15 @@
             <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA] Mercy9: Misa Esports → Istanbul Wildcats]]></title>
+            <title><![CDATA[[EMEA] Mercy9: Misa Esports → Bushido Wildcats]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Mercy9">Mercy9</a> (Mid Laner)</p>
-<p>Misa Esports → Istanbul Wildcats</p>
+<p>Misa Esports → Bushido Wildcats</p>
 <p>EMEA</p>
 <p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1872040796549214671">DuyumTCL</a></p>
 ]]></description>
             <link>https://x.com/DuyumTCL/status/1872040796549214671</link>
-            <guid isPermaLink="false">2024-12-25-Mercy9-Misa Esports-Istanbul Wildcats</guid>
+            <guid isPermaLink="false">2024-12-25-Mercy9-Misa Esports-Bushido Wildcats</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -291,21 +306,6 @@
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-cptmario-set-to-join-karmine-corp-blue-stars-as-head-coach-in-the-lfl-division-2/en</link>
             <guid isPermaLink="false">2024-12-18-CptMario-Free Agent-Karmine Corp Blue Stars</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Slayder: Nigma Galaxy Male → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Slayder">Slayder</a> (Bot Laner)</p>
-<p>Nigma Galaxy Male → BBL Dark Passage</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866920890736558100">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1866920890736558100</link>
-            <guid isPermaLink="false">2024-12-18-Slayder-Nigma Galaxy Male-BBL Dark Passage</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>

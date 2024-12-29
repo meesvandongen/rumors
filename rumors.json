@@ -1,5 +1,33 @@
 [
   {
+    "date": "2024-12-29",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1873436595379990568"
+    },
+    "player": {
+      "name": "Fade",
+      "url": "https://lol.fandom.com/wiki/Fade_(Fatih_Kur%C5%9Fun)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ESuba",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/ESubalogo_std.png/revision/latest?cb=20240603014141"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2024-12-28",
     "status": "Rumor",
     "source": {
@@ -77,8 +105,8 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Istanbul Wildcats",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Istanbul_Wildcatslogo_std.png/revision/latest?cb=20220612165226"
+        "name": "Bushido Wildcats",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20241229154842"
       },
       "position": "Mid Laner"
     }
@@ -529,34 +557,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-12-18",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1866920890736558100"
-    },
-    "player": {
-      "name": "Slayder",
-      "url": "https://lol.fandom.com/wiki/Slayder"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Nigma Galaxy Male",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/Nigma_Galaxy_Malelogo_std.png/revision/latest?cb=20220328050041"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "BBL Dark Passage",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
-      },
-      "position": "Bot Laner"
     }
   },
   {
