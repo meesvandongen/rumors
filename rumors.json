@@ -1,5 +1,33 @@
 [
   {
+    "date": "2024-12-31",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1874127528417259933"
+    },
+    "player": {
+      "name": "Scorth",
+      "url": "https://lol.fandom.com/wiki/Scorth"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "FUT Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/FUT_Esportslogo_std.png/revision/latest?cb=20240107144615"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Bushido Wildcats",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20241229154842"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
     "date": "2024-12-29",
     "status": "Rumor",
     "source": {
@@ -2601,34 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-06",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en"
-    },
-    "player": {
-      "name": "Agurin",
-      "url": "https://lol.fandom.com/wiki/Agurin"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "No Need Orga",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/No_Need_Orgalogo_std.png/revision/latest?cb=20211006205501"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Logo std",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
-      },
-      "position": "Jungler"
     }
   }
 ]

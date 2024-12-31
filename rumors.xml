@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Dec 2024 16:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 20:03:10 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Dec 2024 16:03:04 GMT</pubDate>
+        <pubDate>Tue, 31 Dec 2024 20:03:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Scorth: FUT Esports → Bushido Wildcats]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Scorth">Scorth</a> (Bot Laner)</p>
+<p>FUT Esports → Bushido Wildcats</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1874127528417259933">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1874127528417259933</link>
+            <guid isPermaLink="false">2024-12-31-Scorth-FUT Esports-Bushido Wildcats</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Fade: BoostGate Esports → ESuba]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1401,21 +1416,6 @@
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en</link>
             <guid isPermaLink="false">2024-12-06-Reptile-Free Agent-Logo std</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Agurin: No Need Orga → Logo std]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Agurin">Agurin</a> (Jungler)</p>
-<p>No Need Orga → Logo std</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en</link>
-            <guid isPermaLink="false">2024-12-06-Agurin-No Need Orga-Logo std</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
