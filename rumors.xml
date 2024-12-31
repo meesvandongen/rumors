@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Dec 2024 12:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 16:03:04 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Dec 2024 12:04:15 GMT</pubDate>
+        <pubDate>Tue, 31 Dec 2024 16:03:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -658,7 +658,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Viser1on: BoostGate Esports → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Viser1on">Viser1on</a> (Coach)</p>
 <p>BoostGate Esports → BBL Dark Passage</p>
 <p>EMEA</p>
@@ -673,7 +673,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Mxe: Ramboot Club → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Mxe">Mxe</a> (Support)</p>
 <p>Ramboot Club → BBL Dark Passage</p>
 <p>EMEA</p>
@@ -928,7 +928,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Kofte: Zero Tenacity → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Kofte">Kofte</a> (Mid Laner)</p>
 <p>Zero Tenacity → BBL Dark Passage</p>
 <p>EMEA</p>
@@ -943,7 +943,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Bong: Geekay Esports → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)">Bong</a> (Top Laner)</p>
 <p>Geekay Esports → BBL Dark Passage</p>
 <p>EMEA</p>
@@ -1003,7 +1003,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Slayder: Nigma Galaxy → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Slayder">Slayder</a> (Bot Laner)</p>
 <p>Nigma Galaxy → BBL Dark Passage</p>
 <p>EMEA</p>
