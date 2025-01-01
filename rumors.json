@@ -1,5 +1,425 @@
 [
   {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en"
+    },
+    "player": {
+      "name": "Xicor",
+      "url": "https://lol.fandom.com/wiki/Xicor"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Ramboot Club",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Ramboot_Clublogo_std.png/revision/latest?cb=20230522193430"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Skillcamp",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/Skillcamplogo_std.png/revision/latest?cb=20241219200209"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en"
+    },
+    "player": {
+      "name": "Artoria",
+      "url": "https://lol.fandom.com/wiki/Artoria"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "GRP Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5a/GRP_Esportslogo_std.png/revision/latest?cb=20220109224033"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Skillcamp",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/Skillcamplogo_std.png/revision/latest?cb=20241219200209"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en"
+    },
+    "player": {
+      "name": "Roshan",
+      "url": "https://lol.fandom.com/wiki/Roshan"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "SNOOZE Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/SNOOZE_Esportslogo_std.png/revision/latest?cb=20240108174138"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Skillcamp",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/Skillcamplogo_std.png/revision/latest?cb=20241219200209"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
+    },
+    "player": {
+      "name": "Hashirama",
+      "url": "https://lol.fandom.com/wiki/Hashirama"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Assistant Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Assistant Coach"
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
+    },
+    "player": {
+      "name": "Exorant",
+      "url": "https://lol.fandom.com/wiki/Exorant"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
+    },
+    "player": {
+      "name": "Thomas",
+      "url": "https://lol.fandom.com/wiki/Thomas"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
+    },
+    "player": {
+      "name": "Rayito",
+      "url": "https://lol.fandom.com/wiki/Rayito"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
+    },
+    "player": {
+      "name": "Miniduke",
+      "url": "https://lol.fandom.com/wiki/Miniduke"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
+    },
+    "player": {
+      "name": "Time",
+      "url": "https://lol.fandom.com/wiki/Time_(Tiago_Almeida)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
+    },
+    "player": {
+      "name": "CPM",
+      "url": "https://lol.fandom.com/wiki/CPM"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Veni Vidi Vici (Spanish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2024-12-31",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
+    },
+    "player": {
+      "name": "Gordinho",
+      "url": "https://lol.fandom.com/wiki/Gordinho"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Venomcrest Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/Venomcrestlogo_std.png/revision/latest?cb=20240525074720"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "WLGaming Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2024-12-31",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
+    },
+    "player": {
+      "name": "Rafitta",
+      "url": "https://lol.fandom.com/wiki/Rafitta"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "WLGaming Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "WLGaming Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2024-12-31",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
+    },
+    "player": {
+      "name": "Tsiperakos",
+      "url": "https://lol.fandom.com/wiki/Tsiperakos"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "LUA Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/LUA_Gaminglogo_std.png/revision/latest?cb=20231214150504"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "WLGaming Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2024-12-31",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
+    },
+    "player": {
+      "name": "Carnage",
+      "url": "https://lol.fandom.com/wiki/Carnage_(Vasilis_Syrianos)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "WLGaming Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "WLGaming Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2024-12-31",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
+    },
+    "player": {
+      "name": "Sotsy",
+      "url": "https://lol.fandom.com/wiki/Sotsy"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "LUA Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/LUA_Gaminglogo_std.png/revision/latest?cb=20231214150504"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "WLGaming Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2024-12-31",
     "status": "Rumor",
     "source": {
@@ -2209,426 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
       },
       "position": "Performance Coach"
-    }
-  },
-  {
-    "date": "2024-12-10",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-hungrypanda-set-to-join-austrian-force-willhaben-in-prime-league/en"
-    },
-    "player": {
-      "name": "HungryPanda",
-      "url": "https://lol.fandom.com/wiki/HungryPanda"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Phantasma",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Team_Phantasmalogo_std.png/revision/latest?cb=20210324220922"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Austrian Force willhaben",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Austrian_Force_willhabenlogo_std.png/revision/latest?cb=20240707080358"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-10",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en"
-    },
-    "player": {
-      "name": "Jactroll",
-      "url": "https://lol.fandom.com/wiki/Jactroll"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Zero Tenacity",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Zero_Tenacitylogo_std.png/revision/latest?cb=20240803231422"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-10",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-woolite-and-jactroll-set-to-join-zero-tenacity-in-ultraliga/en"
-    },
-    "player": {
-      "name": "Woolite",
-      "url": "https://lol.fandom.com/wiki/Woolite"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Austrian Force willhaben",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Austrian_Force_willhabenlogo_std.png/revision/latest?cb=20240707080358"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Zero Tenacity",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Zero_Tenacitylogo_std.png/revision/latest?cb=20240803231422"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-10",
-    "status": "Rumor",
-    "source": {
-      "name": "Armand Luque",
-      "url": "https://www.sheepesports.com/articles/sources-tifa-reaches-verbal-agreement-with-galions-pearl/en"
-    },
-    "player": {
-      "name": "TIFA",
-      "url": "https://lol.fandom.com/wiki/TIFA"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Vitality Rising Bees",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Vitality_Rising_Beeslogo_std.png/revision/latest?cb=20240104185426"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Galions Pearl",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Galionslogo_std.png/revision/latest?cb=20241209190722"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-09",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1866148543154823354"
-    },
-    "player": {
-      "name": "StineR",
-      "url": "https://lol.fandom.com/wiki/StineR"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "FURIA Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/FURIAlogo_std.png/revision/latest?cb=20200121190808"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "W7m esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-09",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1866148543154823354"
-    },
-    "player": {
-      "name": "Shini",
-      "url": "https://lol.fandom.com/wiki/Shini"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Fluxo",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-09",
-    "status": "Confirmed!",
-    "source": {
-      "name": "MGN VKE",
-      "url": "https://www.facebook.com/MGNVikingsEsportsLOL/videos/980954117195523"
-    },
-    "player": {
-      "name": "SwordArt",
-      "url": "https://lol.fandom.com/wiki/SwordArt"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "CTBC Flying Oyster",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/CTBC_Flying_Oysterlogo_std.png/revision/latest?cb=20221014190546"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "MGN Vikings Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-08",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Hsu \"Yuwan\" Chi-Chun",
-      "url": "https://youtu.be/0_1GyQM23cM?si=NohMw9dYPwAp6mYf&t=445"
-    },
-    "player": {
-      "name": "1Jiang",
-      "url": "https://lol.fandom.com/wiki/1Jiang"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Frank Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Frank_Esportslogo_std.png/revision/latest?cb=20230606185727"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "LoL Pro League",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png/revision/latest?cb=20201217170147"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-06",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-slayer-set-to-join-austrian-force-willhaben-in-prime-league/en"
-    },
-    "player": {
-      "name": "Slayer",
-      "url": "https://lol.fandom.com/wiki/Slayer_(Ivan_Bilous)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "GIANTX Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Austrian Force willhaben",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Austrian_Force_willhabenlogo_std.png/revision/latest?cb=20240707080358"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-06",
-    "status": "Confirmed!",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/articles/sources-ntmr-to-enter-league-of-legends-dhokla-set-to-join-for-2025/en"
-    },
-    "player": {
-      "name": "Dhokla",
-      "url": "https://lol.fandom.com/wiki/Dhokla"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "NRG",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/NRGlogo_std.png/revision/latest?cb=20240415210531"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "NTMR",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/NTMRlogo_std.png/revision/latest?cb=20241206171956"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-06",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-neon-set-to-join-besiktas-esports-in-the-tcl/en"
-    },
-    "player": {
-      "name": "Neon",
-      "url": "https://lol.fandom.com/wiki/Neon_(Mat%C3%BA%C5%A1_Jakub%C4%8D%C3%ADk)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "SK Gaming Prime",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/SK_Gaming_Primelogo_std.png/revision/latest?cb=20200124141230"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Beşiktaş Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-06",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-tao-set-to-join-karmine-corp-blue-stars-in-the-lfl-division-2/en"
-    },
-    "player": {
-      "name": "Tao",
-      "url": "https://lol.fandom.com/wiki/Tao_(Xu_Hongtao_Alessandro)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "The Gulls Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/14/The_Gulls_Esportslogo_std.png/revision/latest?cb=20240129170913"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Karmine Corp Blue Stars",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-06",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en"
-    },
-    "player": {
-      "name": "ZaZee",
-      "url": "https://lol.fandom.com/wiki/ZaZee"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Eintracht Frankfurt",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/Eintracht_Frankfurtlogo_std.png/revision/latest?cb=20191229123611"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Eintracht Frankfurt",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/Eintracht_Frankfurtlogo_std.png/revision/latest?cb=20191229123611"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-06",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-sacre-and-zazee-to-play-for-eintracht-frankfurt-in-2025-prime-league-season/en"
-    },
-    "player": {
-      "name": "Sacre",
-      "url": "https://lol.fandom.com/wiki/Sacre"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "FC Schalke 04 Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/FC_Schalke_04_Esportslogo_std.png/revision/latest?cb=20201021165433"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Eintracht Frankfurt",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/Eintracht_Frankfurtlogo_std.png/revision/latest?cb=20191229123611"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-06",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-agurin-and-reptile-prime-league-2025/en"
-    },
-    "player": {
-      "name": "Reptile",
-      "url": "https://lol.fandom.com/wiki/Reptile"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Logo std",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
-      },
-      "position": "Bot Laner"
     }
   }
 ]
