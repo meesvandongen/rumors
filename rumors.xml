@@ -4,13 +4,73 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jan 2025 16:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 20:03:10 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jan 2025 16:03:26 GMT</pubDate>
+        <pubDate>Thu, 02 Jan 2025 20:03:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] xMatty: Unicorns of Love Sexy Edition → NORD Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/XMatty">xMatty</a> (Bot Laner)</p>
+<p>Unicorns of Love Sexy Edition → NORD Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1874881342695211395">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1874881342695211395</link>
+            <guid isPermaLink="false">2025-01-02-xMatty-Unicorns of Love Sexy Edition-NORD Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME → EMEA] Treatz: Dignitas → NORD Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Treatz">Treatz</a> (Coach → Support)</p>
+<p>Dignitas → NORD Esports</p>
+<p>AME → EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-treatz-set-to-join-nord-esports-in-the-nlc/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/articles/sources-treatz-set-to-join-nord-esports-in-the-nlc/en</link>
+            <guid isPermaLink="false">2025-01-02-Treatz-Dignitas-NORD Esports</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME → EMEA] Evolved: Free Agent → Logo std]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Evolved">Evolved</a> (Mid Laner)</p>
+<p>Free Agent → Logo std</p>
+<p>AME → EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-katevolved-set-to-join-agurin-s-team-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/articles/sources-katevolved-set-to-join-agurin-s-team-in-the-prime-league/en</link>
+            <guid isPermaLink="false">2025-01-02-Evolved-Free Agent-Logo std</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Innaxe: Team Du Sud → Logo std]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Innaxe">Innaxe</a> (Bot Laner)</p>
+<p>Team Du Sud → Logo std</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-innaxe-set-to-join-agurin-s-team-in-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/articles/sources-innaxe-set-to-join-agurin-s-team-in-prime-league/en</link>
+            <guid isPermaLink="false">2025-01-02-Innaxe-Team Du Sud-Logo std</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Xicor: Ramboot Club → Skillcamp]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1358,66 +1418,6 @@
             <guid isPermaLink="false">2024-12-10-Samyy-Leviatan-W7m esports</guid>
             <category><![CDATA[LAT]]></category>
             <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Bp: PaiN Gaming Academy → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Bp_(Bruno_Pombal)">Bp</a> (Head Coach → Coach)</p>
-<p>PaiN Gaming Academy → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866519154771042694">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1866519154771042694</link>
-            <guid isPermaLink="false">2024-12-10-Bp-PaiN Gaming Academy-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Ti0ben: KaBuM! Esports → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Ti0ben">Ti0ben</a> (Assistant Coach → Coach)</p>
-<p>KaBuM! Esports → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866519154771042694">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1866519154771042694</link>
-            <guid isPermaLink="false">2024-12-10-Ti0ben-KaBuM! Esports-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Gafone: KaBuM! Academy → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Gafone">Gafone</a> (Head Coach → Coach)</p>
-<p>KaBuM! Academy → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866519154771042694">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1866519154771042694</link>
-            <guid isPermaLink="false">2024-12-10-Gafone-KaBuM! Academy-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Mew: Free Agent → GIANTX]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=Mew%20(Théo%20Ponzoni)&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=">Mew</a> (Performance Coach)</p>
-<p>Free Agent → GIANTX</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-mew-is-set-to-join-giantx-as-performance-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-mew-is-set-to-join-giantx-as-performance-coach/en</link>
-            <guid isPermaLink="false">2024-12-10-Mew-Free Agent-GIANTX</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
         </item>
