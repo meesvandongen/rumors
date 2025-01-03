@@ -3,6 +3,34 @@
     "date": "2025-01-02",
     "status": "Rumor",
     "source": {
+      "name": "ma1njo",
+      "url": "https://www.ptt.cc/bbs/LoL/M.1735829586.A.5B7.html"
+    },
+    "player": {
+      "name": "JimieN",
+      "url": "https://lol.fandom.com/wiki/JimieN"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Frank Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Frank_Esportslogo_std.png/revision/latest?cb=20230606185727"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Chiefs Esports Club",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/Chiefs_Esports_Clublogo_std.png/revision/latest?cb=20241103143142"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-02",
+    "status": "Rumor",
+    "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1874881342695211395"
     },
@@ -2601,34 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-10",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1866519154771042694"
-    },
-    "player": {
-      "name": "Samyy",
-      "url": "https://lol.fandom.com/wiki/Samyy"
-    },
-    "from": {
-      "region": "LAT",
-      "team": {
-        "name": "Leviatan",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
-      },
-      "position": "Strategic Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "W7m esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
-      },
-      "position": "Coach"
     }
   }
 ]

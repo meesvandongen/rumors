@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jan 2025 16:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 20:03:14 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jan 2025 16:03:26 GMT</pubDate>
+        <pubDate>Fri, 03 Jan 2025 20:03:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[APAC] JimieN: Frank Esports → Chiefs Esports Club]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/JimieN">JimieN</a> (Mid Laner)</p>
+<p>Frank Esports → Chiefs Esports Club</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1735829586.A.5B7.html">ma1njo</a></p>
+]]></description>
+            <link>https://www.ptt.cc/bbs/LoL/M.1735829586.A.5B7.html</link>
+            <guid isPermaLink="false">2025-01-02-JimieN-Frank Esports-Chiefs Esports Club</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] xMatty: Unicorns of Love Sexy Edition → NORD Esports]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1403,21 +1418,6 @@
             <guid isPermaLink="false">2024-12-10-Smarty-Dynamo Eclot-Guasones</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[LAT → AME] Samyy: Leviatan → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Samyy">Samyy</a> (Strategic Coach → Coach)</p>
-<p>Leviatan → W7m esports</p>
-<p>LAT → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866519154771042694">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1866519154771042694</link>
-            <guid isPermaLink="false">2024-12-10-Samyy-Leviatan-W7m esports</guid>
-            <category><![CDATA[LAT]]></category>
-            <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
         </item>
