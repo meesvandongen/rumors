@@ -4,13 +4,88 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jan 2025 16:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 20:03:06 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jan 2025 16:02:55 GMT</pubDate>
+        <pubDate>Sat, 04 Jan 2025 20:03:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Obstinatus: UCAM Esports → Verdant]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Obstinatus">Obstinatus</a> (Support)</p>
+<p>UCAM Esports → Verdant</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1875469318793970013">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1875469318793970013</link>
+            <guid isPermaLink="false">2025-01-04-Obstinatus-UCAM Esports-Verdant</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Mishigu: Anorthosis Famagusta Esports → Verdant]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Mishigu">Mishigu</a> (Bot Laner)</p>
+<p>Anorthosis Famagusta Esports → Verdant</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1875469318793970013">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1875469318793970013</link>
+            <guid isPermaLink="false">2025-01-04-Mishigu-Anorthosis Famagusta Esports-Verdant</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Ronaldo: Galakticos → Verdant]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ronaldo">Ronaldo</a> (Mid Laner)</p>
+<p>Galakticos → Verdant</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1875469318793970013">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1875469318793970013</link>
+            <guid isPermaLink="false">2025-01-04-Ronaldo-Galakticos-Verdant</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] NoName: ZETA → Verdant]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/NoName_(Will_Jones)">NoName</a> (Jungler)</p>
+<p>ZETA → Verdant</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1875469318793970013">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1875469318793970013</link>
+            <guid isPermaLink="false">2025-01-04-NoName-ZETA-Verdant</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Papiteero: Anorthosis Famagusta Esports → Verdant]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Papiteero">Papiteero</a> (Top Laner)</p>
+<p>Anorthosis Famagusta Esports → Verdant</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1875469318793970013">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1875469318793970013</link>
+            <guid isPermaLink="false">2025-01-04-Papiteero-Anorthosis Famagusta Esports-Verdant</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[APAC] JimieN: Frank Esports → Chiefs Esports Club]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1345,81 +1420,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] CarioK: PaiN Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/CarioK">CarioK</a> (Jungler)</p>
-<p>PaiN Gaming</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866984011588878588">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1866984011588878588</link>
-            <guid isPermaLink="false">2024-12-11-CarioK-PaiN Gaming-PaiN Gaming</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Sting: Rise Gaming → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Sting">Sting</a> (Jungler)</p>
-<p>Rise Gaming → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866924678679232760">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1866924678679232760</link>
-            <guid isPermaLink="false">2024-12-11-Sting-Rise Gaming-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Yampi: INTZ → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Yampi">Yampi</a> (Jungler)</p>
-<p>INTZ → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1866924678679232760">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1866924678679232760</link>
-            <guid isPermaLink="false">2024-12-11-Yampi-INTZ-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[NA → AME] Sheiden: FlyQuest NZXT → Dignitas]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Sheiden">Sheiden</a> (Jungler)</p>
-<p>FlyQuest NZXT → Dignitas</p>
-<p>NA → AME</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sheiden-set-to-join-team-dignitas-in-the-2025-lta-north-season/en">LCS Eevee</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-sheiden-set-to-join-team-dignitas-in-the-2025-lta-north-season/en</link>
-            <guid isPermaLink="false">2024-12-11-Sheiden-FlyQuest NZXT-Dignitas</guid>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Smarty: Dynamo Eclot → Guasones]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Smarty">Smarty</a> (Support)</p>
-<p>Dynamo Eclot → Guasones</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1866574428890419656">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_ES/status/1866574428890419656</link>
-            <guid isPermaLink="false">2024-12-10-Smarty-Dynamo Eclot-Guasones</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

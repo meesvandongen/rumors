@@ -1,5 +1,145 @@
 [
   {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
+    },
+    "player": {
+      "name": "Obstinatus",
+      "url": "https://lol.fandom.com/wiki/Obstinatus"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "UCAM Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fe/UCAM_Esports_Clublogo_std.png/revision/latest?cb=20200104143940"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Verdant",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/Verdantlogo_std.png/revision/latest?cb=20241003054444"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
+    },
+    "player": {
+      "name": "Mishigu",
+      "url": "https://lol.fandom.com/wiki/Mishigu"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Anorthosis Famagusta Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/Anorthosis_Famagusta_Esportslogo_std.png/revision/latest?cb=20210531233942"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Verdant",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/Verdantlogo_std.png/revision/latest?cb=20241003054444"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
+    },
+    "player": {
+      "name": "Ronaldo",
+      "url": "https://lol.fandom.com/wiki/Ronaldo"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Galakticos",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7a/Galakticoslogo_std.png/revision/latest?cb=20230109204109"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Verdant",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/Verdantlogo_std.png/revision/latest?cb=20241003054444"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
+    },
+    "player": {
+      "name": "NoName",
+      "url": "https://lol.fandom.com/wiki/NoName_(Will_Jones)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "ZETA",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/ZETAlogo_std.png/revision/latest?cb=20221030222929"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Verdant",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/Verdantlogo_std.png/revision/latest?cb=20241003054444"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
+    },
+    "player": {
+      "name": "Papiteero",
+      "url": "https://lol.fandom.com/wiki/Papiteero"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Anorthosis Famagusta Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/Anorthosis_Famagusta_Esportslogo_std.png/revision/latest?cb=20210531233942"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Verdant",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/Verdantlogo_std.png/revision/latest?cb=20241003054444"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2025-01-02",
     "status": "Rumor",
     "source": {
@@ -2489,146 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-11",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1866984011588878588"
-    },
-    "player": {
-      "name": "CarioK",
-      "url": "https://lol.fandom.com/wiki/CarioK"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "PaiN Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "PaiN Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-11",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1866924678679232760"
-    },
-    "player": {
-      "name": "Sting",
-      "url": "https://lol.fandom.com/wiki/Sting"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Rise Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "W7m esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-11",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1866924678679232760"
-    },
-    "player": {
-      "name": "Yampi",
-      "url": "https://lol.fandom.com/wiki/Yampi"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "INTZ",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/INTZlogo_std.png/revision/latest?cb=20200210222831"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "W7m esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-11",
-    "status": "Rumor",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/articles/sources-sheiden-set-to-join-team-dignitas-in-the-2025-lta-north-season/en"
-    },
-    "player": {
-      "name": "Sheiden",
-      "url": "https://lol.fandom.com/wiki/Sheiden"
-    },
-    "from": {
-      "region": "NA",
-      "team": {
-        "name": "FlyQuest NZXT",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Dignitas",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-10",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_ES/status/1866574428890419656"
-    },
-    "player": {
-      "name": "Smarty",
-      "url": "https://lol.fandom.com/wiki/Smarty"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Dynamo Eclot",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d4/Dynamo_Eclotlogo_std.png/revision/latest?cb=20210524124702"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Guasones",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
-      },
-      "position": "Support"
     }
   }
 ]
