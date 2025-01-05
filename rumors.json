@@ -4,6 +4,174 @@
     "status": "Rumor",
     "source": {
       "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875670018307854733"
+    },
+    "player": {
+      "name": "monkaS",
+      "url": "https://lol.fandom.com/wiki/MonkaS"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Bushido Wildcats",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20241229154842"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875657478437847048"
+    },
+    "player": {
+      "name": "Kiuske",
+      "url": "https://lol.fandom.com/wiki/Kiuske"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Entropiq",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/Entropiqlogo_std.png/revision/latest?cb=20211206085006"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ROSSMANN Centaurs",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20240106014229"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875656745265353140"
+    },
+    "player": {
+      "name": "Wildenbruch",
+      "url": "https://lol.fandom.com/wiki/Wildenbruch"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "ROSSMANN Centaurs",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20240106014229"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ROSSMANN Centaurs",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20240106014229"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875656745265353140"
+    },
+    "player": {
+      "name": "Syzyfek",
+      "url": "https://lol.fandom.com/wiki/Syzyfek"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Guasones",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ROSSMANN Centaurs",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20240106014229"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875656745265353140"
+    },
+    "player": {
+      "name": "RoyalKanin",
+      "url": "https://lol.fandom.com/wiki/RoyalKanin"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Gamespace Mediterranean College Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Gamespace_Mediterranean_College_Esportslogo_std.png/revision/latest?cb=20200110004010"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ROSSMANN Centaurs",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20240106014229"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875656745265353140"
+    },
+    "player": {
+      "name": "Xagog",
+      "url": "https://lol.fandom.com/wiki/Xagog"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "ROSSMANN Centaurs",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20240106014229"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ROSSMANN Centaurs",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20240106014229"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1875612958463873050"
     },
     "player": {
@@ -2461,174 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867599907944903058"
-    },
-    "player": {
-      "name": "Kaze",
-      "url": "https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)"
-    },
-    "from": {
-      "region": "LAT",
-      "team": {
-        "name": "Abstract Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/Abstract_Gaminglogo_std.png/revision/latest?cb=20230824203826"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Corinthians Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867599907944903058"
-    },
-    "player": {
-      "name": "Piloto",
-      "url": "https://lol.fandom.com/wiki/Piloto"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Liberty",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Libertylogo_std.png/revision/latest?cb=20211216004143"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Corinthians Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867599907944903058"
-    },
-    "player": {
-      "name": "Sting",
-      "url": "https://lol.fandom.com/wiki/Sting"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Rise Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Corinthians Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867599907944903058"
-    },
-    "player": {
-      "name": "Tyrin",
-      "url": "https://lol.fandom.com/wiki/Tyrin_(William_Portugal)"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Corinthians Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-12",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1867244568158327233"
-    },
-    "player": {
-      "name": "Kofte",
-      "url": "https://lol.fandom.com/wiki/Kofte"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Zero Tenacity",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Zero_Tenacitylogo_std.png/revision/latest?cb=20240803231422"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "BBL Dark Passage",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-12",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1867233959018635702"
-    },
-    "player": {
-      "name": "Bong",
-      "url": "https://lol.fandom.com/wiki/Bong_(Cho_Bo-woong)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Geekay Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Geekay_Esportslogo_std.png/revision/latest?cb=20231116150007"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "BBL Dark Passage",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
-      },
-      "position": "Top Laner"
     }
   }
 ]
