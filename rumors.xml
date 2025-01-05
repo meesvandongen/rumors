@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jan 2025 16:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 20:03:08 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jan 2025 16:02:54 GMT</pubDate>
+        <pubDate>Sun, 05 Jan 2025 20:03:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -103,7 +103,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Sparz: Baam Esports → Team Paradox]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Sparz">Sparz</a> (Support)</p>
 <p>Baam Esports → Team Paradox</p>
 <p>EMEA</p>
@@ -118,7 +118,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Neramin: Verdant → Team Paradox]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Neramin">Neramin</a> (Bot Laner)</p>
 <p>Verdant → Team Paradox</p>
 <p>EMEA</p>
@@ -133,7 +133,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Mentos: Gamespace Mediterranean College Esports → Team Paradox]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Mentos">Mentos</a> (Mid Laner)</p>
 <p>Gamespace Mediterranean College Esports → Team Paradox</p>
 <p>EMEA</p>
@@ -148,7 +148,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] NikoleX: Team Paradox]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/NikoleX">NikoleX</a> (Jungler)</p>
 <p>Team Paradox</p>
 <p>EMEA</p>
@@ -163,7 +163,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] pr1me: Verdant → Team Paradox]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Pr1me">pr1me</a> (Top Laner)</p>
 <p>Verdant → Team Paradox</p>
 <p>EMEA</p>
