@@ -3,6 +3,146 @@
     "date": "2025-01-04",
     "status": "Rumor",
     "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875612958463873050"
+    },
+    "player": {
+      "name": "Sparz",
+      "url": "https://lol.fandom.com/wiki/Sparz"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Baam Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/Baam_Esportslogo_std.png/revision/latest?cb=20241212165416"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Paradox",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/Team_Paradoxlogo_std.png/revision/latest?cb=20240920132145"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875612958463873050"
+    },
+    "player": {
+      "name": "Neramin",
+      "url": "https://lol.fandom.com/wiki/Neramin"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Verdant",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/Verdantlogo_std.png/revision/latest?cb=20241003054444"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Paradox",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/Team_Paradoxlogo_std.png/revision/latest?cb=20240920132145"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875612958463873050"
+    },
+    "player": {
+      "name": "Mentos",
+      "url": "https://lol.fandom.com/wiki/Mentos"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Gamespace Mediterranean College Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Gamespace_Mediterranean_College_Esportslogo_std.png/revision/latest?cb=20200110004010"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Paradox",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/Team_Paradoxlogo_std.png/revision/latest?cb=20240920132145"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875612958463873050"
+    },
+    "player": {
+      "name": "NikoleX",
+      "url": "https://lol.fandom.com/wiki/NikoleX"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Paradox",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/Team_Paradoxlogo_std.png/revision/latest?cb=20240920132145"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Paradox",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/Team_Paradoxlogo_std.png/revision/latest?cb=20240920132145"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875612958463873050"
+    },
+    "player": {
+      "name": "pr1me",
+      "url": "https://lol.fandom.com/wiki/Pr1me"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Verdant",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/Verdantlogo_std.png/revision/latest?cb=20241003054444"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Team Paradox",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/Team_Paradoxlogo_std.png/revision/latest?cb=20240920132145"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
     },
@@ -169,7 +309,7 @@
   },
   {
     "date": "2025-01-02",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1874881342695211395"
@@ -197,7 +337,7 @@
   },
   {
     "date": "2025-01-02",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-treatz-set-to-join-nord-esports-in-the-nlc/en"
@@ -757,7 +897,7 @@
   },
   {
     "date": "2024-12-28",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-vizicsacsi-set-to-join-nord-esports-in-the-nlc/en"
@@ -841,7 +981,7 @@
   },
   {
     "date": "2024-12-24",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1871579756803793230"
@@ -2489,146 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-12",
-    "status": "Confirmed!",
-    "source": {
-      "name": "a10304025",
-      "url": "https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html"
-    },
-    "player": {
-      "name": "Wako",
-      "url": "https://lol.fandom.com/wiki/Wako"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Frank Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Frank_Esportslogo_std.png/revision/latest?cb=20230606185727"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Ultra Prime",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/Ultra_Primelogo_std.png/revision/latest?cb=20210401173825"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-12",
-    "status": "Confirmed!",
-    "source": {
-      "name": "a10304025",
-      "url": "https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html"
-    },
-    "player": {
-      "name": "1Jiang",
-      "url": "https://lol.fandom.com/wiki/1Jiang"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Frank Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Frank_Esportslogo_std.png/revision/latest?cb=20230606185727"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Ultra Prime",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/Ultra_Primelogo_std.png/revision/latest?cb=20210401173825"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-11",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_ES/status/1866907383810654431"
-    },
-    "player": {
-      "name": "Sn1lle",
-      "url": "https://lol.fandom.com/wiki/Sn1lle"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "LUA Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/LUA_Gaminglogo_std.png/revision/latest?cb=20231214150504"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "LUA Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/LUA_Gaminglogo_std.png/revision/latest?cb=20231214150504"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-11",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1866920890736558100"
-    },
-    "player": {
-      "name": "Slayder",
-      "url": "https://lol.fandom.com/wiki/Slayder"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Nigma Galaxy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9b/Nigma_Galaxylogo_std.png/revision/latest?cb=20211123085751"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "BBL Dark Passage",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-11",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1866860496219242569"
-    },
-    "player": {
-      "name": "Typhoon",
-      "url": "https://lol.fandom.com/wiki/Typhoon_(Tayfun_G%C3%BCm%C3%BC%C5%9F)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Beşiktaş Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "BoostGate Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
-      },
-      "position": "Jungler"
     }
   }
 ]

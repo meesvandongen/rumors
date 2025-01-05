@@ -4,13 +4,88 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jan 2025 20:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 00:12:18 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jan 2025 20:03:06 GMT</pubDate>
+        <pubDate>Sun, 05 Jan 2025 00:12:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Sparz: Baam Esports → Team Paradox]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Sparz">Sparz</a> (Support)</p>
+<p>Baam Esports → Team Paradox</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1875612958463873050">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1875612958463873050</link>
+            <guid isPermaLink="false">2025-01-04-Sparz-Baam Esports-Team Paradox</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Neramin: Verdant → Team Paradox]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Neramin">Neramin</a> (Bot Laner)</p>
+<p>Verdant → Team Paradox</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1875612958463873050">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1875612958463873050</link>
+            <guid isPermaLink="false">2025-01-04-Neramin-Verdant-Team Paradox</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Mentos: Gamespace Mediterranean College Esports → Team Paradox]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Mentos">Mentos</a> (Mid Laner)</p>
+<p>Gamespace Mediterranean College Esports → Team Paradox</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1875612958463873050">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1875612958463873050</link>
+            <guid isPermaLink="false">2025-01-04-Mentos-Gamespace Mediterranean College Esports-Team Paradox</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] NikoleX: Team Paradox]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/NikoleX">NikoleX</a> (Jungler)</p>
+<p>Team Paradox</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1875612958463873050">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1875612958463873050</link>
+            <guid isPermaLink="false">2025-01-04-NikoleX-Team Paradox-Team Paradox</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] pr1me: Verdant → Team Paradox]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Pr1me">pr1me</a> (Top Laner)</p>
+<p>Verdant → Team Paradox</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1875612958463873050">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1875612958463873050</link>
+            <guid isPermaLink="false">2025-01-04-pr1me-Verdant-Team Paradox</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Obstinatus: UCAM Esports → Verdant]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -103,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] xMatty: Unicorns of Love Sexy Edition → NORD Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/XMatty">xMatty</a> (Bot Laner)</p>
 <p>Unicorns of Love Sexy Edition → NORD Esports</p>
 <p>EMEA</p>
@@ -118,7 +193,7 @@
         </item>
         <item>
             <title><![CDATA[[AME → EMEA] Treatz: Dignitas → NORD Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Treatz">Treatz</a> (Coach → Support)</p>
 <p>Dignitas → NORD Esports</p>
 <p>AME → EMEA</p>
@@ -418,7 +493,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Vizicsacsi: Berlin International Gaming → NORD Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Vizicsacsi">Vizicsacsi</a> (Top Laner)</p>
 <p>Berlin International Gaming → NORD Esports</p>
 <p>EMEA</p>
@@ -463,7 +538,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC → EMEA] Hoon: DetonatioN FocusMe → BoostGate Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Hoon_(Kwon_Noh-hoon)">Hoon</a> (Head Coach)</p>
 <p>DetonatioN FocusMe → BoostGate Esports</p>
 <p>APAC → EMEA</p>
@@ -1345,81 +1420,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC → CN] Wako: Frank Esports → Ultra Prime]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Wako">Wako</a> (Bot Laner)</p>
-<p>Frank Esports → Ultra Prime</p>
-<p>APAC → CN</p>
-<p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html">a10304025</a></p>
-]]></description>
-            <link>https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html</link>
-            <guid isPermaLink="false">2024-12-12-Wako-Frank Esports-Ultra Prime</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC → CN] 1Jiang: Frank Esports → Ultra Prime]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/1Jiang">1Jiang</a> (Top Laner)</p>
-<p>Frank Esports → Ultra Prime</p>
-<p>APAC → CN</p>
-<p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html">a10304025</a></p>
-]]></description>
-            <link>https://www.ptt.cc/bbs/LoL/M.1733979668.A.ED3.html</link>
-            <guid isPermaLink="false">2024-12-12-1Jiang-Frank Esports-Ultra Prime</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Sn1lle: LUA Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Sn1lle">Sn1lle</a> (Jungler)</p>
-<p>LUA Gaming</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_ES/status/1866907383810654431">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_ES/status/1866907383810654431</link>
-            <guid isPermaLink="false">2024-12-11-Sn1lle-LUA Gaming-LUA Gaming</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Slayder: Nigma Galaxy → BBL Dark Passage]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Slayder">Slayder</a> (Bot Laner)</p>
-<p>Nigma Galaxy → BBL Dark Passage</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866920890736558100">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1866920890736558100</link>
-            <guid isPermaLink="false">2024-12-11-Slayder-Nigma Galaxy-BBL Dark Passage</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Typhoon: Beşiktaş Esports → BoostGate Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Typhoon_(Tayfun_G%C3%BCm%C3%BC%C5%9F)">Typhoon</a> (Jungler)</p>
-<p>Beşiktaş Esports → BoostGate Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1866860496219242569">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1866860496219242569</link>
-            <guid isPermaLink="false">2024-12-11-Typhoon-Beşiktaş Esports-BoostGate Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
