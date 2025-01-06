@@ -4,13 +4,73 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jan 2025 16:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 20:02:56 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jan 2025 16:03:33 GMT</pubDate>
+        <pubDate>Mon, 06 Jan 2025 20:02:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[KR → EMEA] DnDn: Nongshim Esports Academy → Eternal Fire]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/DnDn">DnDn</a> (Top Laner)</p>
+<p>Nongshim Esports Academy → Eternal Fire</p>
+<p>KR → EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876316550002549183">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876316550002549183</link>
+            <guid isPermaLink="false">2025-01-06-DnDn-Nongshim Esports Academy-Eternal Fire</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → EMEA] Ivory: OKSavingsBank BRION Challengers → Eternal Fire]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ivory">Ivory</a> (Mid Laner)</p>
+<p>OKSavingsBank BRION Challengers → Eternal Fire</p>
+<p>KR → EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876312776819216470">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876312776819216470</link>
+            <guid isPermaLink="false">2025-01-06-Ivory-OKSavingsBank BRION Challengers-Eternal Fire</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Pades: NASR eSports Turkey → Eternal Fire]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Pades">Pades</a> (Coach)</p>
+<p>NASR eSports Turkey → Eternal Fire</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876305226745151959">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876305226745151959</link>
+            <guid isPermaLink="false">2025-01-06-Pades-NASR eSports Turkey-Eternal Fire</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Farfetch: Misa Esports → Eternal Fire]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Farfetch">Farfetch</a> (Support)</p>
+<p>Misa Esports → Eternal Fire</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876298179198783884">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876298179198783884</link>
+            <guid isPermaLink="false">2025-01-06-Farfetch-Misa Esports-Eternal Fire</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Osman123: Beşiktaş Esports → Eternal Fire]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -208,7 +268,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Obstinatus: UCAM Esports → Verdant]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Obstinatus">Obstinatus</a> (Support)</p>
 <p>UCAM Esports → Verdant</p>
 <p>EMEA</p>
@@ -223,7 +283,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Mishigu: Anorthosis Famagusta Esports → Verdant]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Mishigu">Mishigu</a> (Bot Laner)</p>
 <p>Anorthosis Famagusta Esports → Verdant</p>
 <p>EMEA</p>
@@ -238,7 +298,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Ronaldo: Galakticos → Verdant]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Ronaldo">Ronaldo</a> (Mid Laner)</p>
 <p>Galakticos → Verdant</p>
 <p>EMEA</p>
@@ -253,7 +313,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] NoName: ZETA → Verdant]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/NoName_(Will_Jones)">NoName</a> (Jungler)</p>
 <p>ZETA → Verdant</p>
 <p>EMEA</p>
@@ -268,7 +328,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Papiteero: Anorthosis Famagusta Esports → Verdant]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Papiteero">Papiteero</a> (Top Laner)</p>
 <p>Anorthosis Famagusta Esports → Verdant</p>
 <p>EMEA</p>
@@ -1357,66 +1417,6 @@
             <link>https://x.com/rakan_news/status/1867692797085598014</link>
             <guid isPermaLink="false">2024-12-13-sarolu-Vivo Keyd Stars Academy-Vivo Keyd Stars Academy</guid>
             <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] xyno: FURIA Academy → Vivo Keyd Stars Academy]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Xyno">xyno</a> (Top Laner)</p>
-<p>FURIA Academy → Vivo Keyd Stars Academy</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1867692797085598014">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1867692797085598014</link>
-            <guid isPermaLink="false">2024-12-13-xyno-FURIA Academy-Vivo Keyd Stars Academy</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → EMEA] Irean: Nongshim RedForce → Beşiktaş Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Irean">Irean</a> (Head Coach)</p>
-<p>Nongshim RedForce → Beşiktaş Esports</p>
-<p>KR → EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867660767975117099">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867660767975117099</link>
-            <guid isPermaLink="false">2024-12-13-Irean-Nongshim RedForce-Beşiktaş Esports</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] TolanD: Unicorns of Love Sexy Edition → Beşiktaş Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/TolanD">TolanD</a> (Mid Laner)</p>
-<p>Unicorns of Love Sexy Edition → Beşiktaş Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1867666552461328484">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1867666552461328484</link>
-            <guid isPermaLink="false">2024-12-13-TolanD-Unicorns of Love Sexy Edition-Beşiktaş Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA → AME] Arkhe: Galakticos → Corinthians Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Arkhe">Arkhe</a> (Head Coach)</p>
-<p>Galakticos → Corinthians Esports</p>
-<p>EMEA → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1867599907944903058">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1867599907944903058</link>
-            <guid isPermaLink="false">2024-12-13-Arkhe-Galakticos-Corinthians Esports</guid>
-            <category><![CDATA[EMEA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>

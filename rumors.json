@@ -4,6 +4,118 @@
     "status": "Rumor",
     "source": {
       "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876316550002549183"
+    },
+    "player": {
+      "name": "DnDn",
+      "url": "https://lol.fandom.com/wiki/DnDn"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Nongshim Esports Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest?cb=20210605230106"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Eternal Fire",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Eternal_Firelogo_std.png/revision/latest?cb=20241227222845"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-01-06",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876312776819216470"
+    },
+    "player": {
+      "name": "Ivory",
+      "url": "https://lol.fandom.com/wiki/Ivory"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "OKSavingsBank BRION Challengers",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/BRIONlogo_std.png/revision/latest?cb=20230518062824"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Eternal Fire",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Eternal_Firelogo_std.png/revision/latest?cb=20241227222845"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-06",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876305226745151959"
+    },
+    "player": {
+      "name": "Pades",
+      "url": "https://lol.fandom.com/wiki/Pades"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "NASR eSports Turkey",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/NASR_eSportslogo_std.png/revision/latest?cb=20230528115443"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Eternal Fire",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Eternal_Firelogo_std.png/revision/latest?cb=20241227222845"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-01-06",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876298179198783884"
+    },
+    "player": {
+      "name": "Farfetch",
+      "url": "https://lol.fandom.com/wiki/Farfetch"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Misa Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/Misa_Esportslogo_std.png/revision/latest?cb=20240104152952"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Eternal Fire",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Eternal_Firelogo_std.png/revision/latest?cb=20241227222845"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-06",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1876290125539467372"
     },
     "player": {
@@ -365,7 +477,7 @@
   },
   {
     "date": "2025-01-04",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
@@ -393,7 +505,7 @@
   },
   {
     "date": "2025-01-04",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
@@ -421,7 +533,7 @@
   },
   {
     "date": "2025-01-04",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
@@ -449,7 +561,7 @@
   },
   {
     "date": "2025-01-04",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
@@ -477,7 +589,7 @@
   },
   {
     "date": "2025-01-04",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1875469318793970013"
@@ -2517,118 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867692797085598014"
-    },
-    "player": {
-      "name": "xyno",
-      "url": "https://lol.fandom.com/wiki/Xyno"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "FURIA Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/FURIAlogo_std.png/revision/latest?cb=20200121190808"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1867660767975117099"
-    },
-    "player": {
-      "name": "Irean",
-      "url": "https://lol.fandom.com/wiki/Irean"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Nongshim RedForce",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest?cb=20210605230106"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Beşiktaş Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1867666552461328484"
-    },
-    "player": {
-      "name": "TolanD",
-      "url": "https://lol.fandom.com/wiki/TolanD"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unicorns of Love Sexy Edition",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/Unicorns_of_Love_Sexy_Editionlogo_std.png/revision/latest?cb=20220202103424"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Beşiktaş Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867599907944903058"
-    },
-    "player": {
-      "name": "Arkhe",
-      "url": "https://lol.fandom.com/wiki/Arkhe"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Galakticos",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7a/Galakticoslogo_std.png/revision/latest?cb=20230109204109"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Corinthians Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Head Coach"
     }
   }
 ]
