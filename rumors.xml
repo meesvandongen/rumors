@@ -4,13 +4,43 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jan 2025 12:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 16:03:33 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jan 2025 12:04:33 GMT</pubDate>
+        <pubDate>Mon, 06 Jan 2025 16:03:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Osman123: Beşiktaş Esports → Eternal Fire]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Osman123">Osman123</a> (Jungler)</p>
+<p>Beşiktaş Esports → Eternal Fire</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876290125539467372">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876290125539467372</link>
+            <guid isPermaLink="false">2025-01-06-Osman123-Beşiktaş Esports-Eternal Fire</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Ruep: Dark Passage → Eternal Fire]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ruep">Ruep</a> (Bot Laner)</p>
+<p>Dark Passage → Eternal Fire</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876282750426112124">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876282750426112124</link>
+            <guid isPermaLink="false">2025-01-06-Ruep-Dark Passage-Eternal Fire</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] monkaS: Free Agent → Bushido Wildcats]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1387,36 +1417,6 @@
             <link>https://x.com/rakan_news/status/1867599907944903058</link>
             <guid isPermaLink="false">2024-12-13-Arkhe-Galakticos-Corinthians Esports</guid>
             <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Telas: Vivo Keyd Stars Academy → Corinthians Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Telas">Telas</a> (Support)</p>
-<p>Vivo Keyd Stars Academy → Corinthians Esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1867599907944903058">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1867599907944903058</link>
-            <guid isPermaLink="false">2024-12-13-Telas-Vivo Keyd Stars Academy-Corinthians Esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Trigo: Fluxo → Corinthians Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Trigo_(Matheus_Trigo)">Trigo</a> (Bot Laner)</p>
-<p>Fluxo → Corinthians Esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1867599907944903058">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1867599907944903058</link>
-            <guid isPermaLink="false">2024-12-13-Trigo-Fluxo-Corinthians Esports</guid>
-            <category><![CDATA[BR]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>

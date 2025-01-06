@@ -1,5 +1,61 @@
 [
   {
+    "date": "2025-01-06",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876290125539467372"
+    },
+    "player": {
+      "name": "Osman123",
+      "url": "https://lol.fandom.com/wiki/Osman123"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Eternal Fire",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Eternal_Firelogo_std.png/revision/latest?cb=20241227222845"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-06",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876282750426112124"
+    },
+    "player": {
+      "name": "Ruep",
+      "url": "https://lol.fandom.com/wiki/Ruep"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Dark_Passagelogo_std.png/revision/latest?cb=20230116141224"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Eternal Fire",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Eternal_Firelogo_std.png/revision/latest?cb=20241227222845"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
     "date": "2025-01-04",
     "status": "Rumor",
     "source": {
@@ -2573,62 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867599907944903058"
-    },
-    "player": {
-      "name": "Telas",
-      "url": "https://lol.fandom.com/wiki/Telas"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Corinthians Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867599907944903058"
-    },
-    "player": {
-      "name": "Trigo",
-      "url": "https://lol.fandom.com/wiki/Trigo_(Matheus_Trigo)"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Fluxo",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Corinthians Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Bot Laner"
     }
   }
 ]
