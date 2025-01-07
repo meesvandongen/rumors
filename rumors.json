@@ -1,5 +1,453 @@
 [
   {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "LDK",
+      "url": "https://lol.fandom.com/wiki/LDK"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Logo std",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Luvi",
+      "url": "https://lol.fandom.com/wiki/Luvi"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "APOLLO GAMING",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/APOLLO_GAMINGlogo_std.png/revision/latest?cb=20201106073215"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Xuhao",
+      "url": "https://lol.fandom.com/wiki/Xuhao"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Secret (Vietnamese Team) Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "GAM Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/MESlogo_std.png/revision/latest?cb=20210607033239"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Balder",
+      "url": "https://lol.fandom.com/wiki/Balder"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Flash.Vietnam",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "KaiShun",
+      "url": "https://lol.fandom.com/wiki/KaiShun"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Flash.Vietnam",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Yoshino",
+      "url": "https://lol.fandom.com/wiki/Yoshino"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Flash.Vietnam",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Flash.Vietnam",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
+      },
+      "position": "Manager"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Yoshino",
+      "url": "https://lol.fandom.com/wiki/Yoshino"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Flash.Vietnam",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Flash.Vietnam",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "JackieWind",
+      "url": "https://lol.fandom.com/wiki/JackieWind"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "MGN Blue Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/MGN_Blue_Esportslogo_std.png/revision/latest?cb=20240108192112"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Logo std",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Yuna",
+      "url": "https://lol.fandom.com/wiki/Yuna"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Secret (Vietnamese Team) Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+      },
+      "position": "Mentor Coach"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "DG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+      },
+      "position": "Adviser"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "RonOP",
+      "url": "https://lol.fandom.com/wiki/RonOP"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Secret (Vietnamese Team) Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "DG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Callin",
+      "url": "https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=Callin&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run="
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "DG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Harky",
+      "url": "https://lol.fandom.com/wiki/Harky"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Secret (Vietnamese Team) Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "DG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Sanji",
+      "url": "https://lol.fandom.com/wiki/Sanji_(T%C3%B4_Ho%C3%A0ng_%C4%90%C4%83ng_Ph%C6%B0%C6%A1ng)"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "DG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Yusah",
+      "url": "https://lol.fandom.com/wiki/Yusah"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Secret (Vietnamese Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "DG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Rigel",
+      "url": "https://lol.fandom.com/wiki/Rigel_(%C4%90%C3%A0o_V%C4%83n_Tu%E1%BA%A5n)"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "MGN Blue Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/MGN_Blue_Esportslogo_std.png/revision/latest?cb=20240108192112"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "DG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Rayne",
+      "url": "https://lol.fandom.com/wiki/Rayne_(%C4%90%E1%BB%93ng_Nguy%E1%BB%85n_T%E1%BA%A5n_L%E1%BB%99c)"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Secret (Vietnamese Team) Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "DG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2025-01-06",
     "status": "Rumor",
     "source": {
@@ -2125,510 +2573,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Flamengo_Esportslogo_std.png/revision/latest?cb=20241011145708"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-12-16",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869036158187114662"
-    },
-    "player": {
-      "name": "Damage",
-      "url": "https://lol.fandom.com/wiki/Damage"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "INTZ",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/INTZlogo_std.png/revision/latest?cb=20200210222831"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Flamengo MDL",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Flamengo_Esportslogo_std.png/revision/latest?cb=20241011145708"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-16",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869036158187114662"
-    },
-    "player": {
-      "name": "NinjaKiwi",
-      "url": "https://lol.fandom.com/wiki/NinjaKiwi"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "INTZ",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/INTZlogo_std.png/revision/latest?cb=20200210222831"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Flamengo MDL",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Flamengo_Esportslogo_std.png/revision/latest?cb=20241011145708"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-16",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869036158187114662"
-    },
-    "player": {
-      "name": "Piloto",
-      "url": "https://lol.fandom.com/wiki/Piloto"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Liberty",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Libertylogo_std.png/revision/latest?cb=20211216004143"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Flamengo MDL",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Flamengo_Esportslogo_std.png/revision/latest?cb=20241011145708"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-16",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869036158187114662"
-    },
-    "player": {
-      "name": "Yampi",
-      "url": "https://lol.fandom.com/wiki/Yampi"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "INTZ",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/INTZlogo_std.png/revision/latest?cb=20200210222831"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Flamengo MDL",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Flamengo_Esportslogo_std.png/revision/latest?cb=20241011145708"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-16",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869036158187114662"
-    },
-    "player": {
-      "name": "Yupps",
-      "url": "https://lol.fandom.com/wiki/Yupps"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "INTZ",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/INTZlogo_std.png/revision/latest?cb=20200210222831"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Flamengo MDL",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Flamengo_Esportslogo_std.png/revision/latest?cb=20241011145708"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-16",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1868728623605465589"
-    },
-    "player": {
-      "name": "Avarice",
-      "url": "https://lol.fandom.com/wiki/Avarice"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Crvena zvezda Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Project Conquerors",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-14",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1867982619377561736"
-    },
-    "player": {
-      "name": "Leon",
-      "url": "https://lol.fandom.com/wiki/Leon_(Leon_Anton)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "GLORE",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1c/GLORElogo_std.png/revision/latest?cb=20240415214239"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Esprit Shōnen",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e1/Esprit_Sh%C5%8Dnenlogo_std.png/revision/latest?cb=20231229210449"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1867978232945135957"
-    },
-    "player": {
-      "name": "Seryy",
-      "url": "https://lol.fandom.com/wiki/Seryy"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Refuse",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Team_Refuselogo_std.png/revision/latest?cb=20240131165330"
-      },
-      "position": "Assistant Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Project Conquerors",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-12-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1867975204313366802"
-    },
-    "player": {
-      "name": "Nille",
-      "url": "https://lol.fandom.com/wiki/Nille"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "WLGaming Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Valiant",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/Team_Valiantlogo_std.png/revision/latest?cb=20241114232147"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1867973646872093120"
-    },
-    "player": {
-      "name": "Ranger",
-      "url": "https://lol.fandom.com/wiki/Ranger"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Ilha das Lendas",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/Ilha_das_Lendaslogo_std.png/revision/latest?cb=20240112223454"
-      },
-      "position": "Streamer"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "KaBuM! Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1867638117001285812"
-    },
-    "player": {
-      "name": "Viser1on",
-      "url": "https://lol.fandom.com/wiki/Viser1on"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "BoostGate Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "BBL Dark Passage",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1867630568315531660"
-    },
-    "player": {
-      "name": "Mxe",
-      "url": "https://lol.fandom.com/wiki/Mxe"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ramboot Club",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/Ramboot_Clublogo_std.png/revision/latest?cb=20230522193430"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "BBL Dark Passage",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20240912131055"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867692797085598014"
-    },
-    "player": {
-      "name": "Luuukz",
-      "url": "https://lol.fandom.com/wiki/Luuukz"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Assistant Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Assistant Coach"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867692797085598014"
-    },
-    "player": {
-      "name": "Mitohara",
-      "url": "https://lol.fandom.com/wiki/Mitohara"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867692797085598014"
-    },
-    "player": {
-      "name": "scamber",
-      "url": "https://lol.fandom.com/wiki/Scamber"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Rise Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867692797085598014"
-    },
-    "player": {
-      "name": "Smiley",
-      "url": "https://lol.fandom.com/wiki/Smiley_(Ludvig_Granquist)"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Vivo Keyd Stars",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867692797085598014"
-    },
-    "player": {
-      "name": "Qats",
-      "url": "https://lol.fandom.com/wiki/Qats"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "PaiN Gaming Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1867692797085598014"
-    },
-    "player": {
-      "name": "sarolu",
-      "url": "https://lol.fandom.com/wiki/Sarolu"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Vivo Keyd Stars Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Jungler"
     }
   }
 ]
