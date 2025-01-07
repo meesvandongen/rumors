@@ -3,6 +3,174 @@
     "date": "2025-01-07",
     "status": "Rumor",
     "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
+    },
+    "player": {
+      "name": "Joexy",
+      "url": "https://lol.fandom.com/wiki/Joexy"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "FUT Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/FUT_Esportslogo_std.png/revision/latest?cb=20240107144615"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ULF Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/ULF_Esportslogo_std.png/revision/latest?cb=20241230031737"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
+    },
+    "player": {
+      "name": "Grave",
+      "url": "https://lol.fandom.com/wiki/Grave"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "BoostGate Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ULF Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/ULF_Esportslogo_std.png/revision/latest?cb=20241230031737"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
+    },
+    "player": {
+      "name": "Ophelia",
+      "url": "https://lol.fandom.com/wiki/Ophelia"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ULF Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/ULF_Esportslogo_std.png/revision/latest?cb=20241230031737"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
+    },
+    "player": {
+      "name": "Stefan",
+      "url": "https://lol.fandom.com/wiki/Stefan"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "DSYRE",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/13/DSYRElogo_std.png/revision/latest?cb=20221203095533"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ULF Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/ULF_Esportslogo_std.png/revision/latest?cb=20241230031737"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
+    },
+    "player": {
+      "name": "IlllIma",
+      "url": "https://lol.fandom.com/wiki/IlllIma"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Forsaken (Polish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/Forsaken_%28Polish_Team%29logo_std.png/revision/latest?cb=20211220161314"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ULF Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/ULF_Esportslogo_std.png/revision/latest?cb=20241230031737"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/articles/sources-selfmade-set-to-join-crvena-zvezda-esports-in-the-balkan-league/en"
+    },
+    "player": {
+      "name": "Selfmade",
+      "url": "https://lol.fandom.com/wiki/Selfmade"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Twisted Minds",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/Twisted_Mindslogo_std.png/revision/latest?cb=20230205105556"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Crvena zvezda Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
       "name": "423x65484E4B",
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
     },
@@ -2405,174 +2573,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869073046306464172"
-    },
-    "player": {
-      "name": "zay",
-      "url": "https://lol.fandom.com/wiki/Zay"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Flamengo MDL",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Flamengo_Esportslogo_std.png/revision/latest?cb=20241011145708"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Rise Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869073046306464172"
-    },
-    "player": {
-      "name": "Aikawa",
-      "url": "https://lol.fandom.com/wiki/Aikawa"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "FURIA Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/FURIAlogo_std.png/revision/latest?cb=20200121190808"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Rise Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869073046306464172"
-    },
-    "player": {
-      "name": "Anyyy",
-      "url": "https://lol.fandom.com/wiki/Anyyy"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "LOUD Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Rise Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869073046306464172"
-    },
-    "player": {
-      "name": "ThayT",
-      "url": "https://lol.fandom.com/wiki/ThayT"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "KaBuM! Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Rise Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869073046306464172"
-    },
-    "player": {
-      "name": "Makes",
-      "url": "https://lol.fandom.com/wiki/Makes"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Liberty",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Libertylogo_std.png/revision/latest?cb=20211216004143"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Rise Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-16",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869036158187114662"
-    },
-    "player": {
-      "name": "Strix",
-      "url": "https://lol.fandom.com/wiki/Strix_(Douglas_Assis)"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "LOUD Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Assistant Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Flamengo MDL",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Flamengo_Esportslogo_std.png/revision/latest?cb=20241011145708"
-      },
-      "position": "Head Coach"
     }
   }
 ]

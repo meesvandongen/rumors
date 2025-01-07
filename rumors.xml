@@ -4,13 +4,103 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jan 2025 16:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 20:03:11 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jan 2025 16:15:59 GMT</pubDate>
+        <pubDate>Tue, 07 Jan 2025 20:03:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Joexy: FUT Esports → ULF Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Joexy">Joexy</a> (Support)</p>
+<p>FUT Esports → ULF Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
+            <guid isPermaLink="false">2025-01-07-Joexy-FUT Esports-ULF Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Grave: BoostGate Esports → ULF Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Grave">Grave</a> (Bot Laner)</p>
+<p>BoostGate Esports → ULF Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
+            <guid isPermaLink="false">2025-01-07-Grave-BoostGate Esports-ULF Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → EMEA] Ophelia: Free Agent → ULF Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ophelia">Ophelia</a> (Mid Laner)</p>
+<p>Free Agent → ULF Esports</p>
+<p>KR → EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
+            <guid isPermaLink="false">2025-01-07-Ophelia-Free Agent-ULF Esports</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Stefan: DSYRE → ULF Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Stefan">Stefan</a> (Jungler)</p>
+<p>DSYRE → ULF Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
+            <guid isPermaLink="false">2025-01-07-Stefan-DSYRE-ULF Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] IlllIma: Forsaken (Polish Team) → ULF Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/IlllIma">IlllIma</a> (Top Laner)</p>
+<p>Forsaken (Polish Team) → ULF Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
+            <guid isPermaLink="false">2025-01-07-IlllIma-Forsaken (Polish Team)-ULF Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Selfmade: Twisted Minds → Crvena zvezda Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Selfmade">Selfmade</a> (Jungler)</p>
+<p>Twisted Minds → Crvena zvezda Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-selfmade-set-to-join-crvena-zvezda-esports-in-the-balkan-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/articles/sources-selfmade-set-to-join-crvena-zvezda-esports-in-the-balkan-league/en</link>
+            <guid isPermaLink="false">2025-01-07-Selfmade-Twisted Minds-Crvena zvezda Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[APAC] LDK: Free Agent → Logo std]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1300,96 +1390,6 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] zay: Flamengo MDL → Rise Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Zay">zay</a> (Support)</p>
-<p>Flamengo MDL → Rise Gaming</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869073046306464172">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869073046306464172</link>
-            <guid isPermaLink="false">2024-12-17-zay-Flamengo MDL-Rise Gaming</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Aikawa: FURIA Academy → Rise Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Aikawa">Aikawa</a> (Bot Laner)</p>
-<p>FURIA Academy → Rise Gaming</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869073046306464172">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869073046306464172</link>
-            <guid isPermaLink="false">2024-12-17-Aikawa-FURIA Academy-Rise Gaming</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Anyyy: LOUD Academy → Rise Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Anyyy">Anyyy</a> (Mid Laner)</p>
-<p>LOUD Academy → Rise Gaming</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869073046306464172">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869073046306464172</link>
-            <guid isPermaLink="false">2024-12-17-Anyyy-LOUD Academy-Rise Gaming</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] ThayT: KaBuM! Academy → Rise Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/ThayT">ThayT</a> (Jungler)</p>
-<p>KaBuM! Academy → Rise Gaming</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869073046306464172">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869073046306464172</link>
-            <guid isPermaLink="false">2024-12-17-ThayT-KaBuM! Academy-Rise Gaming</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Makes: Liberty → Rise Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Makes">Makes</a> (Top Laner)</p>
-<p>Liberty → Rise Gaming</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869073046306464172">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869073046306464172</link>
-            <guid isPermaLink="false">2024-12-17-Makes-Liberty-Rise Gaming</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Strix: LOUD Academy → Flamengo MDL]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Strix_(Douglas_Assis)">Strix</a> (Assistant Coach → Head Coach)</p>
-<p>LOUD Academy → Flamengo MDL</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869036158187114662">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869036158187114662</link>
-            <guid isPermaLink="false">2024-12-16-Strix-LOUD Academy-Flamengo MDL</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
