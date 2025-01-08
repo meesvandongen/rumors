@@ -4,13 +4,88 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jan 2025 20:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 00:11:25 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jan 2025 20:03:11 GMT</pubDate>
+        <pubDate>Wed, 08 Jan 2025 00:11:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[APAC] BigKoro: GAM Esports → Team Secret (Vietnamese Team) Academy]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/BigKoro">BigKoro</a> (Coach)</p>
+<p>GAM Esports → Team Secret (Vietnamese Team) Academy</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
+]]></description>
+            <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
+            <guid isPermaLink="false">2025-01-08-BigKoro-GAM Esports-Team Secret (Vietnamese Team) Academy</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Spale: Vitality.Bee → ULF Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Spale">Spale</a> (Coach)</p>
+<p>Vitality.Bee → ULF Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876726917258268791">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876726917258268791</link>
+            <guid isPermaLink="false">2025-01-07-Spale-Vitality.Bee-ULF Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Algos: Phoenix Esports (Turkish Team) → Bushido Wildcats]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Algos">Algos</a> (Coach)</p>
+<p>Phoenix Esports (Turkish Team) → Bushido Wildcats</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876725683818217943">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876725683818217943</link>
+            <guid isPermaLink="false">2025-01-07-Algos-Phoenix Esports (Turkish Team)-Bushido Wildcats</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Citrus: Aegis (French Team) → Bushido Wildcats]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Citrus">Citrus</a> (Jungler)</p>
+<p>Aegis (French Team) → Bushido Wildcats</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876725683818217943">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876725683818217943</link>
+            <guid isPermaLink="false">2025-01-07-Citrus-Aegis (French Team)-Bushido Wildcats</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME → EMEA] Destroy: FURIA → Bushido Wildcats]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Destroy_(Yoon_Jeong-min)">Destroy</a> (Top Laner)</p>
+<p>FURIA → Bushido Wildcats</p>
+<p>AME → EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876725683818217943">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1876725683818217943</link>
+            <guid isPermaLink="false">2025-01-07-Destroy-FURIA-Bushido Wildcats</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Joexy: FUT Esports → ULF Esports]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -522,6 +597,21 @@
             <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[EMEA] Nice Guy Ben: ROSSMANN Centaurs]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Nice_Guy_Ben">Nice Guy Ben</a> (Top Laner)</p>
+<p>ROSSMANN Centaurs</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1875656745265353140">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1875656745265353140</link>
+            <guid isPermaLink="false">2025-01-04-Nice Guy Ben-ROSSMANN Centaurs-ROSSMANN Centaurs</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[EMEA] Sparz: Baam Esports → Team Paradox]]></title>
             <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Sparz">Sparz</a> (Support)</p>
@@ -673,7 +763,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC] JimieN: Frank Esports → Chiefs Esports Club]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/JimieN">JimieN</a> (Mid Laner)</p>
 <p>Frank Esports → Chiefs Esports Club</p>
 <p>APAC</p>
@@ -808,7 +898,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Exorant: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Exorant">Exorant</a> (Head Coach)</p>
 <p>Veni Vidi Vici (Spanish Team)</p>
 <p>EMEA</p>
@@ -823,7 +913,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Thomas: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Thomas">Thomas</a> (Support)</p>
 <p>Veni Vidi Vici (Spanish Team)</p>
 <p>EMEA</p>
@@ -838,7 +928,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Rayito: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Rayito">Rayito</a> (Bot Laner)</p>
 <p>Veni Vidi Vici (Spanish Team)</p>
 <p>EMEA</p>
@@ -853,7 +943,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Miniduke: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Miniduke">Miniduke</a> (Mid Laner)</p>
 <p>Veni Vidi Vici (Spanish Team)</p>
 <p>EMEA</p>
@@ -868,7 +958,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Time: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Time_(Tiago_Almeida)">Time</a> (Jungler)</p>
 <p>Veni Vidi Vici (Spanish Team)</p>
 <p>EMEA</p>
@@ -883,7 +973,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] CPM: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/CPM">CPM</a> (Top Laner)</p>
 <p>Veni Vidi Vici (Spanish Team)</p>
 <p>EMEA</p>
@@ -898,7 +988,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Gordinho: Venomcrest Esports → WLGaming Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Gordinho">Gordinho</a> (Support)</p>
 <p>Venomcrest Esports → WLGaming Esports</p>
 <p>EMEA</p>
@@ -913,7 +1003,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Rafitta: WLGaming Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Rafitta">Rafitta</a> (Bot Laner)</p>
 <p>WLGaming Esports</p>
 <p>EMEA</p>
@@ -928,7 +1018,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Tsiperakos: LUA Gaming → WLGaming Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Tsiperakos">Tsiperakos</a> (Mid Laner)</p>
 <p>LUA Gaming → WLGaming Esports</p>
 <p>EMEA</p>
@@ -943,7 +1033,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Carnage: WLGaming Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Carnage_(Vasilis_Syrianos)">Carnage</a> (Jungler)</p>
 <p>WLGaming Esports</p>
 <p>EMEA</p>
@@ -958,7 +1048,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Sotsy: LUA Gaming → WLGaming Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Sotsy">Sotsy</a> (Top Laner)</p>
 <p>LUA Gaming → WLGaming Esports</p>
 <p>EMEA</p>
@@ -1313,81 +1403,6 @@
             <guid isPermaLink="false">2024-12-17-Lilv-West Point Esports Philippines-Ground Zero Gaming</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Elkinho: Free Agent → Logo std]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=Elkinho&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=">Elkinho</a> (Support)</p>
-<p>Free Agent → Logo std</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869140312461070697</link>
-            <guid isPermaLink="false">2024-12-17-Elkinho-Free Agent-Logo std</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Buero: Free Agent → Logo std]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Buero">Buero</a> (Bot Laner)</p>
-<p>Free Agent → Logo std</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869140312461070697</link>
-            <guid isPermaLink="false">2024-12-17-Buero-Free Agent-Logo std</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Dioge: INTZ → Logo std]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Dioge_(Diogenes_Barbosa)">Dioge</a> (Mid Laner)</p>
-<p>INTZ → Logo std</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869140312461070697</link>
-            <guid isPermaLink="false">2024-12-17-Dioge-INTZ-Logo std</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Drakehero: Liberty → Logo std]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Drakehero">Drakehero</a> (Jungler)</p>
-<p>Liberty → Logo std</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869140312461070697</link>
-            <guid isPermaLink="false">2024-12-17-Drakehero-Liberty-Logo std</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] KiaRi: Fluxo → Logo std]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/KiaRi">KiaRi</a> (Top Laner)</p>
-<p>Fluxo → Logo std</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1869140312461070697">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1869140312461070697</link>
-            <guid isPermaLink="false">2024-12-17-KiaRi-Fluxo-Logo std</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
         </item>

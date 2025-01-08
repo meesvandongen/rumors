@@ -1,5 +1,145 @@
 [
   {
+    "date": "2025-01-08",
+    "status": "Rumor",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "BigKoro",
+      "url": "https://lol.fandom.com/wiki/BigKoro"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "GAM Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/MESlogo_std.png/revision/latest?cb=20210607033239"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Team Secret (Vietnamese Team) Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876726917258268791"
+    },
+    "player": {
+      "name": "Spale",
+      "url": "https://lol.fandom.com/wiki/Spale"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Vitality.Bee",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ULF Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/ULF_Esportslogo_std.png/revision/latest?cb=20241230031737"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876725683818217943"
+    },
+    "player": {
+      "name": "Algos",
+      "url": "https://lol.fandom.com/wiki/Algos"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Phoenix Esports (Turkish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fe/Phoenix_Esports_%28Turkish_Team%29logo_std.png/revision/latest?cb=20230704164833"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Bushido Wildcats",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20241229154842"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876725683818217943"
+    },
+    "player": {
+      "name": "Citrus",
+      "url": "https://lol.fandom.com/wiki/Citrus"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Aegis (French Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Aegis_%28French_Team%29logo_std.png/revision/latest?cb=20221216153803"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Bushido Wildcats",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20241229154842"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1876725683818217943"
+    },
+    "player": {
+      "name": "Destroy",
+      "url": "https://lol.fandom.com/wiki/Destroy_(Yoon_Jeong-min)"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "FURIA",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/FURIAlogo_std.png/revision/latest?cb=20200121190808"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Bushido Wildcats",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20241229154842"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2025-01-07",
     "status": "Rumor",
     "source": {
@@ -953,6 +1093,34 @@
   },
   {
     "date": "2025-01-04",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1875656745265353140"
+    },
+    "player": {
+      "name": "Nice Guy Ben",
+      "url": "https://lol.fandom.com/wiki/Nice_Guy_Ben"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "ROSSMANN Centaurs",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20240106014229"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "ROSSMANN Centaurs",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20240106014229"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-01-04",
     "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
@@ -1233,7 +1401,7 @@
   },
   {
     "date": "2025-01-02",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "ma1njo",
       "url": "https://www.ptt.cc/bbs/LoL/M.1735829586.A.5B7.html"
@@ -1485,7 +1653,7 @@
   },
   {
     "date": "2025-01-01",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
@@ -1513,7 +1681,7 @@
   },
   {
     "date": "2025-01-01",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
@@ -1541,7 +1709,7 @@
   },
   {
     "date": "2025-01-01",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
@@ -1569,7 +1737,7 @@
   },
   {
     "date": "2025-01-01",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
@@ -1597,7 +1765,7 @@
   },
   {
     "date": "2025-01-01",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
@@ -1625,7 +1793,7 @@
   },
   {
     "date": "2025-01-01",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
@@ -1653,7 +1821,7 @@
   },
   {
     "date": "2024-12-31",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
@@ -1681,7 +1849,7 @@
   },
   {
     "date": "2024-12-31",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
@@ -1709,7 +1877,7 @@
   },
   {
     "date": "2024-12-31",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
@@ -1737,7 +1905,7 @@
   },
   {
     "date": "2024-12-31",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
@@ -1765,7 +1933,7 @@
   },
   {
     "date": "2024-12-31",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
@@ -2433,146 +2601,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/05/Ground_Zero_Gaminglogo_std.png/revision/latest?cb=20221118061917"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869140312461070697"
-    },
-    "player": {
-      "name": "Elkinho",
-      "url": "https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=Elkinho&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run="
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Logo std",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869140312461070697"
-    },
-    "player": {
-      "name": "Buero",
-      "url": "https://lol.fandom.com/wiki/Buero"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Logo std",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869140312461070697"
-    },
-    "player": {
-      "name": "Dioge",
-      "url": "https://lol.fandom.com/wiki/Dioge_(Diogenes_Barbosa)"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "INTZ",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/INTZlogo_std.png/revision/latest?cb=20200210222831"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Logo std",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869140312461070697"
-    },
-    "player": {
-      "name": "Drakehero",
-      "url": "https://lol.fandom.com/wiki/Drakehero"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Liberty",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Libertylogo_std.png/revision/latest?cb=20211216004143"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Logo std",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1869140312461070697"
-    },
-    "player": {
-      "name": "KiaRi",
-      "url": "https://lol.fandom.com/wiki/KiaRi"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Fluxo",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Logo std",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
-      },
-      "position": "Top Laner"
     }
   }
 ]
