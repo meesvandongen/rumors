@@ -31,6 +31,34 @@
     "date": "2025-01-07",
     "status": "Rumor",
     "source": {
+      "name": "Portal LOS",
+      "url": "https://x.com/portaldalosgg/status/1876813723437855045"
+    },
+    "player": {
+      "name": "Stardust",
+      "url": "https://lol.fandom.com/wiki/Stardust_(Son_Seok-hee)"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "LOUD",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Los Grandes",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/Los_Grandeslogo_std.png/revision/latest?cb=20230608222225"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "status": "Rumor",
+    "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1876726917258268791"
     },
@@ -2573,34 +2601,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/05/Ground_Zero_Gaminglogo_std.png/revision/latest?cb=20221118061917"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "status": "Rumor",
-    "source": {
-      "name": "nelson9461",
-      "url": "https://www.ptt.cc/bbs/LoL/M.1734443750.A.5FA.html"
-    },
-    "player": {
-      "name": "Lilv",
-      "url": "https://lol.fandom.com/wiki/Lilv"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "West Point Esports Philippines",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/West_Point_Esportslogo_std.png/revision/latest?cb=20230615112302"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Ground Zero Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/05/Ground_Zero_Gaminglogo_std.png/revision/latest?cb=20221118061917"
-      },
-      "position": "Bot Laner"
     }
   }
 ]
