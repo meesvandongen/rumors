@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jan 2025 04:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 08:03:59 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jan 2025 04:03:28 GMT</pubDate>
+        <pubDate>Fri, 10 Jan 2025 08:03:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -927,30 +927,30 @@
             <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AME → EMEA] Evolved: Free Agent → Logo std]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <title><![CDATA[[AME → EMEA] Evolved: Free Agent → Dung Dynasty]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Evolved">Evolved</a> (Mid Laner)</p>
-<p>Free Agent → Logo std</p>
+<p>Free Agent → Dung Dynasty</p>
 <p>AME → EMEA</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-katevolved-set-to-join-agurin-s-team-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-katevolved-set-to-join-agurin-s-team-in-the-prime-league/en</link>
-            <guid isPermaLink="false">2025-01-02-Evolved-Free Agent-Logo std</guid>
+            <guid isPermaLink="false">2025-01-02-Evolved-Free Agent-Dung Dynasty</guid>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA] Innaxe: Team Du Sud → Logo std]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <title><![CDATA[[EMEA] Innaxe: Team Du Sud → Dung Dynasty]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Innaxe">Innaxe</a> (Bot Laner)</p>
-<p>Team Du Sud → Logo std</p>
+<p>Team Du Sud → Dung Dynasty</p>
 <p>EMEA</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-innaxe-set-to-join-agurin-s-team-in-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-innaxe-set-to-join-agurin-s-team-in-prime-league/en</link>
-            <guid isPermaLink="false">2025-01-02-Innaxe-Team Du Sud-Logo std</guid>
+            <guid isPermaLink="false">2025-01-02-Innaxe-Team Du Sud-Dung Dynasty</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -958,7 +958,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Xicor: Ramboot Club → Skillcamp]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Xicor">Xicor</a> (Bot Laner)</p>
 <p>Ramboot Club → Skillcamp</p>
 <p>EMEA</p>
@@ -973,7 +973,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Artoria: GRP Esports → Skillcamp]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Artoria">Artoria</a> (Mid Laner)</p>
 <p>GRP Esports → Skillcamp</p>
 <p>EMEA</p>
@@ -988,7 +988,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Roshan: SNOOZE Esports → Skillcamp]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Roshan">Roshan</a> (Jungler)</p>
 <p>SNOOZE Esports → Skillcamp</p>
 <p>EMEA</p>
@@ -1393,7 +1393,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Seal: Myth Esports → Zerance]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Seal_(Fabian_de_Lint)">Seal</a> (Support)</p>
 <p>Myth Esports → Zerance</p>
 <p>EMEA</p>
@@ -1408,7 +1408,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Highway: Gamespace Mediterranean College Esports → Skillcamp]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Highway">Highway</a> (Support)</p>
 <p>Gamespace Mediterranean College Esports → Skillcamp</p>
 <p>EMEA</p>
