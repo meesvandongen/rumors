@@ -4,13 +4,73 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jan 2025 16:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 20:03:07 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jan 2025 16:02:46 GMT</pubDate>
+        <pubDate>Sat, 11 Jan 2025 20:03:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Alaric: Ruddy Esports → Crvena zvezda Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Alaric">Alaric</a> (Support)</p>
+<p>Ruddy Esports → Crvena zvezda Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878100096203497699">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1878100096203497699</link>
+            <guid isPermaLink="false">2025-01-11-Alaric-Ruddy Esports-Crvena zvezda Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Devn: Diamant Esports → Crvena zvezda Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Devn">Devn</a> (Bot Laner)</p>
+<p>Diamant Esports → Crvena zvezda Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878100096203497699">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1878100096203497699</link>
+            <guid isPermaLink="false">2025-01-11-Devn-Diamant Esports-Crvena zvezda Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] 6ax: Crvena zvezda Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/6ax">6ax</a> (Mid Laner)</p>
+<p>Crvena zvezda Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878100096203497699">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1878100096203497699</link>
+            <guid isPermaLink="false">2025-01-11-6ax-Crvena zvezda Esports-Crvena zvezda Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Nenad: Crvena zvezda Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Nenad">Nenad</a> (Top Laner)</p>
+<p>Crvena zvezda Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878100096203497699">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1878100096203497699</link>
+            <guid isPermaLink="false">2025-01-11-Nenad-Crvena zvezda Esports-Crvena zvezda Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] HirumaY: Misa Esports → Beşiktaş Esports]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1360,66 +1420,6 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Sat, 21 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Sting: Rise Gaming → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Sting">Sting</a> (Jungler)</p>
-<p>Rise Gaming → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1870126329175388545">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1870126329175388545</link>
-            <guid isPermaLink="false">2024-12-20-Sting-Rise Gaming-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Kuroneel: Zerance → Project Conquerors]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Kuroneel">Kuroneel</a> (Mid Laner)</p>
-<p>Zerance → Project Conquerors</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869833075385086267">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_FR/status/1869833075385086267</link>
-            <guid isPermaLink="false">2024-12-19-Kuroneel-Zerance-Project Conquerors</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Frost: Project Conquerors]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Frost_(M%C3%A1ty%C3%A1s_M%C3%A1tyus)">Frost</a> (Jungler)</p>
-<p>Project Conquerors</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869821404784537972">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_FR/status/1869821404784537972</link>
-            <guid isPermaLink="false">2024-12-19-Frost-Project Conquerors-Project Conquerors</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Seal: Myth Esports → Zerance]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Seal_(Fabian_de_Lint)">Seal</a> (Support)</p>
-<p>Myth Esports → Zerance</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869758590640443488">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_FR/status/1869758590640443488</link>
-            <guid isPermaLink="false">2024-12-19-Seal-Myth Esports-Zerance</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

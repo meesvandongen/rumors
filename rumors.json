@@ -1,5 +1,117 @@
 [
   {
+    "date": "2025-01-11",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878100096203497699"
+    },
+    "player": {
+      "name": "Alaric",
+      "url": "https://lol.fandom.com/wiki/Alaric"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Ruddy Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Ruddy_Esportslogo_std.png/revision/latest?cb=20221217213611"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Crvena zvezda Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-11",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878100096203497699"
+    },
+    "player": {
+      "name": "Devn",
+      "url": "https://lol.fandom.com/wiki/Devn"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Diamant Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/Diamant_Esportslogo_std.png/revision/latest?cb=20211215131842"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Crvena zvezda Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-11",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878100096203497699"
+    },
+    "player": {
+      "name": "6ax",
+      "url": "https://lol.fandom.com/wiki/6ax"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Crvena zvezda Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Crvena zvezda Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-11",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878100096203497699"
+    },
+    "player": {
+      "name": "Nenad",
+      "url": "https://lol.fandom.com/wiki/Nenad"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Crvena zvezda Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Crvena zvezda Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2025-01-10",
     "status": "Rumor",
     "source": {
@@ -2517,118 +2629,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-20",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1870126329175388545"
-    },
-    "player": {
-      "name": "Sting",
-      "url": "https://lol.fandom.com/wiki/Sting"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Rise Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "W7m esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-19",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1869833075385086267"
-    },
-    "player": {
-      "name": "Kuroneel",
-      "url": "https://lol.fandom.com/wiki/Kuroneel"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Zerance",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/81/Zerancelogo_std.png/revision/latest?cb=20240807171800"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Project Conquerors",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-19",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1869821404784537972"
-    },
-    "player": {
-      "name": "Frost",
-      "url": "https://lol.fandom.com/wiki/Frost_(M%C3%A1ty%C3%A1s_M%C3%A1tyus)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Project Conquerors",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Project Conquerors",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/Project_Conquerorslogo_std.png/revision/latest?cb=20221219184224"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-19",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1869758590640443488"
-    },
-    "player": {
-      "name": "Seal",
-      "url": "https://lol.fandom.com/wiki/Seal_(Fabian_de_Lint)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Myth Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cd/Myth_Esportslogo_std.png/revision/latest?cb=20231111154342"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Zerance",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/81/Zerancelogo_std.png/revision/latest?cb=20240807171800"
-      },
-      "position": "Support"
     }
   }
 ]
