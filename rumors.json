@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-01-10",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1877833211243614516"
+    },
+    "player": {
+      "name": "HirumaY",
+      "url": "https://lol.fandom.com/wiki/HirumaY"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Misa Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/Misa_Esportslogo_std.png/revision/latest?cb=20240104152952"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Beşiktaş Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Coach"
+    }
+  },
+  {
     "date": "2025-01-09",
     "status": "Rumor",
     "source": {
@@ -253,7 +281,7 @@
   },
   {
     "date": "2025-01-07",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1876726917258268791"
@@ -365,7 +393,7 @@
   },
   {
     "date": "2025-01-07",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
@@ -393,7 +421,7 @@
   },
   {
     "date": "2025-01-07",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
@@ -421,7 +449,7 @@
   },
   {
     "date": "2025-01-07",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
@@ -449,7 +477,7 @@
   },
   {
     "date": "2025-01-07",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
@@ -477,7 +505,7 @@
   },
   {
     "date": "2025-01-07",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://x.com/Sheep_Esports/status/1876708846263046309"
@@ -2599,34 +2627,6 @@
       "team": {
         "name": "Zerance",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/81/Zerancelogo_std.png/revision/latest?cb=20240807171800"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-19",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://x.com/SheepEsports_FR/status/1869741626626875896"
-    },
-    "player": {
-      "name": "Highway",
-      "url": "https://lol.fandom.com/wiki/Highway"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Gamespace Mediterranean College Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Gamespace_Mediterranean_College_Esportslogo_std.png/revision/latest?cb=20200110004010"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Skillcamp",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/Skillcamplogo_std.png/revision/latest?cb=20241219200209"
       },
       "position": "Support"
     }

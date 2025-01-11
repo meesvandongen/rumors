@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jan 2025 20:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 00:11:25 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jan 2025 20:03:32 GMT</pubDate>
+        <pubDate>Sat, 11 Jan 2025 00:11:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] HirumaY: Misa Esports → Beşiktaş Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/HirumaY">HirumaY</a> (Coach)</p>
+<p>Misa Esports → Beşiktaş Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1877833211243614516">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1877833211243614516</link>
+            <guid isPermaLink="false">2025-01-10-HirumaY-Misa Esports-Beşiktaş Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[APAC] SJW: Free Agent → Original Gaming]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -148,7 +163,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Spale: Vitality.Bee → ULF Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Spale">Spale</a> (Coach)</p>
 <p>Vitality.Bee → ULF Esports</p>
 <p>EMEA</p>
@@ -208,7 +223,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Joexy: FUT Esports → ULF Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Joexy">Joexy</a> (Support)</p>
 <p>FUT Esports → ULF Esports</p>
 <p>EMEA</p>
@@ -223,7 +238,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Grave: BoostGate Esports → ULF Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Grave">Grave</a> (Bot Laner)</p>
 <p>BoostGate Esports → ULF Esports</p>
 <p>EMEA</p>
@@ -238,7 +253,7 @@
         </item>
         <item>
             <title><![CDATA[[KR → EMEA] Ophelia: Free Agent → ULF Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Ophelia">Ophelia</a> (Mid Laner)</p>
 <p>Free Agent → ULF Esports</p>
 <p>KR → EMEA</p>
@@ -253,7 +268,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Stefan: DSYRE → ULF Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Stefan">Stefan</a> (Jungler)</p>
 <p>DSYRE → ULF Esports</p>
 <p>EMEA</p>
@@ -268,7 +283,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] IlllIma: Forsaken (Polish Team) → ULF Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/IlllIma">IlllIma</a> (Top Laner)</p>
 <p>Forsaken (Polish Team) → ULF Esports</p>
 <p>EMEA</p>
@@ -1401,21 +1416,6 @@
 ]]></description>
             <link>https://x.com/SheepEsports_FR/status/1869758590640443488</link>
             <guid isPermaLink="false">2024-12-19-Seal-Myth Esports-Zerance</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Highway: Gamespace Mediterranean College Esports → Skillcamp]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Highway">Highway</a> (Support)</p>
-<p>Gamespace Mediterranean College Esports → Skillcamp</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsports_FR/status/1869741626626875896">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/SheepEsports_FR/status/1869741626626875896</link>
-            <guid isPermaLink="false">2024-12-19-Highway-Gamespace Mediterranean College Esports-Skillcamp</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
