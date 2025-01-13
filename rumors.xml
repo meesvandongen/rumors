@@ -4,13 +4,88 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jan 2025 16:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 20:03:07 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jan 2025 16:03:24 GMT</pubDate>
+        <pubDate>Mon, 13 Jan 2025 20:03:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Xavi: LODIS (Polish Team) → Actions Per Minute]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Xavi">Xavi</a> (Support)</p>
+<p>LODIS (Polish Team) → Actions Per Minute</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878880727313592405">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1878880727313592405</link>
+            <guid isPermaLink="false">2025-01-13-Xavi-LODIS (Polish Team)-Actions Per Minute</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] odi11: LODIS (Polish Team) → Actions Per Minute]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Odi11">odi11</a> (Bot Laner)</p>
+<p>LODIS (Polish Team) → Actions Per Minute</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878880727313592405">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1878880727313592405</link>
+            <guid isPermaLink="false">2025-01-13-odi11-LODIS (Polish Team)-Actions Per Minute</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Satan: Actions Per Minute]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Satan_(Panagiotis_Stavrou)">Satan</a> (Mid Laner)</p>
+<p>Actions Per Minute</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878880727313592405">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1878880727313592405</link>
+            <guid isPermaLink="false">2025-01-13-Satan-Actions Per Minute-Actions Per Minute</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Behave: LODIS (Polish Team) → Actions Per Minute]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Behave">Behave</a> (Jungler)</p>
+<p>LODIS (Polish Team) → Actions Per Minute</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878880727313592405">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1878880727313592405</link>
+            <guid isPermaLink="false">2025-01-13-Behave-LODIS (Polish Team)-Actions Per Minute</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Loading: Actions Per Minute]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Loading">Loading</a> (Top Laner)</p>
+<p>Actions Per Minute</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878880727313592405">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1878880727313592405</link>
+            <guid isPermaLink="false">2025-01-13-Loading-Actions Per Minute-Actions Per Minute</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Alaric: Ruddy Esports → Crvena zvezda Esports]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1375,51 +1450,6 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Hauz: KaBuM! Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Hauz">Hauz</a> (Mid Laner)</p>
-<p>KaBuM! Esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/rakan_news/status/1871589261889413124">Rakan News</a></p>
-]]></description>
-            <link>https://x.com/rakan_news/status/1871589261889413124</link>
-            <guid isPermaLink="false">2024-12-24-Hauz-KaBuM! Esports-KaBuM! Esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Shini: Fluxo → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Shini">Shini</a> (Jungler)</p>
-<p>Fluxo → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1871282808846430503">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1871282808846430503</link>
-            <guid isPermaLink="false">2024-12-23-Shini-Fluxo-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Shini: Fluxo → W7m esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Shini">Shini</a> (Jungler)</p>
-<p>Fluxo → W7m esports</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1870497726737371260">Luis "Showtana" Santana</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1870497726737371260</link>
-            <guid isPermaLink="false">2024-12-21-Shini-Fluxo-W7m esports</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 21 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

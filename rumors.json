@@ -1,5 +1,145 @@
 [
   {
+    "date": "2025-01-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878880727313592405"
+    },
+    "player": {
+      "name": "Xavi",
+      "url": "https://lol.fandom.com/wiki/Xavi"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "LODIS (Polish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/LODIS_%28Polish_Team%29logo_std.png/revision/latest?cb=20230124152505"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Actions Per Minute",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20230607145251"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878880727313592405"
+    },
+    "player": {
+      "name": "odi11",
+      "url": "https://lol.fandom.com/wiki/Odi11"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "LODIS (Polish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/LODIS_%28Polish_Team%29logo_std.png/revision/latest?cb=20230124152505"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Actions Per Minute",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20230607145251"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878880727313592405"
+    },
+    "player": {
+      "name": "Satan",
+      "url": "https://lol.fandom.com/wiki/Satan_(Panagiotis_Stavrou)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Actions Per Minute",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20230607145251"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Actions Per Minute",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20230607145251"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878880727313592405"
+    },
+    "player": {
+      "name": "Behave",
+      "url": "https://lol.fandom.com/wiki/Behave"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "LODIS (Polish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/LODIS_%28Polish_Team%29logo_std.png/revision/latest?cb=20230124152505"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Actions Per Minute",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20230607145251"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878880727313592405"
+    },
+    "player": {
+      "name": "Loading",
+      "url": "https://lol.fandom.com/wiki/Loading"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Actions Per Minute",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20230607145251"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Actions Per Minute",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20230607145251"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2025-01-11",
     "status": "Rumor",
     "source": {
@@ -2545,90 +2685,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-24",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1871589261889413124"
-    },
-    "player": {
-      "name": "Hauz",
-      "url": "https://lol.fandom.com/wiki/Hauz"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "KaBuM! Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "KaBuM! Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-23",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1871282808846430503"
-    },
-    "player": {
-      "name": "Shini",
-      "url": "https://lol.fandom.com/wiki/Shini"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Fluxo",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "W7m esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1870497726737371260"
-    },
-    "player": {
-      "name": "Shini",
-      "url": "https://lol.fandom.com/wiki/Shini"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Fluxo",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Fluxologo_std.png/revision/latest?cb=20240218164404"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "W7m esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
-      },
-      "position": "Jungler"
     }
   }
 ]
