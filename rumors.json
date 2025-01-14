@@ -4,6 +4,62 @@
     "status": "Rumor",
     "source": {
       "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878910551746875549"
+    },
+    "player": {
+      "name": "Jeykup",
+      "url": "https://lol.fandom.com/wiki/Jeykup"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Underworld Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/97/Underworld_Esportslogo_std.png/revision/latest?cb=20220328133136"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1878901066588467393"
+    },
+    "player": {
+      "name": "Dionelux",
+      "url": "https://lol.fandom.com/wiki/Dionelux"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Lynch Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/Lynch_Esportslogo_std.png/revision/latest?cb=20240105142028"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Underworld Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/97/Underworld_Esportslogo_std.png/revision/latest?cb=20220328133136"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-01-13",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1878880727313592405"
     },
     "player": {
@@ -2629,62 +2685,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2024-12-24",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1871589261889413124"
-    },
-    "player": {
-      "name": "Damage",
-      "url": "https://lol.fandom.com/wiki/Damage"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "INTZ",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/INTZlogo_std.png/revision/latest?cb=20200210222831"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "KaBuM! Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-24",
-    "status": "Rumor",
-    "source": {
-      "name": "Rakan News",
-      "url": "https://x.com/rakan_news/status/1871589261889413124"
-    },
-    "player": {
-      "name": "scuro",
-      "url": "https://lol.fandom.com/wiki/Scuro"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "KaBuM! Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "KaBuM! Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
-      },
-      "position": "Bot Laner"
     }
   }
 ]
