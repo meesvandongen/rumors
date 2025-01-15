@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jan 2025 20:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 00:10:58 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jan 2025 20:03:00 GMT</pubDate>
+        <pubDate>Wed, 15 Jan 2025 00:10:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -823,7 +823,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Kiuske: Entropiq → ROSSMANN Centaurs]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Kiuske">Kiuske</a> (Coach)</p>
 <p>Entropiq → ROSSMANN Centaurs</p>
 <p>EMEA</p>
@@ -838,7 +838,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Wildenbruch: ROSSMANN Centaurs]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Wildenbruch">Wildenbruch</a> (Support)</p>
 <p>ROSSMANN Centaurs</p>
 <p>EMEA</p>
@@ -853,7 +853,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Syzyfek: Guasones → ROSSMANN Centaurs]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Syzyfek">Syzyfek</a> (Bot Laner)</p>
 <p>Guasones → ROSSMANN Centaurs</p>
 <p>EMEA</p>
@@ -868,7 +868,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] RoyalKanin: Gamespace Mediterranean College Esports → ROSSMANN Centaurs]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/RoyalKanin">RoyalKanin</a> (Mid Laner)</p>
 <p>Gamespace Mediterranean College Esports → ROSSMANN Centaurs</p>
 <p>EMEA</p>
@@ -883,7 +883,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Xagog: ROSSMANN Centaurs]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Xagog">Xagog</a> (Jungler)</p>
 <p>ROSSMANN Centaurs</p>
 <p>EMEA</p>
@@ -898,7 +898,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Nice Guy Ben: ROSSMANN Centaurs]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Nice_Guy_Ben">Nice Guy Ben</a> (Top Laner)</p>
 <p>ROSSMANN Centaurs</p>
 <p>EMEA</p>
