@@ -561,7 +561,7 @@
   },
   {
     "date": "2025-01-08",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "423x65484E4B",
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
@@ -581,15 +581,15 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Team Secret (Vietnamese Team) Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+        "name": "Team Secret Whales Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/Team_Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Coach"
     }
   },
   {
     "date": "2025-01-07",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Portal LOS",
       "url": "https://x.com/portaldalosgg/status/1876813723437855045"
@@ -1141,8 +1141,8 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "DG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+        "name": "Saigon Dino",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Saigon_Dinologo_std.png/revision/latest?cb=20250108072410"
       },
       "position": "Adviser"
     }
@@ -1169,8 +1169,8 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "DG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+        "name": "Saigon Dino",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Saigon_Dinologo_std.png/revision/latest?cb=20250108072410"
       },
       "position": "Head Coach"
     }
@@ -1197,8 +1197,8 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "DG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+        "name": "Saigon Dino",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Saigon_Dinologo_std.png/revision/latest?cb=20250108072410"
       },
       "position": "Support"
     }
@@ -1217,16 +1217,16 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Team Secret (Vietnamese Team) Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+        "name": "Team Secret Whales Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/Team_Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Bot Laner"
     },
     "to": {
       "region": "APAC",
       "team": {
-        "name": "DG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+        "name": "Saigon Dino",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Saigon_Dinologo_std.png/revision/latest?cb=20250108072410"
       },
       "position": "Bot Laner"
     }
@@ -1253,8 +1253,8 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "DG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+        "name": "Saigon Dino",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Saigon_Dinologo_std.png/revision/latest?cb=20250108072410"
       },
       "position": "Mid Laner"
     }
@@ -1281,8 +1281,8 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "DG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+        "name": "Saigon Dino",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Saigon_Dinologo_std.png/revision/latest?cb=20250108072410"
       },
       "position": "Jungler"
     }
@@ -1309,8 +1309,8 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "DG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+        "name": "Saigon Dino",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Saigon_Dinologo_std.png/revision/latest?cb=20250108072410"
       },
       "position": "Top Laner"
     }
@@ -1329,16 +1329,16 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Team Secret (Vietnamese Team) Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Team_Secret_%28Vietnamese_Team%29logo_std.png/revision/latest?cb=20230526163250"
+        "name": "Team Secret Whales Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/Team_Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Top Laner"
     },
     "to": {
       "region": "APAC",
       "team": {
-        "name": "DG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/DG_Esportslogo_std.png/revision/latest?cb=20231025141909"
+        "name": "Saigon Dino",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Saigon_Dinologo_std.png/revision/latest?cb=20250108072410"
       },
       "position": "Top Laner"
     }

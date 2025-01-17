@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jan 2025 04:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 08:03:25 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jan 2025 04:03:17 GMT</pubDate>
+        <pubDate>Fri, 17 Jan 2025 08:03:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -312,15 +312,15 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] BigKoro: GAM Esports → Team Secret (Vietnamese Team) Academy]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <title><![CDATA[[APAC] BigKoro: GAM Esports → Team Secret Whales Academy]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/BigKoro">BigKoro</a> (Coach)</p>
-<p>GAM Esports → Team Secret (Vietnamese Team) Academy</p>
+<p>GAM Esports → Team Secret Whales Academy</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-08-BigKoro-GAM Esports-Team Secret (Vietnamese Team) Academy</guid>
+            <guid isPermaLink="false">2025-01-08-BigKoro-GAM Esports-Team Secret Whales Academy</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -328,7 +328,7 @@
         </item>
         <item>
             <title><![CDATA[[BR → AME] Stardust: LOUD → Los Grandes]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Stardust_(Son_Seok-hee)">Stardust</a> (Head Coach)</p>
 <p>LOUD → Los Grandes</p>
 <p>BR → AME</p>
@@ -612,120 +612,120 @@
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Yuna: Team Secret (Vietnamese Team) Academy → DG Esports]]></title>
+            <title><![CDATA[[APAC] Yuna: Team Secret (Vietnamese Team) Academy → Saigon Dino]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Yuna">Yuna</a> (Mentor Coach → Adviser)</p>
-<p>Team Secret (Vietnamese Team) Academy → DG Esports</p>
+<p>Team Secret (Vietnamese Team) Academy → Saigon Dino</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Yuna-Team Secret (Vietnamese Team) Academy-DG Esports</guid>
+            <guid isPermaLink="false">2025-01-07-Yuna-Team Secret (Vietnamese Team) Academy-Saigon Dino</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] RonOP: Team Secret (Vietnamese Team) Academy → DG Esports]]></title>
+            <title><![CDATA[[APAC] RonOP: Team Secret (Vietnamese Team) Academy → Saigon Dino]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/RonOP">RonOP</a> (Head Coach)</p>
-<p>Team Secret (Vietnamese Team) Academy → DG Esports</p>
+<p>Team Secret (Vietnamese Team) Academy → Saigon Dino</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-RonOP-Team Secret (Vietnamese Team) Academy-DG Esports</guid>
+            <guid isPermaLink="false">2025-01-07-RonOP-Team Secret (Vietnamese Team) Academy-Saigon Dino</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Callin: Free Agent → DG Esports]]></title>
+            <title><![CDATA[[APAC] Callin: Free Agent → Saigon Dino]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=Callin&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=">Callin</a> (Support)</p>
-<p>Free Agent → DG Esports</p>
+<p>Free Agent → Saigon Dino</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Callin-Free Agent-DG Esports</guid>
+            <guid isPermaLink="false">2025-01-07-Callin-Free Agent-Saigon Dino</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Harky: Team Secret (Vietnamese Team) Academy → DG Esports]]></title>
+            <title><![CDATA[[APAC] Harky: Team Secret Whales Academy → Saigon Dino]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Harky">Harky</a> (Bot Laner)</p>
-<p>Team Secret (Vietnamese Team) Academy → DG Esports</p>
+<p>Team Secret Whales Academy → Saigon Dino</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Harky-Team Secret (Vietnamese Team) Academy-DG Esports</guid>
+            <guid isPermaLink="false">2025-01-07-Harky-Team Secret Whales Academy-Saigon Dino</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Sanji: Free Agent → DG Esports]]></title>
+            <title><![CDATA[[APAC] Sanji: Free Agent → Saigon Dino]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Sanji_(T%C3%B4_Ho%C3%A0ng_%C4%90%C4%83ng_Ph%C6%B0%C6%A1ng)">Sanji</a> (Mid Laner)</p>
-<p>Free Agent → DG Esports</p>
+<p>Free Agent → Saigon Dino</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Sanji-Free Agent-DG Esports</guid>
+            <guid isPermaLink="false">2025-01-07-Sanji-Free Agent-Saigon Dino</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Yusah: Team Secret (Vietnamese Team) → DG Esports]]></title>
+            <title><![CDATA[[APAC] Yusah: Team Secret (Vietnamese Team) → Saigon Dino]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Yusah">Yusah</a> (Jungler)</p>
-<p>Team Secret (Vietnamese Team) → DG Esports</p>
+<p>Team Secret (Vietnamese Team) → Saigon Dino</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Yusah-Team Secret (Vietnamese Team)-DG Esports</guid>
+            <guid isPermaLink="false">2025-01-07-Yusah-Team Secret (Vietnamese Team)-Saigon Dino</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Rigel: MGN Blue Esports → DG Esports]]></title>
+            <title><![CDATA[[APAC] Rigel: MGN Blue Esports → Saigon Dino]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Rigel_(%C4%90%C3%A0o_V%C4%83n_Tu%E1%BA%A5n)">Rigel</a> (Top Laner)</p>
-<p>MGN Blue Esports → DG Esports</p>
+<p>MGN Blue Esports → Saigon Dino</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Rigel-MGN Blue Esports-DG Esports</guid>
+            <guid isPermaLink="false">2025-01-07-Rigel-MGN Blue Esports-Saigon Dino</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC] Rayne: Team Secret (Vietnamese Team) Academy → DG Esports]]></title>
+            <title><![CDATA[[APAC] Rayne: Team Secret Whales Academy → Saigon Dino]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Rayne_(%C4%90%E1%BB%93ng_Nguy%E1%BB%85n_T%E1%BA%A5n_L%E1%BB%99c)">Rayne</a> (Top Laner)</p>
-<p>Team Secret (Vietnamese Team) Academy → DG Esports</p>
+<p>Team Secret Whales Academy → Saigon Dino</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Rayne-Team Secret (Vietnamese Team) Academy-DG Esports</guid>
+            <guid isPermaLink="false">2025-01-07-Rayne-Team Secret Whales Academy-Saigon Dino</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
