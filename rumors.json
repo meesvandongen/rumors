@@ -1,5 +1,145 @@
 [
   {
+    "date": "2025-01-17",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1880237275470262397"
+    },
+    "player": {
+      "name": "Tasteless",
+      "url": "https://lol.fandom.com/wiki/Tasteless"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Partizan Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Partizan Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-01-17",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1880237275470262397"
+    },
+    "player": {
+      "name": "Mihai",
+      "url": "https://lol.fandom.com/wiki/Mihai"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Atleta Esport",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fe/Atleta_Esportlogo_std.png/revision/latest?cb=20210823141410"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Partizan Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-01-17",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1880237275470262397"
+    },
+    "player": {
+      "name": "Vigil",
+      "url": "https://lol.fandom.com/wiki/Vigil"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Macko Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/76/Macko_Esportslogo_std.png/revision/latest?cb=20221024204139"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Partizan Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-17",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1880237275470262397"
+    },
+    "player": {
+      "name": "nicolaiy",
+      "url": "https://lol.fandom.com/wiki/Nicolaiy"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Kaufland Hangry Knights",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Kaufland_Hangry_Knightslogo_std.png/revision/latest?cb=20220201235013"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Partizan Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-01-17",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1880237275470262397"
+    },
+    "player": {
+      "name": "Eyliph",
+      "url": "https://lol.fandom.com/wiki/Eyliph"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Esprit Shōnen",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e1/Esprit_Sh%C5%8Dnenlogo_std.png/revision/latest?cb=20231229210449"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Partizan Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2025-01-16",
     "status": "Rumor",
     "source": {
@@ -337,7 +477,7 @@
   },
   {
     "date": "2025-01-10",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1877833211243614516"
@@ -2573,118 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20241229154842"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2024-12-29",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1873436595379990568"
-    },
-    "player": {
-      "name": "Fade",
-      "url": "https://lol.fandom.com/wiki/Fade_(Fatih_Kur%C5%9Fun)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "BoostGate Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "ESuba",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/ESubalogo_std.png/revision/latest?cb=20240603014141"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-28",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-vizicsacsi-set-to-join-nord-esports-in-the-nlc/en"
-    },
-    "player": {
-      "name": "Vizicsacsi",
-      "url": "https://lol.fandom.com/wiki/Vizicsacsi"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Berlin International Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Berlin_International_Gaminglogo_std.png/revision/latest?cb=20200312222659"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "NORD Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fd/NORD_Esportslogo_std.png/revision/latest?cb=20240527150657"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-27",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"Showtana\" Santana",
-      "url": "https://x.com/luisshowtana/status/1872672440142401593"
-    },
-    "player": {
-      "name": "Drakehero",
-      "url": "https://lol.fandom.com/wiki/Drakehero"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Liberty Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/Libertylogo_std.png/revision/latest?cb=20211216004143"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "W7m esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/W7m_esportslogo_std.png/revision/latest?cb=20240114030611"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-25",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1872040796549214671"
-    },
-    "player": {
-      "name": "Mercy9",
-      "url": "https://lol.fandom.com/wiki/Mercy9"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Misa Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/Misa_Esportslogo_std.png/revision/latest?cb=20240104152952"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Bushido Wildcats",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20241229154842"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
