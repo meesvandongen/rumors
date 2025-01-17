@@ -1,7 +1,35 @@
 [
   {
-    "date": "2025-01-13",
+    "date": "2025-01-16",
     "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1880007920596971952"
+    },
+    "player": {
+      "name": "Conformista",
+      "url": "https://lol.fandom.com/wiki/Conformista"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "NONAME (Turkish Team)",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5d/NONAME_%28Turkish_Team%29logo_std.png/revision/latest?cb=20240119224434"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Odivelas Sports Club",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Odivelas_Sports_Clublogo_std.png/revision/latest?cb=20220127073321"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-01-13",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1878910551746875549"
@@ -29,7 +57,7 @@
   },
   {
     "date": "2025-01-13",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1878901066588467393"
@@ -2657,34 +2685,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20241229154842"
       },
       "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-24",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1871579756803793230"
-    },
-    "player": {
-      "name": "Hoon",
-      "url": "https://lol.fandom.com/wiki/Hoon_(Kwon_Noh-hoon)"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "DetonatioN FocusMe",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/DetonatioN_FocusMelogo_std.png/revision/latest?cb=20230505045554"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "BoostGate Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20240104154350"
-      },
-      "position": "Head Coach"
     }
   }
 ]
