@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jan 2025 12:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 16:02:57 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jan 2025 12:03:53 GMT</pubDate>
+        <pubDate>Sun, 19 Jan 2025 16:02:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -133,7 +133,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Xavi: LODIS (Polish Team) → Actions Per Minute]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Xavi">Xavi</a> (Support)</p>
 <p>LODIS (Polish Team) → Actions Per Minute</p>
 <p>EMEA</p>
@@ -148,7 +148,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] odi11: LODIS (Polish Team) → Actions Per Minute]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Odi11">odi11</a> (Bot Laner)</p>
 <p>LODIS (Polish Team) → Actions Per Minute</p>
 <p>EMEA</p>
@@ -163,7 +163,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Satan: Actions Per Minute]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Satan_(Panagiotis_Stavrou)">Satan</a> (Mid Laner)</p>
 <p>Actions Per Minute</p>
 <p>EMEA</p>
@@ -178,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Behave: LODIS (Polish Team) → Actions Per Minute]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Behave">Behave</a> (Jungler)</p>
 <p>LODIS (Polish Team) → Actions Per Minute</p>
 <p>EMEA</p>
@@ -193,7 +193,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Loading: Actions Per Minute]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Loading">Loading</a> (Top Laner)</p>
 <p>Actions Per Minute</p>
 <p>EMEA</p>
@@ -448,7 +448,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Citrus: Aegis (French Team) → Bushido Wildcats]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Citrus">Citrus</a> (Jungler)</p>
 <p>Aegis (French Team) → Bushido Wildcats</p>
 <p>EMEA</p>
@@ -463,7 +463,7 @@
         </item>
         <item>
             <title><![CDATA[[AME → EMEA] Destroy: FURIA → Bushido Wildcats]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Destroy_(Yoon_Jeong-min)">Destroy</a> (Top Laner)</p>
 <p>FURIA → Bushido Wildcats</p>
 <p>AME → EMEA</p>
@@ -898,7 +898,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] monkaS: Free Agent → Bushido Wildcats]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/MonkaS">monkaS</a> (Support)</p>
 <p>Free Agent → Bushido Wildcats</p>
 <p>EMEA</p>
@@ -1453,7 +1453,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Scorth: FUT Esports → Bushido Wildcats]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Scorth">Scorth</a> (Bot Laner)</p>
 <p>FUT Esports → Bushido Wildcats</p>
 <p>EMEA</p>
