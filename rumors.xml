@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jan 2025 04:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 08:03:13 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jan 2025 04:03:12 GMT</pubDate>
+        <pubDate>Sat, 25 Jan 2025 08:03:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -283,7 +283,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC] SJW: Free Agent → Original Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/SJW">SJW</a> (Support)</p>
 <p>Free Agent → Original Gaming</p>
 <p>APAC</p>
@@ -568,7 +568,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC] LDK: Free Agent → Logo std]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Disproven</p>
 <p><a href="https://lol.fandom.com/wiki/LDK">LDK</a> (Support)</p>
 <p>Free Agent → Logo std</p>
 <p>APAC</p>
