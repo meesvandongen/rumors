@@ -4,16 +4,16 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jan 2025 16:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 20:02:53 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jan 2025 16:02:49 GMT</pubDate>
+        <pubDate>Sun, 26 Jan 2025 20:02:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
         <item>
             <title><![CDATA[[EMEA] Tasteless: Partizan Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Tasteless">Tasteless</a> (Support)</p>
 <p>Partizan Esports</p>
 <p>EMEA</p>
@@ -28,7 +28,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Mihai: Atleta Esport → Partizan Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Mihai">Mihai</a> (Bot Laner)</p>
 <p>Atleta Esport → Partizan Esports</p>
 <p>EMEA</p>
@@ -43,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Vigil: Macko Esports → Partizan Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Vigil">Vigil</a> (Mid Laner)</p>
 <p>Macko Esports → Partizan Esports</p>
 <p>EMEA</p>
@@ -58,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] nicolaiy: Kaufland Hangry Knights → Partizan Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Nicolaiy">nicolaiy</a> (Jungler)</p>
 <p>Kaufland Hangry Knights → Partizan Esports</p>
 <p>EMEA</p>
@@ -73,7 +73,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Eyliph: Esprit Shōnen → Partizan Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Eyliph">Eyliph</a> (Top Laner)</p>
 <p>Esprit Shōnen → Partizan Esports</p>
 <p>EMEA</p>
@@ -253,7 +253,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Nenad: Crvena zvezda Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Nenad">Nenad</a> (Top Laner)</p>
 <p>Crvena zvezda Esports</p>
 <p>EMEA</p>
