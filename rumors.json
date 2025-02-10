@@ -533,7 +533,7 @@
   },
   {
     "date": "2025-01-09",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "423x65484E4B",
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
@@ -561,7 +561,7 @@
   },
   {
     "date": "2025-01-09",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "423x65484E4B",
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
@@ -589,7 +589,7 @@
   },
   {
     "date": "2025-01-09",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "423x65484E4B",
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
@@ -617,7 +617,7 @@
   },
   {
     "date": "2025-01-09",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "423x65484E4B",
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
@@ -645,7 +645,7 @@
   },
   {
     "date": "2025-01-09",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "423x65484E4B",
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
@@ -673,7 +673,7 @@
   },
   {
     "date": "2025-01-09",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "423x65484E4B",
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
@@ -689,6 +689,34 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/MGN_Blue_Esportslogo_std.png/revision/latest?cb=20240108192112"
       },
       "position": "Mid Laner"
+    },
+    "to": {
+      "region": "APAC",
+      "team": {
+        "name": "Hyper Vortex Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Hyper_Vortex_Esportslogo_std.png/revision/latest?cb=20250208200440"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-01-09",
+    "status": "Confirmed!",
+    "source": {
+      "name": "423x65484E4B",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
+    },
+    "player": {
+      "name": "Sparda",
+      "url": "https://lol.fandom.com/wiki/Sparda"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "MGN Blue Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/MGN_Blue_Esportslogo_std.png/revision/latest?cb=20240108192112"
+      },
+      "position": "Top Laner"
     },
     "to": {
       "region": "APAC",
@@ -1233,7 +1261,7 @@
   },
   {
     "date": "2025-01-07",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "423x65484E4B",
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
@@ -2685,34 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-31",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1874127528417259933"
-    },
-    "player": {
-      "name": "Scorth",
-      "url": "https://lol.fandom.com/wiki/Scorth"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "FUT Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/FUT_Esportslogo_std.png/revision/latest?cb=20240107144615"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Bushido Wildcats",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20250121235529"
-      },
-      "position": "Bot Laner"
     }
   }
 ]

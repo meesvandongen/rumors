@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Feb 2025 00:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 04:03:14 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Feb 2025 00:11:42 GMT</pubDate>
+        <pubDate>Mon, 10 Feb 2025 04:03:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -298,7 +298,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC] Bie: Free Agent → Hyper Vortex Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Bie">Bie</a> (Support)</p>
 <p>Free Agent → Hyper Vortex Esports</p>
 <p>APAC</p>
@@ -313,7 +313,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC] Aomine: Team Secret (Vietnamese Team) → Hyper Vortex Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Aomine">Aomine</a> (Bot Laner)</p>
 <p>Team Secret (Vietnamese Team) → Hyper Vortex Esports</p>
 <p>APAC</p>
@@ -328,7 +328,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC] Pout: KT Rolster Challengers → Hyper Vortex Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Pout">Pout</a> (Mid Laner)</p>
 <p>KT Rolster Challengers → Hyper Vortex Esports</p>
 <p>APAC</p>
@@ -343,7 +343,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC] Tomrio: MGN Vikings Esports → Hyper Vortex Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Tomrio">Tomrio</a> (Jungler)</p>
 <p>MGN Vikings Esports → Hyper Vortex Esports</p>
 <p>APAC</p>
@@ -358,7 +358,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA → APAC] Peach: GIANTX Academy → Hyper Vortex Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Peach">Peach</a> (Jungler)</p>
 <p>GIANTX Academy → Hyper Vortex Esports</p>
 <p>EMEA → APAC</p>
@@ -373,14 +373,29 @@
         </item>
         <item>
             <title><![CDATA[[APAC] VIN: MGN Blue Esports → Hyper Vortex Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/VIN_(Tr%E1%BA%A7n_Ho%C3%A0i_Vinh)">VIN</a> (Mid Laner → Top Laner)</p>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/VIN_(Tr%E1%BA%A7n_Ho%C3%A0i_Vinh)">VIN</a> (Mid Laner)</p>
 <p>MGN Blue Esports → Hyper Vortex Esports</p>
 <p>APAC</p>
 <p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
             <guid isPermaLink="false">2025-01-09-VIN-MGN Blue Esports-Hyper Vortex Esports</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] Sparda: MGN Blue Esports → Hyper Vortex Esports]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Sparda">Sparda</a> (Top Laner)</p>
+<p>MGN Blue Esports → Hyper Vortex Esports</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
+]]></description>
+            <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
+            <guid isPermaLink="false">2025-01-09-Sparda-MGN Blue Esports-Hyper Vortex Esports</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -673,7 +688,7 @@
         </item>
         <item>
             <title><![CDATA[[APAC] JackieWind: MGN Blue Esports → Hyper Vortex Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/JackieWind">JackieWind</a> (Coach → Head Coach)</p>
 <p>MGN Blue Esports → Hyper Vortex Esports</p>
 <p>APAC</p>
@@ -1446,21 +1461,6 @@
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en</link>
             <guid isPermaLink="false">2024-12-31-Sotsy-LUA Gaming-WLGaming Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Scorth: FUT Esports → Bushido Wildcats]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Scorth">Scorth</a> (Bot Laner)</p>
-<p>FUT Esports → Bushido Wildcats</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1874127528417259933">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1874127528417259933</link>
-            <guid isPermaLink="false">2024-12-31-Scorth-FUT Esports-Bushido Wildcats</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
