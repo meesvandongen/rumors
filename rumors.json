@@ -1,5 +1,61 @@
 [
   {
+    "date": "2025-02-19",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1892216671772799058"
+    },
+    "player": {
+      "name": "Kituruken",
+      "url": "https://lol.fandom.com/wiki/Kituruken"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Ruddy Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/71/Ruddy_Esportslogo_std.png/revision/latest?cb=20221217213611"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BBL Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20250121233325"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-02-19",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1892199617237786992"
+    },
+    "player": {
+      "name": "Nash",
+      "url": "https://lol.fandom.com/wiki/Nash_(Alf-Kristian_Sund)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Guasones",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "BBL Dark Passage",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/BBL_Dark_Passagelogo_std.png/revision/latest?cb=20250121233325"
+      },
+      "position": "Support"
+    }
+  },
+  {
     "date": "2025-01-17",
     "status": "Confirmed!",
     "source": {
@@ -2657,62 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
       },
       "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2024-12-31",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
-    },
-    "player": {
-      "name": "Carnage",
-      "url": "https://lol.fandom.com/wiki/Carnage_(Vasilis_Syrianos)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "WLGaming Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "WLGaming Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2024-12-31",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
-    },
-    "player": {
-      "name": "Sotsy",
-      "url": "https://lol.fandom.com/wiki/Sotsy"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "LUA Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/LUA_Gaminglogo_std.png/revision/latest?cb=20231214150504"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "WLGaming Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
-      },
-      "position": "Top Laner"
     }
   }
 ]
