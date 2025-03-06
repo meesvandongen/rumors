@@ -1,5 +1,61 @@
 [
   {
+    "date": "2025-03-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Luís \"",
+      "url": "https://x.com/luisshowtana/status/1897684701709496347"
+    },
+    "player": {
+      "name": "Roamer",
+      "url": "https://lol.fandom.com/wiki/Roamer"
+    },
+    "from": {
+      "region": "NA",
+      "team": {
+        "name": "Team Liquid Challengers",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "PaiN Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-03-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Luís \"",
+      "url": "https://x.com/luisshowtana/status/1897684701709496347"
+    },
+    "player": {
+      "name": "Gori",
+      "url": "https://lol.fandom.com/wiki/Gori"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "CTBC Flying Oyster",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/CTBC_Flying_Oysterlogo_std.png/revision/latest?cb=20221014190546"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "PaiN Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-02-21",
     "status": "Rumor",
     "source": {
@@ -2657,62 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2024-12-31",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
-    },
-    "player": {
-      "name": "Gordinho",
-      "url": "https://lol.fandom.com/wiki/Gordinho"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Venomcrest Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/Venomcrestlogo_std.png/revision/latest?cb=20250120135203"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "WLGaming Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2024-12-31",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en"
-    },
-    "player": {
-      "name": "Rafitta",
-      "url": "https://lol.fandom.com/wiki/Rafitta"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "WLGaming Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "WLGaming Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/WLGaming_Esportslogo_std.png/revision/latest?cb=20210322095048"
-      },
-      "position": "Bot Laner"
     }
   }
 ]

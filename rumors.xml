@@ -4,13 +4,43 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Mar 2025 16:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 20:03:08 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Mar 2025 16:03:24 GMT</pubDate>
+        <pubDate>Thu, 06 Mar 2025 20:03:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[NA → AME] Roamer: Team Liquid Challengers → PaiN Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Roamer">Roamer</a> (Mid Laner)</p>
+<p>Team Liquid Challengers → PaiN Gaming</p>
+<p>NA → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1897684701709496347">Luís "</a></p>
+]]></description>
+            <link>https://x.com/luisshowtana/status/1897684701709496347</link>
+            <guid isPermaLink="false">2025-03-06-Roamer-Team Liquid Challengers-PaiN Gaming</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC → AME] Gori: CTBC Flying Oyster → PaiN Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Gori">Gori</a> (Mid Laner)</p>
+<p>CTBC Flying Oyster → PaiN Gaming</p>
+<p>APAC → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1897684701709496347">Luís "</a></p>
+]]></description>
+            <link>https://x.com/luisshowtana/status/1897684701709496347</link>
+            <guid isPermaLink="false">2025-03-06-Gori-CTBC Flying Oyster-PaiN Gaming</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[AME] Drakehero: Fluxo W7M → Free Agent]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1435,36 +1465,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Gordinho: Venomcrest Esports → WLGaming Esports]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Gordinho">Gordinho</a> (Support)</p>
-<p>Venomcrest Esports → WLGaming Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en</link>
-            <guid isPermaLink="false">2024-12-31-Gordinho-Venomcrest Esports-WLGaming Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Rafitta: WLGaming Esports]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Rafitta">Rafitta</a> (Bot Laner)</p>
-<p>WLGaming Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-sotsy-tsiperakos-and-gordinho-set-to-join-carnage-and-rafitta-at-wlgaming-in-the-gll/en</link>
-            <guid isPermaLink="false">2024-12-31-Rafitta-WLGaming Esports-WLGaming Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
