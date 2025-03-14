@@ -4,13 +4,88 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 16:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 20:03:17 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Mar 2025 16:03:17 GMT</pubDate>
+        <pubDate>Fri, 14 Mar 2025 20:03:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME] Ganks: Zeu5 Esports → Fluxo W7M]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ganks">Ganks</a> (Jungler)</p>
+<p>Zeu5 Esports → Fluxo W7M</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1900595429592518943">Luis "</a></p>
+]]></description>
+            <link>https://x.com/luisshowtana/status/1900595429592518943</link>
+            <guid isPermaLink="false">2025-03-14-Ganks-Zeu5 Esports-Fluxo W7M</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Telas: Corinthians Esports → Free Agent]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Telas">Telas</a> (Support)</p>
+<p>Corinthians Esports → Free Agent</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1900559435304411244">Luis "</a></p>
+]]></description>
+            <link>https://x.com/luisshowtana/status/1900559435304411244</link>
+            <guid isPermaLink="false">2025-03-14-Telas-Corinthians Esports-Free Agent</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Xico: Corinthians Esports → Free Agent]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Xico">Xico</a> (Mid Laner)</p>
+<p>Corinthians Esports → Free Agent</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1900559435304411244">Luis "</a></p>
+]]></description>
+            <link>https://x.com/luisshowtana/status/1900559435304411244</link>
+            <guid isPermaLink="false">2025-03-14-Xico-Corinthians Esports-Free Agent</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Manel: Bodin E-Sports White → Corinthians Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Manel">Manel</a> (Support)</p>
+<p>Bodin E-Sports White → Corinthians Esports</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1900559435304411244">Luis "</a></p>
+]]></description>
+            <link>https://x.com/luisshowtana/status/1900559435304411244</link>
+            <guid isPermaLink="false">2025-03-14-Manel-Bodin E-Sports White-Corinthians Esports</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → AME] Leleko: Vivo Keyd Stars → Corinthians Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Leleko">Leleko</a> (Mid Laner)</p>
+<p>Vivo Keyd Stars → Corinthians Esports</p>
+<p>BR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1900559435304411244">Luis "</a></p>
+]]></description>
+            <link>https://x.com/luisshowtana/status/1900559435304411244</link>
+            <guid isPermaLink="false">2025-03-14-Leleko-Vivo Keyd Stars-Corinthians Esports</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Lens: Misa Esports → Beşiktaş Esports]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1386,81 +1461,6 @@
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en</link>
             <guid isPermaLink="false">2025-01-01-Hashirama-Veni Vidi Vici (Spanish Team)-Veni Vidi Vici (Spanish Team)</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Exorant: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Exorant">Exorant</a> (Head Coach)</p>
-<p>Veni Vidi Vici (Spanish Team)</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en</link>
-            <guid isPermaLink="false">2025-01-01-Exorant-Veni Vidi Vici (Spanish Team)-Veni Vidi Vici (Spanish Team)</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Thomas: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Thomas">Thomas</a> (Support)</p>
-<p>Veni Vidi Vici (Spanish Team)</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en</link>
-            <guid isPermaLink="false">2025-01-01-Thomas-Veni Vidi Vici (Spanish Team)-Veni Vidi Vici (Spanish Team)</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Rayito: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Rayito">Rayito</a> (Bot Laner)</p>
-<p>Veni Vidi Vici (Spanish Team)</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en</link>
-            <guid isPermaLink="false">2025-01-01-Rayito-Veni Vidi Vici (Spanish Team)-Veni Vidi Vici (Spanish Team)</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Miniduke: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Miniduke">Miniduke</a> (Mid Laner)</p>
-<p>Veni Vidi Vici (Spanish Team)</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en</link>
-            <guid isPermaLink="false">2025-01-01-Miniduke-Veni Vidi Vici (Spanish Team)-Veni Vidi Vici (Spanish Team)</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Time: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Time_(Tiago_Almeida)">Time</a> (Jungler)</p>
-<p>Veni Vidi Vici (Spanish Team)</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en</link>
-            <guid isPermaLink="false">2025-01-01-Time-Veni Vidi Vici (Spanish Team)-Veni Vidi Vici (Spanish Team)</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>

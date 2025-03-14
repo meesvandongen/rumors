@@ -1,5 +1,145 @@
 [
   {
+    "date": "2025-03-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"",
+      "url": "https://x.com/luisshowtana/status/1900595429592518943"
+    },
+    "player": {
+      "name": "Ganks",
+      "url": "https://lol.fandom.com/wiki/Ganks"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Zeu5 Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/dd/Zeu5_Esportslogo_std.png/revision/latest?cb=20250225123239"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Fluxo W7M",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fluxo_W7Mlogo_std.png/revision/latest?cb=20250124193619"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-03-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"",
+      "url": "https://x.com/luisshowtana/status/1900559435304411244"
+    },
+    "player": {
+      "name": "Telas",
+      "url": "https://lol.fandom.com/wiki/Telas"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-03-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"",
+      "url": "https://x.com/luisshowtana/status/1900559435304411244"
+    },
+    "player": {
+      "name": "Xico",
+      "url": "https://lol.fandom.com/wiki/Xico"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-03-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"",
+      "url": "https://x.com/luisshowtana/status/1900559435304411244"
+    },
+    "player": {
+      "name": "Manel",
+      "url": "https://lol.fandom.com/wiki/Manel"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Bodin E-Sports White",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Bodin_E-Sportslogo_std.png/revision/latest?cb=20241112005515"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-03-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Luis \"",
+      "url": "https://x.com/luisshowtana/status/1900559435304411244"
+    },
+    "player": {
+      "name": "Leleko",
+      "url": "https://lol.fandom.com/wiki/Leleko"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Vivo Keyd Stars",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Corinthians Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-03-13",
     "status": "Rumor",
     "source": {
@@ -2573,146 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
       },
       "position": "Assistant Coach"
-    }
-  },
-  {
-    "date": "2025-01-01",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
-    },
-    "player": {
-      "name": "Exorant",
-      "url": "https://lol.fandom.com/wiki/Exorant"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-01-01",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
-    },
-    "player": {
-      "name": "Thomas",
-      "url": "https://lol.fandom.com/wiki/Thomas"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-01-01",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
-    },
-    "player": {
-      "name": "Rayito",
-      "url": "https://lol.fandom.com/wiki/Rayito"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-01-01",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
-    },
-    "player": {
-      "name": "Miniduke",
-      "url": "https://lol.fandom.com/wiki/Miniduke"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-01-01",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en"
-    },
-    "player": {
-      "name": "Time",
-      "url": "https://lol.fandom.com/wiki/Time_(Tiago_Almeida)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Veni Vidi Vici (Spanish Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/Veni_Vidi_Vici_%28Spanish_Team%29logo_std.png/revision/latest?cb=20250101155345"
-      },
-      "position": "Jungler"
     }
   }
 ]
