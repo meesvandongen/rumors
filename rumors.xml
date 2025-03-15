@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Mar 2025 12:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 16:02:51 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Mar 2025 12:04:01 GMT</pubDate>
+        <pubDate>Sat, 15 Mar 2025 16:02:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Typhoon: BoostGate Esports → Misa Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Typhoon_(Tayfun_G%C3%BCm%C3%BC%C5%9F)">Typhoon</a> (Jungler)</p>
+<p>BoostGate Esports → Misa Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1900924959020712115">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1900924959020712115</link>
+            <guid isPermaLink="false">2025-03-15-Typhoon-BoostGate Esports-Misa Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[AME] Ganks: Zeu5 Esports → Fluxo W7M]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1446,21 +1461,6 @@
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en</link>
             <guid isPermaLink="false">2025-01-01-Artoria-GRP Esports-Skillcamp</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Roshan: SNOOZE Esports → Skillcamp]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Roshan">Roshan</a> (Jungler)</p>
-<p>SNOOZE Esports → Skillcamp</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en</link>
-            <guid isPermaLink="false">2025-01-01-Roshan-SNOOZE Esports-Skillcamp</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
