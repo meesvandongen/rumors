@@ -4,13 +4,103 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Mar 2025 16:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 20:02:56 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Mar 2025 16:02:51 GMT</pubDate>
+        <pubDate>Sat, 15 Mar 2025 20:02:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME] Sephis: LOUD]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Sephis">Sephis</a> (Strategic Coach → Head Coach)</p>
+<p>LOUD</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1900931017273172384">Bruno Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1900931017273172384</link>
+            <guid isPermaLink="false">2025-03-15-Sephis-LOUD-LOUD</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] RedBert: Retired → LOUD]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/RedBert">RedBert</a> (Support)</p>
+<p>Retired → LOUD</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1900931017273172384">Bruno Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1900931017273172384</link>
+            <guid isPermaLink="false">2025-03-15-RedBert-Retired-LOUD</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Shini: Dopamina E-Sport → LOUD]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Shini">Shini</a> (Head Coach → Jungler)</p>
+<p>Dopamina E-Sport → LOUD</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1900931017273172384">Bruno Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1900931017273172384</link>
+            <guid isPermaLink="false">2025-03-15-Shini-Dopamina E-Sport-LOUD</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Aoshi: LOUD → Free Agent]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Aoshi">Aoshi</a> (Head Coach)</p>
+<p>LOUD → Free Agent</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1900931017273172384">Bruno Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1900931017273172384</link>
+            <guid isPermaLink="false">2025-03-15-Aoshi-LOUD-Free Agent</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Winsome: LOUD → Free Agent]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Winsome">Winsome</a> (Support)</p>
+<p>LOUD → Free Agent</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1900931017273172384">Bruno Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1900931017273172384</link>
+            <guid isPermaLink="false">2025-03-15-Winsome-LOUD-Free Agent</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Wiz: LOUD → Free Agent]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Wiz">Wiz</a> (Jungler)</p>
+<p>LOUD → Free Agent</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1900931017273172384">Bruno Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1900931017273172384</link>
+            <guid isPermaLink="false">2025-03-15-Wiz-LOUD-Free Agent</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Typhoon: BoostGate Esports → Misa Esports]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1375,96 +1465,6 @@
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] xMatty: Unicorns of Love Sexy Edition → NORD Esports]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/XMatty">xMatty</a> (Bot Laner)</p>
-<p>Unicorns of Love Sexy Edition → NORD Esports</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1874881342695211395">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1874881342695211395</link>
-            <guid isPermaLink="false">2025-01-02-xMatty-Unicorns of Love Sexy Edition-NORD Esports</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → EMEA] Treatz: Dignitas → NORD Esports]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Treatz">Treatz</a> (Coach → Support)</p>
-<p>Dignitas → NORD Esports</p>
-<p>AME → EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-treatz-set-to-join-nord-esports-in-the-nlc/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-treatz-set-to-join-nord-esports-in-the-nlc/en</link>
-            <guid isPermaLink="false">2025-01-02-Treatz-Dignitas-NORD Esports</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → EMEA] Evolved: Free Agent → Dung Dynasty]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Evolved">Evolved</a> (Mid Laner)</p>
-<p>Free Agent → Dung Dynasty</p>
-<p>AME → EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-katevolved-set-to-join-agurin-s-team-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-katevolved-set-to-join-agurin-s-team-in-the-prime-league/en</link>
-            <guid isPermaLink="false">2025-01-02-Evolved-Free Agent-Dung Dynasty</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Innaxe: Team Du Sud → Dung Dynasty]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Innaxe">Innaxe</a> (Bot Laner)</p>
-<p>Team Du Sud → Dung Dynasty</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-innaxe-set-to-join-agurin-s-team-in-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-innaxe-set-to-join-agurin-s-team-in-prime-league/en</link>
-            <guid isPermaLink="false">2025-01-02-Innaxe-Team Du Sud-Dung Dynasty</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Xicor: Ramboot Club → Skillcamp]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Xicor">Xicor</a> (Bot Laner)</p>
-<p>Ramboot Club → Skillcamp</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en</link>
-            <guid isPermaLink="false">2025-01-01-Xicor-Ramboot Club-Skillcamp</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Artoria: GRP Esports → Skillcamp]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Artoria">Artoria</a> (Mid Laner)</p>
-<p>GRP Esports → Skillcamp</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en</link>
-            <guid isPermaLink="false">2025-01-01-Artoria-GRP Esports-Skillcamp</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
