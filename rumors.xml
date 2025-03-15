@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 20:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 00:11:33 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Mar 2025 20:03:17 GMT</pubDate>
+        <pubDate>Sat, 15 Mar 2025 00:11:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -85,6 +85,21 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Neon: Beşiktaş Esports → Misa Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Neon_(Mat%C3%BA%C5%A1_Jakub%C4%8D%C3%ADk)">Neon</a> (Bot Laner)</p>
+<p>Beşiktaş Esports → Misa Esports</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1900651879819841709">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1900651879819841709</link>
+            <guid isPermaLink="false">2025-03-13-Neon-Beşiktaş Esports-Misa Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[EMEA] Lens: Misa Esports → Beşiktaş Esports]]></title>
@@ -1446,21 +1461,6 @@
 ]]></description>
             <link>https://www.sheepesports.com/articles/sources-roshan-artoria-and-xicor-set-to-join-mat-and-highway-at-skillcamp-in-the-lfl-division-2/en</link>
             <guid isPermaLink="false">2025-01-01-Roshan-SNOOZE Esports-Skillcamp</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Hashirama: Veni Vidi Vici (Spanish Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Hashirama">Hashirama</a> (Assistant Coach)</p>
-<p>Veni Vidi Vici (Spanish Team)</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-veni-vidi-vici-set-to-retain-their-entire-roster-for-the-2025-lvp-season/en</link>
-            <guid isPermaLink="false">2025-01-01-Hashirama-Veni Vidi Vici (Spanish Team)-Veni Vidi Vici (Spanish Team)</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
