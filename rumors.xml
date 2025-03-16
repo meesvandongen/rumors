@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Mar 2025 20:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 00:12:46 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Mar 2025 20:02:56 GMT</pubDate>
+        <pubDate>Sun, 16 Mar 2025 00:12:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -222,30 +222,30 @@
             <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[NA → AME] Roamer: Team Liquid Challengers → PaiN Gaming]]></title>
+            <title><![CDATA[[NA → AME] Roamer: Free Agent → PaiN Gaming]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Roamer">Roamer</a> (Mid Laner)</p>
-<p>Team Liquid Challengers → PaiN Gaming</p>
+<p>Free Agent → PaiN Gaming</p>
 <p>NA → AME</p>
 <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1897684701709496347">Luís "</a></p>
 ]]></description>
             <link>https://x.com/luisshowtana/status/1897684701709496347</link>
-            <guid isPermaLink="false">2025-03-06-Roamer-Team Liquid Challengers-PaiN Gaming</guid>
+            <guid isPermaLink="false">2025-03-06-Roamer-Free Agent-PaiN Gaming</guid>
             <category><![CDATA[NA]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC → AME] Gori: CTBC Flying Oyster → PaiN Gaming]]></title>
+            <title><![CDATA[[APAC → AME] Gori: Free Agent → PaiN Gaming]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Gori">Gori</a> (Mid Laner)</p>
-<p>CTBC Flying Oyster → PaiN Gaming</p>
+<p>Free Agent → PaiN Gaming</p>
 <p>APAC → AME</p>
 <p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1897684701709496347">Luís "</a></p>
 ]]></description>
             <link>https://x.com/luisshowtana/status/1897684701709496347</link>
-            <guid isPermaLink="false">2025-03-06-Gori-CTBC Flying Oyster-PaiN Gaming</guid>
+            <guid isPermaLink="false">2025-03-06-Gori-Free Agent-PaiN Gaming</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
