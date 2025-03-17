@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Mar 2025 16:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 20:03:19 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Mar 2025 16:03:32 GMT</pubDate>
+        <pubDate>Mon, 17 Mar 2025 20:03:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Jeskla: Galions → Kaufland Hangry Knights]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Jeskla">Jeskla</a> (Bot Laner)</p>
+<p>Galions → Kaufland Hangry Knights</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1901670602403901456">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1901670602403901456</link>
+            <guid isPermaLink="false">2025-03-17-Jeskla-Galions-Kaufland Hangry Knights</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[AME] Sephis: LOUD]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1450,21 +1465,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] JimieN: Frank Esports → Chiefs Esports Club]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/JimieN">JimieN</a> (Mid Laner)</p>
-<p>Frank Esports → Chiefs Esports Club</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://www.ptt.cc/bbs/LoL/M.1735829586.A.5B7.html">ma1njo</a></p>
-]]></description>
-            <link>https://www.ptt.cc/bbs/LoL/M.1735829586.A.5B7.html</link>
-            <guid isPermaLink="false">2025-01-02-JimieN-Frank Esports-Chiefs Esports Club</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
