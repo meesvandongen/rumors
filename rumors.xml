@@ -4,16 +4,46 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Apr 2025 00:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 04:29:30 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Apr 2025 00:36:46 GMT</pubDate>
+        <pubDate>Sun, 13 Apr 2025 04:29:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
         <item>
+            <title><![CDATA[[KR → AME] Wiz: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Wiz">Wiz</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>KR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1910493645695864923">Pedro "Mitas" Klein</a></p>
+]]></description>
+            <link>https://x.com/eomitas/status/1910493645695864923</link>
+            <guid isPermaLink="false">2025-04-10-Wiz-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[KR → AME] Summit: Unknown Team]]></title>
-            <description><![CDATA[<p></p>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Summit">Summit</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>KR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1909396527715336360">Pedro "Mitas" Klein</a></p>
+]]></description>
+            <link>https://x.com/eomitas/status/1909396527715336360</link>
+            <guid isPermaLink="false">2025-04-07-Summit-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → AME] Summit: Unknown Team]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Summit">Summit</a> (Top Laner)</p>
 <p>Unknown Team</p>
 <p>KR → AME</p>
@@ -1431,36 +1461,6 @@
 ]]></description>
             <link>https://x.com/DuyumTCL/status/1875656745265353140</link>
             <guid isPermaLink="false">2025-01-04-Wildenbruch-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Syzyfek: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Syzyfek">Syzyfek</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1875656745265353140">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1875656745265353140</link>
-            <guid isPermaLink="false">2025-01-04-Syzyfek-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] RoyalKanin: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/RoyalKanin">RoyalKanin</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1875656745265353140">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1875656745265353140</link>
-            <guid isPermaLink="false">2025-01-04-RoyalKanin-Unknown Team-Unknown Team</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>

@@ -1,7 +1,63 @@
 [
   {
+    "date": "2025-04-10",
+    "status": "Rumor",
+    "source": {
+      "name": "Pedro \"Mitas\" Klein",
+      "url": "https://x.com/eomitas/status/1910493645695864923"
+    },
+    "player": {
+      "name": "Wiz",
+      "url": "https://lol.fandom.com/wiki/Wiz"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Retiredlogo_std.png/revision/latest?cb=20210521233528"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
     "date": "2025-04-07",
-    "status": "",
+    "status": "Confirmed!",
+    "source": {
+      "name": "Pedro \"Mitas\" Klein",
+      "url": "https://x.com/eomitas/status/1909396527715336360"
+    },
+    "player": {
+      "name": "Summit",
+      "url": "https://lol.fandom.com/wiki/Summit"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Isurus_Estrallogo_std.png/revision/latest?cb=20250122022909"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-04-07",
+    "status": "Confirmed!",
     "source": {
       "name": "Summit",
       "url": "https://ch.sooplive.co.kr/qkrdnxozz/post/156580537"
@@ -2657,62 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20250122010716"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2025-01-04",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1875656745265353140"
-    },
-    "player": {
-      "name": "Syzyfek",
-      "url": "https://lol.fandom.com/wiki/Syzyfek"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Guasoneslogo_std.png/revision/latest?cb=20221228164633"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20250122010716"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-01-04",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1875656745265353140"
-    },
-    "player": {
-      "name": "RoyalKanin",
-      "url": "https://lol.fandom.com/wiki/RoyalKanin"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Gamespace_Mediterranean_College_Esportslogo_std.png/revision/latest?cb=20200110004010"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20250122010716"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
