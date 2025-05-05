@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-05-05",
+    "status": "Confirmed!",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1919405500434657487"
+    },
+    "player": {
+      "name": "Six0x",
+      "url": "https://lol.fandom.com/wiki/Six0x"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
     "date": "2025-04-10",
     "status": "Rumor",
     "source": {
@@ -2685,34 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20250122010716"
       },
       "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-01-04",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1875656745265353140"
-    },
-    "player": {
-      "name": "Wildenbruch",
-      "url": "https://lol.fandom.com/wiki/Wildenbruch"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20250122010716"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/ROSSMANN_Centaurslogo_std.png/revision/latest?cb=20250122010716"
-      },
-      "position": "Support"
     }
   }
 ]

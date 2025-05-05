@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 May 2025 12:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 May 2025 16:03:26 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 May 2025 12:04:55 GMT</pubDate>
+        <pubDate>Mon, 05 May 2025 16:03:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Six0x: Unknown Team]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Six0x">Six0x</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1919405500434657487">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1919405500434657487</link>
+            <guid isPermaLink="false">2025-05-05-Six0x-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[KR → AME] Wiz: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1446,21 +1461,6 @@
 ]]></description>
             <link>https://x.com/DuyumTCL/status/1875657478437847048</link>
             <guid isPermaLink="false">2025-01-04-Kiuske-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Wildenbruch: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Wildenbruch">Wildenbruch</a> (Support)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1875656745265353140">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1875656745265353140</link>
-            <guid isPermaLink="false">2025-01-04-Wildenbruch-Unknown Team-Unknown Team</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
