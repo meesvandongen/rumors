@@ -4,13 +4,58 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Jun 2025 16:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 20:03:20 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Jun 2025 16:03:33 GMT</pubDate>
+        <pubDate>Tue, 03 Jun 2025 20:03:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME] Grevthar: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Grevthar">Grevthar</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1929959911858864528">Bruno Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1929959911858864528</link>
+            <guid isPermaLink="false">2025-06-03-Grevthar-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Mago: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Mago">Mago</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1929959911858864528">Bruno Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1929959911858864528</link>
+            <guid isPermaLink="false">2025-06-03-Mago-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Kaze: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)">Kaze</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1929959910030057926">Bruno Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1929959910030057926</link>
+            <guid isPermaLink="false">2025-06-03-Kaze-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Pades: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1402,51 +1447,6 @@
             <link>https://x.com/DuyumTCL/status/1876316550002549183</link>
             <guid isPermaLink="false">2025-01-06-DnDn-Unknown Team-Unknown Team</guid>
             <category><![CDATA[KR]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → EMEA] Ivory: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Ivory">Ivory</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>KR → EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876312776819216470">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1876312776819216470</link>
-            <guid isPermaLink="false">2025-01-06-Ivory-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Pades: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Pades">Pades</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876305226745151959">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1876305226745151959</link>
-            <guid isPermaLink="false">2025-01-06-Pades-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Farfetch: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Farfetch">Farfetch</a> (Support)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876298179198783884">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1876298179198783884</link>
-            <guid isPermaLink="false">2025-01-06-Farfetch-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
