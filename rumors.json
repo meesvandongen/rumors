@@ -1,5 +1,61 @@
 [
   {
+    "date": "2025-06-09",
+    "status": "Rumor",
+    "source": {
+      "name": "Pedro \"Mitas\" Klein",
+      "url": "https://x.com/eomitas/status/1932103240885362950"
+    },
+    "player": {
+      "name": "tinowns",
+      "url": "https://lol.fandom.com/wiki/Tinowns"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Retiredlogo_std.png/revision/latest?cb=20210521233528"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-06-09",
+    "status": "Rumor",
+    "source": {
+      "name": "Bruno \"Bruna1\" Andrade",
+      "url": "https://x.com/Bruna1andrade/status/1932100426050256914"
+    },
+    "player": {
+      "name": "tinowns",
+      "url": "https://lol.fandom.com/wiki/Tinowns"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Retiredlogo_std.png/revision/latest?cb=20210521233528"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
@@ -2685,62 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-01-07",
-    "status": "Rumor",
-    "source": {
-      "name": "423x65484E4B",
-      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
-    },
-    "player": {
-      "name": "KaiShun",
-      "url": "https://lol.fandom.com/wiki/KaiShun"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-01-07",
-    "status": "Confirmed!",
-    "source": {
-      "name": "423x65484E4B",
-      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
-    },
-    "player": {
-      "name": "Yoshino",
-      "url": "https://lol.fandom.com/wiki/Yoshino"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
-      },
-      "position": "Manager"
     }
   }
 ]
