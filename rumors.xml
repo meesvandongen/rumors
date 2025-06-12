@@ -4,13 +4,193 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Jun 2025 16:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 20:03:19 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Jun 2025 16:03:30 GMT</pubDate>
+        <pubDate>Thu, 12 Jun 2025 20:03:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME] Route: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Route">Route</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1933173919894081609">Bruno "Bruna1" Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1933173919894081609</link>
+            <guid isPermaLink="false">2025-06-12-Route-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] RedBert: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/RedBert">RedBert</a> (Support)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1933173919894081609">Bruno "Bruna1" Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1933173919894081609</link>
+            <guid isPermaLink="false">2025-06-12-RedBert-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Robo: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Robo">Robo</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1933173919894081609">Bruno "Bruna1" Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1933173919894081609</link>
+            <guid isPermaLink="false">2025-06-12-Robo-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] ProDelta: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/ProDelta">ProDelta</a> (Support)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933156332065935783">Pedro "Mitas" Klein</a></p>
+]]></description>
+            <link>https://x.com/eomitas/status/1933156332065935783</link>
+            <guid isPermaLink="false">2025-06-12-ProDelta-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Guigs: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Guigs">Guigs</a> (Support)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933156332065935783">Pedro "Mitas" Klein</a></p>
+]]></description>
+            <link>https://x.com/eomitas/status/1933156332065935783</link>
+            <guid isPermaLink="false">2025-06-12-Guigs-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Aoshi: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Aoshi">Aoshi</a> (Technical Consultant → Head Coach)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933145006652706911">Pedro "Mitas" Klein</a></p>
+]]></description>
+            <link>https://x.com/eomitas/status/1933145006652706911</link>
+            <guid isPermaLink="false">2025-06-12-Aoshi-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Bp: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Bp_(Bruno_Pombal)">Bp</a> (Head Coach)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933145006652706911">Pedro "Mitas" Klein</a></p>
+]]></description>
+            <link>https://x.com/eomitas/status/1933145006652706911</link>
+            <guid isPermaLink="false">2025-06-12-Bp-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Aegis: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Aegis_(Gabriel_Lemos)">Aegis</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933168662896386312">Pedro "Mitas" Klein</a></p>
+]]></description>
+            <link>https://x.com/eomitas/status/1933168662896386312</link>
+            <guid isPermaLink="false">2025-06-12-Aegis-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] frosty: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Frosty_(Jos%C3%A9_Eduardo)">frosty</a> (Support)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933168662896386312">Pedro "Mitas" Klein</a></p>
+]]></description>
+            <link>https://x.com/eomitas/status/1933168662896386312</link>
+            <guid isPermaLink="false">2025-06-12-frosty-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Route: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Route">Route</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933168662896386312">Pedro "Mitas" Klein</a></p>
+]]></description>
+            <link>https://x.com/eomitas/status/1933168662896386312</link>
+            <guid isPermaLink="false">2025-06-12-Route-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Leleko: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Leleko">Leleko</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1932937914083598567">Bruno "Bruna1" Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1932937914083598567</link>
+            <guid isPermaLink="false">2025-06-11-Leleko-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Kaze: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)">Kaze</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1932937914083598567">Bruno "Bruna1" Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1932937914083598567</link>
+            <guid isPermaLink="false">2025-06-11-Kaze-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[AME] tinowns: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1298,186 +1478,6 @@
             <guid isPermaLink="false">2025-01-07-Algos-Unknown Team-Unknown Team</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Citrus: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Citrus">Citrus</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876725683818217943">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1876725683818217943</link>
-            <guid isPermaLink="false">2025-01-07-Citrus-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → EMEA] Destroy: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Destroy_(Yoon_Jeong-min)">Destroy</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>AME → EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1876725683818217943">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1876725683818217943</link>
-            <guid isPermaLink="false">2025-01-07-Destroy-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Joexy: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Joexy">Joexy</a> (Support)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
-            <guid isPermaLink="false">2025-01-07-Joexy-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Grave: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Grave">Grave</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
-            <guid isPermaLink="false">2025-01-07-Grave-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → EMEA] Ophelia: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Ophelia">Ophelia</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>KR → EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
-            <guid isPermaLink="false">2025-01-07-Ophelia-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Stefan: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Stefan">Stefan</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
-            <guid isPermaLink="false">2025-01-07-Stefan-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] IlllIma: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/IlllIma">IlllIma</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1876708846263046309">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://x.com/Sheep_Esports/status/1876708846263046309</link>
-            <guid isPermaLink="false">2025-01-07-IlllIma-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Selfmade: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Selfmade">Selfmade</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/articles/sources-selfmade-set-to-join-crvena-zvezda-esports-in-the-balkan-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/articles/sources-selfmade-set-to-join-crvena-zvezda-esports-in-the-balkan-league/en</link>
-            <guid isPermaLink="false">2025-01-07-Selfmade-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] LDK: Unknown Team]]></title>
-            <description><![CDATA[<p>Disproven</p>
-<p><a href="https://lol.fandom.com/wiki/LDK">LDK</a> (Support)</p>
-<p>Unknown Team</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
-]]></description>
-            <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-LDK-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] Luvi: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Luvi">Luvi</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
-]]></description>
-            <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Luvi-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] Xuhao: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Xuhao">Xuhao</a> (Head Coach → Coach)</p>
-<p>Unknown Team</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
-]]></description>
-            <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Xuhao-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] Balder: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Balder">Balder</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
-]]></description>
-            <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-07-Balder-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
         </item>
