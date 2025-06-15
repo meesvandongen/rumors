@@ -1,5 +1,61 @@
 [
   {
+    "date": "2025-06-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-hans-samd-set-to-join-navi-in-the-lec/en"
+    },
+    "player": {
+      "name": "Hans SamD",
+      "url": "https://lol.fandom.com/wiki/Hans_SamD"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/Ici_Japon_Corp._Esportlogo_std.png/revision/latest?cb=20241006054335"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-06-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Marian \"Eros\" Stoica",
+      "url": "https://www.sheepesports.com/en/articles/sources-kaze-joins-red-main-roster/en"
+    },
+    "player": {
+      "name": "Kaze",
+      "url": "https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-06-12",
     "status": "Rumor",
     "source": {
@@ -337,7 +393,7 @@
   },
   {
     "date": "2025-06-09",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Pedro \"Mitas\" Klein",
       "url": "https://x.com/eomitas/status/1932103240885362950"
@@ -365,7 +421,7 @@
   },
   {
     "date": "2025-06-09",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Bruno \"Bruna1\" Andrade",
       "url": "https://x.com/Bruna1andrade/status/1932100426050256914"
@@ -395,7 +451,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -423,7 +479,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -451,7 +507,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -479,7 +535,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -507,7 +563,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -535,7 +591,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -563,7 +619,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -591,7 +647,7 @@
     "date": "2025-06-04",
     "status": "Disproven",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -619,7 +675,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -647,7 +703,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -675,7 +731,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -703,7 +759,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -731,7 +787,7 @@
     "date": "2025-06-04",
     "status": "Rumor",
     "source": {
-      "name": "Sérgio \"Corres\" FioriniSérgio%20%22Corres%22%20Fiorini&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run=",
+      "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
     },
     "player": {
@@ -2685,62 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/Los_Grandeslogo_std.png/revision/latest?cb=20230608222225"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-01-07",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1876726917258268791"
-    },
-    "player": {
-      "name": "Spale",
-      "url": "https://lol.fandom.com/wiki/Spale"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/ULF_Esportslogo_std.png/revision/latest?cb=20250121235154"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-01-07",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1876725683818217943"
-    },
-    "player": {
-      "name": "Algos",
-      "url": "https://lol.fandom.com/wiki/Algos"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fe/Phoenix_Esports_%28Turkish_Team%29logo_std.png/revision/latest?cb=20230704164833"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20250121235529"
-      },
-      "position": "Coach"
     }
   }
 ]
