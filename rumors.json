@@ -1,5 +1,61 @@
 [
   {
+    "date": "2025-06-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Bruno \"Bruna1\" Andrade",
+      "url": "https://x.com/Bruna1andrade/status/1935776722097525032"
+    },
+    "player": {
+      "name": "Route",
+      "url": "https://lol.fandom.com/wiki/Route"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-06-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Sérgio \"Corres\" Fiorini",
+      "url": "https://maisesports.com.br/lta-sul-2025-conheca-o-novo-tecnico-da-red-canids/"
+    },
+    "player": {
+      "name": "tockers",
+      "url": "https://lol.fandom.com/wiki/Tockers"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
     "date": "2025-06-18",
     "status": "Rumor",
     "source": {
@@ -421,7 +477,7 @@
   },
   {
     "date": "2025-06-11",
-    "status": "Rumor",
+    "status": "Disproven",
     "source": {
       "name": "Bruno \"Bruna1\" Andrade",
       "url": "https://x.com/Bruna1andrade/status/1932937914083598567"
@@ -2685,62 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Hyper_Vortex_Esportslogo_std.png/revision/latest?cb=20250218142053"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-01-09",
-    "status": "Confirmed!",
-    "source": {
-      "name": "423x65484E4B",
-      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
-    },
-    "player": {
-      "name": "VIN",
-      "url": "https://lol.fandom.com/wiki/VIN_(Tr%E1%BA%A7n_Ho%C3%A0i_Vinh)"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/MGN_Blue_Esportslogo_std.png/revision/latest?cb=20240108192112"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Hyper_Vortex_Esportslogo_std.png/revision/latest?cb=20250218142053"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-01-09",
-    "status": "Confirmed!",
-    "source": {
-      "name": "423x65484E4B",
-      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
-    },
-    "player": {
-      "name": "Sparda",
-      "url": "https://lol.fandom.com/wiki/Sparda"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/MGN_Blue_Esportslogo_std.png/revision/latest?cb=20240108192112"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Hyper_Vortex_Esportslogo_std.png/revision/latest?cb=20250218142053"
-      },
-      "position": "Top Laner"
     }
   }
 ]
