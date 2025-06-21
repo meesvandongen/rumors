@@ -448,6 +448,34 @@
     }
   },
   {
+    "date": "2025-06-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Luiz Gustavo \"Guizo\" de Souza",
+      "url": "https://x.com/yunguizo/status/1933148014496944331"
+    },
+    "player": {
+      "name": "Kaze",
+      "url": "https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-06-11",
     "status": "Rumor",
     "source": {
@@ -1005,6 +1033,34 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
       },
       "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-06-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Luiz Gustavo \"Guizo\" de Souza",
+      "url": "https://x.com/yunguizo/status/1929711009322693007"
+    },
+    "player": {
+      "name": "tockers",
+      "url": "https://lol.fandom.com/wiki/Tockers"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
+      },
+      "position": "Head Coach"
     }
   },
   {
@@ -2685,62 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Hyper_Vortex_Esportslogo_std.png/revision/latest?cb=20250218142053"
       },
       "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-01-09",
-    "status": "Confirmed!",
-    "source": {
-      "name": "423x65484E4B",
-      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
-    },
-    "player": {
-      "name": "Tomrio",
-      "url": "https://lol.fandom.com/wiki/Tomrio"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Hyper_Vortex_Esportslogo_std.png/revision/latest?cb=20250218142053"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-01-09",
-    "status": "Confirmed!",
-    "source": {
-      "name": "423x65484E4B",
-      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
-    },
-    "player": {
-      "name": "Peach",
-      "url": "https://lol.fandom.com/wiki/Peach"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Hyper_Vortex_Esportslogo_std.png/revision/latest?cb=20250218142053"
-      },
-      "position": "Jungler"
     }
   }
 ]
