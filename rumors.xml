@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Jun 2025 00:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 04:12:54 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Jun 2025 00:14:05 GMT</pubDate>
+        <pubDate>Mon, 23 Jun 2025 04:12:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[KR → AME] Guti: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Guti_(Moon_Jeong-hwan)">Guti</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>KR → AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1936968885976142031">Bruno "Bruna1" Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1936968885976142031</link>
+            <guid isPermaLink="false">2025-06-22-Guti-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[AME] Route: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1461,21 +1476,6 @@
 ]]></description>
             <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
             <guid isPermaLink="false">2025-01-09-Aomine-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] Pout: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Pout">Pout</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
-]]></description>
-            <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-09-Pout-Unknown Team-Unknown Team</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[Roster Changes]]></category>
