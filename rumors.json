@@ -3,6 +3,118 @@
     "date": "2025-06-23",
     "status": "Rumor",
     "source": {
+      "name": "Luiz Gustavo \"Guizo\" de Souza",
+      "url": "https://x.com/yunguizo/status/1937286396307443904"
+    },
+    "player": {
+      "name": "random",
+      "url": "https://lol.fandom.com/wiki/Random_(Vin%C3%ADcius_Krick)"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f6/RMD_Gaminglogo_std.png/revision/latest?cb=20250322132947"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Alpha7_Esportslogo_std.png/revision/latest?cb=20250624023405"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "status": "Rumor",
+    "source": {
+      "name": "Luiz Gustavo \"Guizo\" de Souza",
+      "url": "https://x.com/yunguizo/status/1937286396307443904"
+    },
+    "player": {
+      "name": "Drakehero",
+      "url": "https://lol.fandom.com/wiki/Drakehero"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/RATZlogo_std.png/revision/latest?cb=20250312143316"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Alpha7_Esportslogo_std.png/revision/latest?cb=20250624023405"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "status": "Rumor",
+    "source": {
+      "name": "Luiz Gustavo \"Guizo\" de Souza",
+      "url": "https://x.com/yunguizo/status/1937286396307443904"
+    },
+    "player": {
+      "name": "Kiari",
+      "url": "https://lol.fandom.com/wiki/Kiari"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/RATZlogo_std.png/revision/latest?cb=20250312143316"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Alpha7_Esportslogo_std.png/revision/latest?cb=20250624023405"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "status": "Rumor",
+    "source": {
+      "name": "Guilherme \"gHS\" Saueressig",
+      "url": "https://x.com/ghsaueressig/status/1937292085310423542"
+    },
+    "player": {
+      "name": "Telas",
+      "url": "https://lol.fandom.com/wiki/Telas"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Alpha7_Esportslogo_std.png/revision/latest?cb=20250624023405"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "status": "Rumor",
+    "source": {
       "name": "Bruno \"Bruna1\" Andrade",
       "url": "https://x.com/Bruna1andrade/status/1937158883996221510"
     },
@@ -2657,118 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2025-01-11",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1878100096203497699"
-    },
-    "player": {
-      "name": "Devn",
-      "url": "https://lol.fandom.com/wiki/Devn"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/Diamant_Esportslogo_std.png/revision/latest?cb=20211215131842"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-01-11",
-    "status": "Disproven",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1878100096203497699"
-    },
-    "player": {
-      "name": "6ax",
-      "url": "https://lol.fandom.com/wiki/6ax"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-01-11",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1878100096203497699"
-    },
-    "player": {
-      "name": "Nenad",
-      "url": "https://lol.fandom.com/wiki/Nenad"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Crvena_zvezda_Esportslogo_std.png/revision/latest?cb=20230115202248"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-01-10",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1877833211243614516"
-    },
-    "player": {
-      "name": "HirumaY",
-      "url": "https://lol.fandom.com/wiki/HirumaY"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/Misa_Esportslogo_std.png/revision/latest?cb=20240104152952"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Coach"
     }
   }
 ]
