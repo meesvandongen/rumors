@@ -3,6 +3,62 @@
     "date": "2025-06-23",
     "status": "Rumor",
     "source": {
+      "name": "Bruno \"Bruna1\" Andrade",
+      "url": "https://x.com/Bruna1andrade/status/1937158883996221510"
+    },
+    "player": {
+      "name": "Guigs",
+      "url": "https://lol.fandom.com/wiki/Guigs"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fluxo_W7Mlogo_std.png/revision/latest?cb=20250124193619"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "status": "Rumor",
+    "source": {
+      "name": "Bruno \"Bruna1\" Andrade",
+      "url": "https://x.com/Bruna1andrade/status/1937158883996221510"
+    },
+    "player": {
+      "name": "Celo",
+      "url": "https://lol.fandom.com/wiki/Celo"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Stellae_Gaminglogo_std.png/revision/latest?cb=20250311160424"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/KaBuM%21_Esportslogo_std.png/revision/latest?cb=20221218045942"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "status": "Rumor",
+    "source": {
       "name": "Flank Esports",
       "url": "https://x.com/FlankEsports/status/1937166686471225407"
     },
@@ -2713,34 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
       },
       "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-01-09",
-    "status": "Confirmed!",
-    "source": {
-      "name": "423x65484E4B",
-      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml"
-    },
-    "player": {
-      "name": "SJW",
-      "url": "https://lol.fandom.com/wiki/SJW"
-    },
-    "from": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "APAC",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/Original_Gaminglogo_std.png/revision/latest?cb=20231025141853"
-      },
-      "position": "Support"
     }
   }
 ]

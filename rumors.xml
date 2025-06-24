@@ -4,13 +4,43 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Jun 2025 20:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 00:13:14 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Jun 2025 20:03:29 GMT</pubDate>
+        <pubDate>Tue, 24 Jun 2025 00:13:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME] Guigs: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Guigs">Guigs</a> (Support)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1937158883996221510">Bruno "Bruna1" Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1937158883996221510</link>
+            <guid isPermaLink="false">2025-06-23-Guigs-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Celo: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Celo">Celo</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1937158883996221510">Bruno "Bruna1" Andrade</a></p>
+]]></description>
+            <link>https://x.com/Bruna1andrade/status/1937158883996221510</link>
+            <guid isPermaLink="false">2025-06-23-Celo-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Closer: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1465,21 +1495,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC] SJW: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/SJW">SJW</a> (Support)</p>
-<p>Unknown Team</p>
-<p>APAC</p>
-<p><strong>Source:</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml">423x65484E4B</a></p>
-]]></description>
-            <link>https://docs.google.com/spreadsheets/d/e/2PACX-1vRLqyXtsO9rYL-ckpShHpRL_T7PwmSToO3YFthHRPaQDvg-M6brNtLGoZ0r58HN9RscjiY3q9sL6ERY/pubhtml</link>
-            <guid isPermaLink="false">2025-01-09-SJW-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
