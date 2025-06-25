@@ -4,13 +4,58 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Jun 2025 16:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 20:03:22 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Jun 2025 16:03:33 GMT</pubDate>
+        <pubDate>Wed, 25 Jun 2025 20:03:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Ruep: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ruep">Ruep</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1937919724672745785">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1937919724672745785</link>
+            <guid isPermaLink="false">2025-06-25-Ruep-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Chef: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Chef">Chef</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1937919724672745785">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1937919724672745785</link>
+            <guid isPermaLink="false">2025-06-25-Chef-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Patch: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Patch_(Han_Seung-min)">Patch</a> (Support)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1937914690685821333">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1937914690685821333</link>
+            <guid isPermaLink="false">2025-06-25-Patch-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[AME] random: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -103,7 +148,7 @@
         </item>
         <item>
             <title><![CDATA[[EMEA] Closer: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Closer_(Can_%C3%87elik)">Closer</a> (Jungler)</p>
 <p>Unknown Team</p>
 <p>EMEA</p>
@@ -1450,51 +1495,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Behave: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Behave">Behave</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878880727313592405">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1878880727313592405</link>
-            <guid isPermaLink="false">2025-01-13-Behave-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Loading: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Loading">Loading</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878880727313592405">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1878880727313592405</link>
-            <guid isPermaLink="false">2025-01-13-Loading-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Alaric: Unknown Team]]></title>
-            <description><![CDATA[<p>Disproven</p>
-<p><a href="https://lol.fandom.com/wiki/Alaric">Alaric</a> (Support)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1878100096203497699">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1878100096203497699</link>
-            <guid isPermaLink="false">2025-01-11-Alaric-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
