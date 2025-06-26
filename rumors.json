@@ -1,5 +1,61 @@
 [
   {
+    "date": "2025-06-26",
+    "status": "Rumor",
+    "source": {
+      "name": "LCS Eevee",
+      "url": "https://www.sheepesports.com/en/articles/sources-gryffinn-set-to-join-loud-in-lta-south/en"
+    },
+    "player": {
+      "name": "Gryffinn",
+      "url": "https://lol.fandom.com/wiki/Gryffinn"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-06-26",
+    "status": "Rumor",
+    "source": {
+      "name": "Pedro \"Mitas\" Klein",
+      "url": "https://hk5news.com.br/2025/06/26/loud-tem-conversas-avancadas-com-gryffinn-ex-t1-para-o-terceiro-split-de-2025/"
+    },
+    "player": {
+      "name": "Gryffinn",
+      "url": "https://lol.fandom.com/wiki/Gryffinn"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
     "date": "2025-06-25",
     "status": "Rumor",
     "source": {
@@ -2685,90 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/97/Underworld_Esportslogo_std.png/revision/latest?cb=20250129112026"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-01-13",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1878880727313592405"
-    },
-    "player": {
-      "name": "Xavi",
-      "url": "https://lol.fandom.com/wiki/Xavi"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/LODIS_%28Polish_Team%29logo_std.png/revision/latest?cb=20230124152505"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20250121233033"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-01-13",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1878880727313592405"
-    },
-    "player": {
-      "name": "odi11",
-      "url": "https://lol.fandom.com/wiki/Odi11"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/LODIS_%28Polish_Team%29logo_std.png/revision/latest?cb=20230124152505"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20250121233033"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-01-13",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1878880727313592405"
-    },
-    "player": {
-      "name": "Satan",
-      "url": "https://lol.fandom.com/wiki/Satan_(Panagiotis_Stavrou)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20250121233033"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Actions_Per_Minutelogo_std.png/revision/latest?cb=20250121233033"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
