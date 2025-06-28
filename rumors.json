@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-06-28",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1939020877397385321"
+    },
+    "player": {
+      "name": "Malrang",
+      "url": "https://lol.fandom.com/wiki/Malrang"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Rogue_%28European_Team%29logo_std.png/revision/latest?cb=20231125191900"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Support"
+    }
+  },
+  {
     "date": "2025-06-26",
     "status": "Rumor",
     "source": {
@@ -2713,34 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
       },
       "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-01-17",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1880237275470262397"
-    },
-    "player": {
-      "name": "Vigil",
-      "url": "https://lol.fandom.com/wiki/Vigil"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/76/Macko_Esportslogo_std.png/revision/latest?cb=20221024204139"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
