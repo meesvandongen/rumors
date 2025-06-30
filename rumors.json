@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-06-30",
+    "status": "Rumor",
+    "source": {
+      "name": "DuyumTCL",
+      "url": "https://x.com/DuyumTCL/status/1939759591853846572"
+    },
+    "player": {
+      "name": "Osman123",
+      "url": "https://lol.fandom.com/wiki/Osman123"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Eternal_Firelogo_std.png/revision/latest?cb=20241227222845"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Papara_SuperMassivelogo_std.png/revision/latest?cb=20240108211145"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
     "date": "2025-06-28",
     "status": "Rumor",
     "source": {
@@ -2713,34 +2741,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2025-01-17",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1880237275470262397"
-    },
-    "player": {
-      "name": "Mihai",
-      "url": "https://lol.fandom.com/wiki/Mihai"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fe/Atleta_Esportlogo_std.png/revision/latest?cb=20210823141410"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
-      },
-      "position": "Bot Laner"
     }
   }
 ]
