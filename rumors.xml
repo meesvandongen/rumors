@@ -4,13 +4,103 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Jul 2025 16:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jul 2025 20:03:41 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Jul 2025 16:03:26 GMT</pubDate>
+        <pubDate>Wed, 02 Jul 2025 20:03:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME] Aveng3r: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Aveng3r">Aveng3r</a> (Assistant Coach)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/barp999/status/1940434333724184764">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/barp999/status/1940434333724184764</link>
+            <guid isPermaLink="false">2025-07-02-Aveng3r-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Halier: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Halier">Halier</a> (Coach → Head Coach)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/barp999/status/1940434333724184764">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/barp999/status/1940434333724184764</link>
+            <guid isPermaLink="false">2025-07-02-Halier-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] kojima: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Kojima">kojima</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/barp999/status/1940215192883011616">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/barp999/status/1940215192883011616</link>
+            <guid isPermaLink="false">2025-07-01-kojima-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Aikawa: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Aikawa">Aikawa</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/barp999/status/1940215192883011616">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/barp999/status/1940215192883011616</link>
+            <guid isPermaLink="false">2025-07-01-Aikawa-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Nero: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Nero_(Ot%C3%A1vio_Augusto)">Nero</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/barp999/status/1940215192883011616">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/barp999/status/1940215192883011616</link>
+            <guid isPermaLink="false">2025-07-01-Nero-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Samkz: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Samkz">Samkz</a> (Streamer → Jungler)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/barp999/status/1940215192883011616">Rakan News</a></p>
+]]></description>
+            <link>https://x.com/barp999/status/1940215192883011616</link>
+            <guid isPermaLink="false">2025-07-01-Samkz-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Rhilech: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1360,126 +1450,6 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Telas: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Telas">Telas</a> (Support)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1900559435304411244">Luis "</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1900559435304411244</link>
-            <guid isPermaLink="false">2025-03-14-Telas-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Xico: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Xico">Xico</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1900559435304411244">Luis "</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1900559435304411244</link>
-            <guid isPermaLink="false">2025-03-14-Xico-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Manel: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Manel">Manel</a> (Support)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1900559435304411244">Luis "</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1900559435304411244</link>
-            <guid isPermaLink="false">2025-03-14-Manel-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[BR → AME] Leleko: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Leleko">Leleko</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>BR → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/luisshowtana/status/1900559435304411244">Luis "</a></p>
-]]></description>
-            <link>https://x.com/luisshowtana/status/1900559435304411244</link>
-            <guid isPermaLink="false">2025-03-14-Leleko-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Neon: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Neon_(Mat%C3%BA%C5%A1_Jakub%C4%8D%C3%ADk)">Neon</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1900651879819841709">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1900651879819841709</link>
-            <guid isPermaLink="false">2025-03-13-Neon-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Lens: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Lens">Lens</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1900318635907826045">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1900318635907826045</link>
-            <guid isPermaLink="false">2025-03-13-Lens-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Irean: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Irean">Irean</a> (Head Coach)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1899151011601936868">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1899151011601936868</link>
-            <guid isPermaLink="false">2025-03-10-Irean-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Paixdia: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Paixdia">Paixdia</a> (Support)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1899151011601936868">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1899151011601936868</link>
-            <guid isPermaLink="false">2025-03-10-Paixdia-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

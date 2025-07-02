@@ -1,5 +1,173 @@
 [
   {
+    "date": "2025-07-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/barp999/status/1940434333724184764"
+    },
+    "player": {
+      "name": "Aveng3r",
+      "url": "https://lol.fandom.com/wiki/Aveng3r"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Assistant Coach"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5d/7REXlogo_std.png/revision/latest?cb=20250519024018"
+      },
+      "position": "Assistant Coach"
+    }
+  },
+  {
+    "date": "2025-07-02",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/barp999/status/1940434333724184764"
+    },
+    "player": {
+      "name": "Halier",
+      "url": "https://lol.fandom.com/wiki/Halier"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5d/7REXlogo_std.png/revision/latest?cb=20250519024018"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
+    "date": "2025-07-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/barp999/status/1940215192883011616"
+    },
+    "player": {
+      "name": "kojima",
+      "url": "https://lol.fandom.com/wiki/Kojima"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/Dopamina_E-Sportlogo_std.png/revision/latest?cb=20250306165026"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-07-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/barp999/status/1940215192883011616"
+    },
+    "player": {
+      "name": "Aikawa",
+      "url": "https://lol.fandom.com/wiki/Aikawa"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-07-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/barp999/status/1940215192883011616"
+    },
+    "player": {
+      "name": "Nero",
+      "url": "https://lol.fandom.com/wiki/Nero_(Ot%C3%A1vio_Augusto)"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/Rise_Gaminglogo_std.png/revision/latest?cb=20221014224318"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-07-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Rakan News",
+      "url": "https://x.com/barp999/status/1940215192883011616"
+    },
+    "player": {
+      "name": "Samkz",
+      "url": "https://lol.fandom.com/wiki/Samkz"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/Farenvehnlogo_std.png/revision/latest?cb=20250318002846"
+      },
+      "position": "Streamer"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
     "date": "2025-07-01",
     "status": "Rumor",
     "source": {
@@ -2517,230 +2685,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fluxo_W7Mlogo_std.png/revision/latest?cb=20250124193619"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-03-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"",
-      "url": "https://x.com/luisshowtana/status/1900559435304411244"
-    },
-    "player": {
-      "name": "Telas",
-      "url": "https://lol.fandom.com/wiki/Telas"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-03-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"",
-      "url": "https://x.com/luisshowtana/status/1900559435304411244"
-    },
-    "player": {
-      "name": "Xico",
-      "url": "https://lol.fandom.com/wiki/Xico"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-03-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"",
-      "url": "https://x.com/luisshowtana/status/1900559435304411244"
-    },
-    "player": {
-      "name": "Manel",
-      "url": "https://lol.fandom.com/wiki/Manel"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Bodin_E-Sportslogo_std.png/revision/latest?cb=20241112005515"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-03-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Luis \"",
-      "url": "https://x.com/luisshowtana/status/1900559435304411244"
-    },
-    "player": {
-      "name": "Leleko",
-      "url": "https://lol.fandom.com/wiki/Leleko"
-    },
-    "from": {
-      "region": "BR",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Vivo_Keyd_Starslogo_std.png/revision/latest?cb=20221116002741"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-03-13",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1900651879819841709"
-    },
-    "player": {
-      "name": "Neon",
-      "url": "https://lol.fandom.com/wiki/Neon_(Mat%C3%BA%C5%A1_Jakub%C4%8D%C3%ADk)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/Misa_Esportslogo_std.png/revision/latest?cb=20240104152952"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-03-13",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1900318635907826045"
-    },
-    "player": {
-      "name": "Lens",
-      "url": "https://lol.fandom.com/wiki/Lens"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/Misa_Esportslogo_std.png/revision/latest?cb=20240104152952"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-03-10",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1899151011601936868"
-    },
-    "player": {
-      "name": "Irean",
-      "url": "https://lol.fandom.com/wiki/Irean"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-03-10",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1899151011601936868"
-    },
-    "player": {
-      "name": "Paixdia",
-      "url": "https://lol.fandom.com/wiki/Paixdia"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Be%C5%9Fikta%C5%9F_Esportslogo_std.png/revision/latest?cb=20221028050906"
-      },
-      "position": "Support"
     }
   }
 ]
