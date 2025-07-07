@@ -4,13 +4,103 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Jul 2025 16:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 20:03:44 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Jul 2025 16:03:49 GMT</pubDate>
+        <pubDate>Mon, 07 Jul 2025 20:03:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME] Duduhh: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Duduhh">Duduhh</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/ghsaueressig/status/1942269409478819949">Guilherme "gHS" Saueressig</a></p>
+]]></description>
+            <link>https://x.com/ghsaueressig/status/1942269409478819949</link>
+            <guid isPermaLink="false">2025-07-07-Duduhh-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Czypsy: Unknown Team]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Czypsy">Czypsy</a> (Support)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1942239505999655095">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1942239505999655095</link>
+            <guid isPermaLink="false">2025-07-07-Czypsy-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Nikiyas: Unknown Team]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Nikiyas">Nikiyas</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1942239505999655095">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1942239505999655095</link>
+            <guid isPermaLink="false">2025-07-07-Nikiyas-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Mentos: Unknown Team]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Mentos">Mentos</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1942239505999655095">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1942239505999655095</link>
+            <guid isPermaLink="false">2025-07-07-Mentos-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Noodle: Unknown Team]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Noodle_(Kim_Kroon)">Noodle</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1942239505999655095">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1942239505999655095</link>
+            <guid isPermaLink="false">2025-07-07-Noodle-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Libra: Unknown Team]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Libra_(Emre_Ercan_G%C3%BCler)">Libra</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1942239505999655095">DuyumTCL</a></p>
+]]></description>
+            <link>https://x.com/DuyumTCL/status/1942239505999655095</link>
+            <guid isPermaLink="false">2025-07-07-Libra-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Kaori: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1375,81 +1465,6 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] tockers: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Tockers">tockers</a> (Mid Laner → Head Coach)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/yunguizo/status/1929711009322693007">Luiz Gustavo "Guizo" de Souza</a></p>
-]]></description>
-            <link>https://x.com/yunguizo/status/1929711009322693007</link>
-            <guid isPermaLink="false">2025-06-02-tockers-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Pades: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Pades">Pades</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1926324323989569872">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1926324323989569872</link>
-            <guid isPermaLink="false">2025-05-24-Pades-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[APAC → EMEA] Peach: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Peach">Peach</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>APAC → EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1926008768522764585">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1926008768522764585</link>
-            <guid isPermaLink="false">2025-05-23-Peach-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[APAC]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Zest: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Zest_(Kim_Dong-min)">Zest</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1926002253845946825">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1926002253845946825</link>
-            <guid isPermaLink="false">2025-05-23-Zest-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Six0x: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Six0x">Six0x</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1919405500434657487">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1919405500434657487</link>
-            <guid isPermaLink="false">2025-05-05-Six0x-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
