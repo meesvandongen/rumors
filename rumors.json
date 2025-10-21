@@ -1,5 +1,649 @@
 [
   {
+    "date": "2025-10-21",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-grabbz-to-continue-as-head-coach-of-fnatic-for-2026/en"
+    },
+    "player": {
+      "name": "Grabbz",
+      "url": "https://lol.fandom.com/wiki/Grabbz"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-gotoone-joins-natus-vincere-as-assistant-coach-in-the-lec/en"
+    },
+    "player": {
+      "name": "GotoOne",
+      "url": "https://lol.fandom.com/wiki/GotoOne"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gentle_Mateslogo_std.png/revision/latest?cb=20241007071343"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-natus-vincere-retains-hans-samd-as-their-ad-carry-for-the-2026-season/en"
+    },
+    "player": {
+      "name": "Hans SamD",
+      "url": "https://lol.fandom.com/wiki/Hans_SamD"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-flakked-has-been-allowed-to-explore-his-options-by-team-heretics/en"
+    },
+    "player": {
+      "name": "Flakked",
+      "url": "https://lol.fandom.com/wiki/Flakked"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-vitality-looking-at-support-alternatives-czajek-not-ruled-out/en"
+    },
+    "player": {
+      "name": "Czajek",
+      "url": "https://lol.fandom.com/wiki/Czajek"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-canna-is-in-advanced-negotiations-with-karmine-corp-likely-to-re-sign/en"
+    },
+    "player": {
+      "name": "Canna",
+      "url": "https://lol.fandom.com/wiki/Canna"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-10-19",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-baguette-joins-sk-gaming-as-an-assistant-coach-in-the-lec/en"
+    },
+    "player": {
+      "name": "Baguette Coach",
+      "url": "https://lol.fandom.com/wiki/Baguette_Coach"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/Caldya_Esportlogo_std.png/revision/latest?cb=20250605114509"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-10-13",
+    "status": "Rumor",
+    "source": {
+      "name": "LCS Eevee",
+      "url": "https://www.sheepesports.com/en/articles/sources-iwdominate-reach-verbal-agreement-to-join-cloud9-as-strategic-coach-in-person-for-the/en"
+    },
+    "player": {
+      "name": "IWDominate",
+      "url": "https://lol.fandom.com/wiki/IWDominate"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Streamer"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Cloud9logo_std.png/revision/latest?cb=20230426052612"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-10-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Marian \"Eros\" Stoica",
+      "url": "https://www.sheepesports.com/en/articles/sources-hazel-set-to-be-promoted-to-karmine-corp-blue-in-the-lfl/en"
+    },
+    "player": {
+      "name": "Hazel",
+      "url": "https://lol.fandom.com/wiki/Hazel_(Costin_Pestri%C8%9Bu)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-10-10",
+    "status": "Rumor",
+    "source": {
+      "name": "Marian \"Eros\" Stoica",
+      "url": "https://www.sheepesports.com/en/articles/sources-thayger-set-to-join-galions-in-lfl-2026/en"
+    },
+    "player": {
+      "name": "Thayger",
+      "url": "https://lol.fandom.com/wiki/Thayger"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Galionslogo_std.png/revision/latest?cb=20241209190722"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-10-09",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-kamiloo-set-to-join-karmine-corp-blue-in-the-lfl/en"
+    },
+    "player": {
+      "name": "Kamiloo",
+      "url": "https://lol.fandom.com/wiki/Kamiloo"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-10-08",
+    "status": "Rumor",
+    "source": {
+      "name": "LCS Eevee",
+      "url": "https://www.sheepesports.com/en/articles/sources-apa-released-from-team-liquid-ahead-of-the-2026-season/en"
+    },
+    "player": {
+      "name": "APA",
+      "url": "https://lol.fandom.com/wiki/APA_(Eain_Stearns)"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-10-08",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-skeanz-set-to-continue-with-sk-gaming/en"
+    },
+    "player": {
+      "name": "Skeanz",
+      "url": "https://lol.fandom.com/wiki/Skeanz"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-10-08",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-kamiloo-allowed-to-explore-options-by-team-heretics-tracyn-considered-to-replace-carlsen/en"
+    },
+    "player": {
+      "name": "Kamiloo",
+      "url": "https://lol.fandom.com/wiki/Kamiloo"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-10-08",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-kamiloo-allowed-to-explore-options-by-team-heretics-tracyn-considered-to-replace-carlsen/en"
+    },
+    "player": {
+      "name": "Carlsen",
+      "url": "https://lol.fandom.com/wiki/Carlsen"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-10-08",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-kamiloo-allowed-to-explore-options-by-team-heretics-tracyn-considered-to-replace-carlsen/en"
+    },
+    "player": {
+      "name": "Tracyn",
+      "url": "https://lol.fandom.com/wiki/Tracyn"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-10-05",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-karmine-corp-exploring-options-in-midlane-vladi-talking-with-other-lec-teams/en"
+    },
+    "player": {
+      "name": "Vladi",
+      "url": "https://lol.fandom.com/wiki/Vladi"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-10-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-team-bds-allow-parus-to-explore-options/en"
+    },
+    "player": {
+      "name": "Parus",
+      "url": "https://lol.fandom.com/wiki/Parus"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-10-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-natus-vincere-looking-to-replace-larssen-in-midlane/en"
+    },
+    "player": {
+      "name": "Larssen",
+      "url": "https://lol.fandom.com/wiki/Larssen"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-10-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-natus-vincere-looking-to-replace-malrang/en"
+    },
+    "player": {
+      "name": "Malrang",
+      "url": "https://lol.fandom.com/wiki/Malrang"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-10-01",
+    "status": "Confirmed!",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-team-heretics-head-coach-machuki-fail-to-reach-an-agreement-both-are-exploring-their/en"
+    },
+    "player": {
+      "name": "Machuki",
+      "url": "https://lol.fandom.com/wiki/Machuki"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-09-18",
+    "status": "Rumor",
+    "source": {
+      "name": "Marian \"Eros\" Stoica",
+      "url": "https://www.sheepesports.com/en/articles/sources-sk-gaming-to-continue-with-own3r-as-head-coach-for-2026/en"
+    },
+    "player": {
+      "name": "OWN3R",
+      "url": "https://lol.fandom.com/wiki/OWN3R_(David_Rodriguez_de_la_Torre)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-09-01",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-therock-set-to-join-natus-vincere-in-the-lec-fredy122-is-benched/en"
+    },
+    "player": {
+      "name": "TheRock7",
+      "url": "https://lol.fandom.com/wiki/TheRock7"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Coach"
+    }
+  },
+  {
     "date": "2025-07-07",
     "status": "Rumor",
     "source": {
@@ -1121,7 +1765,7 @@
   },
   {
     "date": "2025-06-28",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1939020877397385321"
@@ -1149,7 +1793,7 @@
   },
   {
     "date": "2025-06-26",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "LCS Eevee",
       "url": "https://www.sheepesports.com/en/articles/sources-gryffinn-set-to-join-loud-in-lta-south/en"
@@ -1177,7 +1821,7 @@
   },
   {
     "date": "2025-06-26",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Pedro \"Mitas\" Klein",
       "url": "https://hk5news.com.br/2025/06/26/loud-tem-conversas-avancadas-com-gryffinn-ex-t1-para-o-terceiro-split-de-2025/"
@@ -1205,7 +1849,7 @@
   },
   {
     "date": "2025-06-26",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1938167856631558151"
@@ -1233,7 +1877,7 @@
   },
   {
     "date": "2025-06-26",
-    "status": "Rumor",
+    "status": "Disproven",
     "source": {
       "name": "Bruno \"Bruna1\" Andrade",
       "url": "https://x.com/Bruna1andrade/status/1938251646548795856"
@@ -1261,7 +1905,7 @@
   },
   {
     "date": "2025-06-25",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Bruno \"Bruna1\" Andrade",
       "url": "https://x.com/Bruna1andrade/status/1938012249169309878"
@@ -1625,7 +2269,7 @@
   },
   {
     "date": "2025-06-22",
-    "status": "Rumor",
+    "status": "Disproven",
     "source": {
       "name": "Bruno \"Bruna1\" Andrade",
       "url": "https://x.com/Bruna1andrade/status/1936968885976142031"
@@ -1681,7 +2325,7 @@
   },
   {
     "date": "2025-06-20",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Sérgio \"Corres\" Fiorini",
       "url": "https://maisesports.com.br/lta-sul-2025-conheca-o-novo-tecnico-da-red-canids/"
@@ -1737,7 +2381,7 @@
   },
   {
     "date": "2025-06-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1934729307504673064"
@@ -1765,7 +2409,7 @@
   },
   {
     "date": "2025-06-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "DuyumTCL",
       "url": "https://x.com/DuyumTCL/status/1934729307504673064"
@@ -1793,7 +2437,7 @@
   },
   {
     "date": "2025-06-14",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/en/articles/sources-hans-samd-set-to-join-navi-in-the-lec/en"
@@ -2069,650 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-06-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Pedro \"Mitas\" Klein",
-      "url": "https://x.com/eomitas/status/1933168662896386312"
-    },
-    "player": {
-      "name": "frosty",
-      "url": "https://lol.fandom.com/wiki/Frosty_(Jos%C3%A9_Eduardo)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-06-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Pedro \"Mitas\" Klein",
-      "url": "https://x.com/eomitas/status/1933168662896386312"
-    },
-    "player": {
-      "name": "Route",
-      "url": "https://lol.fandom.com/wiki/Route"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-06-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Luiz Gustavo \"Guizo\" de Souza",
-      "url": "https://x.com/yunguizo/status/1933148014496944331"
-    },
-    "player": {
-      "name": "Kaze",
-      "url": "https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-11",
-    "status": "Rumor",
-    "source": {
-      "name": "Bruno \"Bruna1\" Andrade",
-      "url": "https://x.com/Bruna1andrade/status/1932937914083598567"
-    },
-    "player": {
-      "name": "Leleko",
-      "url": "https://lol.fandom.com/wiki/Leleko"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/Corinthians_Esportslogo_std.png/revision/latest?cb=20240326231424"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-11",
-    "status": "Disproven",
-    "source": {
-      "name": "Bruno \"Bruna1\" Andrade",
-      "url": "https://x.com/Bruna1andrade/status/1932937914083598567"
-    },
-    "player": {
-      "name": "Kaze",
-      "url": "https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-09",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Pedro \"Mitas\" Klein",
-      "url": "https://x.com/eomitas/status/1932103240885362950"
-    },
-    "player": {
-      "name": "tinowns",
-      "url": "https://lol.fandom.com/wiki/Tinowns"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Retiredlogo_std.png/revision/latest?cb=20210521233528"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-09",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Bruno \"Bruna1\" Andrade",
-      "url": "https://x.com/Bruna1andrade/status/1932100426050256914"
-    },
-    "player": {
-      "name": "tinowns",
-      "url": "https://lol.fandom.com/wiki/Tinowns"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Retiredlogo_std.png/revision/latest?cb=20210521233528"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "Strazzi",
-      "url": "https://lol.fandom.com/wiki/Strazzi"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Analyst"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Analyst"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "BeellzY",
-      "url": "https://lol.fandom.com/wiki/BeellzY"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Positional Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Positional Coach"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "Tockers",
-      "url": "https://lol.fandom.com/wiki/Tockers"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "Rabelo",
-      "url": "https://lol.fandom.com/wiki/Rabelo"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "Kaze",
-      "url": "https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "DOOM",
-      "url": "https://lol.fandom.com/wiki/DOOM"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "Mago",
-      "url": "https://lol.fandom.com/wiki/Mago"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Disproven",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "Mago",
-      "url": "https://lol.fandom.com/wiki/Mago"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "frosty",
-      "url": "https://lol.fandom.com/wiki/Frosty_(Jos%C3%A9_Eduardo)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "Brance",
-      "url": "https://lol.fandom.com/wiki/Brance"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "Grevthar",
-      "url": "https://lol.fandom.com/wiki/Grevthar"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "Aegis",
-      "url": "https://lol.fandom.com/wiki/Aegis_(Gabriel_Lemos)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-06-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Sérgio \"Corres\" Fiorini",
-      "url": "https://maisesports.com.br/lta-sul-2025-red-planeja-apostar-em-talentos-do-academy-para-reconstrucao/"
-    },
-    "player": {
-      "name": "fNb",
-      "url": "https://lol.fandom.com/wiki/FNb"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-06-03",
-    "status": "Rumor",
-    "source": {
-      "name": "Bruno Andrade",
-      "url": "https://x.com/Bruna1andrade/status/1929959911858864528"
-    },
-    "player": {
-      "name": "Grevthar",
-      "url": "https://lol.fandom.com/wiki/Grevthar"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Retiredlogo_std.png/revision/latest?cb=20210521233528"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-03",
-    "status": "Rumor",
-    "source": {
-      "name": "Bruno Andrade",
-      "url": "https://x.com/Bruna1andrade/status/1929959911858864528"
-    },
-    "player": {
-      "name": "Mago",
-      "url": "https://lol.fandom.com/wiki/Mago"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-03",
-    "status": "Rumor",
-    "source": {
-      "name": "Bruno Andrade",
-      "url": "https://x.com/Bruna1andrade/status/1929959910030057926"
-    },
-    "player": {
-      "name": "Kaze",
-      "url": "https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
