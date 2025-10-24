@@ -4,13 +4,73 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Oct 2025 16:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 20:03:36 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Oct 2025 16:03:46 GMT</pubDate>
+        <pubDate>Fri, 24 Oct 2025 20:03:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Canna: Unknown Team]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Canna">Canna</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-canna-to-re-sign-for-two-years-with-kc-gj-if-you-read-this-url-bdd-wont-be-kc-midlaner/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-canna-to-re-sign-for-two-years-with-kc-gj-if-you-read-this-url-bdd-wont-be-kc-midlaner/en</link>
+            <guid isPermaLink="false">2025-10-24-Canna-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Yike: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Yike">Yike</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-yike-set-to-stay-with-karmine-corp-for-the-2026-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-yike-set-to-stay-with-karmine-corp-for-the-2026-season/en</link>
+            <guid isPermaLink="false">2025-10-22-Yike-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Adam: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Adam_(Adam_Maanane)">Adam</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-navi-allows-adam-to-explore-options-but-new-deal-remains-possible/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-navi-allows-adam-to-explore-options-but-new-deal-remains-possible/en</link>
+            <guid isPermaLink="false">2025-10-22-Adam-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] tinowns: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Tinowns">tinowns</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/fontes-tinowns-decidiu-que-quer-jogar-em-2026-e-pain-surge-como-interessada/en">Showtana</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/fontes-tinowns-decidiu-que-quer-jogar-em-2026-e-pain-surge-como-interessada/en</link>
+            <guid isPermaLink="false">2025-10-21-tinowns-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Grabbz: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1401,66 +1461,6 @@
 ]]></description>
             <link>https://x.com/eomitas/status/1933156332065935783</link>
             <guid isPermaLink="false">2025-06-12-ProDelta-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Guigs: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Guigs">Guigs</a> (Support)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933156332065935783">Pedro "Mitas" Klein</a></p>
-]]></description>
-            <link>https://x.com/eomitas/status/1933156332065935783</link>
-            <guid isPermaLink="false">2025-06-12-Guigs-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Aoshi: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Aoshi">Aoshi</a> (Technical Consultant → Head Coach)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933145006652706911">Pedro "Mitas" Klein</a></p>
-]]></description>
-            <link>https://x.com/eomitas/status/1933145006652706911</link>
-            <guid isPermaLink="false">2025-06-12-Aoshi-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Bp: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Bp_(Bruno_Pombal)">Bp</a> (Head Coach)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933145006652706911">Pedro "Mitas" Klein</a></p>
-]]></description>
-            <link>https://x.com/eomitas/status/1933145006652706911</link>
-            <guid isPermaLink="false">2025-06-12-Bp-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Aegis: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Aegis_(Gabriel_Lemos)">Aegis</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933168662896386312">Pedro "Mitas" Klein</a></p>
-]]></description>
-            <link>https://x.com/eomitas/status/1933168662896386312</link>
-            <guid isPermaLink="false">2025-06-12-Aegis-Unknown Team-Unknown Team</guid>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>

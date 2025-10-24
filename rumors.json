@@ -1,5 +1,117 @@
 [
   {
+    "date": "2025-10-24",
+    "status": "Confirmed!",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-canna-to-re-sign-for-two-years-with-kc-gj-if-you-read-this-url-bdd-wont-be-kc-midlaner/en"
+    },
+    "player": {
+      "name": "Canna",
+      "url": "https://lol.fandom.com/wiki/Canna"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-10-22",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-yike-set-to-stay-with-karmine-corp-for-the-2026-season/en"
+    },
+    "player": {
+      "name": "Yike",
+      "url": "https://lol.fandom.com/wiki/Yike"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-10-22",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-navi-allows-adam-to-explore-options-but-new-deal-remains-possible/en"
+    },
+    "player": {
+      "name": "Adam",
+      "url": "https://lol.fandom.com/wiki/Adam_(Adam_Maanane)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "status": "Rumor",
+    "source": {
+      "name": "Showtana",
+      "url": "https://www.sheepesports.com/en/articles/fontes-tinowns-decidiu-que-quer-jogar-em-2026-e-pain-surge-como-interessada/en"
+    },
+    "player": {
+      "name": "tinowns",
+      "url": "https://lol.fandom.com/wiki/Tinowns"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-10-21",
     "status": "Rumor",
     "source": {
@@ -2601,118 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fluxo_W7Mlogo_std.png/revision/latest?cb=20250124193619"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2025-06-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Pedro \"Mitas\" Klein",
-      "url": "https://x.com/eomitas/status/1933156332065935783"
-    },
-    "player": {
-      "name": "Guigs",
-      "url": "https://lol.fandom.com/wiki/Guigs"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fluxo_W7Mlogo_std.png/revision/latest?cb=20250124193619"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-06-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Pedro \"Mitas\" Klein",
-      "url": "https://x.com/eomitas/status/1933145006652706911"
-    },
-    "player": {
-      "name": "Aoshi",
-      "url": "https://lol.fandom.com/wiki/Aoshi"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/Flamengo_Esportslogo_std.png/revision/latest?cb=20241011145708"
-      },
-      "position": "Technical Consultant"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fluxo_W7Mlogo_std.png/revision/latest?cb=20250124193619"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-06-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Pedro \"Mitas\" Klein",
-      "url": "https://x.com/eomitas/status/1933145006652706911"
-    },
-    "player": {
-      "name": "Bp",
-      "url": "https://lol.fandom.com/wiki/Bp_(Bruno_Pombal)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fluxo_W7Mlogo_std.png/revision/latest?cb=20250124193619"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-06-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Pedro \"Mitas\" Klein",
-      "url": "https://x.com/eomitas/status/1933168662896386312"
-    },
-    "player": {
-      "name": "Aegis",
-      "url": "https://lol.fandom.com/wiki/Aegis_(Gabriel_Lemos)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/RED_Canidslogo_std.png/revision/latest?cb=20230426043334"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
-      },
-      "position": "Jungler"
     }
   }
 ]
