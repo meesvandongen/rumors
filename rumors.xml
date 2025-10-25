@@ -4,13 +4,103 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Oct 2025 08:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 12:04:46 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Oct 2025 08:03:38 GMT</pubDate>
+        <pubDate>Sat, 25 Oct 2025 12:04:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME → EMEA] Quid: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Quid">Quid</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME → EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en</link>
+            <guid isPermaLink="false">2025-10-25-Quid-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Quid: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Quid">Quid</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en</link>
+            <guid isPermaLink="false">2025-10-25-Quid-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Quid: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Quid">Quid</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en</link>
+            <guid isPermaLink="false">2025-10-25-Quid-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Wunder: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Wunder">Wunder</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-wunder-set-to-join-sk-gaming-for-2026-lec-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-wunder-set-to-join-sk-gaming-for-2026-lec-season/en</link>
+            <guid isPermaLink="false">2025-10-24-Wunder-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] LIDER: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/LIDER">LIDER</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-lider-set-to-join-sk-gaming/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-lider-set-to-join-sk-gaming/en</link>
+            <guid isPermaLink="false">2025-10-24-LIDER-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Mikyx: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Mikyx">Mikyx</a> (Support)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-mikyx-set-to-join-sk-gaming-in-the-lec/en">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-mikyx-set-to-join-sk-gaming-in-the-lec/en</link>
+            <guid isPermaLink="false">2025-10-24-Mikyx-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Canna: Unknown Team]]></title>
             <description><![CDATA[<p>Confirmed!</p>
@@ -1375,96 +1465,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Hans SamD: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Hans_SamD">Hans SamD</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-hans-samd-set-to-join-navi-in-the-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-hans-samd-set-to-join-navi-in-the-lec/en</link>
-            <guid isPermaLink="false">2025-06-14-Hans SamD-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 14 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Kaze: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Kaze_(Lucas_Fe)">Kaze</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-kaze-joins-red-main-roster/en">Marian "Eros" Stoica</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-kaze-joins-red-main-roster/en</link>
-            <guid isPermaLink="false">2025-06-14-Kaze-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 14 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Route: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Route">Route</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1933173919894081609">Bruno "Bruna1" Andrade</a></p>
-]]></description>
-            <link>https://x.com/Bruna1andrade/status/1933173919894081609</link>
-            <guid isPermaLink="false">2025-06-12-Route-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] RedBert: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/RedBert">RedBert</a> (Support)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1933173919894081609">Bruno "Bruna1" Andrade</a></p>
-]]></description>
-            <link>https://x.com/Bruna1andrade/status/1933173919894081609</link>
-            <guid isPermaLink="false">2025-06-12-RedBert-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Robo: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Robo">Robo</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/Bruna1andrade/status/1933173919894081609">Bruno "Bruna1" Andrade</a></p>
-]]></description>
-            <link>https://x.com/Bruna1andrade/status/1933173919894081609</link>
-            <guid isPermaLink="false">2025-06-12-Robo-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] ProDelta: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/ProDelta">ProDelta</a> (Support)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/eomitas/status/1933156332065935783">Pedro "Mitas" Klein</a></p>
-]]></description>
-            <link>https://x.com/eomitas/status/1933156332065935783</link>
-            <guid isPermaLink="false">2025-06-12-ProDelta-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
