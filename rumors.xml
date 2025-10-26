@@ -4,13 +4,43 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Oct 2025 08:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 12:04:51 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Oct 2025 08:03:39 GMT</pubDate>
+        <pubDate>Sun, 26 Oct 2025 12:04:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Arkhe: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Arkhe">Arkhe</a> (Coach)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-arkhe-to-join-team-heretics-as-assistant-coach-alongside-hidon/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-arkhe-to-join-team-heretics-as-assistant-coach-alongside-hidon/en</link>
+            <guid isPermaLink="false">2025-10-25-Arkhe-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Carlsen: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Carlsen">Carlsen</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-carlsen-set-to-join-galions-in-lfl/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-carlsen-set-to-join-galions-in-lfl/en</link>
+            <guid isPermaLink="false">2025-10-25-Carlsen-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[AME → EMEA] Quid: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1435,36 +1465,6 @@
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → EMEA] Abbedagge: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Abbedagge">Abbedagge</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>AME → EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1934729307504673064">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1934729307504673064</link>
-            <guid isPermaLink="false">2025-06-16-Abbedagge-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] DnDn: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/DnDn">DnDn</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1934729307504673064">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1934729307504673064</link>
-            <guid isPermaLink="false">2025-06-16-DnDn-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

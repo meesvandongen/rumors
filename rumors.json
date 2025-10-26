@@ -4,6 +4,62 @@
     "status": "Rumor",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-arkhe-to-join-team-heretics-as-assistant-coach-alongside-hidon/en"
+    },
+    "player": {
+      "name": "Arkhe",
+      "url": "https://lol.fandom.com/wiki/Arkhe"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20250121235529"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-10-25",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-carlsen-set-to-join-galions-in-lfl/en"
+    },
+    "player": {
+      "name": "Carlsen",
+      "url": "https://lol.fandom.com/wiki/Carlsen"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Galionslogo_std.png/revision/latest?cb=20241209190722"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-10-25",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en"
     },
     "player": {
@@ -2657,62 +2713,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/Logo_std.png/revision/latest?cb=20191216191017"
       },
       "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-16",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1934729307504673064"
-    },
-    "player": {
-      "name": "Abbedagge",
-      "url": "https://lol.fandom.com/wiki/Abbedagge"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-06-16",
-    "status": "Confirmed!",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1934729307504673064"
-    },
-    "player": {
-      "name": "DnDn",
-      "url": "https://lol.fandom.com/wiki/DnDn"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Eternal_Firelogo_std.png/revision/latest?cb=20241227222845"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Top Laner"
     }
   }
 ]
