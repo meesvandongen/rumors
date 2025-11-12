@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Nov 2025 12:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 16:04:27 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Nov 2025 12:05:24 GMT</pubDate>
+        <pubDate>Wed, 12 Nov 2025 16:04:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -57,15 +57,15 @@
             <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AME] Keduii: Unknown Team]]></title>
+            <title><![CDATA[[AME] Thinkcard: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Keduii">Keduii</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Thinkcard">Thinkcard</a> (Coach)</p>
 <p>Unknown Team</p>
 <p>AME</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-flyquest-will-appoint-thinkcard-as-head-coach-for-the-2026-season/en">Alejandro "Anonimotum" Gomis</a></p>
 ]]></description>
             <link>https://www.sheepesports.com/en/articles/sources-flyquest-will-appoint-thinkcard-as-head-coach-for-the-2026-season/en</link>
-            <guid isPermaLink="false">2025-11-09-Keduii-Unknown Team-Unknown Team</guid>
+            <guid isPermaLink="false">2025-11-09-Thinkcard-Unknown Team-Unknown Team</guid>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
