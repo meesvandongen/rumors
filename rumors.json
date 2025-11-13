@@ -1,5 +1,89 @@
 [
   {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Extremo \"Humble\" Pandista",
+      "url": "https://x.com/extremopandista/status/1989045752895561762"
+    },
+    "player": {
+      "name": "Goldenglue",
+      "url": "https://lol.fandom.com/wiki/Goldenglue"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Extremo \"Humble\" Pandista",
+      "url": "https://x.com/extremopandista/status/1989045752895561762"
+    },
+    "player": {
+      "name": "Zamudo",
+      "url": "https://lol.fandom.com/wiki/Zamudo"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Extremo \"Humble\" Pandista",
+      "url": "https://x.com/extremopandista/status/1989016680509440293"
+    },
+    "player": {
+      "name": "Isles",
+      "url": "https://lol.fandom.com/wiki/Isles"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
+      },
+      "position": "Support"
+    }
+  },
+  {
     "date": "2025-11-12",
     "status": "Rumor",
     "source": {
@@ -2711,90 +2795,6 @@
       "team": {
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/ULF_Esportslogo_std.png/revision/latest?cb=20250121235154"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-07-06",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1941936435554300293"
-    },
-    "player": {
-      "name": "Tasdin",
-      "url": "https://lol.fandom.com/wiki/Tasdin"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20250707005741"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20250707005741"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-07-06",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1941935179984941357"
-    },
-    "player": {
-      "name": "FireAscept",
-      "url": "https://lol.fandom.com/wiki/FireAscept"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/ULF_Esportslogo_std.png/revision/latest?cb=20250121235154"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20250707005741"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-07-06",
-    "status": "Rumor",
-    "source": {
-      "name": "DuyumTCL",
-      "url": "https://x.com/DuyumTCL/status/1941931402515341759"
-    },
-    "player": {
-      "name": "Leks",
-      "url": "https://lol.fandom.com/wiki/Leks"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Colossal_Gaminglogo_std.png/revision/latest?cb=20250402044139"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/BoostGate_Esportslogo_std.png/revision/latest?cb=20250707005741"
       },
       "position": "Top Laner"
     }

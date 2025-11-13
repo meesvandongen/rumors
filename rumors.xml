@@ -4,13 +4,58 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Nov 2025 16:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 20:03:52 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Nov 2025 16:03:58 GMT</pubDate>
+        <pubDate>Thu, 13 Nov 2025 20:03:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME] Goldenglue: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Goldenglue">Goldenglue</a> (Coach)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989045752895561762">Extremo "Humble" Pandista</a></p>
+]]></description>
+            <link>https://x.com/extremopandista/status/1989045752895561762</link>
+            <guid isPermaLink="false">2025-11-13-Goldenglue-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Zamudo: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Zamudo">Zamudo</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989045752895561762">Extremo "Humble" Pandista</a></p>
+]]></description>
+            <link>https://x.com/extremopandista/status/1989045752895561762</link>
+            <guid isPermaLink="false">2025-11-13-Zamudo-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Isles: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Isles">Isles</a> (Support)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989016680509440293">Extremo "Humble" Pandista</a></p>
+]]></description>
+            <link>https://x.com/extremopandista/status/1989016680509440293</link>
+            <guid isPermaLink="false">2025-11-13-Isles-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Ice: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1461,51 +1506,6 @@
 ]]></description>
             <link>https://x.com/DuyumTCL/status/1941942726842564935</link>
             <guid isPermaLink="false">2025-07-06-Chasy-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Tasdin: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Tasdin">Tasdin</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1941936435554300293">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1941936435554300293</link>
-            <guid isPermaLink="false">2025-07-06-Tasdin-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] FireAscept: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/FireAscept">FireAscept</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1941935179984941357">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1941935179984941357</link>
-            <guid isPermaLink="false">2025-07-06-FireAscept-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Leks: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Leks">Leks</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/DuyumTCL/status/1941931402515341759">DuyumTCL</a></p>
-]]></description>
-            <link>https://x.com/DuyumTCL/status/1941931402515341759</link>
-            <guid isPermaLink="false">2025-07-06-Leks-Unknown Team-Unknown Team</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
