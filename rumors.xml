@@ -4,13 +4,73 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Nov 2025 20:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 00:14:19 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Nov 2025 20:03:26 GMT</pubDate>
+        <pubDate>Sun, 16 Nov 2025 00:14:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[AME] Gryffinn: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Gryffinn">Gryffinn</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-gryffinn-set-to-join-flyquest-in-lcs/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-gryffinn-set-to-join-flyquest-in-lcs/en</link>
+            <guid isPermaLink="false">2025-11-15-Gryffinn-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Gakgos: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Gakgos">Gakgos</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-gakgos-will-remain-part-of-the-flyquest-lcs-roster-for-2026/en">LCS Eevee</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-gakgos-will-remain-part-of-the-flyquest-lcs-roster-for-2026/en</link>
+            <guid isPermaLink="false">2025-11-15-Gakgos-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA → AME] Yukino: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Yukino">Yukino</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>EMEA → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/lol-yukino-declines-flyquest-offer-to-stay-with-karmine-corp-blue/en">Brieuc "Lec Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/lol-yukino-declines-flyquest-offer-to-stay-with-karmine-corp-blue/en</link>
+            <guid isPermaLink="false">2025-11-14-Yukino-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Dekap: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Dekap">Dekap</a> (Support)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-dekap-remains-with-vitality-bee-in-the-lfl/en">Brieuc "Lec Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-dekap-remains-with-vitality-bee-in-the-lfl/en</link>
+            <guid isPermaLink="false">2025-11-14-Dekap-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[AME] APA: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -779,7 +839,7 @@
         <item>
             <title><![CDATA[[AME] Kuri: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Kuri">Kuri</a> (Mid Laner)</p>
+<p><a href="https://lol.fandom.com/wiki/Kuri">Kuri</a> (Support)</p>
 <p>Unknown Team</p>
 <p>AME</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/fontes-pain-encaminha-kuri-para-2026-mas-ainda-espera-a-situacao-de-ceos/en">Showtana</a></p>
@@ -1450,66 +1510,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Machuki: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Machuki">Machuki</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-team-heretics-head-coach-machuki-fail-to-reach-an-agreement-both-are-exploring-their/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-team-heretics-head-coach-machuki-fail-to-reach-an-agreement-both-are-exploring-their/en</link>
-            <guid isPermaLink="false">2025-10-01-Machuki-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] OWN3R: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/OWN3R_(David_Rodriguez_de_la_Torre)">OWN3R</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-sk-gaming-to-continue-with-own3r-as-head-coach-for-2026/en">Marian "Eros" Stoica</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-sk-gaming-to-continue-with-own3r-as-head-coach-for-2026/en</link>
-            <guid isPermaLink="false">2025-09-18-OWN3R-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] TheRock7: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/TheRock7">TheRock7</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-therock-set-to-join-natus-vincere-in-the-lec-fredy122-is-benched/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-therock-set-to-join-natus-vincere-in-the-lec-fredy122-is-benched/en</link>
-            <guid isPermaLink="false">2025-09-01-TheRock7-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Duduhh: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Duduhh">Duduhh</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/ghsaueressig/status/1942269409478819949">Guilherme "gHS" Saueressig</a></p>
-]]></description>
-            <link>https://x.com/ghsaueressig/status/1942269409478819949</link>
-            <guid isPermaLink="false">2025-07-07-Duduhh-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
