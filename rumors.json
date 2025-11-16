@@ -56,6 +56,62 @@
     }
   },
   {
+    "date": "2025-11-15",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989721176915267895"
+    },
+    "player": {
+      "name": "Xun",
+      "url": "https://lol.fandom.com/wiki/Xun"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989908985370349934"
+    },
+    "player": {
+      "name": "Creme",
+      "url": "https://lol.fandom.com/wiki/Creme"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-11-14",
     "status": "Rumor",
     "source": {
@@ -252,6 +308,202 @@
     }
   },
   {
+    "date": "2025-11-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989385817828307449"
+    },
+    "player": {
+      "name": "Rookie",
+      "url": "https://lol.fandom.com/wiki/Rookie"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989573056940150965"
+    },
+    "player": {
+      "name": "1xn",
+      "url": "https://lol.fandom.com/wiki/1xn"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/ThunderTalk_Gaminglogo_std.png/revision/latest?cb=20201118104414"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989573056940150965"
+    },
+    "player": {
+      "name": "Maokai",
+      "url": "https://lol.fandom.com/wiki/Maokai_(Yang_Ji-Song)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989573056940150965"
+    },
+    "player": {
+      "name": "Parukia",
+      "url": "https://lol.fandom.com/wiki/Parukia"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989573056940150965"
+    },
+    "player": {
+      "name": "Angel",
+      "url": "https://lol.fandom.com/wiki/Angel_(Xiang_Tao)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989573056940150965"
+    },
+    "player": {
+      "name": "Xiaohao",
+      "url": "https://lol.fandom.com/wiki/Xiaohao"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989573056940150965"
+    },
+    "player": {
+      "name": "Zdz",
+      "url": "https://lol.fandom.com/wiki/Zdz"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2025-11-13",
     "status": "Rumor",
     "source": {
@@ -333,6 +585,482 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988988618946539794"
+    },
+    "player": {
+      "name": "BuLLDoG",
+      "url": "https://lol.fandom.com/wiki/BuLLDoG_(Lee_Tae-young)"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/DN_Freecslogo_std.png/revision/latest?cb=20241226151304"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988994572123578843"
+    },
+    "player": {
+      "name": "Beichuan",
+      "url": "https://lol.fandom.com/wiki/Beichuan"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988994572123578843"
+    },
+    "player": {
+      "name": "Edgar",
+      "url": "https://lol.fandom.com/wiki/Edgar"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988994572123578843"
+    },
+    "player": {
+      "name": "sheer",
+      "url": "https://lol.fandom.com/wiki/Sheer"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/FunPlus_Phoenixlogo_std.png/revision/latest?cb=20210606224255"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988994572123578843"
+    },
+    "player": {
+      "name": "Breathe",
+      "url": "https://lol.fandom.com/wiki/Breathe"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988994572123578843"
+    },
+    "player": {
+      "name": "Meiko",
+      "url": "https://lol.fandom.com/wiki/Meiko"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988994572123578843"
+    },
+    "player": {
+      "name": "GALA",
+      "url": "https://lol.fandom.com/wiki/GALA"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988994572123578843"
+    },
+    "player": {
+      "name": "GALA",
+      "url": "https://lol.fandom.com/wiki/GALA"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988994572123578843"
+    },
+    "player": {
+      "name": "Knight",
+      "url": "https://lol.fandom.com/wiki/Knight_(Zhuo_Ding)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989004172365283826"
+    },
+    "player": {
+      "name": "About",
+      "url": "https://lol.fandom.com/wiki/About"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Gen.G_Global_Academylogo_std.png/revision/latest?cb=20251003070150"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989004172365283826"
+    },
+    "player": {
+      "name": "fengyue",
+      "url": "https://lol.fandom.com/wiki/Fengyue"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989004172365283826"
+    },
+    "player": {
+      "name": "Solokill",
+      "url": "https://lol.fandom.com/wiki/Solokill"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989004172365283826"
+    },
+    "player": {
+      "name": "Cube",
+      "url": "https://lol.fandom.com/wiki/Cube_(Dai_Yi)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989004172365283826"
+    },
+    "player": {
+      "name": "Monki",
+      "url": "https://lol.fandom.com/wiki/Monki"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989004172365283826"
+    },
+    "player": {
+      "name": "Vampire",
+      "url": "https://lol.fandom.com/wiki/Vampire"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989004172365283826"
+    },
+    "player": {
+      "name": "Kanavi",
+      "url": "https://lol.fandom.com/wiki/Kanavi"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1989004172365283826"
+    },
+    "player": {
+      "name": "Xun",
+      "url": "https://lol.fandom.com/wiki/Xun"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Jungler"
     }
   },
   {
@@ -476,6 +1204,314 @@
     }
   },
   {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988641529838330268"
+    },
+    "player": {
+      "name": "BuLLDoG",
+      "url": "https://lol.fandom.com/wiki/BuLLDoG_(Lee_Tae-young)"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/DN_Freecslogo_std.png/revision/latest?cb=20241226151304"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/DN_Freecslogo_std.png/revision/latest?cb=20241226151304"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988641529838330268"
+    },
+    "player": {
+      "name": "VicLa",
+      "url": "https://lol.fandom.com/wiki/VicLa"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/FearXlogo_std.png/revision/latest?cb=20231216061333"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/FearXlogo_std.png/revision/latest?cb=20231216061333"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988641529838330268"
+    },
+    "player": {
+      "name": "Peyz",
+      "url": "https://lol.fandom.com/wiki/Peyz"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988641529838330268"
+    },
+    "player": {
+      "name": "JackeyLove",
+      "url": "https://lol.fandom.com/wiki/JackeyLove"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988641529838330268"
+    },
+    "player": {
+      "name": "Leave",
+      "url": "https://lol.fandom.com/wiki/Leave"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988658400234991622"
+    },
+    "player": {
+      "name": "Bin",
+      "url": "https://lol.fandom.com/wiki/Bin_(Chen_Ze-Bin)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988658400234991622"
+    },
+    "player": {
+      "name": "Kanavi",
+      "url": "https://lol.fandom.com/wiki/Kanavi"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/LCK_Allstarslogo_std.png/revision/latest?cb=20210330145240"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988803158571950385"
+    },
+    "player": {
+      "name": "Xiaoxu",
+      "url": "https://lol.fandom.com/wiki/Xiaoxu"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988803158571950385"
+    },
+    "player": {
+      "name": "Hope",
+      "url": "https://lol.fandom.com/wiki/Hope_(Wang_Jie)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988819609424937047"
+    },
+    "player": {
+      "name": "Light",
+      "url": "https://lol.fandom.com/wiki/Light_(Wang_Guang-Yu)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988819609424937047"
+    },
+    "player": {
+      "name": "Erha",
+      "url": "https://lol.fandom.com/wiki/Erha"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Support"
+    }
+  },
+  {
     "date": "2025-11-11",
     "status": "Rumor",
     "source": {
@@ -585,6 +1621,454 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988177563718414491"
+    },
+    "player": {
+      "name": "Delight",
+      "url": "https://lol.fandom.com/wiki/Delight"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988177563718414491"
+    },
+    "player": {
+      "name": "Viper",
+      "url": "https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988177563718414491"
+    },
+    "player": {
+      "name": "ON",
+      "url": "https://lol.fandom.com/wiki/ON"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988263437307420832"
+    },
+    "player": {
+      "name": "ON",
+      "url": "https://lol.fandom.com/wiki/ON"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988263437307420832"
+    },
+    "player": {
+      "name": "Elk",
+      "url": "https://lol.fandom.com/wiki/Elk"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988263437307420832"
+    },
+    "player": {
+      "name": "Beichuan",
+      "url": "https://lol.fandom.com/wiki/Beichuan"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988263437307420832"
+    },
+    "player": {
+      "name": "MISSING",
+      "url": "https://lol.fandom.com/wiki/MISSING"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988263437307420832"
+    },
+    "player": {
+      "name": "369",
+      "url": "https://lol.fandom.com/wiki/369"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988263437307420832"
+    },
+    "player": {
+      "name": "Kael",
+      "url": "https://lol.fandom.com/wiki/Kael_(Kim_Jin-hong)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988263437307420832"
+    },
+    "player": {
+      "name": "Tarzan",
+      "url": "https://lol.fandom.com/wiki/Tarzan_(Lee_Seung-yong)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988267957450117445"
+    },
+    "player": {
+      "name": "Viper",
+      "url": "https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988267957450117445"
+    },
+    "player": {
+      "name": "Viper",
+      "url": "https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988464859311440179"
+    },
+    "player": {
+      "name": "Xiaohu",
+      "url": "https://lol.fandom.com/wiki/Xiaohu"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988464859311440179"
+    },
+    "player": {
+      "name": "Zika",
+      "url": "https://lol.fandom.com/wiki/Zika"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988468486621065485"
+    },
+    "player": {
+      "name": "Flandre",
+      "url": "https://lol.fandom.com/wiki/Flandre"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1988468486621065485"
+    },
+    "player": {
+      "name": "Flandre",
+      "url": "https://lol.fandom.com/wiki/Flandre"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Top Laner"
     }
   },
   {
@@ -1092,6 +2576,90 @@
     }
   },
   {
+    "date": "2025-11-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1986704742861709423"
+    },
+    "player": {
+      "name": "Solokill",
+      "url": "https://lol.fandom.com/wiki/Solokill"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1986704742861709423"
+    },
+    "player": {
+      "name": "Leave",
+      "url": "https://lol.fandom.com/wiki/Leave"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-06",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1986704742861709423"
+    },
+    "player": {
+      "name": "Doinb",
+      "url": "https://lol.fandom.com/wiki/Doinb"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-11-05",
     "status": "Rumor",
     "source": {
@@ -1229,1574 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Eintracht_Spandaulogo_std.png/revision/latest?cb=20211114183216"
       },
       "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-11-02",
-    "status": "Rumor",
-    "source": {
-      "name": "Alejandro \"Anonimotum\" Gomis",
-      "url": "https://www.sheepesports.com/en/articles/sources-swiffer-set-to-join-dignitas-as-head-coach/en"
-    },
-    "player": {
-      "name": "Swiffer",
-      "url": "https://lol.fandom.com/wiki/Swiffer"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-11-01",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-jnx-set-to-join-eintracht-spandau-alongside-powerofevil/en"
-    },
-    "player": {
-      "name": "JNX",
-      "url": "https://lol.fandom.com/wiki/JNX"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Eintracht_Spandaulogo_std.png/revision/latest?cb=20211114183216"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-11-01",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://www.sheepesports.com/en/articles/sources-razork-or-isma-will-be-giantx-jungler/en"
-    },
-    "player": {
-      "name": "Razork",
-      "url": "https://lol.fandom.com/wiki/Razork"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-31",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-prime-set-to-join-karmine-corp-blue-in-lfl/en"
-    },
-    "player": {
-      "name": "Prime",
-      "url": "https://lol.fandom.com/wiki/Prime_(Olivier_Payet)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/Ici_Japon_Corp._Esportlogo_std.png/revision/latest?cb=20241006054335"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-10-31",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-113-set-to-join-misa-esports-in-the-tcl/en"
-    },
-    "player": {
-      "name": "113",
-      "url": "https://lol.fandom.com/wiki/113"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Bar%C3%A7a_eSportslogo_std.png/revision/latest?cb=20211104151333"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/Misa_Esportslogo_std.png/revision/latest?cb=20240104152952"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-31",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-navi-retains-rhilech-despite-fnatic-s-interest/en"
-    },
-    "player": {
-      "name": "Rhilech",
-      "url": "https://lol.fandom.com/wiki/Rhilech"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-31",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-rooster-remain-with-team-bds-in-2026/en"
-    },
-    "player": {
-      "name": "Rooster",
-      "url": "https://lol.fandom.com/wiki/Rooster"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-31",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-comp-and-hungrypanda-set-to-join-joblife-in-lfl/en"
-    },
-    "player": {
-      "name": "HungryPanda",
-      "url": "https://lol.fandom.com/wiki/HungryPanda"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Partizan_Esportslogo_std.png/revision/latest?cb=20240902192716"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-10-31",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-comp-and-hungrypanda-set-to-join-joblife-in-lfl/en"
-    },
-    "player": {
-      "name": "Comp",
-      "url": "https://lol.fandom.com/wiki/Comp"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gentle_Mateslogo_std.png/revision/latest?cb=20241007071343"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-10-30",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-quid-chooses-team-liquid-ahead-of-the-2026-lcs-season/en"
-    },
-    "player": {
-      "name": "Quid",
-      "url": "https://lol.fandom.com/wiki/Quid"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-30",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-team-heretics-allow-sheo-to-explore-options-for-2026/en"
-    },
-    "player": {
-      "name": "Sheo",
-      "url": "https://lol.fandom.com/wiki/Sheo"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-30",
-    "status": "Rumor",
-    "source": {
-      "name": "Showtana",
-      "url": "https://www.sheepesports.com/en/articles/fontes-pain-encaminha-kuri-para-2026-mas-ainda-espera-a-situacao-de-ceos/en"
-    },
-    "player": {
-      "name": "Kuri",
-      "url": "https://lol.fandom.com/wiki/Kuri"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-10-30",
-    "status": "Rumor",
-    "source": {
-      "name": "Alejandro \"Anonimotum\" Gomis",
-      "url": "https://www.sheepesports.com/en/articles/sources-bwipo-will-not-be-flyquest-s-starting-toplaner-exploring-his-options-in-toplane-and/en"
-    },
-    "player": {
-      "name": "Bwipo",
-      "url": "https://lol.fandom.com/wiki/Bwipo"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-30",
-    "status": "Rumor",
-    "source": {
-      "name": "Showtana",
-      "url": "https://www.sheepesports.com/en/articles/sources-josedeodo-reaches-verbal-agreement-with-lyon-for-lcs-2026/en"
-    },
-    "player": {
-      "name": "Josedeodo",
-      "url": "https://lol.fandom.com/wiki/Josedeodo"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/96/Isuruslogo_std.png/revision/latest?cb=20250703052339"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-30",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-lyon-declined-interest-in-its-midlaner-saint-who-will-remain-with-the-team-for-2026/en"
-    },
-    "player": {
-      "name": "Saint",
-      "url": "https://lol.fandom.com/wiki/Saint_(Kang_Sung-in)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-30",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-fnatic-evaluating-toplane-opportunities-oscarinin-is-available-on-the-market/en"
-    },
-    "player": {
-      "name": "Oscarinin",
-      "url": "https://lol.fandom.com/wiki/Oscarinin"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-29",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-fnatic-evaluating-jungle-alternatives-razork-allowed-to-explore-his-options/en"
-    },
-    "player": {
-      "name": "Razork",
-      "url": "https://lol.fandom.com/wiki/Razork"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-29",
-    "status": "Rumor",
-    "source": {
-      "name": "Alejandro \"Anonimotum\" Gomis",
-      "url": "https://www.sheepesports.com/en/articles/sources-lopon-joins-natus-vincere-as-assistant-coach-in-the-lec/en"
-    },
-    "player": {
-      "name": "Lopon",
-      "url": "https://lol.fandom.com/wiki/Lopon"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-10-28",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1983278632153035105"
-    },
-    "player": {
-      "name": "Inspired",
-      "url": "https://lol.fandom.com/wiki/Inspired"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-27",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-zicssi-set-to-join-solary-in-the-lfl/en"
-    },
-    "player": {
-      "name": "Zicssi",
-      "url": "https://lol.fandom.com/wiki/Zicssi"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gentle_Mateslogo_std.png/revision/latest?cb=20241007071343"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/Solarylogo_std.png/revision/latest?cb=20181130231516"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-27",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-dandan-set-to-remain-solary-head-coach-in-2026/en"
-    },
-    "player": {
-      "name": "Dan Dan",
-      "url": "https://lol.fandom.com/wiki/Dan_Dan"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/Solarylogo_std.png/revision/latest?cb=20181130231516"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/Solarylogo_std.png/revision/latest?cb=20181130231516"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-10-27",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-uko-and-blazzios-set-to-join-solary-as-team-manager-and-head-of-lol/en"
-    },
-    "player": {
-      "name": "Blazzios",
-      "url": "https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=Blazzios&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run="
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/Caldya_Esportlogo_std.png/revision/latest?cb=20250605114509"
-      },
-      "position": "Head of League of Legends"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/Solarylogo_std.png/revision/latest?cb=20181130231516"
-      },
-      "position": "Scout"
-    }
-  },
-  {
-    "date": "2025-10-27",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-uko-and-blazzios-set-to-join-solary-as-team-manager-and-head-of-lol/en"
-    },
-    "player": {
-      "name": "uko",
-      "url": "https://lol.fandom.comhttps://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Bplayer%5D=uko&RRQ%5Blimit%5D=100&RRQ%5Bwhere%5D=1=1&_run="
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/Caldya_Esportlogo_std.png/revision/latest?cb=20250605114509"
-      },
-      "position": "Manager"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/Solarylogo_std.png/revision/latest?cb=20181130231516"
-      },
-      "position": "Manager"
-    }
-  },
-  {
-    "date": "2025-10-26",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-carlsen-set-to-join-galions-in-lfl/en"
-    },
-    "player": {
-      "name": "Carlsen",
-      "url": "https://lol.fandom.com/wiki/Carlsen"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Galionslogo_std.png/revision/latest?cb=20241209190722"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-arkhe-to-join-team-heretics-as-assistant-coach-alongside-hidon/en"
-    },
-    "player": {
-      "name": "Arkhe",
-      "url": "https://lol.fandom.com/wiki/Arkhe"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20250121235529"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-10-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-carlsen-set-to-join-galions-in-lfl/en"
-    },
-    "player": {
-      "name": "Carlsen",
-      "url": "https://lol.fandom.com/wiki/Carlsen"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Galionslogo_std.png/revision/latest?cb=20241209190722"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en"
-    },
-    "player": {
-      "name": "Quid",
-      "url": "https://lol.fandom.com/wiki/Quid"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en"
-    },
-    "player": {
-      "name": "Quid",
-      "url": "https://lol.fandom.com/wiki/Quid"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-25",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-quid-gathers-offers-from-shopify-rebellion-karmine-corp-and-team-liquid/en"
-    },
-    "player": {
-      "name": "Quid",
-      "url": "https://lol.fandom.com/wiki/Quid"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Shopify_Rebellionlogo_std.png/revision/latest?cb=20231121110541"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-24",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-wunder-set-to-join-sk-gaming-for-2026-lec-season/en"
-    },
-    "player": {
-      "name": "Wunder",
-      "url": "https://lol.fandom.com/wiki/Wunder"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-24",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-lider-set-to-join-sk-gaming/en"
-    },
-    "player": {
-      "name": "LIDER",
-      "url": "https://lol.fandom.com/wiki/LIDER"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-24",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://www.sheepesports.com/en/articles/sources-mikyx-set-to-join-sk-gaming-in-the-lec/en"
-    },
-    "player": {
-      "name": "Mikyx",
-      "url": "https://lol.fandom.com/wiki/Mikyx"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-10-24",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-canna-to-re-sign-for-two-years-with-kc-gj-if-you-read-this-url-bdd-wont-be-kc-midlaner/en"
-    },
-    "player": {
-      "name": "Canna",
-      "url": "https://lol.fandom.com/wiki/Canna"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-yike-set-to-stay-with-karmine-corp-for-the-2026-season/en"
-    },
-    "player": {
-      "name": "Yike",
-      "url": "https://lol.fandom.com/wiki/Yike"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-22",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-navi-allows-adam-to-explore-options-but-new-deal-remains-possible/en"
-    },
-    "player": {
-      "name": "Adam",
-      "url": "https://lol.fandom.com/wiki/Adam_(Adam_Maanane)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Showtana",
-      "url": "https://www.sheepesports.com/en/articles/fontes-tinowns-decidiu-que-quer-jogar-em-2026-e-pain-surge-como-interessada/en"
-    },
-    "player": {
-      "name": "tinowns",
-      "url": "https://lol.fandom.com/wiki/Tinowns"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-grabbz-to-continue-as-head-coach-of-fnatic-for-2026/en"
-    },
-    "player": {
-      "name": "Grabbz",
-      "url": "https://lol.fandom.com/wiki/Grabbz"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-10-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-gotoone-joins-natus-vincere-as-assistant-coach-in-the-lec/en"
-    },
-    "player": {
-      "name": "GotoOne",
-      "url": "https://lol.fandom.com/wiki/GotoOne"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gentle_Mateslogo_std.png/revision/latest?cb=20241007071343"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-10-21",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-natus-vincere-retains-hans-samd-as-their-ad-carry-for-the-2026-season/en"
-    },
-    "player": {
-      "name": "Hans SamD",
-      "url": "https://lol.fandom.com/wiki/Hans_SamD"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-10-20",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-flakked-has-been-allowed-to-explore-his-options-by-team-heretics/en"
-    },
-    "player": {
-      "name": "Flakked",
-      "url": "https://lol.fandom.com/wiki/Flakked"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-10-20",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-vitality-looking-at-support-alternatives-czajek-not-ruled-out/en"
-    },
-    "player": {
-      "name": "Czajek",
-      "url": "https://lol.fandom.com/wiki/Czajek"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-20",
-    "status": "Confirmed!",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-canna-is-in-advanced-negotiations-with-karmine-corp-likely-to-re-sign/en"
-    },
-    "player": {
-      "name": "Canna",
-      "url": "https://lol.fandom.com/wiki/Canna"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-19",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-baguette-joins-sk-gaming-as-an-assistant-coach-in-the-lec/en"
-    },
-    "player": {
-      "name": "Baguette Coach",
-      "url": "https://lol.fandom.com/wiki/Baguette_Coach"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/Caldya_Esportlogo_std.png/revision/latest?cb=20250605114509"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-10-13",
-    "status": "Rumor",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/en/articles/sources-iwdominate-reach-verbal-agreement-to-join-cloud9-as-strategic-coach-in-person-for-the/en"
-    },
-    "player": {
-      "name": "IWDominate",
-      "url": "https://lol.fandom.com/wiki/IWDominate"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Streamer"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Cloud9logo_std.png/revision/latest?cb=20230426052612"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-10-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://www.sheepesports.com/en/articles/sources-hazel-set-to-be-promoted-to-karmine-corp-blue-in-the-lfl/en"
-    },
-    "player": {
-      "name": "Hazel",
-      "url": "https://lol.fandom.com/wiki/Hazel_(Costin_Pestri%C8%9Bu)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-10-10",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://www.sheepesports.com/en/articles/sources-thayger-set-to-join-galions-in-lfl-2026/en"
-    },
-    "player": {
-      "name": "Thayger",
-      "url": "https://lol.fandom.com/wiki/Thayger"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Galionslogo_std.png/revision/latest?cb=20241209190722"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-09",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-kamiloo-set-to-join-karmine-corp-blue-in-the-lfl/en"
-    },
-    "player": {
-      "name": "Kamiloo",
-      "url": "https://lol.fandom.com/wiki/Kamiloo"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-08",
-    "status": "Confirmed!",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/en/articles/sources-apa-released-from-team-liquid-ahead-of-the-2026-season/en"
-    },
-    "player": {
-      "name": "APA",
-      "url": "https://lol.fandom.com/wiki/APA_(Eain_Stearns)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "AME",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-08",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-skeanz-set-to-continue-with-sk-gaming/en"
-    },
-    "player": {
-      "name": "Skeanz",
-      "url": "https://lol.fandom.com/wiki/Skeanz"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/SK_Gaminglogo_std.png/revision/latest?cb=20221129151514"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-10-08",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-kamiloo-allowed-to-explore-options-by-team-heretics-tracyn-considered-to-replace-carlsen/en"
-    },
-    "player": {
-      "name": "Kamiloo",
-      "url": "https://lol.fandom.com/wiki/Kamiloo"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-08",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-kamiloo-allowed-to-explore-options-by-team-heretics-tracyn-considered-to-replace-carlsen/en"
-    },
-    "player": {
-      "name": "Carlsen",
-      "url": "https://lol.fandom.com/wiki/Carlsen"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-08",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-kamiloo-allowed-to-explore-options-by-team-heretics-tracyn-considered-to-replace-carlsen/en"
-    },
-    "player": {
-      "name": "Tracyn",
-      "url": "https://lol.fandom.com/wiki/Tracyn"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-10-05",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-karmine-corp-exploring-options-in-midlane-vladi-talking-with-other-lec-teams/en"
-    },
-    "player": {
-      "name": "Vladi",
-      "url": "https://lol.fandom.com/wiki/Vladi"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-01",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-team-bds-allow-parus-to-explore-options/en"
-    },
-    "player": {
-      "name": "Parus",
-      "url": "https://lol.fandom.com/wiki/Parus"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-10-01",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-natus-vincere-looking-to-replace-larssen-in-midlane/en"
-    },
-    "player": {
-      "name": "Larssen",
-      "url": "https://lol.fandom.com/wiki/Larssen"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-10-01",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-natus-vincere-looking-to-replace-malrang/en"
-    },
-    "player": {
-      "name": "Malrang",
-      "url": "https://lol.fandom.com/wiki/Malrang"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Support"
     }
   }
 ]
