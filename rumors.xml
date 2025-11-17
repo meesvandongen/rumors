@@ -4,22 +4,67 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Nov 2025 16:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 20:03:45 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Nov 2025 16:03:53 GMT</pubDate>
+        <pubDate>Mon, 17 Nov 2025 20:03:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[KR] Vincenzo: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Vincenzo_(Ha_Seung-min)">Vincenzo</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>KR</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-vincenzo-set-to-join-drx-in-lck/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-vincenzo-set-to-join-drx-in-lck/en</link>
+            <guid isPermaLink="false">2025-11-17-Vincenzo-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] Pyshiro: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Pyshiro">Pyshiro</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/photo?fbid=1377926697669222&set=a.514490940679473">VCS English</a></p>
+]]></description>
+            <link>https://www.facebook.com/photo?fbid=1377926697669222&amp;set=a.514490940679473</link>
+            <guid isPermaLink="false">2025-11-17-Pyshiro-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] Puddin: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Puddin">Puddin</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/photo?fbid=1377926697669222&set=a.514490940679473">VCS English</a></p>
+]]></description>
+            <link>https://www.facebook.com/photo?fbid=1377926697669222&amp;set=a.514490940679473</link>
+            <guid isPermaLink="false">2025-11-17-Puddin-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[CN → KR] Peyz: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Peyz">Peyz</a> (Bot Laner)</p>
 <p>Unknown Team</p>
 <p>CN → KR</p>
-<p><strong>Source:</strong> <a href="https://x.com/Sheep_Esports/status/1990390793186541821">Sheep Esports</a></p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-peyz-set-to-join-t1/en">Alejandro "Anonimotum" Gomis</a></p>
 ]]></description>
-            <link>https://x.com/Sheep_Esports/status/1990390793186541821</link>
+            <link>https://www.sheepesports.com/en/articles/sources-peyz-set-to-join-t1/en</link>
             <guid isPermaLink="false">2025-11-17-Peyz-Unknown Team-Unknown Team</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[KR]]></category>
@@ -27,9 +72,279 @@
             <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[AME] Ido: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ido">Ido</a> (Head Coach)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-ido-to-continue-as-head-coach-of-disguised-in-2026/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-ido-to-continue-as-head-coach-of-disguised-in-2026/en</link>
+            <guid isPermaLink="false">2025-11-17-Ido-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Josedeodo: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Josedeodo">Josedeodo</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-josedeodo-set-to-join-team-liquid-in-the-lcs/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-josedeodo-set-to-join-team-liquid-in-the-lcs/en</link>
+            <guid isPermaLink="false">2025-11-17-Josedeodo-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → AME] Zinie: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Zinie">Zinie</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>KR → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-zinie-set-to-join-shopify-rebellion-in-the-lcs/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-zinie-set-to-join-shopify-rebellion-in-the-lcs/en</link>
+            <guid isPermaLink="false">2025-11-16-Zinie-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] DARKWINGS: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/DARKWINGS">DARKWINGS</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-darkwings-set-to-join-sentinels-in-lcs/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-darkwings-set-to-join-sentinels-in-lcs/en</link>
+            <guid isPermaLink="false">2025-11-16-DARKWINGS-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Huhi: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Huhi">Huhi</a> (Support)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-rahel-set-to-join-sentinels-in-lcs/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-rahel-set-to-join-sentinels-in-lcs/en</link>
+            <guid isPermaLink="false">2025-11-16-Huhi-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Rahel: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Rahel">Rahel</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-rahel-set-to-join-sentinels-in-lcs/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-rahel-set-to-join-sentinels-in-lcs/en</link>
+            <guid isPermaLink="false">2025-11-16-Rahel-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Castle: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Castle_(Cho_Hyeon-seong)">Castle</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-castle-set-to-re-sign-with-disguised/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-castle-set-to-re-sign-with-disguised/en</link>
+            <guid isPermaLink="false">2025-11-16-Castle-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Reignover: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Reignover">Reignover</a> (Assistant Coach → Head Coach)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-reignover-set-to-join-lyon-in-the-lcs-as-head-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-reignover-set-to-join-lyon-in-the-lcs-as-head-coach/en</link>
+            <guid isPermaLink="false">2025-11-16-Reignover-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Isles: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Isles">Isles</a> (Support)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-isles-set-to-join-lyon/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-isles-set-to-join-lyon/en</link>
+            <guid isPermaLink="false">2025-11-16-Isles-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME] Zamudo: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Zamudo">Zamudo</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-zamudo-set-to-come-back-to-lyon/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-zamudo-set-to-come-back-to-lyon/en</link>
+            <guid isPermaLink="false">2025-11-16-Zamudo-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → AME] Berserker: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Berserker_(Kim_Min-cheol)">Berserker</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>KR → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-berserker-set-to-join-lyon-for-the-next-lcs-season/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-berserker-set-to-join-lyon-for-the-next-lcs-season/en</link>
+            <guid isPermaLink="false">2025-11-16-Berserker-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] YamatoCannon: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/YamatoCannon">YamatoCannon</a> (Head Coach)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-yamatocannon-set-to-join-los-ratones-as-head-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-yamatocannon-set-to-join-los-ratones-as-head-coach/en</link>
+            <guid isPermaLink="false">2025-11-16-YamatoCannon-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Shaves: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Shaves">Shaves</a> (Assistant Coach)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-shaves-set-to-join-los-ratones-as-assistant-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-shaves-set-to-join-los-ratones-as-assistant-coach/en</link>
+            <guid isPermaLink="false">2025-11-16-Shaves-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[EMEA] Zeph: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Zeph">Zeph</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Zeph">Zeph</a> (Assistant Coach)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-zeph-set-to-join-karmine-corp-in-the-lec-as-assistant-coach/en">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-zeph-set-to-join-karmine-corp-in-the-lec-as-assistant-coach/en</link>
+            <guid isPermaLink="false">2025-11-16-Zeph-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → EMEA] Paduck: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Paduck">Paduck</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>KR → EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-paduck-set-to-join-team-bds-in-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-paduck-set-to-join-team-bds-in-lec/en</link>
+            <guid isPermaLink="false">2025-11-16-Paduck-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Ice: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Ice_(Yoon_Sang-hoon)">Ice</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-ice-is-set-to-join-team-heretics-in-the-lec/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-ice-is-set-to-join-team-heretics-in-the-lec/en</link>
+            <guid isPermaLink="false">2025-11-16-Ice-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Poby: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Poby">Poby</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-poby-set-to-join-natus-vincere/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-poby-set-to-join-natus-vincere/en</link>
+            <guid isPermaLink="false">2025-11-16-Poby-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR] Teddy: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Teddy">Teddy</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>KR</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-teddy-set-to-join-oksavingsbank-brion-in-the-lck/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-teddy-set-to-join-oksavingsbank-brion-in-the-lck/en</link>
+            <guid isPermaLink="false">2025-11-16-Teddy-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Zeph: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Zeph">Zeph</a> (Assistant Coach)</p>
 <p>Unknown Team</p>
 <p>EMEA</p>
 <p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1990110234770100733">Extremo "Humble" Pandista</a></p>
@@ -329,7 +644,7 @@
         <item>
             <title><![CDATA[[AME] Goldenglue: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Goldenglue">Goldenglue</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Goldenglue">Goldenglue</a> (Head Coach)</p>
 <p>Unknown Team</p>
 <p>AME</p>
 <p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989045752895561762">Extremo "Humble" Pandista</a></p>
@@ -899,7 +1214,7 @@
         <item>
             <title><![CDATA[[AME → EMEA] Mithy: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Assistant Coach)</p>
 <p>Unknown Team</p>
 <p>AME → EMEA</p>
 <p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1988304585958846714">Extremo "Humble" Pandista</a></p>
@@ -914,7 +1229,7 @@
         <item>
             <title><![CDATA[[AME] Mithy: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Assistant Coach)</p>
 <p>Unknown Team</p>
 <p>AME</p>
 <p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1988304585958846714">Extremo "Humble" Pandista</a></p>
@@ -1195,321 +1510,6 @@
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA → AME] Targamas: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Targamas">Targamas</a> (Support)</p>
-<p>Unknown Team</p>
-<p>EMEA → AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1987936224636498315">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1987936224636498315</link>
-            <guid isPermaLink="false">2025-11-10-Targamas-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Jopa: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Jopa">Jopa</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-jopa-set-to-join-sk-gaming-in-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-jopa-set-to-join-sk-gaming-in-lec/en</link>
-            <guid isPermaLink="false">2025-11-09-Jopa-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Thinkcard: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Thinkcard">Thinkcard</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-flyquest-will-appoint-thinkcard-as-head-coach-for-the-2026-season/en">Alejandro "Anonimotum" Gomis</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-flyquest-will-appoint-thinkcard-as-head-coach-for-the-2026-season/en</link>
-            <guid isPermaLink="false">2025-11-09-Thinkcard-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Razork: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Razork">Razork</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1987591044121141729">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1987591044121141729</link>
-            <guid isPermaLink="false">2025-11-09-Razork-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Keduii: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Keduii">Keduii</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-keduii-set-to-join-eintracht-spandau-in-the-prime-league/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-keduii-set-to-join-eintracht-spandau-in-the-prime-league/en</link>
-            <guid isPermaLink="false">2025-11-09-Keduii-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] FBI: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/FBI">FBI</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1987241499168293006">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1987241499168293006</link>
-            <guid isPermaLink="false">2025-11-08-FBI-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Tracyn: Unknown Team]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Tracyn">Tracyn</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1987224419526177071">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1987224419526177071</link>
-            <guid isPermaLink="false">2025-11-08-Tracyn-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Vladi: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Vladi">Vladi</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1987220378964373673">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1987220378964373673</link>
-            <guid isPermaLink="false">2025-11-08-Vladi-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Vladi: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Vladi">Vladi</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-vladi-chooses-fnatic/en">Alejandro "Anonimotum" Gomis</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-vladi-chooses-fnatic/en</link>
-            <guid isPermaLink="false">2025-11-08-Vladi-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Goldenglue: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Goldenglue">Goldenglue</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1987209607110865388">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1987209607110865388</link>
-            <guid isPermaLink="false">2025-11-08-Goldenglue-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA → AME] Loopy: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Loopy">Loopy</a> (Support)</p>
-<p>Unknown Team</p>
-<p>EMEA → AME</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-loopy-set-to-join-vivo-keyd-stars-in-the-cblol/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-loopy-set-to-join-vivo-keyd-stars-in-the-cblol/en</link>
-            <guid isPermaLink="false">2025-11-08-Loopy-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Inspired: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Inspired">Inspired</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-inspired-will-play-for-lyon-in-the-2026-lcs-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-inspired-will-play-for-lyon-in-the-2026-lcs-season/en</link>
-            <guid isPermaLink="false">2025-11-07-Inspired-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → EMEA] Trymbi: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Trymbi">Trymbi</a> (Support)</p>
-<p>Unknown Team</p>
-<p>AME → EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-trymbi-set-to-return-in-lec-with-team-bds/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-trymbi-set-to-return-in-lec-with-team-bds/en</link>
-            <guid isPermaLink="false">2025-11-07-Trymbi-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] SlowQ: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/SlowQ">SlowQ</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-slowq-set-to-join-misa-esports/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-slowq-set-to-join-misa-esports/en</link>
-            <guid isPermaLink="false">2025-11-06-SlowQ-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Parus: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Parus">Parus</a> (Support)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-parus-set-to-join-natus-vincere/en">Alejandro "Anonimotum" Gomis</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-parus-set-to-join-natus-vincere/en</link>
-            <guid isPermaLink="false">2025-11-06-Parus-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Serin: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Serin">Serin</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-serin-set-to-join-team-heretics-in-the-lec/en">Marian "Eros" Stoica</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-serin-set-to-join-team-heretics-in-the-lec/en</link>
-            <guid isPermaLink="false">2025-11-06-Serin-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Solokill: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Solokill">Solokill</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1986704742861709423">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1986704742861709423</link>
-            <guid isPermaLink="false">2025-11-06-Solokill-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Leave: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Leave">Leave</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1986704742861709423">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1986704742861709423</link>
-            <guid isPermaLink="false">2025-11-06-Leave-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Doinb: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Doinb">Doinb</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1986704742861709423">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1986704742861709423</link>
-            <guid isPermaLink="false">2025-11-06-Doinb-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → EMEA] Busio: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Busio">Busio</a> (Support)</p>
-<p>Unknown Team</p>
-<p>AME → EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-busio-set-to-join-karmine-corp-in-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-busio-set-to-join-karmine-corp-in-lec/en</link>
-            <guid isPermaLink="false">2025-11-05-Busio-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → EMEA] Reapered: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Reapered">Reapered</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>AME → EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-reapered-set-to-join-karmine-corp-as-head-coach-for-the-2026-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-reapered-set-to-join-karmine-corp-as-head-coach-for-the-2026-season/en</link>
-            <guid isPermaLink="false">2025-11-05-Reapered-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
