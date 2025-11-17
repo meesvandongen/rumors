@@ -1,5 +1,33 @@
 [
   {
+    "date": "2025-11-17",
+    "status": "Rumor",
+    "source": {
+      "name": "Sheep Esports",
+      "url": "https://x.com/Sheep_Esports/status/1990390793186541821"
+    },
+    "player": {
+      "name": "Peyz",
+      "url": "https://lol.fandom.com/wiki/Peyz"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest?cb=20230512040324"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
     "date": "2025-11-16",
     "status": "Rumor",
     "source": {
@@ -2767,34 +2795,6 @@
       "team": {
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-11-04",
-    "status": "Rumor",
-    "source": {
-      "name": "Marian \"Eros\" Stoica",
-      "url": "https://www.sheepesports.com/en/articles/sources-rhuckz-to-continue-as-assistant-coach-of-giantx-in-2026/en"
-    },
-    "player": {
-      "name": "Rhuckz",
-      "url": "https://lol.fandom.com/wiki/Rhuckz"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
       },
       "position": "Coach"
     }
