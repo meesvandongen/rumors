@@ -1,5 +1,89 @@
 [
   {
+    "date": "2025-11-18",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-gumayusi-expected-to-join-hanwha-life-esports-still-to-be-confirmed/en"
+    },
+    "player": {
+      "name": "Gumayusi",
+      "url": "https://lol.fandom.com/wiki/Gumayusi"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest?cb=20230512040324"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-18",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-smash-set-to-join-dplus-kia/en"
+    },
+    "player": {
+      "name": "Smash",
+      "url": "https://lol.fandom.com/wiki/Smash_(Shin_Geum-jae)"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest?cb=20230512040324"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/Dplus_KIAlogo_std.png/revision/latest?cb=20230512050615"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-17",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/es/articles/sources-independent-set-to-join-movistar-koi-as-assistant-coach/en"
+    },
+    "player": {
+      "name": "Independent",
+      "url": "https://lol.fandom.com/wiki/Independent"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
+      },
+      "position": "Assistant Coach"
+    }
+  },
+  {
     "date": "2025-11-17",
     "status": "Rumor",
     "source": {
@@ -324,7 +408,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
-      "position": "Assistant Coach"
+      "position": "Strategic Coach"
     },
     "to": {
       "region": "AME",
@@ -884,7 +968,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
       },
-      "position": "Coach"
+      "position": "Assistant Coach"
     },
     "to": {
       "region": "AME",
@@ -892,7 +976,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
-      "position": "Coach"
+      "position": "Assistant Coach"
     }
   },
   {
@@ -912,7 +996,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
       },
-      "position": "Coach"
+      "position": "Assistant Coach"
     },
     "to": {
       "region": "EMEA",
@@ -920,7 +1004,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
       },
-      "position": "Coach"
+      "position": "Assistant Coach"
     }
   },
   {
@@ -940,7 +1024,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
-      "position": "Coach"
+      "position": "Strategic Coach"
     },
     "to": {
       "region": "AME",
@@ -948,7 +1032,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
-      "position": "Coach"
+      "position": "Head Coach"
     }
   },
   {
@@ -968,7 +1052,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
       },
-      "position": "Coach"
+      "position": "Head Coach"
     },
     "to": {
       "region": "AME",
@@ -976,7 +1060,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sentinelslogo_std.png/revision/latest?cb=20251010181137"
       },
-      "position": "Coach"
+      "position": "Head Coach"
     }
   },
   {
@@ -1760,7 +1844,7 @@
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
       },
-      "position": "Coach"
+      "position": "Assistant Coach"
     }
   },
   {
@@ -2713,90 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-11-11",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988468486621065485"
-    },
-    "player": {
-      "name": "Flandre",
-      "url": "https://lol.fandom.com/wiki/Flandre"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-11-10",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-kyeahoo-set-to-join-karmine-corp-as-the-team-s-new-midlaner/en"
-    },
-    "player": {
-      "name": "kyeahoo",
-      "url": "https://lol.fandom.com/wiki/Kyeahoo"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest?cb=20230504052509"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-11-10",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-arvindir-is-set-to-join-team-vitality-in-the-lec-as-assistant-coach/en"
-    },
-    "player": {
-      "name": "Arvindir",
-      "url": "https://lol.fandom.com/wiki/Arvindir"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
-      },
-      "position": "Coach"
     }
   }
 ]

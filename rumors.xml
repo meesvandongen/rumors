@@ -4,13 +4,58 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Nov 2025 20:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 00:13:22 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Nov 2025 20:03:45 GMT</pubDate>
+        <pubDate>Tue, 18 Nov 2025 00:13:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[KR] Gumayusi: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Gumayusi">Gumayusi</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>KR</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-gumayusi-expected-to-join-hanwha-life-esports-still-to-be-confirmed/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-gumayusi-expected-to-join-hanwha-life-esports-still-to-be-confirmed/en</link>
+            <guid isPermaLink="false">2025-11-18-Gumayusi-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR] Smash: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Smash_(Shin_Geum-jae)">Smash</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>KR</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-smash-set-to-join-dplus-kia/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-smash-set-to-join-dplus-kia/en</link>
+            <guid isPermaLink="false">2025-11-18-Smash-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Independent: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Independent">Independent</a> (Head Coach → Assistant Coach)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/es/articles/sources-independent-set-to-join-movistar-koi-as-assistant-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/es/articles/sources-independent-set-to-join-movistar-koi-as-assistant-coach/en</link>
+            <guid isPermaLink="false">2025-11-17-Independent-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[KR] Vincenzo: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -179,7 +224,7 @@
         <item>
             <title><![CDATA[[AME] Reignover: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Reignover">Reignover</a> (Assistant Coach → Head Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Reignover">Reignover</a> (Strategic Coach → Head Coach)</p>
 <p>Unknown Team</p>
 <p>AME</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-reignover-set-to-join-lyon-in-the-lcs-as-head-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -479,7 +524,7 @@
         <item>
             <title><![CDATA[[AME] Mithy: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Assistant Coach)</p>
 <p>Unknown Team</p>
 <p>AME</p>
 <p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989459347332837480">Extremo "Humble" Pandista</a></p>
@@ -494,7 +539,7 @@
         <item>
             <title><![CDATA[[AME → EMEA] Mithy: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Assistant Coach)</p>
 <p>Unknown Team</p>
 <p>AME → EMEA</p>
 <p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989459347332837480">Extremo "Humble" Pandista</a></p>
@@ -509,7 +554,7 @@
         <item>
             <title><![CDATA[[AME] Reignover: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Reignover">Reignover</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Reignover">Reignover</a> (Strategic Coach → Head Coach)</p>
 <p>Unknown Team</p>
 <p>AME</p>
 <p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989395550429737397">Extremo "Humble" Pandista</a></p>
@@ -524,7 +569,7 @@
         <item>
             <title><![CDATA[[AME] Goldenglue: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Goldenglue">Goldenglue</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Goldenglue">Goldenglue</a> (Head Coach)</p>
 <p>Unknown Team</p>
 <p>AME</p>
 <p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989430167391830227">Extremo "Humble" Pandista</a></p>
@@ -944,7 +989,7 @@
         <item>
             <title><![CDATA[[EMEA] Alphari: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Alphari">Alphari</a> (Coach)</p>
+<p><a href="https://lol.fandom.com/wiki/Alphari">Alphari</a> (Coach → Assistant Coach)</p>
 <p>Unknown Team</p>
 <p>EMEA</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-alphari-set-to-join-movistar-koi-as-assistant-coach-for-the-next-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
@@ -1465,51 +1510,6 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Flandre: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Flandre">Flandre</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988468486621065485">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988468486621065485</link>
-            <guid isPermaLink="false">2025-11-11-Flandre-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → EMEA] kyeahoo: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Kyeahoo">kyeahoo</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>KR → EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-kyeahoo-set-to-join-karmine-corp-as-the-team-s-new-midlaner/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-kyeahoo-set-to-join-karmine-corp-as-the-team-s-new-midlaner/en</link>
-            <guid isPermaLink="false">2025-11-10-kyeahoo-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Arvindir: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Arvindir">Arvindir</a> (Coach)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-arvindir-is-set-to-join-team-vitality-in-the-lec-as-assistant-coach/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-arvindir-is-set-to-join-team-vitality-in-the-lec-as-assistant-coach/en</link>
-            <guid isPermaLink="false">2025-11-10-Arvindir-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
