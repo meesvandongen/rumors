@@ -4,13 +4,73 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Nov 2025 16:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 20:03:47 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Nov 2025 16:04:02 GMT</pubDate>
+        <pubDate>Tue, 18 Nov 2025 20:03:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[APAC] Draktharr: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Draktharr">Draktharr</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/photo?fbid=1378779620917263&set=a.514490940679473">VCS English</a></p>
+]]></description>
+            <link>https://www.facebook.com/photo?fbid=1378779620917263&amp;set=a.514490940679473</link>
+            <guid isPermaLink="false">2025-11-18-Draktharr-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC → BR] Slayder: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Slayder">Slayder</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>APAC → BR</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/vcsenglish/posts/pfbid0vn44fvJUxwbXy697Etx5Vg9UKo4HtuKb7BBt5cXxREJWTEzJeZHVd5huReq4fd48l">VCS English</a></p>
+]]></description>
+            <link>https://www.facebook.com/vcsenglish/posts/pfbid0vn44fvJUxwbXy697Etx5Vg9UKo4HtuKb7BBt5cXxREJWTEzJeZHVd5huReq4fd48l</link>
+            <guid isPermaLink="false">2025-11-18-Slayder-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] Taki: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Taki_(%C4%90inh_Anh_T%C3%A0i)">Taki</a> (Support)</p>
+<p>Unknown Team</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/photo?fbid=1378789530916272&set=a.514490940679473">VCS English</a></p>
+]]></description>
+            <link>https://www.facebook.com/photo?fbid=1378789530916272&amp;set=a.514490940679473</link>
+            <guid isPermaLink="false">2025-11-18-Taki-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] Taki: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Taki_(%C4%90inh_Anh_T%C3%A0i)">Taki</a> (Support)</p>
+<p>Unknown Team</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.facebook.com/photo?fbid=1378789530916272&set=a.514490940679473">VCS English</a></p>
+]]></description>
+            <link>https://www.facebook.com/photo?fbid=1378789530916272&amp;set=a.514490940679473</link>
+            <guid isPermaLink="false">2025-11-18-Taki-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[KR] Gumayusi: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1447,66 +1507,6 @@
             <link>https://x.com/tttttyuc/status/1988267957450117445</link>
             <guid isPermaLink="false">2025-11-11-Viper-Unknown Team-Unknown Team</guid>
             <category><![CDATA[KR]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → CN] Viper: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)">Viper</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>KR → CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988267957450117445">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988267957450117445</link>
-            <guid isPermaLink="false">2025-11-11-Viper-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Xiaohu: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Xiaohu">Xiaohu</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988464859311440179">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988464859311440179</link>
-            <guid isPermaLink="false">2025-11-11-Xiaohu-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Zika: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Zika">Zika</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988464859311440179">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988464859311440179</link>
-            <guid isPermaLink="false">2025-11-11-Zika-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Flandre: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Flandre">Flandre</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988468486621065485">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988468486621065485</link>
-            <guid isPermaLink="false">2025-11-11-Flandre-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
