@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Nov 2025 00:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 04:04:48 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Nov 2025 00:13:20 GMT</pubDate>
+        <pubDate>Wed, 19 Nov 2025 04:04:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -27,17 +27,17 @@
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[KR → AME] Bull: Unknown Team]]></title>
+            <title><![CDATA[[KR → BR] Bull: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Bull">Bull</a> (Bot Laner)</p>
 <p>Unknown Team</p>
-<p>KR → AME</p>
+<p>KR → BR</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/es/articles/fontes-loud-encaminha-a-contratacao-de-bull-para-o-cblol-2026/en">Showtana</a></p>
 ]]></description>
             <link>https://www.sheepesports.com/es/articles/fontes-loud-encaminha-a-contratacao-de-bull-para-o-cblol-2026/en</link>
             <guid isPermaLink="false">2025-11-18-Bull-Unknown Team-Unknown Team</guid>
             <category><![CDATA[KR]]></category>
-            <category><![CDATA[AME]]></category>
+            <category><![CDATA[BR]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
@@ -57,17 +57,17 @@
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC → AME] Slayder: Unknown Team]]></title>
+            <title><![CDATA[[APAC → BR] Slayder: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Slayder">Slayder</a> (Bot Laner)</p>
 <p>Unknown Team</p>
-<p>APAC → AME</p>
+<p>APAC → BR</p>
 <p><strong>Source:</strong> <a href="https://www.facebook.com/vcsenglish/posts/pfbid0vn44fvJUxwbXy697Etx5Vg9UKo4HtuKb7BBt5cXxREJWTEzJeZHVd5huReq4fd48l">VCS English</a></p>
 ]]></description>
             <link>https://www.facebook.com/vcsenglish/posts/pfbid0vn44fvJUxwbXy697Etx5Vg9UKo4HtuKb7BBt5cXxREJWTEzJeZHVd5huReq4fd48l</link>
             <guid isPermaLink="false">2025-11-18-Slayder-Unknown Team-Unknown Team</guid>
             <category><![CDATA[APAC]]></category>
-            <category><![CDATA[AME]]></category>
+            <category><![CDATA[BR]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
