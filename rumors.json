@@ -3,6 +3,62 @@
     "date": "2025-11-18",
     "status": "Rumor",
     "source": {
+      "name": "Marian \"Eros\" Stoica",
+      "url": "https://www.sheepesports.com/es/articles/sources-isma-will-be-giantx-s-jungler-in-2026/en"
+    },
+    "player": {
+      "name": "ISMA",
+      "url": "https://lol.fandom.com/wiki/ISMA"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-18",
+    "status": "Rumor",
+    "source": {
+      "name": "Showtana",
+      "url": "https://www.sheepesports.com/es/articles/fontes-loud-encaminha-a-contratacao-de-bull-para-o-cblol-2026/en"
+    },
+    "player": {
+      "name": "Bull",
+      "url": "https://lol.fandom.com/wiki/Bull"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/BRIONlogo_std.png/revision/latest?cb=20230518062824"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "AME",
+      "team": {
+        "name": "Unknown Team",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-18",
+    "status": "Rumor",
+    "source": {
       "name": "VCS English",
       "url": "https://www.facebook.com/photo?fbid=1378779620917263&set=a.514490940679473"
     },
@@ -47,7 +103,7 @@
       "position": "Bot Laner"
     },
     "to": {
-      "region": "BR",
+      "region": "AME",
       "team": {
         "name": "Unknown Team",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
@@ -2741,62 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2025-11-11",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988263437307420832"
-    },
-    "player": {
-      "name": "Tarzan",
-      "url": "https://lol.fandom.com/wiki/Tarzan_(Lee_Seung-yong)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-11-11",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988267957450117445"
-    },
-    "player": {
-      "name": "Viper",
-      "url": "https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Bot Laner"
     }
   }
 ]

@@ -4,13 +4,43 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Nov 2025 20:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 00:13:20 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Nov 2025 20:03:46 GMT</pubDate>
+        <pubDate>Wed, 19 Nov 2025 00:13:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] ISMA: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/ISMA">ISMA</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/es/articles/sources-isma-will-be-giantx-s-jungler-in-2026/en">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/es/articles/sources-isma-will-be-giantx-s-jungler-in-2026/en</link>
+            <guid isPermaLink="false">2025-11-18-ISMA-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → AME] Bull: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Bull">Bull</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>KR → AME</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/es/articles/fontes-loud-encaminha-a-contratacao-de-bull-para-o-cblol-2026/en">Showtana</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/es/articles/fontes-loud-encaminha-a-contratacao-de-bull-para-o-cblol-2026/en</link>
+            <guid isPermaLink="false">2025-11-18-Bull-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[APAC] Draktharr: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -27,17 +57,17 @@
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC → BR] Slayder: Unknown Team]]></title>
+            <title><![CDATA[[APAC → AME] Slayder: Unknown Team]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Slayder">Slayder</a> (Bot Laner)</p>
 <p>Unknown Team</p>
-<p>APAC → BR</p>
+<p>APAC → AME</p>
 <p><strong>Source:</strong> <a href="https://www.facebook.com/vcsenglish/posts/pfbid0vn44fvJUxwbXy697Etx5Vg9UKo4HtuKb7BBt5cXxREJWTEzJeZHVd5huReq4fd48l">VCS English</a></p>
 ]]></description>
             <link>https://www.facebook.com/vcsenglish/posts/pfbid0vn44fvJUxwbXy697Etx5Vg9UKo4HtuKb7BBt5cXxREJWTEzJeZHVd5huReq4fd48l</link>
             <guid isPermaLink="false">2025-11-18-Slayder-Unknown Team-Unknown Team</guid>
             <category><![CDATA[APAC]]></category>
-            <category><![CDATA[BR]]></category>
+            <category><![CDATA[AME]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
@@ -1477,36 +1507,6 @@
             <link>https://x.com/tttttyuc/status/1988263437307420832</link>
             <guid isPermaLink="false">2025-11-11-Kael-Unknown Team-Unknown Team</guid>
             <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Tarzan: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Tarzan_(Lee_Seung-yong)">Tarzan</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988263437307420832">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988263437307420832</link>
-            <guid isPermaLink="false">2025-11-11-Tarzan-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → CN] Viper: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)">Viper</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>KR → CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988267957450117445">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988267957450117445</link>
-            <guid isPermaLink="false">2025-11-11-Viper-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[KR]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
