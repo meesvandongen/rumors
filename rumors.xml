@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Nov 2025 08:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 12:05:19 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Nov 2025 08:04:09 GMT</pubDate>
+        <pubDate>Wed, 19 Nov 2025 12:05:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -193,7 +193,7 @@
         </item>
         <item>
             <title><![CDATA[[CN → KR] Peyz: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Peyz">Peyz</a> (Bot Laner)</p>
 <p>Unknown Team</p>
 <p>CN → KR</p>
@@ -233,6 +233,66 @@
             <guid isPermaLink="false">2025-11-17-Josedeodo-Unknown Team-Unknown Team</guid>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[AME]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN → KR] Peyz: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Peyz">Peyz</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>CN → KR</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990417726053970418">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990417726053970418</link>
+            <guid isPermaLink="false">2025-11-17-Peyz-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Zhuo: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Zhuo">Zhuo</a> (Support)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990463608653033848">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990463608653033848</link>
+            <guid isPermaLink="false">2025-11-17-Zhuo-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] GALA: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/GALA">GALA</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990590254680871380">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990590254680871380</link>
+            <guid isPermaLink="false">2025-11-17-GALA-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Tian: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Tian">Tian</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990664233609314605">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990664233609314605</link>
+            <guid isPermaLink="false">2025-11-17-Tian-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
         </item>
@@ -503,6 +563,141 @@
             <guid isPermaLink="false">2025-11-16-Upset-Unknown Team-Unknown Team</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Karis: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Karis">Karis</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990089929724953005">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990089929724953005</link>
+            <guid isPermaLink="false">2025-11-16-Karis-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Peyz: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Peyz">Peyz</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990089929724953005">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990089929724953005</link>
+            <guid isPermaLink="false">2025-11-16-Peyz-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Care: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Care">Care</a> (Mid Laner)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990232482533491036">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990232482533491036</link>
+            <guid isPermaLink="false">2025-11-16-Care-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Breathe: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Breathe">Breathe</a> (Top Laner)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990232482533491036">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990232482533491036</link>
+            <guid isPermaLink="false">2025-11-16-Breathe-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] naiyou: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Naiyou">naiyou</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990232482533491036">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990232482533491036</link>
+            <guid isPermaLink="false">2025-11-16-naiyou-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] JiaQi: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/JiaQi">JiaQi</a> (Bot Laner)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990232482533491036">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990232482533491036</link>
+            <guid isPermaLink="false">2025-11-16-JiaQi-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Junhao: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Junhao">Junhao</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990232482533491036">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990232482533491036</link>
+            <guid isPermaLink="false">2025-11-16-Junhao-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Jiejie: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Jiejie">Jiejie</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990266207635943724">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990266207635943724</link>
+            <guid isPermaLink="false">2025-11-16-Jiejie-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Jiejie: Unknown Team]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Jiejie">Jiejie</a> (Jungler)</p>
+<p>Unknown Team</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990266207635943724">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1990266207635943724</link>
+            <guid isPermaLink="false">2025-11-16-Jiejie-Unknown Team-Unknown Team</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
         </item>
@@ -1315,201 +1510,6 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Poby: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Poby">Poby</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1988346611303600166">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1988346611303600166</link>
-            <guid isPermaLink="false">2025-11-11-Poby-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Humanoid: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Humanoid">Humanoid</a> (Mid Laner)</p>
-<p>Unknown Team</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-humanoid-set-to-join-team-vitality/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-humanoid-set-to-join-team-vitality/en</link>
-            <guid isPermaLink="false">2025-11-11-Humanoid-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → EMEA] Mithy: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Assistant Coach)</p>
-<p>Unknown Team</p>
-<p>AME → EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1988304585958846714">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1988304585958846714</link>
-            <guid isPermaLink="false">2025-11-11-Mithy-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME] Mithy: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Mithy">Mithy</a> (Assistant Coach)</p>
-<p>Unknown Team</p>
-<p>AME</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1988304585958846714">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1988304585958846714</link>
-            <guid isPermaLink="false">2025-11-11-Mithy-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR] Delight: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Delight">Delight</a> (Support)</p>
-<p>Unknown Team</p>
-<p>KR</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988177563718414491">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988177563718414491</link>
-            <guid isPermaLink="false">2025-11-11-Delight-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR] Viper: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Viper_(Park_Do-hyeon)">Viper</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>KR</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988177563718414491">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988177563718414491</link>
-            <guid isPermaLink="false">2025-11-11-Viper-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] ON: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/ON">ON</a> (Support)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988177563718414491">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988177563718414491</link>
-            <guid isPermaLink="false">2025-11-11-ON-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] ON: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/ON">ON</a> (Support)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988263437307420832">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988263437307420832</link>
-            <guid isPermaLink="false">2025-11-11-ON-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Elk: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Elk">Elk</a> (Bot Laner)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988263437307420832">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988263437307420832</link>
-            <guid isPermaLink="false">2025-11-11-Elk-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Beichuan: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Beichuan">Beichuan</a> (Jungler)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988263437307420832">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988263437307420832</link>
-            <guid isPermaLink="false">2025-11-11-Beichuan-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] MISSING: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/MISSING">MISSING</a> (Support)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988263437307420832">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988263437307420832</link>
-            <guid isPermaLink="false">2025-11-11-MISSING-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] 369: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/369">369</a> (Top Laner)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988263437307420832">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988263437307420832</link>
-            <guid isPermaLink="false">2025-11-11-369-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Kael: Unknown Team]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Kael_(Kim_Jin-hong)">Kael</a> (Support)</p>
-<p>Unknown Team</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988263437307420832">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988263437307420832</link>
-            <guid isPermaLink="false">2025-11-11-Kael-Unknown Team-Unknown Team</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
