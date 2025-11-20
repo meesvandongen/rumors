@@ -13,7 +13,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Vikings Esports (2023 Vietnamese Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
       },
       "position": "Mid Laner"
@@ -21,7 +21,7 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "CTBC Flying Oyster",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/CTBC_Flying_Oysterlogo_std.png/revision/latest?cb=20221014190546"
       },
       "position": "Mid Laner"
@@ -41,7 +41,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Secret Whales",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/Team_Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Head Coach"
@@ -49,7 +49,7 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "MES",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/MESlogo_std.png/revision/latest?cb=20210607033239"
       },
       "position": "Head Coach"
@@ -69,7 +69,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "CTBC Flying Oyster",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/CTBC_Flying_Oysterlogo_std.png/revision/latest?cb=20221014190546"
       },
       "position": "Mid Laner"
@@ -77,7 +77,7 @@
     "to": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Mid Laner"
@@ -97,7 +97,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "CTBC Flying Oyster",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/CTBC_Flying_Oysterlogo_std.png/revision/latest?cb=20221014190546"
       },
       "position": "Jungler"
@@ -105,7 +105,7 @@
     "to": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Jungler"
@@ -125,7 +125,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "GIANTX",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
       },
       "position": "Jungler"
@@ -133,7 +133,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "GIANTX",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/GIANTXlogo_std.png/revision/latest?cb=20231214160223"
       },
       "position": "Jungler"
@@ -153,7 +153,7 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "BRION",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/BRIONlogo_std.png/revision/latest?cb=20230518062824"
       },
       "position": "Bot Laner"
@@ -161,7 +161,7 @@
     "to": {
       "region": "BR",
       "team": {
-        "name": "Unknown Team",
+        "name": "LOUD",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
       },
       "position": "Bot Laner"
@@ -181,7 +181,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Flash",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
       },
       "position": "Jungler"
@@ -189,7 +189,7 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "MES",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/MESlogo_std.png/revision/latest?cb=20210607033239"
       },
       "position": "Jungler"
@@ -209,7 +209,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Chiefs Esports Club",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/Chiefs_Esports_Clublogo_std.png/revision/latest?cb=20241103143142"
       },
       "position": "Bot Laner"
@@ -217,7 +217,7 @@
     "to": {
       "region": "BR",
       "team": {
-        "name": "Unknown Team",
+        "name": "LOUD",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
       },
       "position": "Bot Laner"
@@ -237,7 +237,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Secret Whales",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/Team_Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Support"
@@ -245,7 +245,7 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Secret Whales",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/Team_Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Support"
@@ -265,7 +265,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Secret Whales",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/Team_Secret_Whaleslogo_std.png/revision/latest?cb=20241206071801"
       },
       "position": "Support"
@@ -273,7 +273,7 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "MES",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/MESlogo_std.png/revision/latest?cb=20210607033239"
       },
       "position": "Support"
@@ -293,7 +293,7 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "T1",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest?cb=20230512040324"
       },
       "position": "Bot Laner"
@@ -301,7 +301,7 @@
     "to": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "Hanwha Life Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
       },
       "position": "Bot Laner"
@@ -321,7 +321,7 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "T1",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest?cb=20230512040324"
       },
       "position": "Bot Laner"
@@ -329,7 +329,7 @@
     "to": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "Dplus KIA",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/Dplus_KIAlogo_std.png/revision/latest?cb=20230512050615"
       },
       "position": "Bot Laner"
@@ -349,7 +349,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Anyone's Legend",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
       },
       "position": "Assistant Coach"
@@ -357,7 +357,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Assistant Coach"
@@ -377,7 +377,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Bilibili Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
       },
       "position": "Bot Laner"
@@ -385,7 +385,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Weibo Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
       },
       "position": "Bot Laner"
@@ -405,7 +405,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Bilibili Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
       },
       "position": "Bot Laner"
@@ -413,7 +413,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Bot Laner"
@@ -433,7 +433,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Weibo Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
       },
       "position": "Top Laner"
@@ -441,7 +441,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Top Laner"
@@ -461,7 +461,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Jungler"
@@ -469,7 +469,7 @@
     "to": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "Hanwha Life Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest?cb=20211024145236"
       },
       "position": "Jungler"
@@ -489,7 +489,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Mid Laner"
@@ -497,7 +497,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Mid Laner"
@@ -517,7 +517,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Heretics",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
       },
       "position": "Head Coach"
@@ -525,7 +525,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Movistar KOI",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
       },
       "position": "Assistant Coach"
@@ -545,7 +545,7 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "T1",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest?cb=20230512040324"
       },
       "position": "Jungler"
@@ -553,7 +553,7 @@
     "to": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "DRX",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest?cb=20230504052509"
       },
       "position": "Jungler"
@@ -573,7 +573,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Free Agent",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Bot Laner"
@@ -581,7 +581,7 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Vikings Esports (2023 Vietnamese Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
       },
       "position": "Bot Laner"
@@ -601,7 +601,7 @@
     "from": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Flash",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/Team_Flashlogo_std.png/revision/latest?cb=20230521223220"
       },
       "position": "Bot Laner"
@@ -609,7 +609,7 @@
     "to": {
       "region": "APAC",
       "team": {
-        "name": "Unknown Team",
+        "name": "Vikings Esports (2023 Vietnamese Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/Vikings_Esports_%282023_Vietnamese_Team%29logo_std.png/revision/latest?cb=20231204013101"
       },
       "position": "Bot Laner"
@@ -629,7 +629,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Bot Laner"
@@ -637,7 +637,7 @@
     "to": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "T1",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest?cb=20230512040324"
       },
       "position": "Bot Laner"
@@ -657,15 +657,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "Disguised",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
       },
       "position": "Head Coach"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Disguised",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
       },
       "position": "Head Coach"
@@ -685,15 +685,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "Isurus",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/96/Isuruslogo_std.png/revision/latest?cb=20250703052339"
       },
       "position": "Jungler"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Liquid",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
       },
       "position": "Jungler"
@@ -713,7 +713,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Bot Laner"
@@ -721,7 +721,7 @@
     "to": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "T1",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest?cb=20230512040324"
       },
       "position": "Bot Laner"
@@ -741,7 +741,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Support"
@@ -749,7 +749,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Ninjas in Pyjamas.CN",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
       },
       "position": "Support"
@@ -769,7 +769,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Bot Laner"
@@ -777,7 +777,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Bot Laner"
@@ -797,7 +797,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Weibo Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
       },
       "position": "Jungler"
@@ -805,7 +805,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Weibo Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
       },
       "position": "Jungler"
@@ -825,7 +825,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Anyone's Legend",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
       },
       "position": "Head Coach"
@@ -833,7 +833,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Coach"
@@ -853,15 +853,15 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "KT Rolster",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest?cb=20210605165510"
       },
       "position": "Mid Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Shopify Rebellion",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Shopify_Rebellionlogo_std.png/revision/latest?cb=20231121110541"
       },
       "position": "Mid Laner"
@@ -881,15 +881,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "Disguised",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
       },
       "position": "Mid Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Sentinels",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sentinelslogo_std.png/revision/latest?cb=20251010181137"
       },
       "position": "Mid Laner"
@@ -909,15 +909,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "Disguised",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
       },
       "position": "Support"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Sentinels",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sentinelslogo_std.png/revision/latest?cb=20251010181137"
       },
       "position": "Support"
@@ -937,15 +937,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "Disguised",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
       },
       "position": "Bot Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Sentinels",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sentinelslogo_std.png/revision/latest?cb=20251010181137"
       },
       "position": "Bot Laner"
@@ -965,15 +965,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "Disguised",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
       },
       "position": "Top Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Disguised",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d1/Disguisedlogo_std.png/revision/latest?cb=20231215200540"
       },
       "position": "Top Laner"
@@ -993,15 +993,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+        "name": "Team Liquid",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
       },
       "position": "Strategic Coach"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Head Coach"
@@ -1021,15 +1021,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "Dignitas",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
       },
       "position": "Support"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Support"
@@ -1049,15 +1049,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Top Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Top Laner"
@@ -1077,15 +1077,15 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "DN Freecs",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/DN_Freecslogo_std.png/revision/latest?cb=20241226151304"
       },
       "position": "Bot Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Bot Laner"
@@ -1105,7 +1105,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Free Agent",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Head Coach"
@@ -1113,7 +1113,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Los Ratones",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6d/Los_Ratoneslogo_std.png/revision/latest?cb=20250122225954"
       },
       "position": "Head Coach"
@@ -1133,7 +1133,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Free Agent",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Assistant Coach"
@@ -1141,7 +1141,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Los Ratones",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6d/Los_Ratoneslogo_std.png/revision/latest?cb=20250122225954"
       },
       "position": "Assistant Coach"
@@ -1161,7 +1161,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Movistar KOI",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
       },
       "position": "Assistant Coach"
@@ -1169,7 +1169,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Karmine Corp",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
       },
       "position": "Assistant Coach"
@@ -1189,7 +1189,7 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "KT Rolster",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest?cb=20210605165510"
       },
       "position": "Bot Laner"
@@ -1197,7 +1197,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team BDS",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
       },
       "position": "Bot Laner"
@@ -1217,7 +1217,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team BDS",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
       },
       "position": "Bot Laner"
@@ -1225,7 +1225,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Heretics",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
       },
       "position": "Bot Laner"
@@ -1245,7 +1245,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Fnatic",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
       },
       "position": "Mid Laner"
@@ -1253,7 +1253,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Natus Vincere",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Natus_Vincerelogo_std.png/revision/latest?cb=20250519222647"
       },
       "position": "Mid Laner"
@@ -1261,7 +1261,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Alejandro \"Anonimotum\" Gomis",
       "url": "https://www.sheepesports.com/en/articles/sources-teddy-set-to-join-oksavingsbank-brion-in-the-lck/en"
@@ -1273,7 +1273,7 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "DRX",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest?cb=20230504052509"
       },
       "position": "Bot Laner"
@@ -1281,7 +1281,7 @@
     "to": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "BRION",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/BRIONlogo_std.png/revision/latest?cb=20230518062824"
       },
       "position": "Bot Laner"
@@ -1301,7 +1301,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Movistar KOI",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
       },
       "position": "Assistant Coach"
@@ -1309,7 +1309,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Karmine Corp",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
       },
       "position": "Assistant Coach"
@@ -1329,7 +1329,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Fnatic",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
       },
       "position": "Bot Laner"
@@ -1337,7 +1337,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team BDS",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
       },
       "position": "Bot Laner"
@@ -1357,7 +1357,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Mid Laner"
@@ -1365,7 +1365,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Mid Laner"
@@ -1385,7 +1385,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Bot Laner"
@@ -1393,7 +1393,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Free Agent",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Bot Laner"
@@ -1413,7 +1413,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "FunPlus Phoenix",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/FunPlus_Phoenixlogo_std.png/revision/latest?cb=20210606224255"
       },
       "position": "Mid Laner"
@@ -1421,7 +1421,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Ninjas in Pyjamas.CN",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
       },
       "position": "Mid Laner"
@@ -1441,7 +1441,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Weibo Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
       },
       "position": "Top Laner"
@@ -1449,7 +1449,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Top Laner"
@@ -1469,7 +1469,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Ninjas in Pyjamas.CN",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
       },
       "position": "Jungler"
@@ -1477,7 +1477,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Jungler"
@@ -1497,7 +1497,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "FunPlus Phoenix",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/FunPlus_Phoenixlogo_std.png/revision/latest?cb=20210606224255"
       },
       "position": "Bot Laner"
@@ -1505,7 +1505,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Bot Laner"
@@ -1525,7 +1525,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Ultra Prime",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/Ultra_Primelogo_std.png/revision/latest?cb=20210401173825"
       },
       "position": "Jungler"
@@ -1533,7 +1533,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "ThunderTalk Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/ThunderTalk_Gaminglogo_std.png/revision/latest?cb=20201118104414"
       },
       "position": "Jungler"
@@ -1553,7 +1553,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "FunPlus Phoenix",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/FunPlus_Phoenixlogo_std.png/revision/latest?cb=20210606224255"
       },
       "position": "Jungler"
@@ -1561,7 +1561,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Jungler"
@@ -1581,7 +1581,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "FunPlus Phoenix",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/FunPlus_Phoenixlogo_std.png/revision/latest?cb=20210606224255"
       },
       "position": "Jungler"
@@ -1589,7 +1589,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Weibo Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
       },
       "position": "Jungler"
@@ -1609,15 +1609,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "LOUD",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
       },
       "position": "Jungler"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "FlyQuest",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
       },
       "position": "Jungler"
@@ -1637,15 +1637,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "FlyQuest",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
       },
       "position": "Top Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "FlyQuest",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
       },
       "position": "Top Laner"
@@ -1665,7 +1665,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Jungler"
@@ -1673,7 +1673,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Free Agent",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Jungler"
@@ -1693,7 +1693,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Mid Laner"
@@ -1701,7 +1701,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Mid Laner"
@@ -1721,15 +1721,15 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Karmine Corp",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/Karmine_Corplogo_std.png/revision/latest?cb=20240319113946"
       },
       "position": "Jungler"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "FlyQuest",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
       },
       "position": "Jungler"
@@ -1749,7 +1749,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Vitality",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
       },
       "position": "Support"
@@ -1757,7 +1757,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Vitality",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
       },
       "position": "Support"
@@ -1777,15 +1777,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+        "name": "Team Liquid",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
       },
       "position": "Mid Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Cloud9",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Cloud9logo_std.png/revision/latest?cb=20230426052612"
       },
       "position": "Mid Laner"
@@ -1805,15 +1805,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "FlyQuest",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
       },
       "position": "Assistant Coach"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Assistant Coach"
@@ -1833,7 +1833,7 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "FlyQuest",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
       },
       "position": "Assistant Coach"
@@ -1841,7 +1841,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Movistar KOI",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
       },
       "position": "Assistant Coach"
@@ -1861,15 +1861,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+        "name": "Team Liquid",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
       },
       "position": "Strategic Coach"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Head Coach"
@@ -1889,15 +1889,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "100 Thieves",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
       },
       "position": "Head Coach"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Sentinels",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sentinelslogo_std.png/revision/latest?cb=20251010181137"
       },
       "position": "Head Coach"
@@ -1917,7 +1917,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Mid Laner"
@@ -1925,7 +1925,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Mid Laner"
@@ -1945,7 +1945,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "ThunderTalk Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/ThunderTalk_Gaminglogo_std.png/revision/latest?cb=20201118104414"
       },
       "position": "Bot Laner"
@@ -1953,7 +1953,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Bot Laner"
@@ -1973,7 +1973,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Free Agent",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Coach"
@@ -1981,7 +1981,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Coach"
@@ -2001,7 +2001,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Support"
@@ -2009,7 +2009,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Support"
@@ -2029,7 +2029,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Mid Laner"
@@ -2037,7 +2037,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Mid Laner"
@@ -2057,7 +2057,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Jungler"
@@ -2065,7 +2065,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Jungler"
@@ -2085,7 +2085,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Top Laner"
@@ -2093,7 +2093,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "EDward Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
       },
       "position": "Top Laner"
@@ -2113,15 +2113,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "100 Thieves",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
       },
       "position": "Head Coach"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Head Coach"
@@ -2141,15 +2141,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Top Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Top Laner"
@@ -2169,15 +2169,15 @@
     "from": {
       "region": "AME",
       "team": {
-        "name": "Unknown Team",
+        "name": "Dignitas",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
       },
       "position": "Support"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Support"
@@ -2197,7 +2197,7 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "DN Freecs",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/DN_Freecslogo_std.png/revision/latest?cb=20241226151304"
       },
       "position": "Mid Laner"
@@ -2205,7 +2205,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "LNG Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
       },
       "position": "Mid Laner"
@@ -2225,7 +2225,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Bilibili Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
       },
       "position": "Jungler"
@@ -2233,7 +2233,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "LNG Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
       },
       "position": "Jungler"
@@ -2253,7 +2253,7 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "Free Agent",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Coach"
@@ -2261,7 +2261,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "LNG Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
       },
       "position": "Coach"
@@ -2281,7 +2281,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "FunPlus Phoenix",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/FunPlus_Phoenixlogo_std.png/revision/latest?cb=20210606224255"
       },
       "position": "Top Laner"
@@ -2289,7 +2289,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "LNG Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
       },
       "position": "Top Laner"
@@ -2309,7 +2309,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Weibo Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
       },
       "position": "Top Laner"
@@ -2317,7 +2317,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "LNG Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
       },
       "position": "Top Laner"
@@ -2337,7 +2337,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Support"
@@ -2345,7 +2345,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Support"
@@ -2365,7 +2365,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Bot Laner"
@@ -2373,7 +2373,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Weibo Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
       },
       "position": "Bot Laner"
@@ -2393,7 +2393,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Bot Laner"
@@ -2401,7 +2401,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Bot Laner"
@@ -2421,7 +2421,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Bilibili Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
       },
       "position": "Mid Laner"
@@ -2429,7 +2429,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Bilibili Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
       },
       "position": "Mid Laner"
@@ -2449,7 +2449,7 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "Gen.G Global Academy",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Gen.G_Global_Academylogo_std.png/revision/latest?cb=20251003070150"
       },
       "position": "Bot Laner"
@@ -2457,7 +2457,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Bot Laner"
@@ -2477,7 +2477,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Support"
@@ -2485,7 +2485,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Support"
@@ -2505,7 +2505,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Ninjas in Pyjamas.CN",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
       },
       "position": "Top Laner"
@@ -2513,7 +2513,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Top Laner"
@@ -2533,7 +2533,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Top Laner"
@@ -2541,7 +2541,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Top Laner"
@@ -2561,7 +2561,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Jungler"
@@ -2569,7 +2569,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Jungler"
@@ -2589,7 +2589,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Support"
@@ -2597,7 +2597,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Support"
@@ -2617,7 +2617,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Jungler"
@@ -2625,7 +2625,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
       },
       "position": "Jungler"
@@ -2645,7 +2645,7 @@
     "from": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Jungler"
@@ -2653,7 +2653,7 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Unknown Team",
+        "name": "Bilibili Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
       },
       "position": "Jungler"
@@ -2673,7 +2673,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Free Agent",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Coach"
@@ -2681,7 +2681,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Movistar KOI",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
       },
       "position": "Assistant Coach"
@@ -2701,7 +2701,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Heretics",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
       },
       "position": "Bot Laner"
@@ -2709,7 +2709,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Heretics",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
       },
       "position": "Bot Laner"
@@ -2729,7 +2729,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Heretics",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
       },
       "position": "Jungler"
@@ -2737,7 +2737,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Heretics",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
       },
       "position": "Jungler"
@@ -2757,7 +2757,7 @@
     "from": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team BDS",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
       },
       "position": "Bot Laner"
@@ -2765,7 +2765,7 @@
     "to": {
       "region": "EMEA",
       "team": {
-        "name": "Unknown Team",
+        "name": "Team Heretics",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
       },
       "position": "Bot Laner"
@@ -2785,15 +2785,15 @@
     "from": {
       "region": "KR",
       "team": {
-        "name": "Unknown Team",
+        "name": "DN Freecs",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/DN_Freecslogo_std.png/revision/latest?cb=20241226151304"
       },
       "position": "Bot Laner"
     },
     "to": {
-      "region": "AME",
+      "region": "NA",
       "team": {
-        "name": "Unknown Team",
+        "name": "LYON (2024 American Team)",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
       },
       "position": "Bot Laner"
