@@ -4,13 +4,73 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Nov 2025 16:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 20:03:38 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Nov 2025 16:03:52 GMT</pubDate>
+        <pubDate>Thu, 20 Nov 2025 20:03:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Empyros: Gentle Mates → Fnatic]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Empyros">Empyros</a> (Top Laner)</p>
+<p>Gentle Mates → Fnatic</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1991540166520144219">Extremo "Humble" Pandista</a></p>
+]]></description>
+            <link>https://x.com/extremopandista/status/1991540166520144219</link>
+            <guid isPermaLink="false">2025-11-20-Empyros-Gentle Mates-Fnatic</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Elk: Bilibili Gaming → Weibo Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Elk">Elk</a> (Bot Laner)</p>
+<p>Bilibili Gaming → Weibo Gaming</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1991545279498358959">Extremo "Humble" Pandista</a></p>
+]]></description>
+            <link>https://x.com/extremopandista/status/1991545279498358959</link>
+            <guid isPermaLink="false">2025-11-20-Elk-Bilibili Gaming-Weibo Gaming</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR] Fisher: Nongshim RedForce → BRION]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Fisher_(Lee_Jeong-tae)">Fisher</a> (Mid Laner)</p>
+<p>Nongshim RedForce → BRION</p>
+<p>KR</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/es/articles/sources-fisher-set-to-join-oksavingsbank-brion/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/es/articles/sources-fisher-set-to-join-oksavingsbank-brion/en</link>
+            <guid isPermaLink="false">2025-11-20-Fisher-Nongshim RedForce-BRION</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR] Casting: KT Rolster → BRION]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Casting">Casting</a> (Top Laner)</p>
+<p>KT Rolster → BRION</p>
+<p>KR</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/es/articles/sources-casting-set-to-join-oksavingsbank-brion/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/es/articles/sources-casting-set-to-join-oksavingsbank-brion/en</link>
+            <guid isPermaLink="false">2025-11-20-Casting-KT Rolster-BRION</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[APAC] Chika: Vikings Esports (2023 Vietnamese Team) → CTBC Flying Oyster]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -278,6 +338,21 @@
             <guid isPermaLink="false">2025-11-18-Creme-Top Esports-Top Esports</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME → BR] Mago: RED Academy → LOUD]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Mago">Mago</a> (Mid Laner)</p>
+<p>RED Academy → LOUD</p>
+<p>AME → BR</p>
+<p><strong>Source:</strong> <a href="https://x.com/CBLOLInsider_/status/1990837879765934230">CBLOL Insider</a></p>
+]]></description>
+            <link>https://x.com/CBLOLInsider_/status/1990837879765934230</link>
+            <guid isPermaLink="false">2025-11-18-Mago-RED Academy-LOUD</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[BR]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
@@ -1435,81 +1510,6 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Alphari: Free Agent → Movistar KOI]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Alphari">Alphari</a> (Coach → Assistant Coach)</p>
-<p>Free Agent → Movistar KOI</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-alphari-set-to-join-movistar-koi-as-assistant-coach-for-the-next-season/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-alphari-set-to-join-movistar-koi-as-assistant-coach-for-the-next-season/en</link>
-            <guid isPermaLink="false">2025-11-12-Alphari-Free Agent-Movistar KOI</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Flakked: Team Heretics]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Flakked">Flakked</a> (Bot Laner)</p>
-<p>Team Heretics</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-flakked-won-t-be-playing-for-team-heretics-next-year/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-flakked-won-t-be-playing-for-team-heretics-next-year/en</link>
-            <guid isPermaLink="false">2025-11-12-Flakked-Team Heretics-Team Heretics</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Sheo: Team Heretics]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Sheo">Sheo</a> (Jungler)</p>
-<p>Team Heretics</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-sheo-will-be-team-heretics-jungler-in-2026/en">Alejandro "Anonimotum" Gomis</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-sheo-will-be-team-heretics-jungler-in-2026/en</link>
-            <guid isPermaLink="false">2025-11-12-Sheo-Team Heretics-Team Heretics</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Ice: Team BDS → Team Heretics]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Ice_(Yoon_Sang-hoon)">Ice</a> (Bot Laner)</p>
-<p>Team BDS → Team Heretics</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1988687479814386166">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1988687479814386166</link>
-            <guid isPermaLink="false">2025-11-12-Ice-Team BDS-Team Heretics</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → NA] Berserker: DN Freecs → LYON (2024 American Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Berserker_(Kim_Min-cheol)">Berserker</a> (Bot Laner)</p>
-<p>DN Freecs → LYON (2024 American Team)</p>
-<p>KR → NA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1988661686115676657">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1988661686115676657</link>
-            <guid isPermaLink="false">2025-11-12-Berserker-DN Freecs-LYON (2024 American Team)</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

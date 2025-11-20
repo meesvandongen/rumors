@@ -1,5 +1,117 @@
 [
   {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Extremo \"Humble\" Pandista",
+      "url": "https://x.com/extremopandista/status/1991540166520144219"
+    },
+    "player": {
+      "name": "Empyros",
+      "url": "https://lol.fandom.com/wiki/Empyros"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Gentle Mates",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gentle_Mateslogo_std.png/revision/latest?cb=20241007071343"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "EMEA",
+      "team": {
+        "name": "Fnatic",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Fnaticlogo_std.png/revision/latest?cb=20200124162848"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Extremo \"Humble\" Pandista",
+      "url": "https://x.com/extremopandista/status/1991545279498358959"
+    },
+    "player": {
+      "name": "Elk",
+      "url": "https://lol.fandom.com/wiki/Elk"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Bilibili Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Weibo Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/es/articles/sources-fisher-set-to-join-oksavingsbank-brion/en"
+    },
+    "player": {
+      "name": "Fisher",
+      "url": "https://lol.fandom.com/wiki/Fisher_(Lee_Jeong-tae)"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Nongshim RedForce",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest?cb=20210605230106"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "BRION",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/BRIONlogo_std.png/revision/latest?cb=20230518062824"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/es/articles/sources-casting-set-to-join-oksavingsbank-brion/en"
+    },
+    "player": {
+      "name": "Casting",
+      "url": "https://lol.fandom.com/wiki/Casting"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "KT Rolster",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest?cb=20210605165510"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "KR",
+      "team": {
+        "name": "BRION",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/BRIONlogo_std.png/revision/latest?cb=20230518062824"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2025-11-19",
     "status": "Rumor",
     "source": {
@@ -499,6 +611,34 @@
       "team": {
         "name": "Top Esports",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/Top_Esportslogo_std.png/revision/latest?cb=20190525164543"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-18",
+    "status": "Rumor",
+    "source": {
+      "name": "CBLOL Insider",
+      "url": "https://x.com/CBLOLInsider_/status/1990837879765934230"
+    },
+    "player": {
+      "name": "Mago",
+      "url": "https://lol.fandom.com/wiki/Mago"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "RED Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "LOUD",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
       },
       "position": "Mid Laner"
     }
@@ -2657,146 +2797,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
       },
       "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-11-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-alphari-set-to-join-movistar-koi-as-assistant-coach-for-the-next-season/en"
-    },
-    "player": {
-      "name": "Alphari",
-      "url": "https://lol.fandom.com/wiki/Alphari"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Movistar KOI",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
-      },
-      "position": "Assistant Coach"
-    }
-  },
-  {
-    "date": "2025-11-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Brieuc \"LEC Wooloo\" Seeger",
-      "url": "https://www.sheepesports.com/en/articles/sources-flakked-won-t-be-playing-for-team-heretics-next-year/en"
-    },
-    "player": {
-      "name": "Flakked",
-      "url": "https://lol.fandom.com/wiki/Flakked"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Heretics",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Heretics",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-11-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Alejandro \"Anonimotum\" Gomis",
-      "url": "https://www.sheepesports.com/en/articles/sources-sheo-will-be-team-heretics-jungler-in-2026/en"
-    },
-    "player": {
-      "name": "Sheo",
-      "url": "https://lol.fandom.com/wiki/Sheo"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Heretics",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Heretics",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-11-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1988687479814386166"
-    },
-    "player": {
-      "name": "Ice",
-      "url": "https://lol.fandom.com/wiki/Ice_(Yoon_Sang-hoon)"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team BDS",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/Team_BDSlogo_std.png/revision/latest?cb=20220111205749"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Team Heretics",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/Team_Hereticslogo_std.png/revision/latest?cb=20221027072632"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-11-12",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1988661686115676657"
-    },
-    "player": {
-      "name": "Berserker",
-      "url": "https://lol.fandom.com/wiki/Berserker_(Kim_Min-cheol)"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "DN Freecs",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/DN_Freecslogo_std.png/revision/latest?cb=20241226151304"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "NA",
-      "team": {
-        "name": "LYON (2024 American Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Bot Laner"
     }
   }
 ]
