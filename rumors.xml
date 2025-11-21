@@ -4,13 +4,28 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Nov 2025 16:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 20:03:29 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Nov 2025 16:03:36 GMT</pubDate>
+        <pubDate>Fri, 21 Nov 2025 20:03:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[BR] Fuuu: Fluxo W7M → RED Academy]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Fuuu">Fuuu</a> (Mid Laner)</p>
+<p>Fluxo W7M → RED Academy</p>
+<p>BR</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsportsBR/status/1991887739617427797">Sheep Esports Brasil</a></p>
+]]></description>
+            <link>https://x.com/SheepEsportsBR/status/1991887739617427797</link>
+            <guid isPermaLink="false">2025-11-21-Fuuu-Fluxo W7M-RED Academy</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Jun: GIANTX]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1477,21 +1492,6 @@
             <link>https://x.com/tttttyuc/status/1989004172365283826</link>
             <guid isPermaLink="false">2025-11-13-About-Gen.G Global Academy-We</guid>
             <category><![CDATA[KR]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] fengyue: Top Esports → We]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Fengyue">fengyue</a> (Support)</p>
-<p>Top Esports → We</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989004172365283826">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989004172365283826</link>
-            <guid isPermaLink="false">2025-11-13-fengyue-Top Esports-We</guid>
-            <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
