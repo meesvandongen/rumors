@@ -700,6 +700,34 @@
     }
   },
   {
+    "date": "2025-11-18",
+    "status": "Rumor",
+    "source": {
+      "name": "Sheep Esports Brasil",
+      "url": "https://x.com/SheepEsportsBR/status/1990836252241789363"
+    },
+    "player": {
+      "name": "YoungJae",
+      "url": "https://lol.fandom.com/wiki/YoungJae"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "KT Rolster",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest?cb=20210605165510"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "LOUD",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
     "date": "2025-11-17",
     "status": "Rumor",
     "source": {
@@ -1033,6 +1061,34 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-11-17",
+    "status": "Rumor",
+    "source": {
+      "name": "Sheep Esports Brasil",
+      "url": "https://x.com/SheepEsportsBR/status/1990481001538011201"
+    },
+    "player": {
+      "name": "Raise",
+      "url": "https://lol.fandom.com/wiki/Raise"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "LOUD",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "LOUD",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Head Coach"
     }
   },
   {
@@ -2296,6 +2352,34 @@
     }
   },
   {
+    "date": "2025-11-14",
+    "status": "Rumor",
+    "source": {
+      "name": "Sheep Esports Brasil",
+      "url": "https://x.com/SheepEsportsBR/status/1989336889913184477"
+    },
+    "player": {
+      "name": "Enatron",
+      "url": "https://lol.fandom.com/wiki/Enatron"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Ici Japon Corp. Esport",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/Ici_Japon_Corp._Esportlogo_std.png/revision/latest?cb=20241006054335"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "Los Grandes",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/Los_Grandeslogo_std.png/revision/latest?cb=20230608222225"
+      },
+      "position": "Head Coach"
+    }
+  },
+  {
     "date": "2025-11-13",
     "status": "Rumor",
     "source": {
@@ -2683,118 +2767,6 @@
       "team": {
         "name": "We",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989004172365283826"
-    },
-    "player": {
-      "name": "Solokill",
-      "url": "https://lol.fandom.com/wiki/Solokill"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Ninjas in Pyjamas.CN",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "We",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989004172365283826"
-    },
-    "player": {
-      "name": "Cube",
-      "url": "https://lol.fandom.com/wiki/Cube_(Dai_Yi)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "We",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "We",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989004172365283826"
-    },
-    "player": {
-      "name": "Monki",
-      "url": "https://lol.fandom.com/wiki/Monki"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "We",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "We",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989004172365283826"
-    },
-    "player": {
-      "name": "Vampire",
-      "url": "https://lol.fandom.com/wiki/Vampire"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "We",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "JD Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
       },
       "position": "Support"
     }

@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Nov 2025 08:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 12:05:06 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Nov 2025 08:04:31 GMT</pubDate>
+        <pubDate>Fri, 21 Nov 2025 12:05:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -387,6 +387,21 @@
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[KR → BR] YoungJae: KT Rolster → LOUD]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/YoungJae">YoungJae</a> (Jungler)</p>
+<p>KT Rolster → LOUD</p>
+<p>KR → BR</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsportsBR/status/1990836252241789363">Sheep Esports Brasil</a></p>
+]]></description>
+            <link>https://x.com/SheepEsportsBR/status/1990836252241789363</link>
+            <guid isPermaLink="false">2025-11-18-YoungJae-KT Rolster-LOUD</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[EMEA] Independent: Team Heretics → Movistar KOI]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Independent">Independent</a> (Head Coach → Assistant Coach)</p>
@@ -563,6 +578,21 @@
             <guid isPermaLink="false">2025-11-17-Tabe-Anyone&apos;s Legend-JD Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AME → BR] Raise: LOUD]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Raise">Raise</a> (Head Coach)</p>
+<p>LOUD</p>
+<p>AME → BR</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsportsBR/status/1990481001538011201">Sheep Esports Brasil</a></p>
+]]></description>
+            <link>https://x.com/SheepEsportsBR/status/1990481001538011201</link>
+            <guid isPermaLink="false">2025-11-17-Raise-LOUD-LOUD</guid>
+            <category><![CDATA[AME]]></category>
+            <category><![CDATA[BR]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
         </item>
@@ -1242,6 +1272,21 @@
             <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[EMEA → BR] Enatron: Ici Japon Corp. Esport → Los Grandes]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Enatron">Enatron</a> (Head Coach)</p>
+<p>Ici Japon Corp. Esport → Los Grandes</p>
+<p>EMEA → BR</p>
+<p><strong>Source:</strong> <a href="https://x.com/SheepEsportsBR/status/1989336889913184477">Sheep Esports Brasil</a></p>
+]]></description>
+            <link>https://x.com/SheepEsportsBR/status/1989336889913184477</link>
+            <guid isPermaLink="false">2025-11-14-Enatron-Ici Japon Corp. Esport-Los Grandes</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[AME → NA] Goldenglue: 100 Thieves → LYON (2024 American Team)]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Goldenglue">Goldenglue</a> (Head Coach)</p>
@@ -1446,66 +1491,6 @@
 ]]></description>
             <link>https://x.com/tttttyuc/status/1989004172365283826</link>
             <guid isPermaLink="false">2025-11-13-fengyue-Top Esports-We</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Solokill: Ninjas in Pyjamas.CN → We]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Solokill">Solokill</a> (Top Laner)</p>
-<p>Ninjas in Pyjamas.CN → We</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989004172365283826">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989004172365283826</link>
-            <guid isPermaLink="false">2025-11-13-Solokill-Ninjas in Pyjamas.CN-We</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Cube: We]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Cube_(Dai_Yi)">Cube</a> (Top Laner)</p>
-<p>We</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989004172365283826">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989004172365283826</link>
-            <guid isPermaLink="false">2025-11-13-Cube-We-We</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Monki: We]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Monki">Monki</a> (Jungler)</p>
-<p>We</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989004172365283826">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989004172365283826</link>
-            <guid isPermaLink="false">2025-11-13-Monki-We-We</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Vampire: We → JD Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Vampire">Vampire</a> (Support)</p>
-<p>We → JD Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989004172365283826">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989004172365283826</link>
-            <guid isPermaLink="false">2025-11-13-Vampire-We-JD Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
