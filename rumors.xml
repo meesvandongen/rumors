@@ -4,13 +4,43 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Nov 2025 20:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 00:12:56 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Nov 2025 20:03:38 GMT</pubDate>
+        <pubDate>Fri, 21 Nov 2025 00:12:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[EMEA] Jun: GIANTX]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Jun_(Yoon_Se-jun)">Jun</a> (Support)</p>
+<p>GIANTX</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-jun-stays-at-giantx/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-jun-stays-at-giantx/en</link>
+            <guid isPermaLink="false">2025-11-20-Jun-GIANTX-GIANTX</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Empyros: Gentle Mates → Fnatic]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Empyros">Empyros</a> (Top Laner)</p>
+<p>Gentle Mates → Fnatic</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-empyros-set-to-join-fnatic-in-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/articles/sources-empyros-set-to-join-fnatic-in-lec/en</link>
+            <guid isPermaLink="false">2025-11-20-Empyros-Gentle Mates-Fnatic</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[EMEA] Empyros: Gentle Mates → Fnatic]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1476,36 +1506,6 @@
 ]]></description>
             <link>https://x.com/tttttyuc/status/1989004172365283826</link>
             <guid isPermaLink="false">2025-11-13-Vampire-We-JD Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Kanavi: Top Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Kanavi">Kanavi</a> (Jungler)</p>
-<p>Top Esports</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989004172365283826">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989004172365283826</link>
-            <guid isPermaLink="false">2025-11-13-Kanavi-Top Esports-Top Esports</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Xun: JD Gaming → Bilibili Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Xun">Xun</a> (Jungler)</p>
-<p>JD Gaming → Bilibili Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989004172365283826">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989004172365283826</link>
-            <guid isPermaLink="false">2025-11-13-Xun-JD Gaming-Bilibili Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
