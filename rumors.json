@@ -28,6 +28,62 @@
     }
   },
   {
+    "date": "2025-11-21",
+    "status": "Rumor",
+    "source": {
+      "name": "Brieuc \"LEC Wooloo\" Seeger",
+      "url": "https://www.sheepesports.com/en/articles/sources-zest-set-to-join-los-in-circuito-desafiante/pt"
+    },
+    "player": {
+      "name": "Zest",
+      "url": "https://lol.fandom.com/wiki/Zest_(Kim_Dong-min)"
+    },
+    "from": {
+      "region": "EMEA",
+      "team": {
+        "name": "Bushido Wildcats",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/Bushido_Wildcatslogo_std.png/revision/latest?cb=20250121235529"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "Los Grandes",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/Los_Grandeslogo_std.png/revision/latest?cb=20230608222225"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-21",
+    "status": "Rumor",
+    "source": {
+      "name": "Showtana",
+      "url": "https://www.sheepesports.com/en/articles/fontes-loud-encaminha-a-contratacao-de-jean-mago-para-o-cblol/pt"
+    },
+    "player": {
+      "name": "Mago",
+      "url": "https://lol.fandom.com/wiki/Mago"
+    },
+    "from": {
+      "region": "AME",
+      "team": {
+        "name": "RED Academy",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/RED_Academylogo_std.png/revision/latest?cb=20180404004727"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "LOUD",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-11-20",
     "status": "Rumor",
     "source": {
@@ -2711,62 +2767,6 @@
       "team": {
         "name": "Invictus Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988994572123578843"
-    },
-    "player": {
-      "name": "Knight",
-      "url": "https://lol.fandom.com/wiki/Knight_(Zhuo_Ding)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989004172365283826"
-    },
-    "player": {
-      "name": "About",
-      "url": "https://lol.fandom.com/wiki/About"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Gen.G Global Academy",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Gen.G_Global_Academylogo_std.png/revision/latest?cb=20251003070150"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "We",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
       },
       "position": "Bot Laner"
     }
