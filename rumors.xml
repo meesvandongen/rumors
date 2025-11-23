@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Nov 2025 16:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Nov 2025 20:03:34 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Nov 2025 16:03:26 GMT</pubDate>
+        <pubDate>Sun, 23 Nov 2025 20:03:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -298,7 +298,7 @@
         </item>
         <item>
             <title><![CDATA[[KR] Gumayusi: T1 → Hanwha Life Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Gumayusi">Gumayusi</a> (Bot Laner)</p>
 <p>T1 → Hanwha Life Esports</p>
 <p>KR</p>
@@ -388,7 +388,7 @@
         </item>
         <item>
             <title><![CDATA[[CN → KR] Kanavi: Top Esports → Hanwha Life Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Kanavi">Kanavi</a> (Jungler)</p>
 <p>Top Esports → Hanwha Life Esports</p>
 <p>CN → KR</p>
@@ -523,7 +523,7 @@
         </item>
         <item>
             <title><![CDATA[[AME → NA] Ido: Disguised]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Ido">Ido</a> (Head Coach)</p>
 <p>Disguised</p>
 <p>AME → NA</p>
