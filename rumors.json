@@ -1,5 +1,89 @@
 [
   {
+    "date": "2025-11-23",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1993192799714627844"
+    },
+    "player": {
+      "name": "Diable",
+      "url": "https://lol.fandom.com/wiki/Diable"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "FearX",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/FearXlogo_std.png/revision/latest?cb=20231216061333"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Invictus Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-23",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1993192799714627844"
+    },
+    "player": {
+      "name": "Doggo",
+      "url": "https://lol.fandom.com/wiki/Doggo"
+    },
+    "from": {
+      "region": "APAC",
+      "team": {
+        "name": "CTBC Flying Oyster",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/CTBC_Flying_Oysterlogo_std.png/revision/latest?cb=20221014190546"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Invictus Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-23",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1993192799714627844"
+    },
+    "player": {
+      "name": "haichao",
+      "url": "https://lol.fandom.com/wiki/Haichao"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "LNG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Oh My God",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Oh_My_Godlogo_std.png/revision/latest?cb=20221226220406"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
     "date": "2025-11-21",
     "status": "Rumor",
     "source": {
@@ -81,6 +165,62 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
       },
       "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-21",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991897542830014834"
+    },
+    "player": {
+      "name": "1xn",
+      "url": "https://lol.fandom.com/wiki/1xn"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "ThunderTalk Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/ThunderTalk_Gaminglogo_std.png/revision/latest?cb=20201118104414"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "LNG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-21",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991897542830014834"
+    },
+    "player": {
+      "name": "Assum",
+      "url": "https://lol.fandom.com/wiki/Assum"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Ninjas in Pyjamas.CN",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
+      },
+      "position": "Bot Laner"
     }
   },
   {
@@ -252,6 +392,370 @@
     }
   },
   {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991499609483669982"
+    },
+    "player": {
+      "name": "Teacherma",
+      "url": "https://lol.fandom.com/wiki/Teacherma"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "We",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/Welogo_std.png/revision/latest?cb=20200219201124"
+      },
+      "position": "Head Coach"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Anyone's Legend",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991499609483669982"
+    },
+    "player": {
+      "name": "Helper",
+      "url": "https://lol.fandom.com/wiki/Helper_(Kwon_Yeong-jae)"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Gen.G",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest?cb=20210806133431"
+      },
+      "position": "Coach"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Anyone's Legend",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Anyone%27s_Legendlogo_std.png/revision/latest?cb=20211201163853"
+      },
+      "position": "Coach"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991499609483669982"
+    },
+    "player": {
+      "name": "1xn",
+      "url": "https://lol.fandom.com/wiki/1xn"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "ThunderTalk Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/ThunderTalk_Gaminglogo_std.png/revision/latest?cb=20201118104414"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Weibo Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991556385730097278"
+    },
+    "player": {
+      "name": "Meiko",
+      "url": "https://lol.fandom.com/wiki/Meiko"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Invictus Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Invictus Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991736235199774898"
+    },
+    "player": {
+      "name": "Assum",
+      "url": "https://lol.fandom.com/wiki/Assum"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "LNG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991736235199774898"
+    },
+    "player": {
+      "name": "haichao",
+      "url": "https://lol.fandom.com/wiki/Haichao"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "LNG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "ThunderTalk Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/ThunderTalk_Gaminglogo_std.png/revision/latest?cb=20201118104414"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991744819224596977"
+    },
+    "player": {
+      "name": "Shad0w",
+      "url": "https://lol.fandom.com/wiki/Shad0w"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Bilibili Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Bilibili Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991744819224596977"
+    },
+    "player": {
+      "name": "Croco",
+      "url": "https://lol.fandom.com/wiki/Croco"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "BRION",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/BRIONlogo_std.png/revision/latest?cb=20230518062824"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "LNG Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991744819224596977"
+    },
+    "player": {
+      "name": "HOYA",
+      "url": "https://lol.fandom.com/wiki/HOYA"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "ThunderTalk Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/ThunderTalk_Gaminglogo_std.png/revision/latest?cb=20201118104414"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Ninjas in Pyjamas.CN",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991744819224596977"
+    },
+    "player": {
+      "name": "Guwon",
+      "url": "https://lol.fandom.com/wiki/Guwon"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Ninjas in Pyjamas.CN",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/Ninjas_in_Pyjamas.CNlogo_std.png/revision/latest?cb=20230108121847"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991744819224596977"
+    },
+    "player": {
+      "name": "YoungJae",
+      "url": "https://lol.fandom.com/wiki/YoungJae"
+    },
+    "from": {
+      "region": "KR",
+      "team": {
+        "name": "KT Rolster",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest?cb=20210605165510"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Oh My God",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Oh_My_Godlogo_std.png/revision/latest?cb=20221226220406"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991744819224596977"
+    },
+    "player": {
+      "name": "sorrow",
+      "url": "https://lol.fandom.com/wiki/Sorrow_(Li_De-Ming)"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Bilibili Gaming Junior",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/Bilibili_Gaming_Juniorlogo_std.png/revision/latest?cb=20220208005355"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Ultra Prime",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/Ultra_Primelogo_std.png/revision/latest?cb=20210401173825"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1991744819224596977"
+    },
+    "player": {
+      "name": "Xiaoxia",
+      "url": "https://lol.fandom.com/wiki/Xiaoxia"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Ultra Prime",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/Ultra_Primelogo_std.png/revision/latest?cb=20210401173825"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Ultra Prime",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/Ultra_Primelogo_std.png/revision/latest?cb=20210401173825"
+      },
+      "position": "Support"
+    }
+  },
+  {
     "date": "2025-11-19",
     "status": "Rumor",
     "source": {
@@ -327,7 +831,7 @@
       "position": "Mid Laner"
     },
     "to": {
-      "region": "KR",
+      "region": "CN",
       "team": {
         "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
@@ -355,7 +859,7 @@
       "position": "Jungler"
     },
     "to": {
-      "region": "KR",
+      "region": "CN",
       "team": {
         "name": "JD Gaming",
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
@@ -2265,510 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
       },
       "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989573056940150965"
-    },
-    "player": {
-      "name": "1xn",
-      "url": "https://lol.fandom.com/wiki/1xn"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "ThunderTalk Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/ThunderTalk_Gaminglogo_std.png/revision/latest?cb=20201118104414"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989573056940150965"
-    },
-    "player": {
-      "name": "Maokai",
-      "url": "https://lol.fandom.com/wiki/Maokai_(Yang_Ji-Song)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989573056940150965"
-    },
-    "player": {
-      "name": "Parukia",
-      "url": "https://lol.fandom.com/wiki/Parukia"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989573056940150965"
-    },
-    "player": {
-      "name": "Angel",
-      "url": "https://lol.fandom.com/wiki/Angel_(Xiang_Tao)"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989573056940150965"
-    },
-    "player": {
-      "name": "Xiaohao",
-      "url": "https://lol.fandom.com/wiki/Xiaohao"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989573056940150965"
-    },
-    "player": {
-      "name": "Zdz",
-      "url": "https://lol.fandom.com/wiki/Zdz"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "EDward Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/EDward_Gaminglogo_std.png/revision/latest?cb=20211024133306"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Sheep Esports Brasil",
-      "url": "https://x.com/SheepEsportsBR/status/1989336889913184477"
-    },
-    "player": {
-      "name": "Enatron",
-      "url": "https://lol.fandom.com/wiki/Enatron"
-    },
-    "from": {
-      "region": "EMEA",
-      "team": {
-        "name": "Ici Japon Corp. Esport",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/Ici_Japon_Corp._Esportlogo_std.png/revision/latest?cb=20241006054335"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "BR",
-      "team": {
-        "name": "Los Grandes",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/Los_Grandeslogo_std.png/revision/latest?cb=20230608222225"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1989045752895561762"
-    },
-    "player": {
-      "name": "Goldenglue",
-      "url": "https://lol.fandom.com/wiki/Goldenglue"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "100 Thieves",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "NA",
-      "team": {
-        "name": "LYON (2024 American Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1989045752895561762"
-    },
-    "player": {
-      "name": "Zamudo",
-      "url": "https://lol.fandom.com/wiki/Zamudo"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "LYON (2024 American Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "NA",
-      "team": {
-        "name": "LYON (2024 American Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1989016680509440293"
-    },
-    "player": {
-      "name": "Isles",
-      "url": "https://lol.fandom.com/wiki/Isles"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Dignitas",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Dignitaslogo_std.png/revision/latest?cb=20230323083120"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "NA",
-      "team": {
-        "name": "LYON (2024 American Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988988618946539794"
-    },
-    "player": {
-      "name": "BuLLDoG",
-      "url": "https://lol.fandom.com/wiki/BuLLDoG_(Lee_Tae-young)"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "DN Freecs",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/DN_Freecslogo_std.png/revision/latest?cb=20241226151304"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "LNG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988994572123578843"
-    },
-    "player": {
-      "name": "Beichuan",
-      "url": "https://lol.fandom.com/wiki/Beichuan"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
-      },
-      "position": "Jungler"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "LNG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
-      },
-      "position": "Jungler"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988994572123578843"
-    },
-    "player": {
-      "name": "Edgar",
-      "url": "https://lol.fandom.com/wiki/Edgar"
-    },
-    "from": {
-      "region": "KR",
-      "team": {
-        "name": "Free Agent",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
-      },
-      "position": "Coach"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "LNG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
-      },
-      "position": "Coach"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988994572123578843"
-    },
-    "player": {
-      "name": "sheer",
-      "url": "https://lol.fandom.com/wiki/Sheer"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "FunPlus Phoenix",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/FunPlus_Phoenixlogo_std.png/revision/latest?cb=20210606224255"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "LNG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988994572123578843"
-    },
-    "player": {
-      "name": "Breathe",
-      "url": "https://lol.fandom.com/wiki/Breathe"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Weibo Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
-      },
-      "position": "Top Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "LNG Esports",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/LNG_Esportslogo_std.png/revision/latest?cb=20191218141430"
-      },
-      "position": "Top Laner"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988994572123578843"
-    },
-    "player": {
-      "name": "Meiko",
-      "url": "https://lol.fandom.com/wiki/Meiko"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Support"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "JD Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JD_Gaminglogo_std.png/revision/latest?cb=20230512084008"
-      },
-      "position": "Support"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988994572123578843"
-    },
-    "player": {
-      "name": "GALA",
-      "url": "https://lol.fandom.com/wiki/GALA"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Weibo Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Weibo_Gaminglogo_std.png/revision/latest?cb=20211117201809"
-      },
-      "position": "Bot Laner"
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1988994572123578843"
-    },
-    "player": {
-      "name": "GALA",
-      "url": "https://lol.fandom.com/wiki/GALA"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Bot Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Bot Laner"
     }
   }
 ]

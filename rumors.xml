@@ -4,13 +4,58 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 16:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 20:03:36 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 16:03:58 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 20:03:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[KR → CN] Diable: FearX → Invictus Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Diable">Diable</a> (Bot Laner)</p>
+<p>FearX → Invictus Gaming</p>
+<p>KR → CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1993192799714627844">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1993192799714627844</link>
+            <guid isPermaLink="false">2025-11-23-Diable-FearX-Invictus Gaming</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC → CN] Doggo: CTBC Flying Oyster → Invictus Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Doggo">Doggo</a> (Bot Laner)</p>
+<p>CTBC Flying Oyster → Invictus Gaming</p>
+<p>APAC → CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1993192799714627844">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1993192799714627844</link>
+            <guid isPermaLink="false">2025-11-23-Doggo-CTBC Flying Oyster-Invictus Gaming</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] haichao: LNG Esports → Oh My God]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Haichao">haichao</a> (Mid Laner)</p>
+<p>LNG Esports → Oh My God</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1993192799714627844">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1993192799714627844</link>
+            <guid isPermaLink="false">2025-11-23-haichao-LNG Esports-Oh My God</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR] Fuuu: Fluxo W7M → RED Academy]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -53,6 +98,36 @@
             <guid isPermaLink="false">2025-11-21-Mago-RED Academy-LOUD</guid>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[BR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] 1xn: ThunderTalk Gaming → LNG Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/1xn">1xn</a> (Bot Laner)</p>
+<p>ThunderTalk Gaming → LNG Esports</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991897542830014834">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991897542830014834</link>
+            <guid isPermaLink="false">2025-11-21-1xn-ThunderTalk Gaming-LNG Esports</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Assum: Free Agent → Ninjas in Pyjamas.CN]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Assum">Assum</a> (Bot Laner)</p>
+<p>Free Agent → Ninjas in Pyjamas.CN</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991897542830014834">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991897542830014834</link>
+            <guid isPermaLink="false">2025-11-21-Assum-Free Agent-Ninjas in Pyjamas.CN</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
         </item>
@@ -147,6 +222,201 @@
             <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[CN] Teacherma: We → Anyone's Legend]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Teacherma">Teacherma</a> (Head Coach → Coach)</p>
+<p>We → Anyone's Legend</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991499609483669982">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991499609483669982</link>
+            <guid isPermaLink="false">2025-11-20-Teacherma-We-Anyone&apos;s Legend</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → CN] Helper: Gen.G → Anyone's Legend]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Helper_(Kwon_Yeong-jae)">Helper</a> (Coach)</p>
+<p>Gen.G → Anyone's Legend</p>
+<p>KR → CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991499609483669982">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991499609483669982</link>
+            <guid isPermaLink="false">2025-11-20-Helper-Gen.G-Anyone&apos;s Legend</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] 1xn: ThunderTalk Gaming → Weibo Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/1xn">1xn</a> (Bot Laner)</p>
+<p>ThunderTalk Gaming → Weibo Gaming</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991499609483669982">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991499609483669982</link>
+            <guid isPermaLink="false">2025-11-20-1xn-ThunderTalk Gaming-Weibo Gaming</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Meiko: Invictus Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Meiko">Meiko</a> (Support)</p>
+<p>Invictus Gaming</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991556385730097278">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991556385730097278</link>
+            <guid isPermaLink="false">2025-11-20-Meiko-Invictus Gaming-Invictus Gaming</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Assum: Free Agent → LNG Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Assum">Assum</a> (Bot Laner)</p>
+<p>Free Agent → LNG Esports</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991736235199774898">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991736235199774898</link>
+            <guid isPermaLink="false">2025-11-20-Assum-Free Agent-LNG Esports</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] haichao: LNG Esports → ThunderTalk Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Haichao">haichao</a> (Mid Laner)</p>
+<p>LNG Esports → ThunderTalk Gaming</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991736235199774898">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991736235199774898</link>
+            <guid isPermaLink="false">2025-11-20-haichao-LNG Esports-ThunderTalk Gaming</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Shad0w: Bilibili Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Shad0w">Shad0w</a> (Jungler)</p>
+<p>Bilibili Gaming</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991744819224596977">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991744819224596977</link>
+            <guid isPermaLink="false">2025-11-20-Shad0w-Bilibili Gaming-Bilibili Gaming</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → CN] Croco: BRION → LNG Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Croco">Croco</a> (Jungler)</p>
+<p>BRION → LNG Esports</p>
+<p>KR → CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991744819224596977">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991744819224596977</link>
+            <guid isPermaLink="false">2025-11-20-Croco-BRION-LNG Esports</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] HOYA: ThunderTalk Gaming → Ninjas in Pyjamas.CN]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/HOYA">HOYA</a> (Top Laner)</p>
+<p>ThunderTalk Gaming → Ninjas in Pyjamas.CN</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991744819224596977">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991744819224596977</link>
+            <guid isPermaLink="false">2025-11-20-HOYA-ThunderTalk Gaming-Ninjas in Pyjamas.CN</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → CN] Guwon: Free Agent → Ninjas in Pyjamas.CN]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Guwon">Guwon</a> (Jungler)</p>
+<p>Free Agent → Ninjas in Pyjamas.CN</p>
+<p>KR → CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991744819224596977">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991744819224596977</link>
+            <guid isPermaLink="false">2025-11-20-Guwon-Free Agent-Ninjas in Pyjamas.CN</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → CN] YoungJae: KT Rolster → Oh My God]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/YoungJae">YoungJae</a> (Jungler)</p>
+<p>KT Rolster → Oh My God</p>
+<p>KR → CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991744819224596977">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991744819224596977</link>
+            <guid isPermaLink="false">2025-11-20-YoungJae-KT Rolster-Oh My God</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] sorrow: Bilibili Gaming Junior → Ultra Prime]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Sorrow_(Li_De-Ming)">sorrow</a> (Bot Laner)</p>
+<p>Bilibili Gaming Junior → Ultra Prime</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991744819224596977">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991744819224596977</link>
+            <guid isPermaLink="false">2025-11-20-sorrow-Bilibili Gaming Junior-Ultra Prime</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Xiaoxia: Ultra Prime]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Xiaoxia">Xiaoxia</a> (Support)</p>
+<p>Ultra Prime</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991744819224596977">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1991744819224596977</link>
+            <guid isPermaLink="false">2025-11-20-Xiaoxia-Ultra Prime-Ultra Prime</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[APAC] Chika: Vikings Esports (2023 Vietnamese Team) → CTBC Flying Oyster]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Chika">Chika</a> (Mid Laner)</p>
@@ -177,32 +447,32 @@
             <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC → KR] HongQ: CTBC Flying Oyster → JD Gaming]]></title>
+            <title><![CDATA[[APAC → CN] HongQ: CTBC Flying Oyster → JD Gaming]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/HongQ">HongQ</a> (Mid Laner)</p>
 <p>CTBC Flying Oyster → JD Gaming</p>
-<p>APAC → KR</p>
+<p>APAC → CN</p>
 <p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991059005280760186">Yuuu</a></p>
 ]]></description>
             <link>https://x.com/tttttyuc/status/1991059005280760186</link>
             <guid isPermaLink="false">2025-11-19-HongQ-CTBC Flying Oyster-JD Gaming</guid>
             <category><![CDATA[APAC]]></category>
-            <category><![CDATA[KR]]></category>
+            <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[APAC → KR] JunJia: CTBC Flying Oyster → JD Gaming]]></title>
+            <title><![CDATA[[APAC → CN] JunJia: CTBC Flying Oyster → JD Gaming]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/JunJia">JunJia</a> (Jungler)</p>
 <p>CTBC Flying Oyster → JD Gaming</p>
-<p>APAC → KR</p>
+<p>APAC → CN</p>
 <p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991059005280760186">Yuuu</a></p>
 ]]></description>
             <link>https://x.com/tttttyuc/status/1991059005280760186</link>
             <guid isPermaLink="false">2025-11-19-JunJia-CTBC Flying Oyster-JD Gaming</guid>
             <category><![CDATA[APAC]]></category>
-            <category><![CDATA[KR]]></category>
+            <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
         </item>
@@ -1225,276 +1495,6 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] 1xn: ThunderTalk Gaming → EDward Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/1xn">1xn</a> (Bot Laner)</p>
-<p>ThunderTalk Gaming → EDward Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989573056940150965">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989573056940150965</link>
-            <guid isPermaLink="false">2025-11-14-1xn-ThunderTalk Gaming-EDward Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Maokai: Free Agent → EDward Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Maokai_(Yang_Ji-Song)">Maokai</a> (Coach)</p>
-<p>Free Agent → EDward Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989573056940150965">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989573056940150965</link>
-            <guid isPermaLink="false">2025-11-14-Maokai-Free Agent-EDward Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Parukia: EDward Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Parukia">Parukia</a> (Support)</p>
-<p>EDward Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989573056940150965">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989573056940150965</link>
-            <guid isPermaLink="false">2025-11-14-Parukia-EDward Gaming-EDward Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Angel: EDward Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Angel_(Xiang_Tao)">Angel</a> (Mid Laner)</p>
-<p>EDward Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989573056940150965">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989573056940150965</link>
-            <guid isPermaLink="false">2025-11-14-Angel-EDward Gaming-EDward Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Xiaohao: EDward Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Xiaohao">Xiaohao</a> (Jungler)</p>
-<p>EDward Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989573056940150965">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989573056940150965</link>
-            <guid isPermaLink="false">2025-11-14-Xiaohao-EDward Gaming-EDward Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Zdz: EDward Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Zdz">Zdz</a> (Top Laner)</p>
-<p>EDward Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989573056940150965">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989573056940150965</link>
-            <guid isPermaLink="false">2025-11-14-Zdz-EDward Gaming-EDward Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA → BR] Enatron: Ici Japon Corp. Esport → Los Grandes]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Enatron">Enatron</a> (Head Coach)</p>
-<p>Ici Japon Corp. Esport → Los Grandes</p>
-<p>EMEA → BR</p>
-<p><strong>Source:</strong> <a href="https://x.com/SheepEsportsBR/status/1989336889913184477">Sheep Esports Brasil</a></p>
-]]></description>
-            <link>https://x.com/SheepEsportsBR/status/1989336889913184477</link>
-            <guid isPermaLink="false">2025-11-14-Enatron-Ici Japon Corp. Esport-Los Grandes</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[BR]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → NA] Goldenglue: 100 Thieves → LYON (2024 American Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Goldenglue">Goldenglue</a> (Head Coach)</p>
-<p>100 Thieves → LYON (2024 American Team)</p>
-<p>AME → NA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989045752895561762">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1989045752895561762</link>
-            <guid isPermaLink="false">2025-11-13-Goldenglue-100 Thieves-LYON (2024 American Team)</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → NA] Zamudo: LYON (2024 American Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Zamudo">Zamudo</a> (Top Laner)</p>
-<p>LYON (2024 American Team)</p>
-<p>AME → NA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989045752895561762">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1989045752895561762</link>
-            <guid isPermaLink="false">2025-11-13-Zamudo-LYON (2024 American Team)-LYON (2024 American Team)</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → NA] Isles: Dignitas → LYON (2024 American Team)]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Isles">Isles</a> (Support)</p>
-<p>Dignitas → LYON (2024 American Team)</p>
-<p>AME → NA</p>
-<p><strong>Source:</strong> <a href="https://x.com/extremopandista/status/1989016680509440293">Extremo "Humble" Pandista</a></p>
-]]></description>
-            <link>https://x.com/extremopandista/status/1989016680509440293</link>
-            <guid isPermaLink="false">2025-11-13-Isles-Dignitas-LYON (2024 American Team)</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → CN] BuLLDoG: DN Freecs → LNG Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/BuLLDoG_(Lee_Tae-young)">BuLLDoG</a> (Mid Laner)</p>
-<p>DN Freecs → LNG Esports</p>
-<p>KR → CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988988618946539794">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988988618946539794</link>
-            <guid isPermaLink="false">2025-11-13-BuLLDoG-DN Freecs-LNG Esports</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Beichuan: Bilibili Gaming → LNG Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Beichuan">Beichuan</a> (Jungler)</p>
-<p>Bilibili Gaming → LNG Esports</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988994572123578843">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988994572123578843</link>
-            <guid isPermaLink="false">2025-11-13-Beichuan-Bilibili Gaming-LNG Esports</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[KR → CN] Edgar: Free Agent → LNG Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Edgar">Edgar</a> (Coach)</p>
-<p>Free Agent → LNG Esports</p>
-<p>KR → CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988994572123578843">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988994572123578843</link>
-            <guid isPermaLink="false">2025-11-13-Edgar-Free Agent-LNG Esports</guid>
-            <category><![CDATA[KR]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] sheer: FunPlus Phoenix → LNG Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Sheer">sheer</a> (Top Laner)</p>
-<p>FunPlus Phoenix → LNG Esports</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988994572123578843">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988994572123578843</link>
-            <guid isPermaLink="false">2025-11-13-sheer-FunPlus Phoenix-LNG Esports</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Breathe: Weibo Gaming → LNG Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Breathe">Breathe</a> (Top Laner)</p>
-<p>Weibo Gaming → LNG Esports</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988994572123578843">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988994572123578843</link>
-            <guid isPermaLink="false">2025-11-13-Breathe-Weibo Gaming-LNG Esports</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Meiko: Invictus Gaming → JD Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Meiko">Meiko</a> (Support)</p>
-<p>Invictus Gaming → JD Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988994572123578843">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988994572123578843</link>
-            <guid isPermaLink="false">2025-11-13-Meiko-Invictus Gaming-JD Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] GALA: Invictus Gaming → Weibo Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/GALA">GALA</a> (Bot Laner)</p>
-<p>Invictus Gaming → Weibo Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988994572123578843">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988994572123578843</link>
-            <guid isPermaLink="false">2025-11-13-GALA-Invictus Gaming-Weibo Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] GALA: Invictus Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/GALA">GALA</a> (Bot Laner)</p>
-<p>Invictus Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1988994572123578843">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1988994572123578843</link>
-            <guid isPermaLink="false">2025-11-13-GALA-Invictus Gaming-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
