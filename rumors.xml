@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Nov 2025 04:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 08:04:34 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Nov 2025 04:04:45 GMT</pubDate>
+        <pubDate>Fri, 28 Nov 2025 08:04:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -20,11 +20,11 @@
 <p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1993192799714627844">Yuuu</a></p>
 ]]></description>
             <link>https://x.com/tttttyuc/status/1993192799714627844</link>
-            <guid isPermaLink="false">2025-11-23-Diable-FearX-Invictus Gaming</guid>
+            <guid isPermaLink="false">2025-11-24-Diable-FearX-Invictus Gaming</guid>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[APAC → CN] Doggo: CTBC Flying Oyster → Invictus Gaming]]></title>
@@ -35,11 +35,11 @@
 <p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1993192799714627844">Yuuu</a></p>
 ]]></description>
             <link>https://x.com/tttttyuc/status/1993192799714627844</link>
-            <guid isPermaLink="false">2025-11-23-Doggo-CTBC Flying Oyster-Invictus Gaming</guid>
+            <guid isPermaLink="false">2025-11-24-Doggo-CTBC Flying Oyster-Invictus Gaming</guid>
             <category><![CDATA[APAC]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[CN] haichao: LNG Esports → Oh My God]]></title>
@@ -50,7 +50,22 @@
 <p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1993192799714627844">Yuuu</a></p>
 ]]></description>
             <link>https://x.com/tttttyuc/status/1993192799714627844</link>
-            <guid isPermaLink="false">2025-11-23-haichao-LNG Esports-Oh My God</guid>
+            <guid isPermaLink="false">2025-11-24-haichao-LNG Esports-Oh My God</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[CN] Shad0w: Bilibili Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Shad0w">Shad0w</a> (Jungler)</p>
+<p>Bilibili Gaming</p>
+<p>CN</p>
+<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1992823675922665738">Yuuu</a></p>
+]]></description>
+            <link>https://x.com/tttttyuc/status/1992823675922665738</link>
+            <guid isPermaLink="false">2025-11-23-Shad0w-Bilibili Gaming-Bilibili Gaming</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -312,15 +327,15 @@
             <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[CN] Shad0w: Bilibili Gaming]]></title>
+            <title><![CDATA[[CN] Shad0w: Bilibili Gaming → Free Agent]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Shad0w">Shad0w</a> (Jungler)</p>
-<p>Bilibili Gaming</p>
+<p>Bilibili Gaming → Free Agent</p>
 <p>CN</p>
 <p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991744819224596977">Yuuu</a></p>
 ]]></description>
             <link>https://x.com/tttttyuc/status/1991744819224596977</link>
-            <guid isPermaLink="false">2025-11-20-Shad0w-Bilibili Gaming-Bilibili Gaming</guid>
+            <guid isPermaLink="false">2025-11-20-Shad0w-Bilibili Gaming-Free Agent</guid>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
@@ -1198,7 +1213,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] Peyz: JD Gaming → Free Agent]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Peyz">Peyz</a> (Bot Laner)</p>
 <p>JD Gaming → Free Agent</p>
 <p>CN</p>
@@ -1243,7 +1258,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] naiyou: Ninjas in Pyjamas.CN → Top Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Naiyou">naiyou</a> (Jungler)</p>
 <p>Ninjas in Pyjamas.CN → Top Esports</p>
 <p>CN</p>
@@ -1258,7 +1273,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] JiaQi: FunPlus Phoenix → Top Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/JiaQi">JiaQi</a> (Bot Laner)</p>
 <p>FunPlus Phoenix → Top Esports</p>
 <p>CN</p>
@@ -1478,21 +1493,6 @@
             <guid isPermaLink="false">2025-11-14-Goldenglue-100 Thieves-Sentinels</guid>
             <category><![CDATA[AME]]></category>
             <category><![CDATA[NA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Rookie: Invictus Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Rookie">Rookie</a> (Mid Laner)</p>
-<p>Invictus Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989385817828307449">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989385817828307449</link>
-            <guid isPermaLink="false">2025-11-14-Rookie-Invictus Gaming-Invictus Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
         </item>

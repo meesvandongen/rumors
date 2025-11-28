@@ -1,6 +1,6 @@
 [
   {
-    "date": "2025-11-23",
+    "date": "2025-11-24",
     "status": "Rumor",
     "source": {
       "name": "Yuuu",
@@ -28,7 +28,7 @@
     }
   },
   {
-    "date": "2025-11-23",
+    "date": "2025-11-24",
     "status": "Rumor",
     "source": {
       "name": "Yuuu",
@@ -56,7 +56,7 @@
     }
   },
   {
-    "date": "2025-11-23",
+    "date": "2025-11-24",
     "status": "Rumor",
     "source": {
       "name": "Yuuu",
@@ -81,6 +81,34 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Oh_My_Godlogo_std.png/revision/latest?cb=20221226220406"
       },
       "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-23",
+    "status": "Rumor",
+    "source": {
+      "name": "Yuuu",
+      "url": "https://x.com/tttttyuc/status/1992823675922665738"
+    },
+    "player": {
+      "name": "Shad0w",
+      "url": "https://lol.fandom.com/wiki/Shad0w"
+    },
+    "from": {
+      "region": "CN",
+      "team": {
+        "name": "Bilibili Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "CN",
+      "team": {
+        "name": "Bilibili Gaming",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+      },
+      "position": "Jungler"
     }
   },
   {
@@ -581,8 +609,8 @@
     "to": {
       "region": "CN",
       "team": {
-        "name": "Bilibili Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Bilibili_Gaminglogo_std.png/revision/latest?cb=20230509103957"
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
       },
       "position": "Jungler"
     }
@@ -2213,7 +2241,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990089929724953005"
@@ -2297,7 +2325,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990232482533491036"
@@ -2325,7 +2353,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990232482533491036"
@@ -2741,34 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sentinelslogo_std.png/revision/latest?cb=20251010181137"
       },
       "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Yuuu",
-      "url": "https://x.com/tttttyuc/status/1989385817828307449"
-    },
-    "player": {
-      "name": "Rookie",
-      "url": "https://lol.fandom.com/wiki/Rookie"
-    },
-    "from": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "CN",
-      "team": {
-        "name": "Invictus Gaming",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Invictus_Gaminglogo_std.png/revision/latest?cb=20210318223733"
-      },
-      "position": "Mid Laner"
     }
   }
 ]
