@@ -1,5 +1,145 @@
 [
   {
+    "date": "2025-12-07",
+    "status": "Rumor",
+    "source": {
+      "name": "Showtana",
+      "url": "https://x.com/luisshowtana/status/1997661531220091223"
+    },
+    "player": {
+      "name": "Ceo",
+      "url": "https://lol.fandom.com/wiki/Ceo"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Leviatan",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
+      },
+      "position": "Bot Laner"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "Leviatan",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
+      },
+      "position": "Bot Laner"
+    }
+  },
+  {
+    "date": "2025-12-07",
+    "status": "Rumor",
+    "source": {
+      "name": "Showtana",
+      "url": "https://x.com/luisshowtana/status/1997661531220091223"
+    },
+    "player": {
+      "name": "Booki",
+      "url": "https://lol.fandom.com/wiki/Booki"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Fuego",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/56/Fuegologo_std.png/revision/latest?cb=20230509222900"
+      },
+      "position": "Jungler"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "Leviatan",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
+      },
+      "position": "Jungler"
+    }
+  },
+  {
+    "date": "2025-12-07",
+    "status": "Rumor",
+    "source": {
+      "name": "Showtana",
+      "url": "https://x.com/luisshowtana/status/1997661531220091223"
+    },
+    "player": {
+      "name": "Telas",
+      "url": "https://lol.fandom.com/wiki/Telas"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Alpha7 Esports",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Alpha7_Esportslogo_std.png/revision/latest?cb=20250624023405"
+      },
+      "position": "Support"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "Leviatan",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
+      },
+      "position": "Support"
+    }
+  },
+  {
+    "date": "2025-12-07",
+    "status": "Rumor",
+    "source": {
+      "name": "Showtana",
+      "url": "https://x.com/luisshowtana/status/1997661531220091223"
+    },
+    "player": {
+      "name": "Pilot",
+      "url": "https://lol.fandom.com/wiki/Pilot_(Elvis_Vergara)"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "Free Agent",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/Free_Agentlogo_std.png/revision/latest?cb=20210521233517"
+      },
+      "position": "Mid Laner"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "Leviatan",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Leviatanlogo_std.png/revision/latest?cb=20230406020301"
+      },
+      "position": "Mid Laner"
+    }
+  },
+  {
+    "date": "2025-11-29",
+    "status": "Rumor",
+    "source": {
+      "name": "Showtana",
+      "url": "https://www.sheepesports.com/en/articles/fontes-pain-tem-negociacoes-avancadas-pela-contratacao-de-robo/pt"
+    },
+    "player": {
+      "name": "Robo",
+      "url": "https://lol.fandom.com/wiki/Robo"
+    },
+    "from": {
+      "region": "BR",
+      "team": {
+        "name": "LOUD",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/LOUDlogo_std.png/revision/latest?cb=20201002162300"
+      },
+      "position": "Top Laner"
+    },
+    "to": {
+      "region": "BR",
+      "team": {
+        "name": "Pain",
+        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Painlogo_std.png/revision/latest?cb=20210521134807"
+      },
+      "position": "Top Laner"
+    }
+  },
+  {
     "date": "2025-11-24",
     "status": "Rumor",
     "source": {
@@ -337,7 +477,7 @@
   },
   {
     "date": "2025-11-20",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Extremo \"Humble\" Pandista",
       "url": "https://x.com/extremopandista/status/1991545279498358959"
@@ -841,7 +981,7 @@
   },
   {
     "date": "2025-11-19",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1991059005280760186"
@@ -869,7 +1009,7 @@
   },
   {
     "date": "2025-11-19",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1991059005280760186"
@@ -1149,7 +1289,7 @@
   },
   {
     "date": "2025-11-18",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990739643176722620"
@@ -1177,7 +1317,7 @@
   },
   {
     "date": "2025-11-18",
-    "status": "Rumor",
+    "status": "Disproven",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990739643176722620"
@@ -1513,7 +1653,7 @@
   },
   {
     "date": "2025-11-17",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/en/articles/sources-josedeodo-set-to-join-team-liquid-in-the-lcs/en"
@@ -1569,7 +1709,7 @@
   },
   {
     "date": "2025-11-17",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990463608653033848"
@@ -1597,7 +1737,7 @@
   },
   {
     "date": "2025-11-17",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990590254680871380"
@@ -1653,7 +1793,7 @@
   },
   {
     "date": "2025-11-17",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990665550251614218"
@@ -1709,7 +1849,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/en/articles/sources-zinie-set-to-join-shopify-rebellion-in-the-lcs/en"
@@ -1737,7 +1877,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Alejandro \"Anonimotum\" Gomis",
       "url": "https://www.sheepesports.com/en/articles/sources-darkwings-set-to-join-sentinels-in-lcs/en"
@@ -1765,7 +1905,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/en/articles/sources-rahel-set-to-join-sentinels-in-lcs/en"
@@ -1793,7 +1933,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/en/articles/sources-rahel-set-to-join-sentinels-in-lcs/en"
@@ -1821,7 +1961,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Alejandro \"Anonimotum\" Gomis",
       "url": "https://www.sheepesports.com/en/articles/sources-castle-set-to-re-sign-with-disguised/en"
@@ -1905,7 +2045,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Alejandro \"Anonimotum\" Gomis",
       "url": "https://www.sheepesports.com/en/articles/sources-zamudo-set-to-come-back-to-lyon/en"
@@ -1961,7 +2101,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/en/articles/sources-yamatocannon-set-to-join-los-ratones-as-head-coach/en"
@@ -1989,7 +2129,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Brieuc \"LEC Wooloo\" Seeger",
       "url": "https://www.sheepesports.com/en/articles/sources-shaves-set-to-join-los-ratones-as-assistant-coach/en"
@@ -2269,7 +2409,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990232482533491036"
@@ -2409,7 +2549,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Disproven",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990266207635943724"
@@ -2437,7 +2577,7 @@
   },
   {
     "date": "2025-11-16",
-    "status": "Rumor",
+    "status": "Confirmed!",
     "source": {
       "name": "Yuuu",
       "url": "https://x.com/tttttyuc/status/1990266207635943724"
@@ -2629,146 +2769,6 @@
         "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Team_Vitalitylogo_std.png/revision/latest?cb=20230224185634"
       },
       "position": "Support"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "LCS Eevee",
-      "url": "https://www.sheepesports.com/en/articles/sources-apa-set-to-join-cloud9-following-loki-s-departure/en"
-    },
-    "player": {
-      "name": "APA",
-      "url": "https://lol.fandom.com/wiki/APA_(Eain_Stearns)"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Team Liquid",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
-      },
-      "position": "Mid Laner"
-    },
-    "to": {
-      "region": "NA",
-      "team": {
-        "name": "Cloud9",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Cloud9logo_std.png/revision/latest?cb=20230426052612"
-      },
-      "position": "Mid Laner"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1989459347332837480"
-    },
-    "player": {
-      "name": "Mithy",
-      "url": "https://lol.fandom.com/wiki/Mithy"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "FlyQuest",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
-      },
-      "position": "Assistant Coach"
-    },
-    "to": {
-      "region": "NA",
-      "team": {
-        "name": "LYON (2024 American Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Assistant Coach"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1989459347332837480"
-    },
-    "player": {
-      "name": "Mithy",
-      "url": "https://lol.fandom.com/wiki/Mithy"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "FlyQuest",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FlyQuestlogo_std.png/revision/latest?cb=20210525212818"
-      },
-      "position": "Assistant Coach"
-    },
-    "to": {
-      "region": "EMEA",
-      "team": {
-        "name": "Movistar KOI",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Movistar_KOIlogo_std.png/revision/latest?cb=20240528162757"
-      },
-      "position": "Assistant Coach"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1989395550429737397"
-    },
-    "player": {
-      "name": "Reignover",
-      "url": "https://lol.fandom.com/wiki/Reignover"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "Team Liquid",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Liquidlogo_std.png/revision/latest?cb=20230327193244"
-      },
-      "position": "Strategic Coach"
-    },
-    "to": {
-      "region": "NA",
-      "team": {
-        "name": "LYON (2024 American Team)",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/LYON_%282024_American_Team%29logo_std.png/revision/latest?cb=20250109184845"
-      },
-      "position": "Head Coach"
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "status": "Rumor",
-    "source": {
-      "name": "Extremo \"Humble\" Pandista",
-      "url": "https://x.com/extremopandista/status/1989430167391830227"
-    },
-    "player": {
-      "name": "Goldenglue",
-      "url": "https://lol.fandom.com/wiki/Goldenglue"
-    },
-    "from": {
-      "region": "AME",
-      "team": {
-        "name": "100 Thieves",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/100_Thieveslogo_std.png/revision/latest?cb=20210912202416"
-      },
-      "position": "Head Coach"
-    },
-    "to": {
-      "region": "NA",
-      "team": {
-        "name": "Sentinels",
-        "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sentinelslogo_std.png/revision/latest?cb=20251010181137"
-      },
-      "position": "Head Coach"
     }
   }
 ]
