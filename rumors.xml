@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Jan 2026 08:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jan 2026 12:05:12 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Jan 2026 08:03:58 GMT</pubDate>
+        <pubDate>Sun, 04 Jan 2026 12:05:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -118,7 +118,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] haichao: LNG Esports → Oh My God]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Haichao">haichao</a> (Mid Laner)</p>
 <p>LNG Esports → Oh My God</p>
 <p>CN</p>
@@ -208,7 +208,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] Assum: Free Agent → Ninjas in Pyjamas.CN]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Assum">Assum</a> (Bot Laner)</p>
 <p>Free Agent → Ninjas in Pyjamas.CN</p>
 <p>CN</p>
@@ -313,7 +313,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] Teacherma: We → Anyone's Legend]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Teacherma">Teacherma</a> (Head Coach → Coach)</p>
 <p>We → Anyone's Legend</p>
 <p>CN</p>
@@ -328,7 +328,7 @@
         </item>
         <item>
             <title><![CDATA[[KR → CN] Helper: Gen.G → Anyone's Legend]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Helper_(Kwon_Yeong-jae)">Helper</a> (Coach)</p>
 <p>Gen.G → Anyone's Legend</p>
 <p>KR → CN</p>
@@ -343,7 +343,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] 1xn: ThunderTalk Gaming → Weibo Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Disproven</p>
 <p><a href="https://lol.fandom.com/wiki/1xn">1xn</a> (Bot Laner)</p>
 <p>ThunderTalk Gaming → Weibo Gaming</p>
 <p>CN</p>
@@ -358,7 +358,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] Meiko: Invictus Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Meiko">Meiko</a> (Support)</p>
 <p>Invictus Gaming</p>
 <p>CN</p>
@@ -373,7 +373,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] Assum: Free Agent → LNG Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Assum">Assum</a> (Bot Laner)</p>
 <p>Free Agent → LNG Esports</p>
 <p>CN</p>
@@ -388,7 +388,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] haichao: LNG Esports → ThunderTalk Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Disproven</p>
 <p><a href="https://lol.fandom.com/wiki/Haichao">haichao</a> (Mid Laner)</p>
 <p>LNG Esports → ThunderTalk Gaming</p>
 <p>CN</p>
@@ -418,7 +418,7 @@
         </item>
         <item>
             <title><![CDATA[[KR → CN] Croco: BRION → LNG Esports]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Croco">Croco</a> (Jungler)</p>
 <p>BRION → LNG Esports</p>
 <p>KR → CN</p>
@@ -433,7 +433,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] HOYA: ThunderTalk Gaming → Ninjas in Pyjamas.CN]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/HOYA">HOYA</a> (Top Laner)</p>
 <p>ThunderTalk Gaming → Ninjas in Pyjamas.CN</p>
 <p>CN</p>
@@ -448,7 +448,7 @@
         </item>
         <item>
             <title><![CDATA[[KR → CN] Guwon: Free Agent → Ninjas in Pyjamas.CN]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Guwon">Guwon</a> (Jungler)</p>
 <p>Free Agent → Ninjas in Pyjamas.CN</p>
 <p>KR → CN</p>
@@ -463,7 +463,7 @@
         </item>
         <item>
             <title><![CDATA[[KR → CN] YoungJae: KT Rolster → Oh My God]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Disproven</p>
 <p><a href="https://lol.fandom.com/wiki/YoungJae">YoungJae</a> (Jungler)</p>
 <p>KT Rolster → Oh My God</p>
 <p>KR → CN</p>
@@ -479,7 +479,7 @@
         <item>
             <title><![CDATA[[CN] sorrow: Bilibili Gaming Junior → Ultra Prime]]></title>
             <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Sorrow_(Li_De-Ming)">sorrow</a> (Bot Laner)</p>
+<p><a href="https://lol.fandom.com/wiki/Sorrow_(Li_De-Ming)">sorrow</a> (Jungler)</p>
 <p>Bilibili Gaming Junior → Ultra Prime</p>
 <p>CN</p>
 <p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1991744819224596977">Yuuu</a></p>
@@ -1273,7 +1273,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] Karis: We]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Karis">Karis</a> (Mid Laner)</p>
 <p>We</p>
 <p>CN</p>
@@ -1363,7 +1363,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] Junhao: Ultra Prime → ThunderTalk Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Junhao">Junhao</a> (Jungler)</p>
 <p>Ultra Prime → ThunderTalk Gaming</p>
 <p>CN</p>
@@ -1438,7 +1438,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] Xun: JD Gaming → Free Agent]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Xun">Xun</a> (Jungler)</p>
 <p>JD Gaming → Free Agent</p>
 <p>CN</p>
@@ -1453,7 +1453,7 @@
         </item>
         <item>
             <title><![CDATA[[CN] Creme: Top Esports → JD Gaming]]></title>
-            <description><![CDATA[<p>Rumor</p>
+            <description><![CDATA[<p>Disproven</p>
 <p><a href="https://lol.fandom.com/wiki/Creme">Creme</a> (Mid Laner)</p>
 <p>Top Esports → JD Gaming</p>
 <p>CN</p>
