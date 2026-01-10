@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Jan 2026 12:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 16:03:36 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Jan 2026 12:05:03 GMT</pubDate>
+        <pubDate>Sat, 10 Jan 2026 16:03:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -1467,15 +1467,15 @@
             <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA → NA] Yukino: Karmine Corp → FlyQuest]]></title>
+            <title><![CDATA[[EMEA → NA] Yukino: Karmine Corp Blue → FlyQuest]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Yukino">Yukino</a> (Jungler)</p>
-<p>Karmine Corp → FlyQuest</p>
+<p>Karmine Corp Blue → FlyQuest</p>
 <p>EMEA → NA</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/lol-yukino-declines-flyquest-offer-to-stay-with-karmine-corp-blue/en">Brieuc "Lec Wooloo" Seeger</a></p>
 ]]></description>
             <link>https://www.sheepesports.com/en/articles/lol-yukino-declines-flyquest-offer-to-stay-with-karmine-corp-blue/en</link>
-            <guid isPermaLink="false">2025-11-14-Yukino-Karmine Corp-FlyQuest</guid>
+            <guid isPermaLink="false">2025-11-14-Yukino-Karmine Corp Blue-FlyQuest</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[NA]]></category>
             <category><![CDATA[Roster Changes]]></category>
