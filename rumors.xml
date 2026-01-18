@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jan 2026 20:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jan 2026 00:15:56 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Jan 2026 20:03:23 GMT</pubDate>
+        <pubDate>Sun, 18 Jan 2026 00:15:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -162,15 +162,15 @@
             <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[EMEA → BR] Zest: Bushido Wildcats → Los Grandes]]></title>
+            <title><![CDATA[[EMEA → BR] Zest: Bushido Wildcats → LØS]]></title>
             <description><![CDATA[<p>Rumor</p>
 <p><a href="https://lol.fandom.com/wiki/Zest_(Kim_Dong-min)">Zest</a> (Top Laner)</p>
-<p>Bushido Wildcats → Los Grandes</p>
+<p>Bushido Wildcats → LØS</p>
 <p>EMEA → BR</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-zest-set-to-join-los-in-circuito-desafiante/pt">Brieuc "LEC Wooloo" Seeger</a></p>
 ]]></description>
             <link>https://www.sheepesports.com/en/articles/sources-zest-set-to-join-los-in-circuito-desafiante/pt</link>
-            <guid isPermaLink="false">2025-11-21-Zest-Bushido Wildcats-Los Grandes</guid>
+            <guid isPermaLink="false">2025-11-21-Zest-Bushido Wildcats-LØS</guid>
             <category><![CDATA[EMEA]]></category>
             <category><![CDATA[BR]]></category>
             <category><![CDATA[Roster Changes]]></category>
