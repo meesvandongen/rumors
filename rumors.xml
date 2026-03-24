@@ -4,9 +4,9 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 08:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 20:14:01 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 08:06:49 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:14:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
@@ -282,15 +282,15 @@
             <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[KR] Fisher: Nongshim RedForce → BRION]]></title>
+            <title><![CDATA[[KR] Fisher: Nongshim Esports Academy → BRION]]></title>
             <description><![CDATA[<p>Confirmed!</p>
 <p><a href="https://lol.fandom.com/wiki/Fisher_(Lee_Jeong-tae)">Fisher</a> (Mid Laner)</p>
-<p>Nongshim RedForce → BRION</p>
+<p>Nongshim Esports Academy → BRION</p>
 <p>KR</p>
 <p><strong>Source:</strong> <a href="https://www.sheepesports.com/es/articles/sources-fisher-set-to-join-oksavingsbank-brion/en">Brieuc "LEC Wooloo" Seeger</a></p>
 ]]></description>
             <link>https://www.sheepesports.com/es/articles/sources-fisher-set-to-join-oksavingsbank-brion/en</link>
-            <guid isPermaLink="false">2025-11-20-Fisher-Nongshim RedForce-BRION</guid>
+            <guid isPermaLink="false">2025-11-20-Fisher-Nongshim Esports Academy-BRION</guid>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[KR]]></category>
             <category><![CDATA[Roster Changes]]></category>
