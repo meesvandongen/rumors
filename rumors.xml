@@ -4,13 +4,148 @@
         <description><![CDATA[Latest League of Legends roster rumors from all regions]]></description>
         <link>https://lol.fandom.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 10:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 17:39:31 GMT</lastBuildDate>
         <atom:link href="https://lol.fandom.com/Special:RunQuery/RosterRumorQuery?RRQ%5Blimit%5D=100&amp;RRQ%5Bwhere%5D=1=1&amp;_run=" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 10:31:20 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 17:39:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <category><![CDATA[League of Legends]]></category>
         <category><![CDATA[Esports]]></category>
         <category><![CDATA[Roster Changes]]></category>
+        <item>
+            <title><![CDATA[[CN → EMEA] Soboro: Invictus Gaming → Fnatic]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Soboro">Soboro</a> (Top Laner)</p>
+<p>Invictus Gaming → Fnatic</p>
+<p>CN → EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/all/articles/sources-soboro-set-to-join-fnatic-ahead-of-lec-summer-split-2026/en">Alejandro "Anonimotum" Gomis</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/all/articles/sources-soboro-set-to-join-fnatic-ahead-of-lec-summer-split-2026/en</link>
+            <guid isPermaLink="false">2026-06-29-Soboro-Invictus Gaming-Fnatic</guid>
+            <category><![CDATA[CN]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[KR → EMEA] FIESTA: FearX → Team Vitality]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/FIESTA_(An_Hyeon-seo)">FIESTA</a> (Mid Laner)</p>
+<p>FearX → Team Vitality</p>
+<p>KR → EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/all/articles/sources-fiesta-set-to-join-team-vitality-in-the-lec/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/all/articles/sources-fiesta-set-to-join-team-vitality-in-the-lec/en</link>
+            <guid isPermaLink="false">2026-06-26-FIESTA-FearX-Team Vitality</guid>
+            <category><![CDATA[KR]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA → BR] Bwipo: FearX → Estral Esports]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Bwipo">Bwipo</a> (Jungler → Top Laner)</p>
+<p>FearX → Estral Esports</p>
+<p>EMEA → BR</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/all/articles/sources-bwipo-set-to-join-estral-esports-as-toplaner/en">Showtana</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/all/articles/sources-bwipo-set-to-join-estral-esports-as-toplaner/en</link>
+            <guid isPermaLink="false">2026-06-25-Bwipo-FearX-Estral Esports</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[NA] Tactical: Conviction → Cloud9]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Tactical">Tactical</a> (Bot Laner)</p>
+<p>Conviction → Cloud9</p>
+<p>NA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/all/articles/sources-cloud9-signs-tactical-to-a-six-man-roster/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/all/articles/sources-cloud9-signs-tactical-to-a-six-man-roster/en</link>
+            <guid isPermaLink="false">2026-06-24-Tactical-Conviction-Cloud9</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[BR → APAC] Kaiwing: Vivo Keyd Stars → Ground Zero Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Kaiwing">Kaiwing</a> (Support)</p>
+<p>Vivo Keyd Stars → Ground Zero Gaming</p>
+<p>BR → APAC</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/all/articles/sources-betty-and-kaiwing-set-to-join-ground-zero-gaming-in-lcp/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/all/articles/sources-betty-and-kaiwing-set-to-join-ground-zero-gaming-in-lcp/en</link>
+            <guid isPermaLink="false">2026-06-22-Kaiwing-Vivo Keyd Stars-Ground Zero Gaming</guid>
+            <category><![CDATA[BR]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[APAC] Betty: Free Agent → Ground Zero Gaming]]></title>
+            <description><![CDATA[<p>Rumor</p>
+<p><a href="https://lol.fandom.com/wiki/Betty">Betty</a> (Bot Laner)</p>
+<p>Free Agent → Ground Zero Gaming</p>
+<p>APAC</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/all/articles/sources-betty-and-kaiwing-set-to-join-ground-zero-gaming-in-lcp/en">Brieuc "LEC Wooloo" Seeger</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/all/articles/sources-betty-and-kaiwing-set-to-join-ground-zero-gaming-in-lcp/en</link>
+            <guid isPermaLink="false">2026-06-22-Betty-Free Agent-Ground Zero Gaming</guid>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[APAC]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Oscarinin: Free Agent → GIANTX]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Oscarinin">Oscarinin</a> (Top Laner)</p>
+<p>Free Agent → GIANTX</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/all/articles/sources-oscarinin-set-to-join-giantx-in-summer/en">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/all/articles/sources-oscarinin-set-to-join-giantx-in-summer/en</link>
+            <guid isPermaLink="false">2026-06-22-Oscarinin-Free Agent-GIANTX</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[EMEA] Flakked: GIANTX]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Flakked">Flakked</a> (Bot Laner)</p>
+<p>GIANTX</p>
+<p>EMEA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/all/articles/sources-giantx-set-to-promote-flakked-to-their-lec-roster/en">Marian "Eros" Stoica</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/all/articles/sources-giantx-set-to-promote-flakked-to-their-lec-roster/en</link>
+            <guid isPermaLink="false">2026-06-22-Flakked-GIANTX-GIANTX</guid>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[EMEA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[NA] Zeyzal: Free Agent → Shopify Rebellion]]></title>
+            <description><![CDATA[<p>Confirmed!</p>
+<p><a href="https://lol.fandom.com/wiki/Zeyzal">Zeyzal</a> (Support)</p>
+<p>Free Agent → Shopify Rebellion</p>
+<p>NA</p>
+<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/all/articles/sources-zeyzal-returns-to-shopify-rebellion-for-the-2026-lcs-summer-split/en">Sander "LCS Eevee" Hove</a></p>
+]]></description>
+            <link>https://www.sheepesports.com/en/all/articles/sources-zeyzal-returns-to-shopify-rebellion-for-the-2026-lcs-summer-split/en</link>
+            <guid isPermaLink="false">2026-06-21-Zeyzal-Free Agent-Shopify Rebellion</guid>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[NA]]></category>
+            <category><![CDATA[Roster Changes]]></category>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[BR] Ceo: Leviatan]]></title>
             <description><![CDATA[<p>Rumor</p>
@@ -1360,141 +1495,6 @@
             <category><![CDATA[CN]]></category>
             <category><![CDATA[Roster Changes]]></category>
             <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Junhao: Ultra Prime → ThunderTalk Gaming]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Junhao">Junhao</a> (Jungler)</p>
-<p>Ultra Prime → ThunderTalk Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990232482533491036">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1990232482533491036</link>
-            <guid isPermaLink="false">2025-11-16-Junhao-Ultra Prime-ThunderTalk Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Jiejie: FunPlus Phoenix → JD Gaming]]></title>
-            <description><![CDATA[<p>Disproven</p>
-<p><a href="https://lol.fandom.com/wiki/Jiejie">Jiejie</a> (Jungler)</p>
-<p>FunPlus Phoenix → JD Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990266207635943724">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1990266207635943724</link>
-            <guid isPermaLink="false">2025-11-16-Jiejie-FunPlus Phoenix-JD Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Jiejie: FunPlus Phoenix → Weibo Gaming]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Jiejie">Jiejie</a> (Jungler)</p>
-<p>FunPlus Phoenix → Weibo Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1990266207635943724">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1990266207635943724</link>
-            <guid isPermaLink="false">2025-11-16-Jiejie-FunPlus Phoenix-Weibo Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → NA] Gryffinn: LOUD → FlyQuest]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Gryffinn">Gryffinn</a> (Jungler)</p>
-<p>LOUD → FlyQuest</p>
-<p>AME → NA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-gryffinn-set-to-join-flyquest-in-lcs/en">Brieuc "LEC Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-gryffinn-set-to-join-flyquest-in-lcs/en</link>
-            <guid isPermaLink="false">2025-11-15-Gryffinn-LOUD-FlyQuest</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AME → NA] Gakgos: FlyQuest]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Gakgos">Gakgos</a> (Top Laner)</p>
-<p>FlyQuest</p>
-<p>AME → NA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-gakgos-will-remain-part-of-the-flyquest-lcs-roster-for-2026/en">LCS Eevee</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-gakgos-will-remain-part-of-the-flyquest-lcs-roster-for-2026/en</link>
-            <guid isPermaLink="false">2025-11-15-Gakgos-FlyQuest-FlyQuest</guid>
-            <category><![CDATA[AME]]></category>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Xun: JD Gaming → Free Agent]]></title>
-            <description><![CDATA[<p>Confirmed!</p>
-<p><a href="https://lol.fandom.com/wiki/Xun">Xun</a> (Jungler)</p>
-<p>JD Gaming → Free Agent</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989721176915267895">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989721176915267895</link>
-            <guid isPermaLink="false">2025-11-15-Xun-JD Gaming-Free Agent</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[CN] Creme: Top Esports → JD Gaming]]></title>
-            <description><![CDATA[<p>Disproven</p>
-<p><a href="https://lol.fandom.com/wiki/Creme">Creme</a> (Mid Laner)</p>
-<p>Top Esports → JD Gaming</p>
-<p>CN</p>
-<p><strong>Source:</strong> <a href="https://x.com/tttttyuc/status/1989908985370349934">Yuuu</a></p>
-]]></description>
-            <link>https://x.com/tttttyuc/status/1989908985370349934</link>
-            <guid isPermaLink="false">2025-11-15-Creme-Top Esports-JD Gaming</guid>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[CN]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA → NA] Yukino: Karmine Corp → FlyQuest]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Yukino">Yukino</a> (Jungler)</p>
-<p>Karmine Corp → FlyQuest</p>
-<p>EMEA → NA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/lol-yukino-declines-flyquest-offer-to-stay-with-karmine-corp-blue/en">Brieuc "Lec Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/lol-yukino-declines-flyquest-offer-to-stay-with-karmine-corp-blue/en</link>
-            <guid isPermaLink="false">2025-11-14-Yukino-Karmine Corp-FlyQuest</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[NA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[EMEA] Dekap: Team Vitality]]></title>
-            <description><![CDATA[<p>Rumor</p>
-<p><a href="https://lol.fandom.com/wiki/Dekap">Dekap</a> (Support)</p>
-<p>Team Vitality</p>
-<p>EMEA</p>
-<p><strong>Source:</strong> <a href="https://www.sheepesports.com/en/articles/sources-dekap-remains-with-vitality-bee-in-the-lfl/en">Brieuc "Lec Wooloo" Seeger</a></p>
-]]></description>
-            <link>https://www.sheepesports.com/en/articles/sources-dekap-remains-with-vitality-bee-in-the-lfl/en</link>
-            <guid isPermaLink="false">2025-11-14-Dekap-Team Vitality-Team Vitality</guid>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[EMEA]]></category>
-            <category><![CDATA[Roster Changes]]></category>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
