@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@types/rss": "^0.0.32",
-    "node-html-parser": "^6.1.13",
+    "node-html-parser": "^9.0.0",
     "rss": "^1.2.2"
   }
 }
