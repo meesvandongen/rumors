@@ -22,14 +22,22 @@ Automatically generates an RSS feed of League of Legends roster rumors from all 
 
 ## Development
 
+Requires Node.js 22.18+ and pnpm (enable it with `corepack enable`).
+
 1. Install dependencies:
 ```bash
-bun install
+pnpm install
 ```
 
 2. Run the script:
 ```bash
-bun run start
+pnpm start
+```
+
+3. Lint and typecheck:
+```bash
+pnpm run lint
+pnpm run typecheck
 ```
 
 ## GitHub Actions

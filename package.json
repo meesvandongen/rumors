@@ -4,17 +4,19 @@
   "description": "League of Legends EMEA roster rumors RSS feed generator",
   "type": "module",
   "scripts": {
-    "start": "TZ=UTC bun run index.ts"
-  },
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
+    "start": "TZ=UTC vpx index.ts",
+    "typecheck": "tsc --noEmit",
+    "lint": "vp lint"
   },
   "dependencies": {
     "@types/rss": "^0.0.32",
     "node-html-parser": "^6.1.13",
     "rss": "^1.2.2"
-  }
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "typescript": "^5.9.3",
+    "vite-plus": "catalog:"
+  },
+  "packageManager": "pnpm@12.15.0+sha512.b3951d6d6ff4a9f13dc7cf56cd28d2b8eb37dbcc9c68e52e1e1191873ea9f82a017287ab50baadc5ccc494f036c67c0e47eb13608c2fa36f47711b61ea128e61"
 }
